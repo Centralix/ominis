@@ -1,0 +1,3007 @@
+# Item 232 : révision clinique fondée sur la fiche fournie.
+# 150 questions : 120 QCM et 30 QRU ; 105 rang A et 45 rang B pédagogiques.
+# Les rangs ne constituent pas une certification du référentiel EDN.
+# 30 observations, chacune explorée par cinq questions de raisonnement.
+# Les notions reviennent dans des contextes distincts ; aucune inversion automatique V/F.
+ITEM 232 | Fibrillation atriale
+COLLEGE: Cardiologie
+
+---
+ID: 232-001
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 58 ans a une FA documentée pendant trois heures, puis un retour spontané sinusal. Il n’a pas reçu de cardioversion. Quelle forme temporelle correspond précisément à la durée et à la stratégie décrites ?
+A: F | Un premier épisode dont la durée est totalement inconnue.
+B: F | Une FA permanente.
+C: F | Une FA persistante de longue durée.
+D: V | Une FA paroxystique.
+E: F | Une FA persistante.
+JUSTIFICATION: Une FA documentée qui cesse spontanément en moins de sept jours correspond à une forme paroxystique.
+EXPLICATION_A: L’observation fournit ici la chronologie ou la décision de stratégie.
+EXPLICATION_B: Cette qualification intègre l’acceptation du rythme sans poursuite de cardioversion.
+EXPLICATION_C: La fiche décrit une FA continue de plus d’un an, ce qui n’est pas la donnée déterminante ici.
+EXPLICATION_D: Une FA documentée qui cesse spontanément en moins de sept jours correspond à une forme paroxystique.
+EXPLICATION_E: La FA est maintenue et une stratégie de restauration peut encore être poursuivie.
+
+---
+ID: 232-002
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Chronologie et stratégie
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 58 ans a une FA documentée pendant trois heures, puis un retour spontané sinusal. Il n’a pas reçu de cardioversion. Quelles propositions distinguent correctement les formes temporelles ?
+A: F | Une FA sans symptôme est automatiquement permanente.
+B: V | Une FA maintenue au-delà de sept jours peut relever d’une forme persistante.
+C: V | Une FA acceptée sans poursuite de cardioversion peut être qualifiée de permanente.
+D: F | Une FA paroxystique ne nécessite jamais d’évaluation du risque embolique.
+E: F | Le premier ECG de FA prouve toujours une ancienneté inférieure à 48 heures.
+JUSTIFICATION: La durée des épisodes et la décision de restauration du rythme doivent être distinguées.
+EXPLICATION_A: L’absence de symptôme ne suffit pas à classer la durée ou la stratégie.
+EXPLICATION_B: La temporalité doit être documentée.
+EXPLICATION_C: Cette notion comporte une décision de stratégie.
+EXPLICATION_D: Le caractère intermittent ne supprime pas ce risque.
+EXPLICATION_E: La première constatation n’est pas la date certaine de début.
+
+---
+ID: 232-003
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 58 ans a une FA documentée pendant trois heures, puis un retour spontané sinusal. Il n’a pas reçu de cardioversion. Quelles propositions concernant le risque embolique sont exactes ?
+A: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+B: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+C: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+D: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+E: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: Le ressenti ne définit pas le risque de thrombus.
+EXPLICATION_B: L’âge et les comorbidités peuvent conférer un risque.
+EXPLICATION_C: Le terrain et le contexte de cardioversion restent déterminants.
+EXPLICATION_D: La fiche ne lui attribue pas cette place.
+EXPLICATION_E: Le traitement ne fait pas disparaître l’antécédent.
+
+---
+ID: 232-004
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 58 ans a une FA documentée pendant trois heures, puis un retour spontané sinusal. Il n’a pas reçu de cardioversion. Quelles propositions concernant le bilan sont exactes ?
+A: V | La kaliémie et la fonction rénale doivent être évaluées.
+B: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+C: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+D: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+E: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+EXPLICATION_B: Ces facteurs peuvent contribuer au trouble.
+EXPLICATION_C: Elle contribue à préciser le terrain et la stratégie.
+EXPLICATION_D: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+EXPLICATION_E: La fonction rénale contribue au choix et à la sécurité des traitements.
+
+---
+ID: 232-005
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Geste programmé
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 58 ans a une FA documentée pendant trois heures, puis un retour spontané sinusal. Il n’a pas reçu de cardioversion. Pour une cardioversion non urgente, quelles propositions sont exactes ?
+A: V | La continuité réelle de l’anticoagulation doit être vérifiée.
+B: F | Un risque de thrombus ne concerne que les formes permanentes.
+C: V | Une ETO peut rechercher un thrombus atrial avant une stratégie de cardioversion.
+D: F | Une simple absence de douleur thoracique exclut un thrombus dans l’oreillette.
+E: F | La seule normalité de l’ECG après le geste prouve l’absence de risque embolique ultérieur.
+JUSTIFICATION: Il faut intégrer l’ancienneté, le risque de thrombus et l’anticoagulation.
+EXPLICATION_A: Une prescription déclarée ne garantit pas une prise efficace.
+EXPLICATION_B: Il doit être considéré dans les autres formes également.
+EXPLICATION_C: La fiche la cite parmi les outils de sécurisation.
+EXPLICATION_D: Le thrombus peut être asymptomatique.
+EXPLICATION_E: Le terrain et le contexte après cardioversion restent déterminants.
+
+---
+ID: 232-006
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 67 ans a des épisodes ECG de FA de douze heures qui cessent spontanément, avec rythme sinusal entre les accès. Quelle forme temporelle correspond précisément à la durée et à la stratégie décrites ?
+A: F | Une FA permanente.
+B: F | Une FA persistante de longue durée.
+C: F | Un premier épisode dont la durée est totalement inconnue.
+D: V | Une FA paroxystique.
+E: F | Une FA persistante.
+JUSTIFICATION: Une FA documentée qui cesse spontanément en moins de sept jours correspond à une forme paroxystique.
+EXPLICATION_A: Cette qualification intègre l’acceptation du rythme sans poursuite de cardioversion.
+EXPLICATION_B: La fiche décrit une FA continue de plus d’un an, ce qui n’est pas la donnée déterminante ici.
+EXPLICATION_C: L’observation fournit ici la chronologie ou la décision de stratégie.
+EXPLICATION_D: Une FA documentée qui cesse spontanément en moins de sept jours correspond à une forme paroxystique.
+EXPLICATION_E: La FA est maintenue et une stratégie de restauration peut encore être poursuivie.
+
+---
+ID: 232-007
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Chronologie et stratégie
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 67 ans a des épisodes ECG de FA de douze heures qui cessent spontanément, avec rythme sinusal entre les accès. Quelles propositions distinguent correctement les formes temporelles ?
+A: F | Le premier ECG de FA prouve toujours une ancienneté inférieure à 48 heures.
+B: V | Une résolution spontanée en moins de sept jours correspond à une forme paroxystique selon la fiche.
+C: F | Une FA sans symptôme est automatiquement permanente.
+D: V | Une FA acceptée sans poursuite de cardioversion peut être qualifiée de permanente.
+E: F | Une FA paroxystique ne nécessite jamais d’évaluation du risque embolique.
+JUSTIFICATION: La durée des épisodes et la décision de restauration du rythme doivent être distinguées.
+EXPLICATION_A: La première constatation n’est pas la date certaine de début.
+EXPLICATION_B: La fin spontanée de l’épisode est déterminante.
+EXPLICATION_C: L’absence de symptôme ne suffit pas à classer la durée ou la stratégie.
+EXPLICATION_D: Cette notion comporte une décision de stratégie.
+EXPLICATION_E: Le caractère intermittent ne supprime pas ce risque.
+
+---
+ID: 232-008
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 67 ans a des épisodes ECG de FA de douze heures qui cessent spontanément, avec rythme sinusal entre les accès. Quelles propositions concernant le risque embolique sont exactes ?
+A: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+B: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+C: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+D: V | Un antécédent personnel d’AVC augmente le risque embolique.
+E: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: Le ressenti ne définit pas le risque de thrombus.
+EXPLICATION_B: La fiche ne lui attribue pas cette place.
+EXPLICATION_C: Le terrain et le contexte de cardioversion restent déterminants.
+EXPLICATION_D: Il pèse fortement dans l’évaluation décrite par la fiche.
+EXPLICATION_E: L’âge et les comorbidités peuvent conférer un risque.
+
+---
+ID: 232-009
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 67 ans a des épisodes ECG de FA de douze heures qui cessent spontanément, avec rythme sinusal entre les accès. Quelles propositions concernant le bilan sont exactes ?
+A: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+B: V | Une TSH aide à rechercher une hyperthyroïdie.
+C: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+D: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+E: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_B: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_C: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+EXPLICATION_D: Ces facteurs peuvent contribuer au trouble.
+EXPLICATION_E: Elle contribue à préciser le terrain et la stratégie.
+
+---
+ID: 232-010
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Geste programmé
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 67 ans a des épisodes ECG de FA de douze heures qui cessent spontanément, avec rythme sinusal entre les accès. Pour une cardioversion non urgente, quelles propositions sont exactes ?
+A: F | La seule normalité de l’ECG après le geste prouve l’absence de risque embolique ultérieur.
+B: V | La continuité réelle de l’anticoagulation doit être vérifiée.
+C: F | Une simple absence de douleur thoracique exclut un thrombus dans l’oreillette.
+D: F | Un risque de thrombus ne concerne que les formes permanentes.
+E: V | La première constatation de FA ne date pas nécessairement son début.
+JUSTIFICATION: Il faut intégrer l’ancienneté, le risque de thrombus et l’anticoagulation.
+EXPLICATION_A: Le terrain et le contexte après cardioversion restent déterminants.
+EXPLICATION_B: Une prescription déclarée ne garantit pas une prise efficace.
+EXPLICATION_C: Le thrombus peut être asymptomatique.
+EXPLICATION_D: Il doit être considéré dans les autres formes également.
+EXPLICATION_E: Une ancienneté inconnue doit être reconnue comme telle.
+
+---
+ID: 232-011
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 74 ans a une FA documentée lors d’une infection ; le rythme sinusal revient spontanément au deuxième jour. Quelle forme temporelle correspond précisément à la durée et à la stratégie décrites ?
+A: F | Une FA persistante de longue durée.
+B: F | Une FA permanente.
+C: F | Une FA persistante.
+D: V | Une FA paroxystique.
+E: F | Un premier épisode dont la durée est totalement inconnue.
+JUSTIFICATION: Une FA documentée qui cesse spontanément en moins de sept jours correspond à une forme paroxystique.
+EXPLICATION_A: La fiche décrit une FA continue de plus d’un an, ce qui n’est pas la donnée déterminante ici.
+EXPLICATION_B: Cette qualification intègre l’acceptation du rythme sans poursuite de cardioversion.
+EXPLICATION_C: La FA est maintenue et une stratégie de restauration peut encore être poursuivie.
+EXPLICATION_D: Une FA documentée qui cesse spontanément en moins de sept jours correspond à une forme paroxystique.
+EXPLICATION_E: L’observation fournit ici la chronologie ou la décision de stratégie.
+
+---
+ID: 232-012
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Chronologie et stratégie
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 74 ans a une FA documentée lors d’une infection ; le rythme sinusal revient spontanément au deuxième jour. Quelles propositions distinguent correctement les formes temporelles ?
+A: V | Une résolution spontanée en moins de sept jours correspond à une forme paroxystique selon la fiche.
+B: F | Une FA sans symptôme est automatiquement permanente.
+C: F | Une FA paroxystique ne nécessite jamais d’évaluation du risque embolique.
+D: F | Le premier ECG de FA prouve toujours une ancienneté inférieure à 48 heures.
+E: V | Une FA maintenue au-delà de sept jours peut relever d’une forme persistante.
+JUSTIFICATION: La durée des épisodes et la décision de restauration du rythme doivent être distinguées.
+EXPLICATION_A: La fin spontanée de l’épisode est déterminante.
+EXPLICATION_B: L’absence de symptôme ne suffit pas à classer la durée ou la stratégie.
+EXPLICATION_C: Le caractère intermittent ne supprime pas ce risque.
+EXPLICATION_D: La première constatation n’est pas la date certaine de début.
+EXPLICATION_E: La temporalité doit être documentée.
+
+---
+ID: 232-013
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 74 ans a une FA documentée lors d’une infection ; le rythme sinusal revient spontanément au deuxième jour. Quelles propositions concernant le risque embolique sont exactes ?
+A: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+B: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+C: V | Un antécédent personnel d’AVC augmente le risque embolique.
+D: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+E: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: L’âge et les comorbidités peuvent conférer un risque.
+EXPLICATION_B: La fiche ne lui attribue pas cette place.
+EXPLICATION_C: Il pèse fortement dans l’évaluation décrite par la fiche.
+EXPLICATION_D: Le traitement ne fait pas disparaître l’antécédent.
+EXPLICATION_E: Le ressenti ne définit pas le risque de thrombus.
+
+---
+ID: 232-014
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 74 ans a une FA documentée lors d’une infection ; le rythme sinusal revient spontanément au deuxième jour. Quelles propositions concernant le bilan sont exactes ?
+A: V | Une TSH aide à rechercher une hyperthyroïdie.
+B: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+C: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+D: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+E: V | La kaliémie et la fonction rénale doivent être évaluées.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_B: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+EXPLICATION_C: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_D: Ces facteurs peuvent contribuer au trouble.
+EXPLICATION_E: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+
+---
+ID: 232-015
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Geste programmé
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 74 ans a une FA documentée lors d’une infection ; le rythme sinusal revient spontanément au deuxième jour. Pour une cardioversion non urgente, quelles propositions sont exactes ?
+A: F | Une simple absence de douleur thoracique exclut un thrombus dans l’oreillette.
+B: F | Un risque de thrombus ne concerne que les formes permanentes.
+C: V | La première constatation de FA ne date pas nécessairement son début.
+D: F | La seule normalité de l’ECG après le geste prouve l’absence de risque embolique ultérieur.
+E: V | Une ETO peut rechercher un thrombus atrial avant une stratégie de cardioversion.
+JUSTIFICATION: Il faut intégrer l’ancienneté, le risque de thrombus et l’anticoagulation.
+EXPLICATION_A: Le thrombus peut être asymptomatique.
+EXPLICATION_B: Il doit être considéré dans les autres formes également.
+EXPLICATION_C: Une ancienneté inconnue doit être reconnue comme telle.
+EXPLICATION_D: Le terrain et le contexte après cardioversion restent déterminants.
+EXPLICATION_E: La fiche la cite parmi les outils de sécurisation.
+
+---
+ID: 232-016
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 45 ans a une FA après alcoolisation aiguë, enregistrée pendant six heures, puis une résolution spontanée. Quelle forme temporelle correspond précisément à la durée et à la stratégie décrites ?
+A: V | Une FA paroxystique.
+B: F | Une FA permanente.
+C: F | Une FA persistante de longue durée.
+D: F | Une FA persistante.
+E: F | Un premier épisode dont la durée est totalement inconnue.
+JUSTIFICATION: Une FA documentée qui cesse spontanément en moins de sept jours correspond à une forme paroxystique.
+EXPLICATION_A: Une FA documentée qui cesse spontanément en moins de sept jours correspond à une forme paroxystique.
+EXPLICATION_B: Cette qualification intègre l’acceptation du rythme sans poursuite de cardioversion.
+EXPLICATION_C: La fiche décrit une FA continue de plus d’un an, ce qui n’est pas la donnée déterminante ici.
+EXPLICATION_D: La FA est maintenue et une stratégie de restauration peut encore être poursuivie.
+EXPLICATION_E: L’observation fournit ici la chronologie ou la décision de stratégie.
+
+---
+ID: 232-017
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Chronologie et stratégie
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 45 ans a une FA après alcoolisation aiguë, enregistrée pendant six heures, puis une résolution spontanée. Quelles propositions distinguent correctement les formes temporelles ?
+A: V | Une FA acceptée sans poursuite de cardioversion peut être qualifiée de permanente.
+B: F | Une FA paroxystique ne nécessite jamais d’évaluation du risque embolique.
+C: V | Une FA maintenue au-delà de sept jours peut relever d’une forme persistante.
+D: V | Une résolution spontanée en moins de sept jours correspond à une forme paroxystique selon la fiche.
+E: F | Une FA sans symptôme est automatiquement permanente.
+JUSTIFICATION: La durée des épisodes et la décision de restauration du rythme doivent être distinguées.
+EXPLICATION_A: Cette notion comporte une décision de stratégie.
+EXPLICATION_B: Le caractère intermittent ne supprime pas ce risque.
+EXPLICATION_C: La temporalité doit être documentée.
+EXPLICATION_D: La fin spontanée de l’épisode est déterminante.
+EXPLICATION_E: L’absence de symptôme ne suffit pas à classer la durée ou la stratégie.
+
+---
+ID: 232-018
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 45 ans a une FA après alcoolisation aiguë, enregistrée pendant six heures, puis une résolution spontanée. Quelles propositions concernant le risque embolique sont exactes ?
+A: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+B: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+C: V | Un antécédent personnel d’AVC augmente le risque embolique.
+D: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+E: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: Le terrain et le contexte de cardioversion restent déterminants.
+EXPLICATION_B: Le traitement ne fait pas disparaître l’antécédent.
+EXPLICATION_C: Il pèse fortement dans l’évaluation décrite par la fiche.
+EXPLICATION_D: L’âge et les comorbidités peuvent conférer un risque.
+EXPLICATION_E: Le ressenti ne définit pas le risque de thrombus.
+
+---
+ID: 232-019
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 45 ans a une FA après alcoolisation aiguë, enregistrée pendant six heures, puis une résolution spontanée. Quelles propositions concernant le bilan sont exactes ?
+A: V | Une TSH aide à rechercher une hyperthyroïdie.
+B: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+C: V | La kaliémie et la fonction rénale doivent être évaluées.
+D: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+E: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_B: Ces facteurs peuvent contribuer au trouble.
+EXPLICATION_C: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+EXPLICATION_D: Elle contribue à préciser le terrain et la stratégie.
+EXPLICATION_E: La fonction rénale contribue au choix et à la sécurité des traitements.
+
+---
+ID: 232-020
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Geste programmé
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 45 ans a une FA après alcoolisation aiguë, enregistrée pendant six heures, puis une résolution spontanée. Pour une cardioversion non urgente, quelles propositions sont exactes ?
+A: V | La première constatation de FA ne date pas nécessairement son début.
+B: V | Une ETO peut rechercher un thrombus atrial avant une stratégie de cardioversion.
+C: F | Un risque de thrombus ne concerne que les formes permanentes.
+D: F | La seule normalité de l’ECG après le geste prouve l’absence de risque embolique ultérieur.
+E: V | La continuité réelle de l’anticoagulation doit être vérifiée.
+JUSTIFICATION: Il faut intégrer l’ancienneté, le risque de thrombus et l’anticoagulation.
+EXPLICATION_A: Une ancienneté inconnue doit être reconnue comme telle.
+EXPLICATION_B: La fiche la cite parmi les outils de sécurisation.
+EXPLICATION_C: Il doit être considéré dans les autres formes également.
+EXPLICATION_D: Le terrain et le contexte après cardioversion restent déterminants.
+EXPLICATION_E: Une prescription déclarée ne garantit pas une prise efficace.
+
+---
+ID: 232-021
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 63 ans a plusieurs accès documentés de FA durant un à trois jours, chacun cessant spontanément. Quelle forme temporelle correspond précisément à la durée et à la stratégie décrites ?
+A: F | Un premier épisode dont la durée est totalement inconnue.
+B: V | Une FA paroxystique.
+C: F | Une FA persistante.
+D: F | Une FA persistante de longue durée.
+E: F | Une FA permanente.
+JUSTIFICATION: Une FA documentée qui cesse spontanément en moins de sept jours correspond à une forme paroxystique.
+EXPLICATION_A: L’observation fournit ici la chronologie ou la décision de stratégie.
+EXPLICATION_B: Une FA documentée qui cesse spontanément en moins de sept jours correspond à une forme paroxystique.
+EXPLICATION_C: La FA est maintenue et une stratégie de restauration peut encore être poursuivie.
+EXPLICATION_D: La fiche décrit une FA continue de plus d’un an, ce qui n’est pas la donnée déterminante ici.
+EXPLICATION_E: Cette qualification intègre l’acceptation du rythme sans poursuite de cardioversion.
+
+---
+ID: 232-022
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Chronologie et stratégie
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 63 ans a plusieurs accès documentés de FA durant un à trois jours, chacun cessant spontanément. Quelles propositions distinguent correctement les formes temporelles ?
+A: F | Le premier ECG de FA prouve toujours une ancienneté inférieure à 48 heures.
+B: V | Une FA acceptée sans poursuite de cardioversion peut être qualifiée de permanente.
+C: V | Une résolution spontanée en moins de sept jours correspond à une forme paroxystique selon la fiche.
+D: V | Une FA maintenue au-delà de sept jours peut relever d’une forme persistante.
+E: F | Une FA paroxystique ne nécessite jamais d’évaluation du risque embolique.
+JUSTIFICATION: La durée des épisodes et la décision de restauration du rythme doivent être distinguées.
+EXPLICATION_A: La première constatation n’est pas la date certaine de début.
+EXPLICATION_B: Cette notion comporte une décision de stratégie.
+EXPLICATION_C: La fin spontanée de l’épisode est déterminante.
+EXPLICATION_D: La temporalité doit être documentée.
+EXPLICATION_E: Le caractère intermittent ne supprime pas ce risque.
+
+---
+ID: 232-023
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 63 ans a plusieurs accès documentés de FA durant un à trois jours, chacun cessant spontanément. Quelles propositions concernant le risque embolique sont exactes ?
+A: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+B: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+C: V | Un antécédent personnel d’AVC augmente le risque embolique.
+D: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+E: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: Le terrain et le contexte de cardioversion restent déterminants.
+EXPLICATION_B: Le ressenti ne définit pas le risque de thrombus.
+EXPLICATION_C: Il pèse fortement dans l’évaluation décrite par la fiche.
+EXPLICATION_D: Le traitement ne fait pas disparaître l’antécédent.
+EXPLICATION_E: La fiche ne lui attribue pas cette place.
+
+---
+ID: 232-024
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 63 ans a plusieurs accès documentés de FA durant un à trois jours, chacun cessant spontanément. Quelles propositions concernant le bilan sont exactes ?
+A: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+B: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+C: V | La kaliémie et la fonction rénale doivent être évaluées.
+D: V | Une TSH aide à rechercher une hyperthyroïdie.
+E: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_B: Elle contribue à préciser le terrain et la stratégie.
+EXPLICATION_C: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+EXPLICATION_D: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_E: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+
+---
+ID: 232-025
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Paroxystique · Geste programmé
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 63 ans a plusieurs accès documentés de FA durant un à trois jours, chacun cessant spontanément. Pour une cardioversion non urgente, quelles propositions sont exactes ?
+A: V | Une ETO peut rechercher un thrombus atrial avant une stratégie de cardioversion.
+B: F | Une simple absence de douleur thoracique exclut un thrombus dans l’oreillette.
+C: F | La seule normalité de l’ECG après le geste prouve l’absence de risque embolique ultérieur.
+D: V | La première constatation de FA ne date pas nécessairement son début.
+E: V | La continuité réelle de l’anticoagulation doit être vérifiée.
+JUSTIFICATION: Il faut intégrer l’ancienneté, le risque de thrombus et l’anticoagulation.
+EXPLICATION_A: La fiche la cite parmi les outils de sécurisation.
+EXPLICATION_B: Le thrombus peut être asymptomatique.
+EXPLICATION_C: Le terrain et le contexte après cardioversion restent déterminants.
+EXPLICATION_D: Une ancienneté inconnue doit être reconnue comme telle.
+EXPLICATION_E: Une prescription déclarée ne garantit pas une prise efficace.
+
+---
+ID: 232-026
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Persistante · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 66 ans a une FA continue documentée depuis trois semaines. Une restauration du rythme est envisagée ; la FA n’a pas été acceptée comme permanente. Quelle forme temporelle correspond précisément à la durée et à la stratégie décrites ?
+A: F | Une FA permanente.
+B: V | Une FA persistante.
+C: F | Une FA persistante de longue durée.
+D: F | Un premier épisode dont la durée est totalement inconnue.
+E: F | Une FA paroxystique.
+JUSTIFICATION: Une FA maintenue au-delà de sept jours avec stratégie de restauration du rythme en cours relève d’une forme persistante.
+EXPLICATION_A: Cette qualification intègre l’acceptation du rythme sans poursuite de cardioversion.
+EXPLICATION_B: Une FA maintenue au-delà de sept jours avec stratégie de restauration du rythme en cours relève d’une forme persistante.
+EXPLICATION_C: La fiche décrit une FA continue de plus d’un an, ce qui n’est pas la donnée déterminante ici.
+EXPLICATION_D: L’observation fournit ici la chronologie ou la décision de stratégie.
+EXPLICATION_E: Un retour spontané en moins de sept jours est requis.
+
+---
+ID: 232-027
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Chronologie et stratégie
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 66 ans a une FA continue documentée depuis trois semaines. Une restauration du rythme est envisagée ; la FA n’a pas été acceptée comme permanente. Quelles propositions distinguent correctement les formes temporelles ?
+A: F | Une FA paroxystique ne nécessite jamais d’évaluation du risque embolique.
+B: F | Le premier ECG de FA prouve toujours une ancienneté inférieure à 48 heures.
+C: F | Une FA sans symptôme est automatiquement permanente.
+D: V | Une FA acceptée sans poursuite de cardioversion peut être qualifiée de permanente.
+E: V | Une FA maintenue au-delà de sept jours peut relever d’une forme persistante.
+JUSTIFICATION: La durée des épisodes et la décision de restauration du rythme doivent être distinguées.
+EXPLICATION_A: Le caractère intermittent ne supprime pas ce risque.
+EXPLICATION_B: La première constatation n’est pas la date certaine de début.
+EXPLICATION_C: L’absence de symptôme ne suffit pas à classer la durée ou la stratégie.
+EXPLICATION_D: Cette notion comporte une décision de stratégie.
+EXPLICATION_E: La temporalité doit être documentée.
+
+---
+ID: 232-028
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 66 ans a une FA continue documentée depuis trois semaines. Une restauration du rythme est envisagée ; la FA n’a pas été acceptée comme permanente. Quelles propositions concernant le risque embolique sont exactes ?
+A: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+B: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+C: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+D: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+E: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: La fiche ne lui attribue pas cette place.
+EXPLICATION_B: Le traitement ne fait pas disparaître l’antécédent.
+EXPLICATION_C: Le ressenti ne définit pas le risque de thrombus.
+EXPLICATION_D: Le terrain et le contexte de cardioversion restent déterminants.
+EXPLICATION_E: L’âge et les comorbidités peuvent conférer un risque.
+
+---
+ID: 232-029
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 66 ans a une FA continue documentée depuis trois semaines. Une restauration du rythme est envisagée ; la FA n’a pas été acceptée comme permanente. Quelles propositions concernant le bilan sont exactes ?
+A: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+B: V | La kaliémie et la fonction rénale doivent être évaluées.
+C: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+D: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+E: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Ces facteurs peuvent contribuer au trouble.
+EXPLICATION_B: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+EXPLICATION_C: Elle contribue à préciser le terrain et la stratégie.
+EXPLICATION_D: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_E: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+
+---
+ID: 232-030
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Geste programmé
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 66 ans a une FA continue documentée depuis trois semaines. Une restauration du rythme est envisagée ; la FA n’a pas été acceptée comme permanente. Pour une cardioversion non urgente, quelles propositions sont exactes ?
+A: F | Une simple absence de douleur thoracique exclut un thrombus dans l’oreillette.
+B: V | Une ETO peut rechercher un thrombus atrial avant une stratégie de cardioversion.
+C: F | La seule normalité de l’ECG après le geste prouve l’absence de risque embolique ultérieur.
+D: V | La continuité réelle de l’anticoagulation doit être vérifiée.
+E: F | Un risque de thrombus ne concerne que les formes permanentes.
+JUSTIFICATION: Il faut intégrer l’ancienneté, le risque de thrombus et l’anticoagulation.
+EXPLICATION_A: Le thrombus peut être asymptomatique.
+EXPLICATION_B: La fiche la cite parmi les outils de sécurisation.
+EXPLICATION_C: Le terrain et le contexte après cardioversion restent déterminants.
+EXPLICATION_D: Une prescription déclarée ne garantit pas une prise efficace.
+EXPLICATION_E: Il doit être considéré dans les autres formes également.
+
+---
+ID: 232-031
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Persistante · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 59 ans a une FA continue depuis quinze jours sans retour spontané. Le projet thérapeutique vise encore la restauration du rythme sinusal. Quelle forme temporelle correspond précisément à la durée et à la stratégie décrites ?
+A: F | Une FA permanente.
+B: F | Un premier épisode dont la durée est totalement inconnue.
+C: V | Une FA persistante.
+D: F | Une FA paroxystique.
+E: F | Une FA persistante de longue durée.
+JUSTIFICATION: Une FA maintenue au-delà de sept jours avec stratégie de restauration du rythme en cours relève d’une forme persistante.
+EXPLICATION_A: Cette qualification intègre l’acceptation du rythme sans poursuite de cardioversion.
+EXPLICATION_B: L’observation fournit ici la chronologie ou la décision de stratégie.
+EXPLICATION_C: Une FA maintenue au-delà de sept jours avec stratégie de restauration du rythme en cours relève d’une forme persistante.
+EXPLICATION_D: Un retour spontané en moins de sept jours est requis.
+EXPLICATION_E: La fiche décrit une FA continue de plus d’un an, ce qui n’est pas la donnée déterminante ici.
+
+---
+ID: 232-032
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Chronologie et stratégie
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 59 ans a une FA continue depuis quinze jours sans retour spontané. Le projet thérapeutique vise encore la restauration du rythme sinusal. Quelles propositions distinguent correctement les formes temporelles ?
+A: F | Une FA paroxystique ne nécessite jamais d’évaluation du risque embolique.
+B: F | Le premier ECG de FA prouve toujours une ancienneté inférieure à 48 heures.
+C: V | Une résolution spontanée en moins de sept jours correspond à une forme paroxystique selon la fiche.
+D: F | Une FA sans symptôme est automatiquement permanente.
+E: V | Une FA acceptée sans poursuite de cardioversion peut être qualifiée de permanente.
+JUSTIFICATION: La durée des épisodes et la décision de restauration du rythme doivent être distinguées.
+EXPLICATION_A: Le caractère intermittent ne supprime pas ce risque.
+EXPLICATION_B: La première constatation n’est pas la date certaine de début.
+EXPLICATION_C: La fin spontanée de l’épisode est déterminante.
+EXPLICATION_D: L’absence de symptôme ne suffit pas à classer la durée ou la stratégie.
+EXPLICATION_E: Cette notion comporte une décision de stratégie.
+
+---
+ID: 232-033
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 59 ans a une FA continue depuis quinze jours sans retour spontané. Le projet thérapeutique vise encore la restauration du rythme sinusal. Quelles propositions concernant le risque embolique sont exactes ?
+A: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+B: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+C: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+D: V | Un antécédent personnel d’AVC augmente le risque embolique.
+E: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: L’âge et les comorbidités peuvent conférer un risque.
+EXPLICATION_B: La fiche ne lui attribue pas cette place.
+EXPLICATION_C: Le terrain et le contexte de cardioversion restent déterminants.
+EXPLICATION_D: Il pèse fortement dans l’évaluation décrite par la fiche.
+EXPLICATION_E: Le ressenti ne définit pas le risque de thrombus.
+
+---
+ID: 232-034
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 59 ans a une FA continue depuis quinze jours sans retour spontané. Le projet thérapeutique vise encore la restauration du rythme sinusal. Quelles propositions concernant le bilan sont exactes ?
+A: V | Une TSH aide à rechercher une hyperthyroïdie.
+B: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+C: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+D: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+E: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_B: Elle contribue à préciser le terrain et la stratégie.
+EXPLICATION_C: Ces facteurs peuvent contribuer au trouble.
+EXPLICATION_D: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+EXPLICATION_E: La fonction rénale contribue au choix et à la sécurité des traitements.
+
+---
+ID: 232-035
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Geste programmé
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 59 ans a une FA continue depuis quinze jours sans retour spontané. Le projet thérapeutique vise encore la restauration du rythme sinusal. Pour une cardioversion non urgente, quelles propositions sont exactes ?
+A: F | La seule normalité de l’ECG après le geste prouve l’absence de risque embolique ultérieur.
+B: F | Un risque de thrombus ne concerne que les formes permanentes.
+C: V | La continuité réelle de l’anticoagulation doit être vérifiée.
+D: F | Une simple absence de douleur thoracique exclut un thrombus dans l’oreillette.
+E: V | La première constatation de FA ne date pas nécessairement son début.
+JUSTIFICATION: Il faut intégrer l’ancienneté, le risque de thrombus et l’anticoagulation.
+EXPLICATION_A: Le terrain et le contexte après cardioversion restent déterminants.
+EXPLICATION_B: Il doit être considéré dans les autres formes également.
+EXPLICATION_C: Une prescription déclarée ne garantit pas une prise efficace.
+EXPLICATION_D: Le thrombus peut être asymptomatique.
+EXPLICATION_E: Une ancienneté inconnue doit être reconnue comme telle.
+
+---
+ID: 232-036
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Persistante · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 73 ans a une FA maintenue depuis deux mois, symptomatique. Une cardioversion programmée est discutée après sécurisation. Quelle forme temporelle correspond précisément à la durée et à la stratégie décrites ?
+A: F | Une FA permanente.
+B: F | Un premier épisode dont la durée est totalement inconnue.
+C: V | Une FA persistante.
+D: F | Une FA paroxystique.
+E: F | Une FA persistante de longue durée.
+JUSTIFICATION: Une FA maintenue au-delà de sept jours avec stratégie de restauration du rythme en cours relève d’une forme persistante.
+EXPLICATION_A: Cette qualification intègre l’acceptation du rythme sans poursuite de cardioversion.
+EXPLICATION_B: L’observation fournit ici la chronologie ou la décision de stratégie.
+EXPLICATION_C: Une FA maintenue au-delà de sept jours avec stratégie de restauration du rythme en cours relève d’une forme persistante.
+EXPLICATION_D: Un retour spontané en moins de sept jours est requis.
+EXPLICATION_E: La fiche décrit une FA continue de plus d’un an, ce qui n’est pas la donnée déterminante ici.
+
+---
+ID: 232-037
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Chronologie et stratégie
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 73 ans a une FA maintenue depuis deux mois, symptomatique. Une cardioversion programmée est discutée après sécurisation. Quelles propositions distinguent correctement les formes temporelles ?
+A: V | Une résolution spontanée en moins de sept jours correspond à une forme paroxystique selon la fiche.
+B: F | Une FA paroxystique ne nécessite jamais d’évaluation du risque embolique.
+C: F | Le premier ECG de FA prouve toujours une ancienneté inférieure à 48 heures.
+D: V | Une FA maintenue au-delà de sept jours peut relever d’une forme persistante.
+E: F | Une FA sans symptôme est automatiquement permanente.
+JUSTIFICATION: La durée des épisodes et la décision de restauration du rythme doivent être distinguées.
+EXPLICATION_A: La fin spontanée de l’épisode est déterminante.
+EXPLICATION_B: Le caractère intermittent ne supprime pas ce risque.
+EXPLICATION_C: La première constatation n’est pas la date certaine de début.
+EXPLICATION_D: La temporalité doit être documentée.
+EXPLICATION_E: L’absence de symptôme ne suffit pas à classer la durée ou la stratégie.
+
+---
+ID: 232-038
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 73 ans a une FA maintenue depuis deux mois, symptomatique. Une cardioversion programmée est discutée après sécurisation. Quelles propositions concernant le risque embolique sont exactes ?
+A: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+B: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+C: V | Un antécédent personnel d’AVC augmente le risque embolique.
+D: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+E: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: La fiche ne lui attribue pas cette place.
+EXPLICATION_B: L’âge et les comorbidités peuvent conférer un risque.
+EXPLICATION_C: Il pèse fortement dans l’évaluation décrite par la fiche.
+EXPLICATION_D: Le traitement ne fait pas disparaître l’antécédent.
+EXPLICATION_E: Le ressenti ne définit pas le risque de thrombus.
+
+---
+ID: 232-039
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 73 ans a une FA maintenue depuis deux mois, symptomatique. Une cardioversion programmée est discutée après sécurisation. Quelles propositions concernant le bilan sont exactes ?
+A: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+B: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+C: V | Une TSH aide à rechercher une hyperthyroïdie.
+D: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+E: V | La kaliémie et la fonction rénale doivent être évaluées.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_B: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+EXPLICATION_C: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_D: Ces facteurs peuvent contribuer au trouble.
+EXPLICATION_E: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+
+---
+ID: 232-040
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Geste programmé
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 73 ans a une FA maintenue depuis deux mois, symptomatique. Une cardioversion programmée est discutée après sécurisation. Pour une cardioversion non urgente, quelles propositions sont exactes ?
+A: V | Une ETO peut rechercher un thrombus atrial avant une stratégie de cardioversion.
+B: F | Un risque de thrombus ne concerne que les formes permanentes.
+C: F | Une simple absence de douleur thoracique exclut un thrombus dans l’oreillette.
+D: V | La première constatation de FA ne date pas nécessairement son début.
+E: F | La seule normalité de l’ECG après le geste prouve l’absence de risque embolique ultérieur.
+JUSTIFICATION: Il faut intégrer l’ancienneté, le risque de thrombus et l’anticoagulation.
+EXPLICATION_A: La fiche la cite parmi les outils de sécurisation.
+EXPLICATION_B: Il doit être considéré dans les autres formes également.
+EXPLICATION_C: Le thrombus peut être asymptomatique.
+EXPLICATION_D: Une ancienneté inconnue doit être reconnue comme telle.
+EXPLICATION_E: Le terrain et le contexte après cardioversion restent déterminants.
+
+---
+ID: 232-041
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Persistante · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 62 ans a une FA continue depuis dix jours ; les épisodes antérieurs cessaient spontanément, mais pas celui-ci. La stratégie de restauration reste retenue. Quelle forme temporelle correspond précisément à la durée et à la stratégie décrites ?
+A: F | Une FA persistante de longue durée.
+B: F | Une FA permanente.
+C: V | Une FA persistante.
+D: F | Une FA paroxystique.
+E: F | Un premier épisode dont la durée est totalement inconnue.
+JUSTIFICATION: Une FA maintenue au-delà de sept jours avec stratégie de restauration du rythme en cours relève d’une forme persistante.
+EXPLICATION_A: La fiche décrit une FA continue de plus d’un an, ce qui n’est pas la donnée déterminante ici.
+EXPLICATION_B: Cette qualification intègre l’acceptation du rythme sans poursuite de cardioversion.
+EXPLICATION_C: Une FA maintenue au-delà de sept jours avec stratégie de restauration du rythme en cours relève d’une forme persistante.
+EXPLICATION_D: Un retour spontané en moins de sept jours est requis.
+EXPLICATION_E: L’observation fournit ici la chronologie ou la décision de stratégie.
+
+---
+ID: 232-042
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Chronologie et stratégie
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 62 ans a une FA continue depuis dix jours ; les épisodes antérieurs cessaient spontanément, mais pas celui-ci. La stratégie de restauration reste retenue. Quelles propositions distinguent correctement les formes temporelles ?
+A: V | Une résolution spontanée en moins de sept jours correspond à une forme paroxystique selon la fiche.
+B: V | Une FA maintenue au-delà de sept jours peut relever d’une forme persistante.
+C: F | Une FA sans symptôme est automatiquement permanente.
+D: V | Une FA acceptée sans poursuite de cardioversion peut être qualifiée de permanente.
+E: F | Une FA paroxystique ne nécessite jamais d’évaluation du risque embolique.
+JUSTIFICATION: La durée des épisodes et la décision de restauration du rythme doivent être distinguées.
+EXPLICATION_A: La fin spontanée de l’épisode est déterminante.
+EXPLICATION_B: La temporalité doit être documentée.
+EXPLICATION_C: L’absence de symptôme ne suffit pas à classer la durée ou la stratégie.
+EXPLICATION_D: Cette notion comporte une décision de stratégie.
+EXPLICATION_E: Le caractère intermittent ne supprime pas ce risque.
+
+---
+ID: 232-043
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 62 ans a une FA continue depuis dix jours ; les épisodes antérieurs cessaient spontanément, mais pas celui-ci. La stratégie de restauration reste retenue. Quelles propositions concernant le risque embolique sont exactes ?
+A: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+B: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+C: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+D: V | Un antécédent personnel d’AVC augmente le risque embolique.
+E: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: Le traitement ne fait pas disparaître l’antécédent.
+EXPLICATION_B: L’âge et les comorbidités peuvent conférer un risque.
+EXPLICATION_C: Le terrain et le contexte de cardioversion restent déterminants.
+EXPLICATION_D: Il pèse fortement dans l’évaluation décrite par la fiche.
+EXPLICATION_E: Le ressenti ne définit pas le risque de thrombus.
+
+---
+ID: 232-044
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 62 ans a une FA continue depuis dix jours ; les épisodes antérieurs cessaient spontanément, mais pas celui-ci. La stratégie de restauration reste retenue. Quelles propositions concernant le bilan sont exactes ?
+A: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+B: V | Une TSH aide à rechercher une hyperthyroïdie.
+C: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+D: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+E: V | La kaliémie et la fonction rénale doivent être évaluées.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Ces facteurs peuvent contribuer au trouble.
+EXPLICATION_B: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_C: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_D: Elle contribue à préciser le terrain et la stratégie.
+EXPLICATION_E: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+
+---
+ID: 232-045
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Geste programmé
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 62 ans a une FA continue depuis dix jours ; les épisodes antérieurs cessaient spontanément, mais pas celui-ci. La stratégie de restauration reste retenue. Pour une cardioversion non urgente, quelles propositions sont exactes ?
+A: V | La continuité réelle de l’anticoagulation doit être vérifiée.
+B: V | La première constatation de FA ne date pas nécessairement son début.
+C: V | Une ETO peut rechercher un thrombus atrial avant une stratégie de cardioversion.
+D: F | Un risque de thrombus ne concerne que les formes permanentes.
+E: F | La seule normalité de l’ECG après le geste prouve l’absence de risque embolique ultérieur.
+JUSTIFICATION: Il faut intégrer l’ancienneté, le risque de thrombus et l’anticoagulation.
+EXPLICATION_A: Une prescription déclarée ne garantit pas une prise efficace.
+EXPLICATION_B: Une ancienneté inconnue doit être reconnue comme telle.
+EXPLICATION_C: La fiche la cite parmi les outils de sécurisation.
+EXPLICATION_D: Il doit être considéré dans les autres formes également.
+EXPLICATION_E: Le terrain et le contexte après cardioversion restent déterminants.
+
+---
+ID: 232-046
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Persistante · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 55 ans a une FA persistante depuis six semaines ; le bilan prépare une restauration du rythme, sans décision d’acceptation permanente. Quelle forme temporelle correspond précisément à la durée et à la stratégie décrites ?
+A: V | Une FA persistante.
+B: F | Une FA persistante de longue durée.
+C: F | Un premier épisode dont la durée est totalement inconnue.
+D: F | Une FA paroxystique.
+E: F | Une FA permanente.
+JUSTIFICATION: Une FA maintenue au-delà de sept jours avec stratégie de restauration du rythme en cours relève d’une forme persistante.
+EXPLICATION_A: Une FA maintenue au-delà de sept jours avec stratégie de restauration du rythme en cours relève d’une forme persistante.
+EXPLICATION_B: La fiche décrit une FA continue de plus d’un an, ce qui n’est pas la donnée déterminante ici.
+EXPLICATION_C: L’observation fournit ici la chronologie ou la décision de stratégie.
+EXPLICATION_D: Un retour spontané en moins de sept jours est requis.
+EXPLICATION_E: Cette qualification intègre l’acceptation du rythme sans poursuite de cardioversion.
+
+---
+ID: 232-047
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Chronologie et stratégie
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 55 ans a une FA persistante depuis six semaines ; le bilan prépare une restauration du rythme, sans décision d’acceptation permanente. Quelles propositions distinguent correctement les formes temporelles ?
+A: F | Le premier ECG de FA prouve toujours une ancienneté inférieure à 48 heures.
+B: F | Une FA paroxystique ne nécessite jamais d’évaluation du risque embolique.
+C: V | Une FA acceptée sans poursuite de cardioversion peut être qualifiée de permanente.
+D: V | Une FA maintenue au-delà de sept jours peut relever d’une forme persistante.
+E: V | Une résolution spontanée en moins de sept jours correspond à une forme paroxystique selon la fiche.
+JUSTIFICATION: La durée des épisodes et la décision de restauration du rythme doivent être distinguées.
+EXPLICATION_A: La première constatation n’est pas la date certaine de début.
+EXPLICATION_B: Le caractère intermittent ne supprime pas ce risque.
+EXPLICATION_C: Cette notion comporte une décision de stratégie.
+EXPLICATION_D: La temporalité doit être documentée.
+EXPLICATION_E: La fin spontanée de l’épisode est déterminante.
+
+---
+ID: 232-048
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 55 ans a une FA persistante depuis six semaines ; le bilan prépare une restauration du rythme, sans décision d’acceptation permanente. Quelles propositions concernant le risque embolique sont exactes ?
+A: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+B: V | Un antécédent personnel d’AVC augmente le risque embolique.
+C: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+D: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+E: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: La fiche ne lui attribue pas cette place.
+EXPLICATION_B: Il pèse fortement dans l’évaluation décrite par la fiche.
+EXPLICATION_C: Le traitement ne fait pas disparaître l’antécédent.
+EXPLICATION_D: Le ressenti ne définit pas le risque de thrombus.
+EXPLICATION_E: Le terrain et le contexte de cardioversion restent déterminants.
+
+---
+ID: 232-049
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 55 ans a une FA persistante depuis six semaines ; le bilan prépare une restauration du rythme, sans décision d’acceptation permanente. Quelles propositions concernant le bilan sont exactes ?
+A: V | La kaliémie et la fonction rénale doivent être évaluées.
+B: V | Une TSH aide à rechercher une hyperthyroïdie.
+C: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+D: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+E: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+EXPLICATION_B: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_C: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+EXPLICATION_D: Elle contribue à préciser le terrain et la stratégie.
+EXPLICATION_E: La fonction rénale contribue au choix et à la sécurité des traitements.
+
+---
+ID: 232-050
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Persistante · Geste programmé
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 55 ans a une FA persistante depuis six semaines ; le bilan prépare une restauration du rythme, sans décision d’acceptation permanente. Pour une cardioversion non urgente, quelles propositions sont exactes ?
+A: F | La seule normalité de l’ECG après le geste prouve l’absence de risque embolique ultérieur.
+B: F | Une simple absence de douleur thoracique exclut un thrombus dans l’oreillette.
+C: V | Une ETO peut rechercher un thrombus atrial avant une stratégie de cardioversion.
+D: V | La première constatation de FA ne date pas nécessairement son début.
+E: V | La continuité réelle de l’anticoagulation doit être vérifiée.
+JUSTIFICATION: Il faut intégrer l’ancienneté, le risque de thrombus et l’anticoagulation.
+EXPLICATION_A: Le terrain et le contexte après cardioversion restent déterminants.
+EXPLICATION_B: Le thrombus peut être asymptomatique.
+EXPLICATION_C: La fiche la cite parmi les outils de sécurisation.
+EXPLICATION_D: Une ancienneté inconnue doit être reconnue comme telle.
+EXPLICATION_E: Une prescription déclarée ne garantit pas une prise efficace.
+
+---
+ID: 232-051
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Permanente · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 81 ans a une FA connue et une décision partagée d’accepter ce rythme sans nouvelle tentative de cardioversion. La fréquence et les symptômes sont suivis. Quelle forme temporelle correspond précisément à la durée et à la stratégie décrites ?
+A: F | Une FA paroxystique.
+B: F | Une FA persistante de longue durée.
+C: F | Un premier épisode dont la durée est totalement inconnue.
+D: V | Une FA permanente.
+E: F | Une FA persistante.
+JUSTIFICATION: La décision partagée de ne plus poursuivre la restauration du rythme définit une FA permanente dans la terminologie de la fiche.
+EXPLICATION_A: Un retour spontané en moins de sept jours est requis.
+EXPLICATION_B: La fiche décrit une FA continue de plus d’un an, ce qui n’est pas la donnée déterminante ici.
+EXPLICATION_C: L’observation fournit ici la chronologie ou la décision de stratégie.
+EXPLICATION_D: La décision partagée de ne plus poursuivre la restauration du rythme définit une FA permanente dans la terminologie de la fiche.
+EXPLICATION_E: La FA est maintenue et une stratégie de restauration peut encore être poursuivie.
+
+---
+ID: 232-052
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Chronologie et stratégie
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 81 ans a une FA connue et une décision partagée d’accepter ce rythme sans nouvelle tentative de cardioversion. La fréquence et les symptômes sont suivis. Quelles propositions distinguent correctement les formes temporelles ?
+A: F | Une FA paroxystique ne nécessite jamais d’évaluation du risque embolique.
+B: F | Le premier ECG de FA prouve toujours une ancienneté inférieure à 48 heures.
+C: V | Une FA maintenue au-delà de sept jours peut relever d’une forme persistante.
+D: V | Une FA acceptée sans poursuite de cardioversion peut être qualifiée de permanente.
+E: F | Une FA sans symptôme est automatiquement permanente.
+JUSTIFICATION: La durée des épisodes et la décision de restauration du rythme doivent être distinguées.
+EXPLICATION_A: Le caractère intermittent ne supprime pas ce risque.
+EXPLICATION_B: La première constatation n’est pas la date certaine de début.
+EXPLICATION_C: La temporalité doit être documentée.
+EXPLICATION_D: Cette notion comporte une décision de stratégie.
+EXPLICATION_E: L’absence de symptôme ne suffit pas à classer la durée ou la stratégie.
+
+---
+ID: 232-053
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 81 ans a une FA connue et une décision partagée d’accepter ce rythme sans nouvelle tentative de cardioversion. La fréquence et les symptômes sont suivis. Quelles propositions concernant le risque embolique sont exactes ?
+A: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+B: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+C: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+D: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+E: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: L’âge et les comorbidités peuvent conférer un risque.
+EXPLICATION_B: Le ressenti ne définit pas le risque de thrombus.
+EXPLICATION_C: Le terrain et le contexte de cardioversion restent déterminants.
+EXPLICATION_D: Le traitement ne fait pas disparaître l’antécédent.
+EXPLICATION_E: La fiche ne lui attribue pas cette place.
+
+---
+ID: 232-054
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 81 ans a une FA connue et une décision partagée d’accepter ce rythme sans nouvelle tentative de cardioversion. La fréquence et les symptômes sont suivis. Quelles propositions concernant le bilan sont exactes ?
+A: V | La kaliémie et la fonction rénale doivent être évaluées.
+B: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+C: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+D: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+E: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+EXPLICATION_B: Ces facteurs peuvent contribuer au trouble.
+EXPLICATION_C: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_D: Elle contribue à préciser le terrain et la stratégie.
+EXPLICATION_E: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+
+---
+ID: 232-055
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Geste programmé
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 81 ans a une FA connue et une décision partagée d’accepter ce rythme sans nouvelle tentative de cardioversion. La fréquence et les symptômes sont suivis. Pour une cardioversion non urgente, quelles propositions sont exactes ?
+A: F | Une simple absence de douleur thoracique exclut un thrombus dans l’oreillette.
+B: V | Une ETO peut rechercher un thrombus atrial avant une stratégie de cardioversion.
+C: F | Un risque de thrombus ne concerne que les formes permanentes.
+D: F | La seule normalité de l’ECG après le geste prouve l’absence de risque embolique ultérieur.
+E: V | La continuité réelle de l’anticoagulation doit être vérifiée.
+JUSTIFICATION: Il faut intégrer l’ancienneté, le risque de thrombus et l’anticoagulation.
+EXPLICATION_A: Le thrombus peut être asymptomatique.
+EXPLICATION_B: La fiche la cite parmi les outils de sécurisation.
+EXPLICATION_C: Il doit être considéré dans les autres formes également.
+EXPLICATION_D: Le terrain et le contexte après cardioversion restent déterminants.
+EXPLICATION_E: Une prescription déclarée ne garantit pas une prise efficace.
+
+---
+ID: 232-056
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Permanente · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 77 ans a une FA dont la restauration n’est plus poursuivie après discussion des bénéfices et risques. Le suivi porte sur fréquence, symptômes et prévention embolique. Quelle forme temporelle correspond précisément à la durée et à la stratégie décrites ?
+A: F | Une FA paroxystique.
+B: F | Une FA persistante de longue durée.
+C: F | Un premier épisode dont la durée est totalement inconnue.
+D: V | Une FA permanente.
+E: F | Une FA persistante.
+JUSTIFICATION: La décision partagée de ne plus poursuivre la restauration du rythme définit une FA permanente dans la terminologie de la fiche.
+EXPLICATION_A: Un retour spontané en moins de sept jours est requis.
+EXPLICATION_B: La fiche décrit une FA continue de plus d’un an, ce qui n’est pas la donnée déterminante ici.
+EXPLICATION_C: L’observation fournit ici la chronologie ou la décision de stratégie.
+EXPLICATION_D: La décision partagée de ne plus poursuivre la restauration du rythme définit une FA permanente dans la terminologie de la fiche.
+EXPLICATION_E: La FA est maintenue et une stratégie de restauration peut encore être poursuivie.
+
+---
+ID: 232-057
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Chronologie et stratégie
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 77 ans a une FA dont la restauration n’est plus poursuivie après discussion des bénéfices et risques. Le suivi porte sur fréquence, symptômes et prévention embolique. Quelles propositions distinguent correctement les formes temporelles ?
+A: F | Le premier ECG de FA prouve toujours une ancienneté inférieure à 48 heures.
+B: F | Une FA paroxystique ne nécessite jamais d’évaluation du risque embolique.
+C: V | Une FA acceptée sans poursuite de cardioversion peut être qualifiée de permanente.
+D: F | Une FA sans symptôme est automatiquement permanente.
+E: V | Une résolution spontanée en moins de sept jours correspond à une forme paroxystique selon la fiche.
+JUSTIFICATION: La durée des épisodes et la décision de restauration du rythme doivent être distinguées.
+EXPLICATION_A: La première constatation n’est pas la date certaine de début.
+EXPLICATION_B: Le caractère intermittent ne supprime pas ce risque.
+EXPLICATION_C: Cette notion comporte une décision de stratégie.
+EXPLICATION_D: L’absence de symptôme ne suffit pas à classer la durée ou la stratégie.
+EXPLICATION_E: La fin spontanée de l’épisode est déterminante.
+
+---
+ID: 232-058
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 77 ans a une FA dont la restauration n’est plus poursuivie après discussion des bénéfices et risques. Le suivi porte sur fréquence, symptômes et prévention embolique. Quelles propositions concernant le risque embolique sont exactes ?
+A: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+B: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+C: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+D: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+E: V | Un antécédent personnel d’AVC augmente le risque embolique.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: L’âge et les comorbidités peuvent conférer un risque.
+EXPLICATION_B: Le terrain et le contexte de cardioversion restent déterminants.
+EXPLICATION_C: La fiche ne lui attribue pas cette place.
+EXPLICATION_D: Le ressenti ne définit pas le risque de thrombus.
+EXPLICATION_E: Il pèse fortement dans l’évaluation décrite par la fiche.
+
+---
+ID: 232-059
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 77 ans a une FA dont la restauration n’est plus poursuivie après discussion des bénéfices et risques. Le suivi porte sur fréquence, symptômes et prévention embolique. Quelles propositions concernant le bilan sont exactes ?
+A: V | Une TSH aide à rechercher une hyperthyroïdie.
+B: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+C: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+D: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+E: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_B: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_C: Elle contribue à préciser le terrain et la stratégie.
+EXPLICATION_D: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+EXPLICATION_E: Ces facteurs peuvent contribuer au trouble.
+
+---
+ID: 232-060
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Geste programmé
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 77 ans a une FA dont la restauration n’est plus poursuivie après discussion des bénéfices et risques. Le suivi porte sur fréquence, symptômes et prévention embolique. Pour une cardioversion non urgente, quelles propositions sont exactes ?
+A: F | Une simple absence de douleur thoracique exclut un thrombus dans l’oreillette.
+B: F | Un risque de thrombus ne concerne que les formes permanentes.
+C: F | La seule normalité de l’ECG après le geste prouve l’absence de risque embolique ultérieur.
+D: V | La première constatation de FA ne date pas nécessairement son début.
+E: V | La continuité réelle de l’anticoagulation doit être vérifiée.
+JUSTIFICATION: Il faut intégrer l’ancienneté, le risque de thrombus et l’anticoagulation.
+EXPLICATION_A: Le thrombus peut être asymptomatique.
+EXPLICATION_B: Il doit être considéré dans les autres formes également.
+EXPLICATION_C: Le terrain et le contexte après cardioversion restent déterminants.
+EXPLICATION_D: Une ancienneté inconnue doit être reconnue comme telle.
+EXPLICATION_E: Une prescription déclarée ne garantit pas une prise efficace.
+
+---
+ID: 232-061
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Permanente · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 79 ans a une FA acceptée après plusieurs échecs de cardioversion. Aucune nouvelle stratégie de restauration du rythme n’est retenue. Quelle forme temporelle correspond précisément à la durée et à la stratégie décrites ?
+A: F | Une FA paroxystique.
+B: V | Une FA permanente.
+C: F | Une FA persistante de longue durée.
+D: F | Une FA persistante.
+E: F | Un premier épisode dont la durée est totalement inconnue.
+JUSTIFICATION: La décision partagée de ne plus poursuivre la restauration du rythme définit une FA permanente dans la terminologie de la fiche.
+EXPLICATION_A: Un retour spontané en moins de sept jours est requis.
+EXPLICATION_B: La décision partagée de ne plus poursuivre la restauration du rythme définit une FA permanente dans la terminologie de la fiche.
+EXPLICATION_C: La fiche décrit une FA continue de plus d’un an, ce qui n’est pas la donnée déterminante ici.
+EXPLICATION_D: La FA est maintenue et une stratégie de restauration peut encore être poursuivie.
+EXPLICATION_E: L’observation fournit ici la chronologie ou la décision de stratégie.
+
+---
+ID: 232-062
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Chronologie et stratégie
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 79 ans a une FA acceptée après plusieurs échecs de cardioversion. Aucune nouvelle stratégie de restauration du rythme n’est retenue. Quelles propositions distinguent correctement les formes temporelles ?
+A: V | Une FA maintenue au-delà de sept jours peut relever d’une forme persistante.
+B: V | Une résolution spontanée en moins de sept jours correspond à une forme paroxystique selon la fiche.
+C: F | Le premier ECG de FA prouve toujours une ancienneté inférieure à 48 heures.
+D: F | Une FA sans symptôme est automatiquement permanente.
+E: F | Une FA paroxystique ne nécessite jamais d’évaluation du risque embolique.
+JUSTIFICATION: La durée des épisodes et la décision de restauration du rythme doivent être distinguées.
+EXPLICATION_A: La temporalité doit être documentée.
+EXPLICATION_B: La fin spontanée de l’épisode est déterminante.
+EXPLICATION_C: La première constatation n’est pas la date certaine de début.
+EXPLICATION_D: L’absence de symptôme ne suffit pas à classer la durée ou la stratégie.
+EXPLICATION_E: Le caractère intermittent ne supprime pas ce risque.
+
+---
+ID: 232-063
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 79 ans a une FA acceptée après plusieurs échecs de cardioversion. Aucune nouvelle stratégie de restauration du rythme n’est retenue. Quelles propositions concernant le risque embolique sont exactes ?
+A: V | Un antécédent personnel d’AVC augmente le risque embolique.
+B: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+C: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+D: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+E: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: Il pèse fortement dans l’évaluation décrite par la fiche.
+EXPLICATION_B: La fiche ne lui attribue pas cette place.
+EXPLICATION_C: L’âge et les comorbidités peuvent conférer un risque.
+EXPLICATION_D: Le traitement ne fait pas disparaître l’antécédent.
+EXPLICATION_E: Le ressenti ne définit pas le risque de thrombus.
+
+---
+ID: 232-064
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 79 ans a une FA acceptée après plusieurs échecs de cardioversion. Aucune nouvelle stratégie de restauration du rythme n’est retenue. Quelles propositions concernant le bilan sont exactes ?
+A: V | Une TSH aide à rechercher une hyperthyroïdie.
+B: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+C: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+D: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+E: V | La kaliémie et la fonction rénale doivent être évaluées.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_B: Ces facteurs peuvent contribuer au trouble.
+EXPLICATION_C: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+EXPLICATION_D: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_E: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+
+---
+ID: 232-065
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Geste programmé
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 79 ans a une FA acceptée après plusieurs échecs de cardioversion. Aucune nouvelle stratégie de restauration du rythme n’est retenue. Pour une cardioversion non urgente, quelles propositions sont exactes ?
+A: F | Une simple absence de douleur thoracique exclut un thrombus dans l’oreillette.
+B: F | La seule normalité de l’ECG après le geste prouve l’absence de risque embolique ultérieur.
+C: V | Une ETO peut rechercher un thrombus atrial avant une stratégie de cardioversion.
+D: F | Un risque de thrombus ne concerne que les formes permanentes.
+E: V | La première constatation de FA ne date pas nécessairement son début.
+JUSTIFICATION: Il faut intégrer l’ancienneté, le risque de thrombus et l’anticoagulation.
+EXPLICATION_A: Le thrombus peut être asymptomatique.
+EXPLICATION_B: Le terrain et le contexte après cardioversion restent déterminants.
+EXPLICATION_C: La fiche la cite parmi les outils de sécurisation.
+EXPLICATION_D: Il doit être considéré dans les autres formes également.
+EXPLICATION_E: Une ancienneté inconnue doit être reconnue comme telle.
+
+---
+ID: 232-066
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Permanente · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 84 ans a une FA chronique acceptée avec son équipe ; l’absence de nouvelle cardioversion résulte d’une décision thérapeutique documentée. Quelle forme temporelle correspond précisément à la durée et à la stratégie décrites ?
+A: F | Une FA paroxystique.
+B: F | Une FA persistante de longue durée.
+C: F | Une FA persistante.
+D: V | Une FA permanente.
+E: F | Un premier épisode dont la durée est totalement inconnue.
+JUSTIFICATION: La décision partagée de ne plus poursuivre la restauration du rythme définit une FA permanente dans la terminologie de la fiche.
+EXPLICATION_A: Un retour spontané en moins de sept jours est requis.
+EXPLICATION_B: La fiche décrit une FA continue de plus d’un an, ce qui n’est pas la donnée déterminante ici.
+EXPLICATION_C: La FA est maintenue et une stratégie de restauration peut encore être poursuivie.
+EXPLICATION_D: La décision partagée de ne plus poursuivre la restauration du rythme définit une FA permanente dans la terminologie de la fiche.
+EXPLICATION_E: L’observation fournit ici la chronologie ou la décision de stratégie.
+
+---
+ID: 232-067
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Chronologie et stratégie
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 84 ans a une FA chronique acceptée avec son équipe ; l’absence de nouvelle cardioversion résulte d’une décision thérapeutique documentée. Quelles propositions distinguent correctement les formes temporelles ?
+A: V | Une résolution spontanée en moins de sept jours correspond à une forme paroxystique selon la fiche.
+B: V | Une FA acceptée sans poursuite de cardioversion peut être qualifiée de permanente.
+C: F | Une FA sans symptôme est automatiquement permanente.
+D: F | Une FA paroxystique ne nécessite jamais d’évaluation du risque embolique.
+E: V | Une FA maintenue au-delà de sept jours peut relever d’une forme persistante.
+JUSTIFICATION: La durée des épisodes et la décision de restauration du rythme doivent être distinguées.
+EXPLICATION_A: La fin spontanée de l’épisode est déterminante.
+EXPLICATION_B: Cette notion comporte une décision de stratégie.
+EXPLICATION_C: L’absence de symptôme ne suffit pas à classer la durée ou la stratégie.
+EXPLICATION_D: Le caractère intermittent ne supprime pas ce risque.
+EXPLICATION_E: La temporalité doit être documentée.
+
+---
+ID: 232-068
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 84 ans a une FA chronique acceptée avec son équipe ; l’absence de nouvelle cardioversion résulte d’une décision thérapeutique documentée. Quelles propositions concernant le risque embolique sont exactes ?
+A: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+B: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+C: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+D: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+E: V | Un antécédent personnel d’AVC augmente le risque embolique.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: Le ressenti ne définit pas le risque de thrombus.
+EXPLICATION_B: L’âge et les comorbidités peuvent conférer un risque.
+EXPLICATION_C: Le terrain et le contexte de cardioversion restent déterminants.
+EXPLICATION_D: Le traitement ne fait pas disparaître l’antécédent.
+EXPLICATION_E: Il pèse fortement dans l’évaluation décrite par la fiche.
+
+---
+ID: 232-069
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 84 ans a une FA chronique acceptée avec son équipe ; l’absence de nouvelle cardioversion résulte d’une décision thérapeutique documentée. Quelles propositions concernant le bilan sont exactes ?
+A: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+B: V | Une TSH aide à rechercher une hyperthyroïdie.
+C: V | La kaliémie et la fonction rénale doivent être évaluées.
+D: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+E: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_B: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_C: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+EXPLICATION_D: Ces facteurs peuvent contribuer au trouble.
+EXPLICATION_E: Elle contribue à préciser le terrain et la stratégie.
+
+---
+ID: 232-070
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Geste programmé
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 84 ans a une FA chronique acceptée avec son équipe ; l’absence de nouvelle cardioversion résulte d’une décision thérapeutique documentée. Pour une cardioversion non urgente, quelles propositions sont exactes ?
+A: F | Un risque de thrombus ne concerne que les formes permanentes.
+B: V | La continuité réelle de l’anticoagulation doit être vérifiée.
+C: V | La première constatation de FA ne date pas nécessairement son début.
+D: F | La seule normalité de l’ECG après le geste prouve l’absence de risque embolique ultérieur.
+E: V | Une ETO peut rechercher un thrombus atrial avant une stratégie de cardioversion.
+JUSTIFICATION: Il faut intégrer l’ancienneté, le risque de thrombus et l’anticoagulation.
+EXPLICATION_A: Il doit être considéré dans les autres formes également.
+EXPLICATION_B: Une prescription déclarée ne garantit pas une prise efficace.
+EXPLICATION_C: Une ancienneté inconnue doit être reconnue comme telle.
+EXPLICATION_D: Le terrain et le contexte après cardioversion restent déterminants.
+EXPLICATION_E: La fiche la cite parmi les outils de sécurisation.
+
+---
+ID: 232-071
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Permanente · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 76 ans a une FA pour laquelle le patient et l’équipe ont choisi de ne plus rechercher le rythme sinusal. Le traitement ralentisseur est réévalué selon sa tolérance. Quelle forme temporelle correspond précisément à la durée et à la stratégie décrites ?
+A: F | Une FA persistante.
+B: F | Une FA persistante de longue durée.
+C: F | Un premier épisode dont la durée est totalement inconnue.
+D: V | Une FA permanente.
+E: F | Une FA paroxystique.
+JUSTIFICATION: La décision partagée de ne plus poursuivre la restauration du rythme définit une FA permanente dans la terminologie de la fiche.
+EXPLICATION_A: La FA est maintenue et une stratégie de restauration peut encore être poursuivie.
+EXPLICATION_B: La fiche décrit une FA continue de plus d’un an, ce qui n’est pas la donnée déterminante ici.
+EXPLICATION_C: L’observation fournit ici la chronologie ou la décision de stratégie.
+EXPLICATION_D: La décision partagée de ne plus poursuivre la restauration du rythme définit une FA permanente dans la terminologie de la fiche.
+EXPLICATION_E: Un retour spontané en moins de sept jours est requis.
+
+---
+ID: 232-072
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Chronologie et stratégie
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 76 ans a une FA pour laquelle le patient et l’équipe ont choisi de ne plus rechercher le rythme sinusal. Le traitement ralentisseur est réévalué selon sa tolérance. Quelles propositions distinguent correctement les formes temporelles ?
+A: V | Une FA acceptée sans poursuite de cardioversion peut être qualifiée de permanente.
+B: V | Une résolution spontanée en moins de sept jours correspond à une forme paroxystique selon la fiche.
+C: V | Une FA maintenue au-delà de sept jours peut relever d’une forme persistante.
+D: F | Le premier ECG de FA prouve toujours une ancienneté inférieure à 48 heures.
+E: F | Une FA paroxystique ne nécessite jamais d’évaluation du risque embolique.
+JUSTIFICATION: La durée des épisodes et la décision de restauration du rythme doivent être distinguées.
+EXPLICATION_A: Cette notion comporte une décision de stratégie.
+EXPLICATION_B: La fin spontanée de l’épisode est déterminante.
+EXPLICATION_C: La temporalité doit être documentée.
+EXPLICATION_D: La première constatation n’est pas la date certaine de début.
+EXPLICATION_E: Le caractère intermittent ne supprime pas ce risque.
+
+---
+ID: 232-073
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 76 ans a une FA pour laquelle le patient et l’équipe ont choisi de ne plus rechercher le rythme sinusal. Le traitement ralentisseur est réévalué selon sa tolérance. Quelles propositions concernant le risque embolique sont exactes ?
+A: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+B: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+C: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+D: V | Un antécédent personnel d’AVC augmente le risque embolique.
+E: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: Le ressenti ne définit pas le risque de thrombus.
+EXPLICATION_B: Le traitement ne fait pas disparaître l’antécédent.
+EXPLICATION_C: Le terrain et le contexte de cardioversion restent déterminants.
+EXPLICATION_D: Il pèse fortement dans l’évaluation décrite par la fiche.
+EXPLICATION_E: La fiche ne lui attribue pas cette place.
+
+---
+ID: 232-074
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 76 ans a une FA pour laquelle le patient et l’équipe ont choisi de ne plus rechercher le rythme sinusal. Le traitement ralentisseur est réévalué selon sa tolérance. Quelles propositions concernant le bilan sont exactes ?
+A: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+B: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+C: V | La kaliémie et la fonction rénale doivent être évaluées.
+D: V | Une TSH aide à rechercher une hyperthyroïdie.
+E: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+EXPLICATION_B: Elle contribue à préciser le terrain et la stratégie.
+EXPLICATION_C: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+EXPLICATION_D: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_E: La fonction rénale contribue au choix et à la sécurité des traitements.
+
+---
+ID: 232-075
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Permanente · Geste programmé
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 76 ans a une FA pour laquelle le patient et l’équipe ont choisi de ne plus rechercher le rythme sinusal. Le traitement ralentisseur est réévalué selon sa tolérance. Pour une cardioversion non urgente, quelles propositions sont exactes ?
+A: V | La première constatation de FA ne date pas nécessairement son début.
+B: F | Une simple absence de douleur thoracique exclut un thrombus dans l’oreillette.
+C: V | La continuité réelle de l’anticoagulation doit être vérifiée.
+D: V | Une ETO peut rechercher un thrombus atrial avant une stratégie de cardioversion.
+E: F | La seule normalité de l’ECG après le geste prouve l’absence de risque embolique ultérieur.
+JUSTIFICATION: Il faut intégrer l’ancienneté, le risque de thrombus et l’anticoagulation.
+EXPLICATION_A: Une ancienneté inconnue doit être reconnue comme telle.
+EXPLICATION_B: Le thrombus peut être asymptomatique.
+EXPLICATION_C: Une prescription déclarée ne garantit pas une prise efficace.
+EXPLICATION_D: La fiche la cite parmi les outils de sécurisation.
+EXPLICATION_E: Le terrain et le contexte après cardioversion restent déterminants.
+
+---
+ID: 232-076
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 65 ans en FA porte une prothèse mitrale mécanique. Le médecin doit préciser ce terrain avant de choisir l’anticoagulant. Quelle donnée de l’observation définit le contexte valvulaire particulier de la fiche ?
+A: F | Le seul caractère irrégulier du pouls.
+B: F | La seule perception de palpitations.
+C: F | Le seul âge supérieur à 55 ans.
+D: F | La seule présence de toute fuite valvulaire minime.
+E: V | La prothèse mécanique ou le rétrécissement mitral significatif décrit.
+JUSTIFICATION: Une prothèse mécanique ou un rétrécissement mitral significatif doit être identifié avant le choix de la stratégie anticoagulante.
+EXPLICATION_A: Il ne distingue pas les terrains de FA.
+EXPLICATION_B: Le ressenti ne précise pas la lésion valvulaire.
+EXPLICATION_C: L’âge ne définit pas ce contexte valvulaire.
+EXPLICATION_D: Toute anomalie minime ne se confond pas avec le terrain décrit.
+EXPLICATION_E: Ce terrain doit être identifié pour la stratégie anticoagulante.
+
+---
+ID: 232-077
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Terrain valvulaire
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 65 ans en FA porte une prothèse mitrale mécanique. Le médecin doit préciser ce terrain avant de choisir l’anticoagulant. Quelles propositions concernant ce terrain sont exactes ?
+A: F | Le seul caractère paroxystique autorise à ignorer un rétrécissement mitral significatif.
+B: F | Une prothèse mécanique devient sans importance si la FA s’arrête.
+C: V | La nature exacte d’une prothèse doit être précisée.
+D: V | Un rétrécissement mitral modéré ou sévère relève du contexte valvulaire particulier de la fiche.
+E: F | Toutes les valvulopathies imposent d’être assimilées à une prothèse mécanique.
+JUSTIFICATION: Une prothèse mécanique ou un rétrécissement mitral significatif modifie la stratégie anticoagulante.
+EXPLICATION_A: Le terrain reste déterminant.
+EXPLICATION_B: Son indication anticoagulante ne se résume pas à l’épisode de FA.
+EXPLICATION_C: Une simple mention de chirurgie valvulaire ne suffit pas.
+EXPLICATION_D: Il participe au risque thromboembolique.
+EXPLICATION_E: La lésion et le type de prothèse doivent être distingués.
+
+---
+ID: 232-078
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 65 ans en FA porte une prothèse mitrale mécanique. Le médecin doit préciser ce terrain avant de choisir l’anticoagulant. Quelles propositions concernant le risque embolique sont exactes ?
+A: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+B: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+C: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+D: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+E: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: Le ressenti ne définit pas le risque de thrombus.
+EXPLICATION_B: La fiche ne lui attribue pas cette place.
+EXPLICATION_C: Le traitement ne fait pas disparaître l’antécédent.
+EXPLICATION_D: L’âge et les comorbidités peuvent conférer un risque.
+EXPLICATION_E: Le terrain et le contexte de cardioversion restent déterminants.
+
+---
+ID: 232-079
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Sécurité thérapeutique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 65 ans en FA porte une prothèse mitrale mécanique. Le médecin doit préciser ce terrain avant de choisir l’anticoagulant. Quelles propositions concernant le suivi sont exactes ?
+A: F | La survenue d’une syncope sous ralentisseur doit être ignorée si la fréquence antérieure était élevée.
+B: F | Un risque hémorragique élevé signifie que le risque embolique a disparu.
+C: V | Les traitements associés et l’alcool doivent être revus.
+D: V | L’amiodarone peut provoquer une dysthyroïdie ou une atteinte pulmonaire.
+E: F | Un anticoagulant ne peut provoquer un saignement que si un surdosage biologique est prouvé.
+JUSTIFICATION: Le risque hémorragique et les effets des traitements doivent être surveillés sans perdre de vue le risque embolique.
+EXPLICATION_A: Une bradycardie ou un trouble de conduction iatrogène doit être recherché.
+EXPLICATION_B: Il s’agit de deux dimensions à mettre en balance.
+EXPLICATION_C: Ils peuvent contribuer aux interactions ou au risque hémorragique.
+EXPLICATION_D: La fiche prévoit une surveillance adaptée.
+EXPLICATION_E: Le risque hémorragique ne se limite pas à un surdosage.
+
+---
+ID: 232-080
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 65 ans en FA porte une prothèse mitrale mécanique. Le médecin doit préciser ce terrain avant de choisir l’anticoagulant. Quelles propositions concernant le bilan sont exactes ?
+A: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+B: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+C: V | La kaliémie et la fonction rénale doivent être évaluées.
+D: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+E: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Ces facteurs peuvent contribuer au trouble.
+EXPLICATION_B: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+EXPLICATION_C: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+EXPLICATION_D: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_E: Elle contribue à préciser le terrain et la stratégie.
+
+---
+ID: 232-081
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 72 ans a une FA et une prothèse aortique mécanique. Sa fonction rénale est évaluée et le type de valve est confirmé. Quelle donnée de l’observation définit le contexte valvulaire particulier de la fiche ?
+A: F | Le seul âge supérieur à 55 ans.
+B: F | La seule perception de palpitations.
+C: V | La prothèse mécanique ou le rétrécissement mitral significatif décrit.
+D: F | La seule présence de toute fuite valvulaire minime.
+E: F | Le seul caractère irrégulier du pouls.
+JUSTIFICATION: Une prothèse mécanique ou un rétrécissement mitral significatif doit être identifié avant le choix de la stratégie anticoagulante.
+EXPLICATION_A: L’âge ne définit pas ce contexte valvulaire.
+EXPLICATION_B: Le ressenti ne précise pas la lésion valvulaire.
+EXPLICATION_C: Ce terrain doit être identifié pour la stratégie anticoagulante.
+EXPLICATION_D: Toute anomalie minime ne se confond pas avec le terrain décrit.
+EXPLICATION_E: Il ne distingue pas les terrains de FA.
+
+---
+ID: 232-082
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Terrain valvulaire
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 72 ans a une FA et une prothèse aortique mécanique. Sa fonction rénale est évaluée et le type de valve est confirmé. Quelles propositions concernant ce terrain sont exactes ?
+A: F | Une prothèse mécanique devient sans importance si la FA s’arrête.
+B: F | Le seul caractère paroxystique autorise à ignorer un rétrécissement mitral significatif.
+C: V | Une prothèse mécanique doit être identifiée avant le choix de l’anticoagulant.
+D: V | La nature exacte d’une prothèse doit être précisée.
+E: F | Toutes les valvulopathies imposent d’être assimilées à une prothèse mécanique.
+JUSTIFICATION: Une prothèse mécanique ou un rétrécissement mitral significatif modifie la stratégie anticoagulante.
+EXPLICATION_A: Son indication anticoagulante ne se résume pas à l’épisode de FA.
+EXPLICATION_B: Le terrain reste déterminant.
+EXPLICATION_C: Elle définit un contexte différent de la FA sans ce terrain.
+EXPLICATION_D: Une simple mention de chirurgie valvulaire ne suffit pas.
+EXPLICATION_E: La lésion et le type de prothèse doivent être distingués.
+
+---
+ID: 232-083
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 72 ans a une FA et une prothèse aortique mécanique. Sa fonction rénale est évaluée et le type de valve est confirmé. Quelles propositions concernant le risque embolique sont exactes ?
+A: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+B: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+C: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+D: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+E: V | Un antécédent personnel d’AVC augmente le risque embolique.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: L’âge et les comorbidités peuvent conférer un risque.
+EXPLICATION_B: Le ressenti ne définit pas le risque de thrombus.
+EXPLICATION_C: La fiche ne lui attribue pas cette place.
+EXPLICATION_D: Le terrain et le contexte de cardioversion restent déterminants.
+EXPLICATION_E: Il pèse fortement dans l’évaluation décrite par la fiche.
+
+---
+ID: 232-084
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Sécurité thérapeutique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 72 ans a une FA et une prothèse aortique mécanique. Sa fonction rénale est évaluée et le type de valve est confirmé. Quelles propositions concernant le suivi sont exactes ?
+A: V | L’amiodarone peut provoquer une dysthyroïdie ou une atteinte pulmonaire.
+B: V | Un antécédent de saignement doit être recherché.
+C: F | La survenue d’une syncope sous ralentisseur doit être ignorée si la fréquence antérieure était élevée.
+D: F | Un risque hémorragique élevé signifie que le risque embolique a disparu.
+E: F | Un anticoagulant ne peut provoquer un saignement que si un surdosage biologique est prouvé.
+JUSTIFICATION: Le risque hémorragique et les effets des traitements doivent être surveillés sans perdre de vue le risque embolique.
+EXPLICATION_A: La fiche prévoit une surveillance adaptée.
+EXPLICATION_B: Il participe à l’évaluation du risque sous traitement.
+EXPLICATION_C: Une bradycardie ou un trouble de conduction iatrogène doit être recherché.
+EXPLICATION_D: Il s’agit de deux dimensions à mettre en balance.
+EXPLICATION_E: Le risque hémorragique ne se limite pas à un surdosage.
+
+---
+ID: 232-085
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 72 ans a une FA et une prothèse aortique mécanique. Sa fonction rénale est évaluée et le type de valve est confirmé. Quelles propositions concernant le bilan sont exactes ?
+A: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+B: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+C: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+D: V | Une TSH aide à rechercher une hyperthyroïdie.
+E: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Ces facteurs peuvent contribuer au trouble.
+EXPLICATION_B: Elle contribue à préciser le terrain et la stratégie.
+EXPLICATION_C: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_D: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_E: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+
+---
+ID: 232-086
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 58 ans a une FA avec rétrécissement mitral rhumatismal sévère. Le terrain valvulaire doit guider la stratégie antithrombotique. Quelle donnée de l’observation définit le contexte valvulaire particulier de la fiche ?
+A: F | La seule perception de palpitations.
+B: V | La prothèse mécanique ou le rétrécissement mitral significatif décrit.
+C: F | Le seul âge supérieur à 55 ans.
+D: F | La seule présence de toute fuite valvulaire minime.
+E: F | Le seul caractère irrégulier du pouls.
+JUSTIFICATION: Une prothèse mécanique ou un rétrécissement mitral significatif doit être identifié avant le choix de la stratégie anticoagulante.
+EXPLICATION_A: Le ressenti ne précise pas la lésion valvulaire.
+EXPLICATION_B: Ce terrain doit être identifié pour la stratégie anticoagulante.
+EXPLICATION_C: L’âge ne définit pas ce contexte valvulaire.
+EXPLICATION_D: Toute anomalie minime ne se confond pas avec le terrain décrit.
+EXPLICATION_E: Il ne distingue pas les terrains de FA.
+
+---
+ID: 232-087
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Terrain valvulaire
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 58 ans a une FA avec rétrécissement mitral rhumatismal sévère. Le terrain valvulaire doit guider la stratégie antithrombotique. Quelles propositions concernant ce terrain sont exactes ?
+A: V | Une prothèse mécanique doit être identifiée avant le choix de l’anticoagulant.
+B: F | Le seul caractère paroxystique autorise à ignorer un rétrécissement mitral significatif.
+C: F | Toutes les valvulopathies imposent d’être assimilées à une prothèse mécanique.
+D: V | Un rétrécissement mitral modéré ou sévère relève du contexte valvulaire particulier de la fiche.
+E: F | Une prothèse mécanique devient sans importance si la FA s’arrête.
+JUSTIFICATION: Une prothèse mécanique ou un rétrécissement mitral significatif modifie la stratégie anticoagulante.
+EXPLICATION_A: Elle définit un contexte différent de la FA sans ce terrain.
+EXPLICATION_B: Le terrain reste déterminant.
+EXPLICATION_C: La lésion et le type de prothèse doivent être distingués.
+EXPLICATION_D: Il participe au risque thromboembolique.
+EXPLICATION_E: Son indication anticoagulante ne se résume pas à l’épisode de FA.
+
+---
+ID: 232-088
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 58 ans a une FA avec rétrécissement mitral rhumatismal sévère. Le terrain valvulaire doit guider la stratégie antithrombotique. Quelles propositions concernant le risque embolique sont exactes ?
+A: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+B: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+C: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+D: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+E: V | Un antécédent personnel d’AVC augmente le risque embolique.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: La fiche ne lui attribue pas cette place.
+EXPLICATION_B: Le ressenti ne définit pas le risque de thrombus.
+EXPLICATION_C: Le traitement ne fait pas disparaître l’antécédent.
+EXPLICATION_D: L’âge et les comorbidités peuvent conférer un risque.
+EXPLICATION_E: Il pèse fortement dans l’évaluation décrite par la fiche.
+
+---
+ID: 232-089
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Sécurité thérapeutique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 58 ans a une FA avec rétrécissement mitral rhumatismal sévère. Le terrain valvulaire doit guider la stratégie antithrombotique. Quelles propositions concernant le suivi sont exactes ?
+A: F | Un risque hémorragique élevé signifie que le risque embolique a disparu.
+B: V | Un antécédent de saignement doit être recherché.
+C: V | Les traitements associés et l’alcool doivent être revus.
+D: F | Un anticoagulant ne peut provoquer un saignement que si un surdosage biologique est prouvé.
+E: F | La survenue d’une syncope sous ralentisseur doit être ignorée si la fréquence antérieure était élevée.
+JUSTIFICATION: Le risque hémorragique et les effets des traitements doivent être surveillés sans perdre de vue le risque embolique.
+EXPLICATION_A: Il s’agit de deux dimensions à mettre en balance.
+EXPLICATION_B: Il participe à l’évaluation du risque sous traitement.
+EXPLICATION_C: Ils peuvent contribuer aux interactions ou au risque hémorragique.
+EXPLICATION_D: Le risque hémorragique ne se limite pas à un surdosage.
+EXPLICATION_E: Une bradycardie ou un trouble de conduction iatrogène doit être recherché.
+
+---
+ID: 232-090
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 58 ans a une FA avec rétrécissement mitral rhumatismal sévère. Le terrain valvulaire doit guider la stratégie antithrombotique. Quelles propositions concernant le bilan sont exactes ?
+A: V | Une TSH aide à rechercher une hyperthyroïdie.
+B: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+C: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+D: V | La kaliémie et la fonction rénale doivent être évaluées.
+E: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_B: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+EXPLICATION_C: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_D: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+EXPLICATION_E: Ces facteurs peuvent contribuer au trouble.
+
+---
+ID: 232-091
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 69 ans présente une FA associée à un rétrécissement mitral modéré documenté. La lésion exacte est vérifiée avant prescription. Quelle donnée de l’observation définit le contexte valvulaire particulier de la fiche ?
+A: F | La seule perception de palpitations.
+B: F | Le seul caractère irrégulier du pouls.
+C: F | La seule présence de toute fuite valvulaire minime.
+D: F | Le seul âge supérieur à 55 ans.
+E: V | La prothèse mécanique ou le rétrécissement mitral significatif décrit.
+JUSTIFICATION: Une prothèse mécanique ou un rétrécissement mitral significatif doit être identifié avant le choix de la stratégie anticoagulante.
+EXPLICATION_A: Le ressenti ne précise pas la lésion valvulaire.
+EXPLICATION_B: Il ne distingue pas les terrains de FA.
+EXPLICATION_C: Toute anomalie minime ne se confond pas avec le terrain décrit.
+EXPLICATION_D: L’âge ne définit pas ce contexte valvulaire.
+EXPLICATION_E: Ce terrain doit être identifié pour la stratégie anticoagulante.
+
+---
+ID: 232-092
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Terrain valvulaire
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 69 ans présente une FA associée à un rétrécissement mitral modéré documenté. La lésion exacte est vérifiée avant prescription. Quelles propositions concernant ce terrain sont exactes ?
+A: V | Une prothèse mécanique doit être identifiée avant le choix de l’anticoagulant.
+B: V | La nature exacte d’une prothèse doit être précisée.
+C: F | Le seul caractère paroxystique autorise à ignorer un rétrécissement mitral significatif.
+D: F | Une prothèse mécanique devient sans importance si la FA s’arrête.
+E: V | Un rétrécissement mitral modéré ou sévère relève du contexte valvulaire particulier de la fiche.
+JUSTIFICATION: Une prothèse mécanique ou un rétrécissement mitral significatif modifie la stratégie anticoagulante.
+EXPLICATION_A: Elle définit un contexte différent de la FA sans ce terrain.
+EXPLICATION_B: Une simple mention de chirurgie valvulaire ne suffit pas.
+EXPLICATION_C: Le terrain reste déterminant.
+EXPLICATION_D: Son indication anticoagulante ne se résume pas à l’épisode de FA.
+EXPLICATION_E: Il participe au risque thromboembolique.
+
+---
+ID: 232-093
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 69 ans présente une FA associée à un rétrécissement mitral modéré documenté. La lésion exacte est vérifiée avant prescription. Quelles propositions concernant le risque embolique sont exactes ?
+A: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+B: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+C: V | Un antécédent personnel d’AVC augmente le risque embolique.
+D: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+E: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: Le traitement ne fait pas disparaître l’antécédent.
+EXPLICATION_B: Le ressenti ne définit pas le risque de thrombus.
+EXPLICATION_C: Il pèse fortement dans l’évaluation décrite par la fiche.
+EXPLICATION_D: Le terrain et le contexte de cardioversion restent déterminants.
+EXPLICATION_E: L’âge et les comorbidités peuvent conférer un risque.
+
+---
+ID: 232-094
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Sécurité thérapeutique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 69 ans présente une FA associée à un rétrécissement mitral modéré documenté. La lésion exacte est vérifiée avant prescription. Quelles propositions concernant le suivi sont exactes ?
+A: V | L’amiodarone peut provoquer une dysthyroïdie ou une atteinte pulmonaire.
+B: F | Un anticoagulant ne peut provoquer un saignement que si un surdosage biologique est prouvé.
+C: F | La survenue d’une syncope sous ralentisseur doit être ignorée si la fréquence antérieure était élevée.
+D: V | Les traitements associés et l’alcool doivent être revus.
+E: V | Un antécédent de saignement doit être recherché.
+JUSTIFICATION: Le risque hémorragique et les effets des traitements doivent être surveillés sans perdre de vue le risque embolique.
+EXPLICATION_A: La fiche prévoit une surveillance adaptée.
+EXPLICATION_B: Le risque hémorragique ne se limite pas à un surdosage.
+EXPLICATION_C: Une bradycardie ou un trouble de conduction iatrogène doit être recherché.
+EXPLICATION_D: Ils peuvent contribuer aux interactions ou au risque hémorragique.
+EXPLICATION_E: Il participe à l’évaluation du risque sous traitement.
+
+---
+ID: 232-095
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 69 ans présente une FA associée à un rétrécissement mitral modéré documenté. La lésion exacte est vérifiée avant prescription. Quelles propositions concernant le bilan sont exactes ?
+A: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+B: V | Une TSH aide à rechercher une hyperthyroïdie.
+C: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+D: V | La kaliémie et la fonction rénale doivent être évaluées.
+E: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Elle contribue à préciser le terrain et la stratégie.
+EXPLICATION_B: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_C: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_D: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+EXPLICATION_E: Ces facteurs peuvent contribuer au trouble.
+
+---
+ID: 232-096
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 77 ans a une FA et une prothèse mécanique identifiée dans son dossier opératoire. L’équipe évite d’assimiler ce terrain à toute autre valvulopathie. Quelle donnée de l’observation définit le contexte valvulaire particulier de la fiche ?
+A: F | La seule perception de palpitations.
+B: F | La seule présence de toute fuite valvulaire minime.
+C: V | La prothèse mécanique ou le rétrécissement mitral significatif décrit.
+D: F | Le seul caractère irrégulier du pouls.
+E: F | Le seul âge supérieur à 55 ans.
+JUSTIFICATION: Une prothèse mécanique ou un rétrécissement mitral significatif doit être identifié avant le choix de la stratégie anticoagulante.
+EXPLICATION_A: Le ressenti ne précise pas la lésion valvulaire.
+EXPLICATION_B: Toute anomalie minime ne se confond pas avec le terrain décrit.
+EXPLICATION_C: Ce terrain doit être identifié pour la stratégie anticoagulante.
+EXPLICATION_D: Il ne distingue pas les terrains de FA.
+EXPLICATION_E: L’âge ne définit pas ce contexte valvulaire.
+
+---
+ID: 232-097
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Terrain valvulaire
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 77 ans a une FA et une prothèse mécanique identifiée dans son dossier opératoire. L’équipe évite d’assimiler ce terrain à toute autre valvulopathie. Quelles propositions concernant ce terrain sont exactes ?
+A: F | Le seul caractère paroxystique autorise à ignorer un rétrécissement mitral significatif.
+B: V | Une prothèse mécanique doit être identifiée avant le choix de l’anticoagulant.
+C: V | La nature exacte d’une prothèse doit être précisée.
+D: F | Toutes les valvulopathies imposent d’être assimilées à une prothèse mécanique.
+E: V | Un rétrécissement mitral modéré ou sévère relève du contexte valvulaire particulier de la fiche.
+JUSTIFICATION: Une prothèse mécanique ou un rétrécissement mitral significatif modifie la stratégie anticoagulante.
+EXPLICATION_A: Le terrain reste déterminant.
+EXPLICATION_B: Elle définit un contexte différent de la FA sans ce terrain.
+EXPLICATION_C: Une simple mention de chirurgie valvulaire ne suffit pas.
+EXPLICATION_D: La lésion et le type de prothèse doivent être distingués.
+EXPLICATION_E: Il participe au risque thromboembolique.
+
+---
+ID: 232-098
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 77 ans a une FA et une prothèse mécanique identifiée dans son dossier opératoire. L’équipe évite d’assimiler ce terrain à toute autre valvulopathie. Quelles propositions concernant le risque embolique sont exactes ?
+A: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+B: V | Un antécédent personnel d’AVC augmente le risque embolique.
+C: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+D: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+E: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: La fiche ne lui attribue pas cette place.
+EXPLICATION_B: Il pèse fortement dans l’évaluation décrite par la fiche.
+EXPLICATION_C: Le traitement ne fait pas disparaître l’antécédent.
+EXPLICATION_D: Le ressenti ne définit pas le risque de thrombus.
+EXPLICATION_E: Le terrain et le contexte de cardioversion restent déterminants.
+
+---
+ID: 232-099
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Sécurité thérapeutique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 77 ans a une FA et une prothèse mécanique identifiée dans son dossier opératoire. L’équipe évite d’assimiler ce terrain à toute autre valvulopathie. Quelles propositions concernant le suivi sont exactes ?
+A: F | Un risque hémorragique élevé signifie que le risque embolique a disparu.
+B: F | La survenue d’une syncope sous ralentisseur doit être ignorée si la fréquence antérieure était élevée.
+C: V | Les traitements associés et l’alcool doivent être revus.
+D: V | Un antécédent de saignement doit être recherché.
+E: V | L’amiodarone peut provoquer une dysthyroïdie ou une atteinte pulmonaire.
+JUSTIFICATION: Le risque hémorragique et les effets des traitements doivent être surveillés sans perdre de vue le risque embolique.
+EXPLICATION_A: Il s’agit de deux dimensions à mettre en balance.
+EXPLICATION_B: Une bradycardie ou un trouble de conduction iatrogène doit être recherché.
+EXPLICATION_C: Ils peuvent contribuer aux interactions ou au risque hémorragique.
+EXPLICATION_D: Il participe à l’évaluation du risque sous traitement.
+EXPLICATION_E: La fiche prévoit une surveillance adaptée.
+
+---
+ID: 232-100
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Valve et anticoagulation · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 77 ans a une FA et une prothèse mécanique identifiée dans son dossier opératoire. L’équipe évite d’assimiler ce terrain à toute autre valvulopathie. Quelles propositions concernant le bilan sont exactes ?
+A: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+B: V | Une TSH aide à rechercher une hyperthyroïdie.
+C: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+D: V | La kaliémie et la fonction rénale doivent être évaluées.
+E: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Elle contribue à préciser le terrain et la stratégie.
+EXPLICATION_B: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_C: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_D: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+EXPLICATION_E: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+
+---
+ID: 232-101
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Pauses de régularisation · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 78 ans présente une FA paroxystique puis une syncope au retour sinusal. L’enregistrement documente une longue pause de régularisation concordante avec le malaise. Quel diagnostic principal est le plus probable ?
+A: F | Une FA persistante.
+B: V | Une maladie de l’oreillette avec syndrome tachy-brady.
+C: F | Une FA permanente.
+D: F | Une FA sur terrain valvulaire particulier.
+E: F | Une FA paroxystique.
+JUSTIFICATION: L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_A: Une FA maintenue au-delà de sept jours avec stratégie de restauration du rythme en cours relève d’une forme persistante. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_B: L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_C: La décision partagée de ne plus poursuivre la restauration du rythme définit une FA permanente dans la terminologie de la fiche. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_D: Le type de valve et de prothèse est déterminant. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_E: Une FA documentée qui cesse spontanément en moins de sept jours correspond à une forme paroxystique. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+
+---
+ID: 232-102
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pauses de régularisation · Alternance des rythmes
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 78 ans présente une FA paroxystique puis une syncope au retour sinusal. L’enregistrement documente une longue pause de régularisation concordante avec le malaise. Quelles propositions interprètent la succession des épisodes ?
+A: V | Une stimulation peut être discutée dans une dysfonction symptomatique documentée.
+B: F | Une pause symptomatique doit être attribuée automatiquement à l’anxiété.
+C: F | La fin de la FA garantit que tout malaise ultérieur est bénin.
+D: V | Des ralentisseurs peuvent majorer la bradycardie.
+E: F | Une fréquence rapide à un moment exclut une dysfonction sinusale à un autre.
+JUSTIFICATION: Des épisodes atriaux rapides puis des pauses symptomatiques de régularisation font rechercher une dysfonction sinusale.
+EXPLICATION_A: La stratégie doit tenir compte de la nécessité de traiter les épisodes rapides.
+EXPLICATION_B: Elle nécessite une évaluation rythmique et thérapeutique.
+EXPLICATION_C: La régularisation peut être suivie d’une pause.
+EXPLICATION_D: Le traitement doit être réévalué.
+EXPLICATION_E: L’alternance définit précisément le problème décrit.
+
+---
+ID: 232-103
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pauses de régularisation · Sécurité thérapeutique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 78 ans présente une FA paroxystique puis une syncope au retour sinusal. L’enregistrement documente une longue pause de régularisation concordante avec le malaise. Quelles propositions concernant le suivi sont exactes ?
+A: V | Les traitements associés et l’alcool doivent être revus.
+B: F | La survenue d’une syncope sous ralentisseur doit être ignorée si la fréquence antérieure était élevée.
+C: V | L’amiodarone peut provoquer une dysthyroïdie ou une atteinte pulmonaire.
+D: F | Un risque hémorragique élevé signifie que le risque embolique a disparu.
+E: F | Un anticoagulant ne peut provoquer un saignement que si un surdosage biologique est prouvé.
+JUSTIFICATION: Le risque hémorragique et les effets des traitements doivent être surveillés sans perdre de vue le risque embolique.
+EXPLICATION_A: Ils peuvent contribuer aux interactions ou au risque hémorragique.
+EXPLICATION_B: Une bradycardie ou un trouble de conduction iatrogène doit être recherché.
+EXPLICATION_C: La fiche prévoit une surveillance adaptée.
+EXPLICATION_D: Il s’agit de deux dimensions à mettre en balance.
+EXPLICATION_E: Le risque hémorragique ne se limite pas à un surdosage.
+
+---
+ID: 232-104
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pauses de régularisation · Lecture du rythme
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 78 ans présente une FA paroxystique puis une syncope au retour sinusal. L’enregistrement documente une longue pause de régularisation concordante avec le malaise. Quelles propositions concernant la documentation d’une FA sont exactes ?
+A: F | L’absence de palpitations exclut une FA.
+B: F | Des QRS réguliers et lents excluent toute FA associée.
+C: F | Un pouls rapide suffit à affirmer le mécanisme atrial.
+D: V | Un bloc de branche associé peut élargir les QRS.
+E: V | Un enregistrement prolongé peut être nécessaire pour une forme intermittente.
+JUSTIFICATION: Le diagnostic repose sur l’enregistrement du rythme, et pas sur la seule perception des palpitations.
+EXPLICATION_A: Une FA peut être asymptomatique ou révélée par une complication.
+EXPLICATION_B: Une FA peut coexister avec un BAV complet et un échappement régulier.
+EXPLICATION_C: Une confirmation électrocardiographique est nécessaire.
+EXPLICATION_D: Des QRS larges n’excluent donc pas une FA.
+EXPLICATION_E: Un ECG intercritique peut ne pas documenter les épisodes.
+
+---
+ID: 232-105
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pauses de régularisation · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 78 ans présente une FA paroxystique puis une syncope au retour sinusal. L’enregistrement documente une longue pause de régularisation concordante avec le malaise. Quelles propositions concernant le bilan sont exactes ?
+A: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+B: V | La kaliémie et la fonction rénale doivent être évaluées.
+C: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+D: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+E: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Ces facteurs peuvent contribuer au trouble.
+EXPLICATION_B: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+EXPLICATION_C: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_D: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+EXPLICATION_E: Elle contribue à préciser le terrain et la stratégie.
+
+---
+ID: 232-106
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 73 ans alterne accès de FA et bradycardie sinusale symptomatique ; le Holter corrèle les lipothymies à des pauses après les épisodes. Quel diagnostic principal est le plus probable ?
+A: F | Une FA sur terrain valvulaire particulier.
+B: F | Une FA responsable d’une instabilité hémodynamique majeure.
+C: F | Une FA persistante.
+D: V | Une maladie de l’oreillette avec syndrome tachy-brady.
+E: F | Une FA permanente.
+JUSTIFICATION: L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_A: Le type de valve et de prothèse est déterminant. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_B: Le choc imputable au trouble du rythme modifie l’urgence de la stratégie. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_C: Une FA maintenue au-delà de sept jours avec stratégie de restauration du rythme en cours relève d’une forme persistante. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_D: L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_E: La décision partagée de ne plus poursuivre la restauration du rythme définit une FA permanente dans la terminologie de la fiche. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+
+---
+ID: 232-107
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · Alternance des rythmes
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 73 ans alterne accès de FA et bradycardie sinusale symptomatique ; le Holter corrèle les lipothymies à des pauses après les épisodes. Quelles propositions interprètent la succession des épisodes ?
+A: F | La fin de la FA garantit que tout malaise ultérieur est bénin.
+B: V | Une stimulation peut être discutée dans une dysfonction symptomatique documentée.
+C: V | Une pause après la fin d’un épisode peut expliquer une syncope.
+D: F | Une fréquence rapide à un moment exclut une dysfonction sinusale à un autre.
+E: F | Une pause symptomatique doit être attribuée automatiquement à l’anxiété.
+JUSTIFICATION: Des épisodes atriaux rapides puis des pauses symptomatiques de régularisation font rechercher une dysfonction sinusale.
+EXPLICATION_A: La régularisation peut être suivie d’une pause.
+EXPLICATION_B: La stratégie doit tenir compte de la nécessité de traiter les épisodes rapides.
+EXPLICATION_C: La corrélation électroclinique est importante.
+EXPLICATION_D: L’alternance définit précisément le problème décrit.
+EXPLICATION_E: Elle nécessite une évaluation rythmique et thérapeutique.
+
+---
+ID: 232-108
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · Sécurité thérapeutique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 73 ans alterne accès de FA et bradycardie sinusale symptomatique ; le Holter corrèle les lipothymies à des pauses après les épisodes. Quelles propositions concernant le suivi sont exactes ?
+A: V | L’amiodarone peut provoquer une dysthyroïdie ou une atteinte pulmonaire.
+B: F | Un anticoagulant ne peut provoquer un saignement que si un surdosage biologique est prouvé.
+C: F | Un risque hémorragique élevé signifie que le risque embolique a disparu.
+D: F | La survenue d’une syncope sous ralentisseur doit être ignorée si la fréquence antérieure était élevée.
+E: V | Un antécédent de saignement doit être recherché.
+JUSTIFICATION: Le risque hémorragique et les effets des traitements doivent être surveillés sans perdre de vue le risque embolique.
+EXPLICATION_A: La fiche prévoit une surveillance adaptée.
+EXPLICATION_B: Le risque hémorragique ne se limite pas à un surdosage.
+EXPLICATION_C: Il s’agit de deux dimensions à mettre en balance.
+EXPLICATION_D: Une bradycardie ou un trouble de conduction iatrogène doit être recherché.
+EXPLICATION_E: Il participe à l’évaluation du risque sous traitement.
+
+---
+ID: 232-109
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · Lecture du rythme
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 73 ans alterne accès de FA et bradycardie sinusale symptomatique ; le Holter corrèle les lipothymies à des pauses après les épisodes. Quelles propositions concernant la documentation d’une FA sont exactes ?
+A: F | L’absence de palpitations exclut une FA.
+B: F | Des QRS réguliers et lents excluent toute FA associée.
+C: F | Un pouls rapide suffit à affirmer le mécanisme atrial.
+D: V | Un enregistrement prolongé peut être nécessaire pour une forme intermittente.
+E: V | L’absence d’ondes P organisées avec intervalles RR irréguliers soutient une FA.
+JUSTIFICATION: Le diagnostic repose sur l’enregistrement du rythme, et pas sur la seule perception des palpitations.
+EXPLICATION_A: Une FA peut être asymptomatique ou révélée par une complication.
+EXPLICATION_B: Une FA peut coexister avec un BAV complet et un échappement régulier.
+EXPLICATION_C: Une confirmation électrocardiographique est nécessaire.
+EXPLICATION_D: Un ECG intercritique peut ne pas documenter les épisodes.
+EXPLICATION_E: C’est le profil ECG habituel décrit.
+
+---
+ID: 232-110
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 73 ans alterne accès de FA et bradycardie sinusale symptomatique ; le Holter corrèle les lipothymies à des pauses après les épisodes. Quelles propositions concernant le bilan sont exactes ?
+A: V | Une TSH aide à rechercher une hyperthyroïdie.
+B: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+C: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+D: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+E: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_B: Elle contribue à préciser le terrain et la stratégie.
+EXPLICATION_C: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+EXPLICATION_D: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_E: Ces facteurs peuvent contribuer au trouble.
+
+---
+ID: 232-111
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 81 ans sous ralentisseur présente des palpitations puis des malaises ; le tracé montre une FA suivie d’une pause prolongée symptomatique. Quel diagnostic principal est le plus probable ?
+A: F | Une FA responsable d’une instabilité hémodynamique majeure.
+B: F | Une FA permanente.
+C: V | Une maladie de l’oreillette avec syndrome tachy-brady.
+D: F | Une FA sur terrain valvulaire particulier.
+E: F | Une FA paroxystique.
+JUSTIFICATION: L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_A: Le choc imputable au trouble du rythme modifie l’urgence de la stratégie. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_B: La décision partagée de ne plus poursuivre la restauration du rythme définit une FA permanente dans la terminologie de la fiche. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_C: L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_D: Le type de valve et de prothèse est déterminant. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_E: Une FA documentée qui cesse spontanément en moins de sept jours correspond à une forme paroxystique. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+
+---
+ID: 232-112
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · Alternance des rythmes
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 81 ans sous ralentisseur présente des palpitations puis des malaises ; le tracé montre une FA suivie d’une pause prolongée symptomatique. Quelles propositions interprètent la succession des épisodes ?
+A: F | La fin de la FA garantit que tout malaise ultérieur est bénin.
+B: F | Une pause symptomatique doit être attribuée automatiquement à l’anxiété.
+C: F | Une fréquence rapide à un moment exclut une dysfonction sinusale à un autre.
+D: V | Une pause après la fin d’un épisode peut expliquer une syncope.
+E: V | Des ralentisseurs peuvent majorer la bradycardie.
+JUSTIFICATION: Des épisodes atriaux rapides puis des pauses symptomatiques de régularisation font rechercher une dysfonction sinusale.
+EXPLICATION_A: La régularisation peut être suivie d’une pause.
+EXPLICATION_B: Elle nécessite une évaluation rythmique et thérapeutique.
+EXPLICATION_C: L’alternance définit précisément le problème décrit.
+EXPLICATION_D: La corrélation électroclinique est importante.
+EXPLICATION_E: Le traitement doit être réévalué.
+
+---
+ID: 232-113
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · Sécurité thérapeutique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 81 ans sous ralentisseur présente des palpitations puis des malaises ; le tracé montre une FA suivie d’une pause prolongée symptomatique. Quelles propositions concernant le suivi sont exactes ?
+A: V | Un antécédent de saignement doit être recherché.
+B: F | La survenue d’une syncope sous ralentisseur doit être ignorée si la fréquence antérieure était élevée.
+C: V | Les traitements associés et l’alcool doivent être revus.
+D: F | Un anticoagulant ne peut provoquer un saignement que si un surdosage biologique est prouvé.
+E: F | Un risque hémorragique élevé signifie que le risque embolique a disparu.
+JUSTIFICATION: Le risque hémorragique et les effets des traitements doivent être surveillés sans perdre de vue le risque embolique.
+EXPLICATION_A: Il participe à l’évaluation du risque sous traitement.
+EXPLICATION_B: Une bradycardie ou un trouble de conduction iatrogène doit être recherché.
+EXPLICATION_C: Ils peuvent contribuer aux interactions ou au risque hémorragique.
+EXPLICATION_D: Le risque hémorragique ne se limite pas à un surdosage.
+EXPLICATION_E: Il s’agit de deux dimensions à mettre en balance.
+
+---
+ID: 232-114
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · Lecture du rythme
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 81 ans sous ralentisseur présente des palpitations puis des malaises ; le tracé montre une FA suivie d’une pause prolongée symptomatique. Quelles propositions concernant la documentation d’une FA sont exactes ?
+A: F | Des QRS réguliers et lents excluent toute FA associée.
+B: F | Un pouls rapide suffit à affirmer le mécanisme atrial.
+C: V | Un bloc de branche associé peut élargir les QRS.
+D: V | L’absence d’ondes P organisées avec intervalles RR irréguliers soutient une FA.
+E: F | L’absence de palpitations exclut une FA.
+JUSTIFICATION: Le diagnostic repose sur l’enregistrement du rythme, et pas sur la seule perception des palpitations.
+EXPLICATION_A: Une FA peut coexister avec un BAV complet et un échappement régulier.
+EXPLICATION_B: Une confirmation électrocardiographique est nécessaire.
+EXPLICATION_C: Des QRS larges n’excluent donc pas une FA.
+EXPLICATION_D: C’est le profil ECG habituel décrit.
+EXPLICATION_E: Une FA peut être asymptomatique ou révélée par une complication.
+
+---
+ID: 232-115
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 81 ans sous ralentisseur présente des palpitations puis des malaises ; le tracé montre une FA suivie d’une pause prolongée symptomatique. Quelles propositions concernant le bilan sont exactes ?
+A: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+B: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+C: V | Une TSH aide à rechercher une hyperthyroïdie.
+D: V | La kaliémie et la fonction rénale doivent être évaluées.
+E: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_B: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+EXPLICATION_C: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_D: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+EXPLICATION_E: Ces facteurs peuvent contribuer au trouble.
+
+---
+ID: 232-116
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 68 ans a des épisodes rapides atriaux et des syncopes au moment de leur arrêt. Une dysfonction sinusale de régularisation est documentée. Quel diagnostic principal est le plus probable ?
+A: V | Une maladie de l’oreillette avec syndrome tachy-brady.
+B: F | Une FA persistante.
+C: F | Une FA paroxystique.
+D: F | Une FA responsable d’une instabilité hémodynamique majeure.
+E: F | Une FA sur terrain valvulaire particulier.
+JUSTIFICATION: L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_A: L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_B: Une FA maintenue au-delà de sept jours avec stratégie de restauration du rythme en cours relève d’une forme persistante. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_C: Une FA documentée qui cesse spontanément en moins de sept jours correspond à une forme paroxystique. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_D: Le choc imputable au trouble du rythme modifie l’urgence de la stratégie. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_E: Le type de valve et de prothèse est déterminant. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+
+---
+ID: 232-117
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · Alternance des rythmes
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 68 ans a des épisodes rapides atriaux et des syncopes au moment de leur arrêt. Une dysfonction sinusale de régularisation est documentée. Quelles propositions interprètent la succession des épisodes ?
+A: F | Une pause symptomatique doit être attribuée automatiquement à l’anxiété.
+B: V | Des ralentisseurs peuvent majorer la bradycardie.
+C: F | Une fréquence rapide à un moment exclut une dysfonction sinusale à un autre.
+D: V | Une stimulation peut être discutée dans une dysfonction symptomatique documentée.
+E: V | Une pause après la fin d’un épisode peut expliquer une syncope.
+JUSTIFICATION: Des épisodes atriaux rapides puis des pauses symptomatiques de régularisation font rechercher une dysfonction sinusale.
+EXPLICATION_A: Elle nécessite une évaluation rythmique et thérapeutique.
+EXPLICATION_B: Le traitement doit être réévalué.
+EXPLICATION_C: L’alternance définit précisément le problème décrit.
+EXPLICATION_D: La stratégie doit tenir compte de la nécessité de traiter les épisodes rapides.
+EXPLICATION_E: La corrélation électroclinique est importante.
+
+---
+ID: 232-118
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · Sécurité thérapeutique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 68 ans a des épisodes rapides atriaux et des syncopes au moment de leur arrêt. Une dysfonction sinusale de régularisation est documentée. Quelles propositions concernant le suivi sont exactes ?
+A: V | L’amiodarone peut provoquer une dysthyroïdie ou une atteinte pulmonaire.
+B: F | Un anticoagulant ne peut provoquer un saignement que si un surdosage biologique est prouvé.
+C: F | La survenue d’une syncope sous ralentisseur doit être ignorée si la fréquence antérieure était élevée.
+D: V | Les traitements associés et l’alcool doivent être revus.
+E: V | Un antécédent de saignement doit être recherché.
+JUSTIFICATION: Le risque hémorragique et les effets des traitements doivent être surveillés sans perdre de vue le risque embolique.
+EXPLICATION_A: La fiche prévoit une surveillance adaptée.
+EXPLICATION_B: Le risque hémorragique ne se limite pas à un surdosage.
+EXPLICATION_C: Une bradycardie ou un trouble de conduction iatrogène doit être recherché.
+EXPLICATION_D: Ils peuvent contribuer aux interactions ou au risque hémorragique.
+EXPLICATION_E: Il participe à l’évaluation du risque sous traitement.
+
+---
+ID: 232-119
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · Lecture du rythme
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 68 ans a des épisodes rapides atriaux et des syncopes au moment de leur arrêt. Une dysfonction sinusale de régularisation est documentée. Quelles propositions concernant la documentation d’une FA sont exactes ?
+A: V | Un bloc de branche associé peut élargir les QRS.
+B: V | L’absence d’ondes P organisées avec intervalles RR irréguliers soutient une FA.
+C: F | Des QRS réguliers et lents excluent toute FA associée.
+D: V | Un enregistrement prolongé peut être nécessaire pour une forme intermittente.
+E: F | Un pouls rapide suffit à affirmer le mécanisme atrial.
+JUSTIFICATION: Le diagnostic repose sur l’enregistrement du rythme, et pas sur la seule perception des palpitations.
+EXPLICATION_A: Des QRS larges n’excluent donc pas une FA.
+EXPLICATION_B: C’est le profil ECG habituel décrit.
+EXPLICATION_C: Une FA peut coexister avec un BAV complet et un échappement régulier.
+EXPLICATION_D: Un ECG intercritique peut ne pas documenter les épisodes.
+EXPLICATION_E: Une confirmation électrocardiographique est nécessaire.
+
+---
+ID: 232-120
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 68 ans a des épisodes rapides atriaux et des syncopes au moment de leur arrêt. Une dysfonction sinusale de régularisation est documentée. Quelles propositions concernant le bilan sont exactes ?
+A: V | Une TSH aide à rechercher une hyperthyroïdie.
+B: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+C: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+D: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+E: V | La kaliémie et la fonction rénale doivent être évaluées.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_B: Elle contribue à préciser le terrain et la stratégie.
+EXPLICATION_C: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_D: Ces facteurs peuvent contribuer au trouble.
+EXPLICATION_E: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+
+---
+ID: 232-121
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 75 ans a une FA intermittente avec pauses symptomatiques entre les accès. Les traitements ralentisseurs et la nécessité d’une stimulation sont discutés. Quel diagnostic principal est le plus probable ?
+A: F | Une FA permanente.
+B: F | Une FA paroxystique.
+C: F | Une FA persistante.
+D: F | Une FA responsable d’une instabilité hémodynamique majeure.
+E: V | Une maladie de l’oreillette avec syndrome tachy-brady.
+JUSTIFICATION: L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_A: La décision partagée de ne plus poursuivre la restauration du rythme définit une FA permanente dans la terminologie de la fiche. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_B: Une FA documentée qui cesse spontanément en moins de sept jours correspond à une forme paroxystique. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_C: Une FA maintenue au-delà de sept jours avec stratégie de restauration du rythme en cours relève d’une forme persistante. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_D: Le choc imputable au trouble du rythme modifie l’urgence de la stratégie. Ici : L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+EXPLICATION_E: L’alternance d’épisodes de FA et de pauses ou bradycardies symptomatiques documentées évoque une dysfonction sinusale associée.
+
+---
+ID: 232-122
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · Alternance des rythmes
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 75 ans a une FA intermittente avec pauses symptomatiques entre les accès. Les traitements ralentisseurs et la nécessité d’une stimulation sont discutés. Quelles propositions interprètent la succession des épisodes ?
+A: V | Des ralentisseurs peuvent majorer la bradycardie.
+B: F | Une pause symptomatique doit être attribuée automatiquement à l’anxiété.
+C: V | Une pause après la fin d’un épisode peut expliquer une syncope.
+D: V | Une stimulation peut être discutée dans une dysfonction symptomatique documentée.
+E: F | La fin de la FA garantit que tout malaise ultérieur est bénin.
+JUSTIFICATION: Des épisodes atriaux rapides puis des pauses symptomatiques de régularisation font rechercher une dysfonction sinusale.
+EXPLICATION_A: Le traitement doit être réévalué.
+EXPLICATION_B: Elle nécessite une évaluation rythmique et thérapeutique.
+EXPLICATION_C: La corrélation électroclinique est importante.
+EXPLICATION_D: La stratégie doit tenir compte de la nécessité de traiter les épisodes rapides.
+EXPLICATION_E: La régularisation peut être suivie d’une pause.
+
+---
+ID: 232-123
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · Sécurité thérapeutique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 75 ans a une FA intermittente avec pauses symptomatiques entre les accès. Les traitements ralentisseurs et la nécessité d’une stimulation sont discutés. Quelles propositions concernant le suivi sont exactes ?
+A: V | Un antécédent de saignement doit être recherché.
+B: F | La survenue d’une syncope sous ralentisseur doit être ignorée si la fréquence antérieure était élevée.
+C: V | L’amiodarone peut provoquer une dysthyroïdie ou une atteinte pulmonaire.
+D: F | Un risque hémorragique élevé signifie que le risque embolique a disparu.
+E: V | Les traitements associés et l’alcool doivent être revus.
+JUSTIFICATION: Le risque hémorragique et les effets des traitements doivent être surveillés sans perdre de vue le risque embolique.
+EXPLICATION_A: Il participe à l’évaluation du risque sous traitement.
+EXPLICATION_B: Une bradycardie ou un trouble de conduction iatrogène doit être recherché.
+EXPLICATION_C: La fiche prévoit une surveillance adaptée.
+EXPLICATION_D: Il s’agit de deux dimensions à mettre en balance.
+EXPLICATION_E: Ils peuvent contribuer aux interactions ou au risque hémorragique.
+
+---
+ID: 232-124
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · Lecture du rythme
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 75 ans a une FA intermittente avec pauses symptomatiques entre les accès. Les traitements ralentisseurs et la nécessité d’une stimulation sont discutés. Quelles propositions concernant la documentation d’une FA sont exactes ?
+A: F | L’absence de palpitations exclut une FA.
+B: V | Un bloc de branche associé peut élargir les QRS.
+C: F | Des QRS réguliers et lents excluent toute FA associée.
+D: V | L’absence d’ondes P organisées avec intervalles RR irréguliers soutient une FA.
+E: V | Un enregistrement prolongé peut être nécessaire pour une forme intermittente.
+JUSTIFICATION: Le diagnostic repose sur l’enregistrement du rythme, et pas sur la seule perception des palpitations.
+EXPLICATION_A: Une FA peut être asymptomatique ou révélée par une complication.
+EXPLICATION_B: Des QRS larges n’excluent donc pas une FA.
+EXPLICATION_C: Une FA peut coexister avec un BAV complet et un échappement régulier.
+EXPLICATION_D: C’est le profil ECG habituel décrit.
+EXPLICATION_E: Un ECG intercritique peut ne pas documenter les épisodes.
+
+---
+ID: 232-125
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Pauses de régularisation · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 75 ans a une FA intermittente avec pauses symptomatiques entre les accès. Les traitements ralentisseurs et la nécessité d’une stimulation sont discutés. Quelles propositions concernant le bilan sont exactes ?
+A: V | Une TSH aide à rechercher une hyperthyroïdie.
+B: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+C: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+D: V | La kaliémie et la fonction rénale doivent être évaluées.
+E: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_B: Elle contribue à préciser le terrain et la stratégie.
+EXPLICATION_C: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+EXPLICATION_D: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+EXPLICATION_E: La fonction rénale contribue au choix et à la sécurité des traitements.
+
+---
+ID: 232-126
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 64 ans a une FA rapide avec hypotension, marbrures et oligurie. L’équipe retient le trouble du rythme comme responsable d’un choc réfractaire ; la durée de FA est inconnue. Quelle attitude répond à cette instabilité attribuée à la FA ?
+A: V | Organiser une cardioversion urgente avec sécurisation et stratégie antithrombotique dès que possible.
+B: F | Remplacer toute prise en charge rythmique par de l’aspirine seule.
+C: F | Ignorer le rythme tant que le patient n’a pas de palpitations.
+D: F | Prévoir seulement un contrôle ambulatoire dans plusieurs mois.
+E: F | Attendre impérativement trois semaines avant tout geste malgré le choc.
+JUSTIFICATION: La FA rapide est ici retenue comme responsable du choc ; une sécurisation et une cardioversion urgente peuvent être nécessaires.
+EXPLICATION_A: La fiche prévoit cette urgence en cas de choc réfractaire.
+EXPLICATION_B: Elle ne corrige ni le choc ni la stratégie embolique indiquée.
+EXPLICATION_C: La tolérance objective prime sur le ressenti.
+EXPLICATION_D: Le choc exige une prise en charge immédiate.
+EXPLICATION_E: Le délai d’un geste programmé ne doit pas retarder l’urgence vitale.
+
+---
+ID: 232-127
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Priorités immédiates
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 64 ans a une FA rapide avec hypotension, marbrures et oligurie. L’équipe retient le trouble du rythme comme responsable d’un choc réfractaire ; la durée de FA est inconnue. Quelles propositions concernent une FA responsable d’une instabilité majeure ?
+A: V | Une surveillance et la recherche des causes associées sont indispensables.
+B: F | La cardioversion dispense définitivement de prévention embolique.
+C: V | Une anticoagulation doit être instaurée dès que possible selon le contexte.
+D: F | Il faut obligatoirement attendre trois semaines avant tout choc même en état de choc réfractaire.
+E: F | Une hypotension avec hypoperfusion peut être gérée uniquement par un contrôle lointain.
+JUSTIFICATION: L’instabilité impose une prise en charge urgente ; les précautions d’un geste programmé ne doivent pas retarder le sauvetage.
+EXPLICATION_A: L’instabilité peut aussi être favorisée par une cardiopathie ou un déclencheur.
+EXPLICATION_B: Le risque doit être réévalué après le geste.
+EXPLICATION_C: La stratégie antithrombotique reste nécessaire au décours.
+EXPLICATION_D: La fiche prévoit une cardioversion urgente dans cette situation.
+EXPLICATION_E: Elle constitue une urgence.
+
+---
+ID: 232-128
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 64 ans a une FA rapide avec hypotension, marbrures et oligurie. L’équipe retient le trouble du rythme comme responsable d’un choc réfractaire ; la durée de FA est inconnue. Quelles propositions concernant le risque embolique sont exactes ?
+A: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+B: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+C: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+D: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+E: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: Le traitement ne fait pas disparaître l’antécédent.
+EXPLICATION_B: L’âge et les comorbidités peuvent conférer un risque.
+EXPLICATION_C: Le ressenti ne définit pas le risque de thrombus.
+EXPLICATION_D: Le terrain et le contexte de cardioversion restent déterminants.
+EXPLICATION_E: La fiche ne lui attribue pas cette place.
+
+---
+ID: 232-129
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Lecture du rythme
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 64 ans a une FA rapide avec hypotension, marbrures et oligurie. L’équipe retient le trouble du rythme comme responsable d’un choc réfractaire ; la durée de FA est inconnue. Quelles propositions concernant la documentation d’une FA sont exactes ?
+A: V | Un enregistrement prolongé peut être nécessaire pour une forme intermittente.
+B: F | Un pouls rapide suffit à affirmer le mécanisme atrial.
+C: F | L’absence de palpitations exclut une FA.
+D: F | Des QRS réguliers et lents excluent toute FA associée.
+E: V | Un bloc de branche associé peut élargir les QRS.
+JUSTIFICATION: Le diagnostic repose sur l’enregistrement du rythme, et pas sur la seule perception des palpitations.
+EXPLICATION_A: Un ECG intercritique peut ne pas documenter les épisodes.
+EXPLICATION_B: Une confirmation électrocardiographique est nécessaire.
+EXPLICATION_C: Une FA peut être asymptomatique ou révélée par une complication.
+EXPLICATION_D: Une FA peut coexister avec un BAV complet et un échappement régulier.
+EXPLICATION_E: Des QRS larges n’excluent donc pas une FA.
+
+---
+ID: 232-130
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 64 ans a une FA rapide avec hypotension, marbrures et oligurie. L’équipe retient le trouble du rythme comme responsable d’un choc réfractaire ; la durée de FA est inconnue. Quelles propositions concernant le bilan sont exactes ?
+A: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+B: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+C: V | La kaliémie et la fonction rénale doivent être évaluées.
+D: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+E: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Elle contribue à préciser le terrain et la stratégie.
+EXPLICATION_B: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_C: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+EXPLICATION_D: Ces facteurs peuvent contribuer au trouble.
+EXPLICATION_E: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+
+---
+ID: 232-131
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 72 ans présente une FA très rapide, un OAP et un choc malgré les premières mesures. Le lien causal avec l’arythmie est retenu et l’anticoagulation préalable n’est pas documentée. Quelle attitude répond à cette instabilité attribuée à la FA ?
+A: F | Ignorer le rythme tant que le patient n’a pas de palpitations.
+B: F | Prévoir seulement un contrôle ambulatoire dans plusieurs mois.
+C: V | Organiser une cardioversion urgente avec sécurisation et stratégie antithrombotique dès que possible.
+D: F | Attendre impérativement trois semaines avant tout geste malgré le choc.
+E: F | Remplacer toute prise en charge rythmique par de l’aspirine seule.
+JUSTIFICATION: La FA rapide est ici retenue comme responsable du choc ; une sécurisation et une cardioversion urgente peuvent être nécessaires.
+EXPLICATION_A: La tolérance objective prime sur le ressenti.
+EXPLICATION_B: Le choc exige une prise en charge immédiate.
+EXPLICATION_C: La fiche prévoit cette urgence en cas de choc réfractaire.
+EXPLICATION_D: Le délai d’un geste programmé ne doit pas retarder l’urgence vitale.
+EXPLICATION_E: Elle ne corrige ni le choc ni la stratégie embolique indiquée.
+
+---
+ID: 232-132
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Priorités immédiates
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 72 ans présente une FA très rapide, un OAP et un choc malgré les premières mesures. Le lien causal avec l’arythmie est retenu et l’anticoagulation préalable n’est pas documentée. Quelles propositions concernent une FA responsable d’une instabilité majeure ?
+A: V | Une surveillance et la recherche des causes associées sont indispensables.
+B: V | Un choc imputable à la FA peut imposer une cardioversion immédiate.
+C: F | Il faut obligatoirement attendre trois semaines avant tout choc même en état de choc réfractaire.
+D: F | La cardioversion dispense définitivement de prévention embolique.
+E: F | Une hypotension avec hypoperfusion peut être gérée uniquement par un contrôle lointain.
+JUSTIFICATION: L’instabilité impose une prise en charge urgente ; les précautions d’un geste programmé ne doivent pas retarder le sauvetage.
+EXPLICATION_A: L’instabilité peut aussi être favorisée par une cardiopathie ou un déclencheur.
+EXPLICATION_B: La fiche distingue cette urgence d’une cardioversion programmée.
+EXPLICATION_C: La fiche prévoit une cardioversion urgente dans cette situation.
+EXPLICATION_D: Le risque doit être réévalué après le geste.
+EXPLICATION_E: Elle constitue une urgence.
+
+---
+ID: 232-133
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 72 ans présente une FA très rapide, un OAP et un choc malgré les premières mesures. Le lien causal avec l’arythmie est retenu et l’anticoagulation préalable n’est pas documentée. Quelles propositions concernant le risque embolique sont exactes ?
+A: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+B: V | Un antécédent personnel d’AVC augmente le risque embolique.
+C: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+D: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+E: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: Le terrain et le contexte de cardioversion restent déterminants.
+EXPLICATION_B: Il pèse fortement dans l’évaluation décrite par la fiche.
+EXPLICATION_C: La fiche ne lui attribue pas cette place.
+EXPLICATION_D: L’âge et les comorbidités peuvent conférer un risque.
+EXPLICATION_E: Le ressenti ne définit pas le risque de thrombus.
+
+---
+ID: 232-134
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Lecture du rythme
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 72 ans présente une FA très rapide, un OAP et un choc malgré les premières mesures. Le lien causal avec l’arythmie est retenu et l’anticoagulation préalable n’est pas documentée. Quelles propositions concernant la documentation d’une FA sont exactes ?
+A: V | Un enregistrement prolongé peut être nécessaire pour une forme intermittente.
+B: V | L’absence d’ondes P organisées avec intervalles RR irréguliers soutient une FA.
+C: F | Un pouls rapide suffit à affirmer le mécanisme atrial.
+D: F | L’absence de palpitations exclut une FA.
+E: F | Des QRS réguliers et lents excluent toute FA associée.
+JUSTIFICATION: Le diagnostic repose sur l’enregistrement du rythme, et pas sur la seule perception des palpitations.
+EXPLICATION_A: Un ECG intercritique peut ne pas documenter les épisodes.
+EXPLICATION_B: C’est le profil ECG habituel décrit.
+EXPLICATION_C: Une confirmation électrocardiographique est nécessaire.
+EXPLICATION_D: Une FA peut être asymptomatique ou révélée par une complication.
+EXPLICATION_E: Une FA peut coexister avec un BAV complet et un échappement régulier.
+
+---
+ID: 232-135
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 72 ans présente une FA très rapide, un OAP et un choc malgré les premières mesures. Le lien causal avec l’arythmie est retenu et l’anticoagulation préalable n’est pas documentée. Quelles propositions concernant le bilan sont exactes ?
+A: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+B: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+C: V | Une TSH aide à rechercher une hyperthyroïdie.
+D: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+E: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+EXPLICATION_B: Ces facteurs peuvent contribuer au trouble.
+EXPLICATION_C: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_D: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_E: Elle contribue à préciser le terrain et la stratégie.
+
+---
+ID: 232-136
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 59 ans a une FA rapide responsable d’une dégradation aiguë avec hypoperfusion et altération de conscience. Une prise en charge urgente est organisée. Quelle attitude répond à cette instabilité attribuée à la FA ?
+A: F | Remplacer toute prise en charge rythmique par de l’aspirine seule.
+B: F | Ignorer le rythme tant que le patient n’a pas de palpitations.
+C: F | Attendre impérativement trois semaines avant tout geste malgré le choc.
+D: V | Organiser une cardioversion urgente avec sécurisation et stratégie antithrombotique dès que possible.
+E: F | Prévoir seulement un contrôle ambulatoire dans plusieurs mois.
+JUSTIFICATION: La FA rapide est ici retenue comme responsable du choc ; une sécurisation et une cardioversion urgente peuvent être nécessaires.
+EXPLICATION_A: Elle ne corrige ni le choc ni la stratégie embolique indiquée.
+EXPLICATION_B: La tolérance objective prime sur le ressenti.
+EXPLICATION_C: Le délai d’un geste programmé ne doit pas retarder l’urgence vitale.
+EXPLICATION_D: La fiche prévoit cette urgence en cas de choc réfractaire.
+EXPLICATION_E: Le choc exige une prise en charge immédiate.
+
+---
+ID: 232-137
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Priorités immédiates
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 59 ans a une FA rapide responsable d’une dégradation aiguë avec hypoperfusion et altération de conscience. Une prise en charge urgente est organisée. Quelles propositions concernent une FA responsable d’une instabilité majeure ?
+A: F | Une hypotension avec hypoperfusion peut être gérée uniquement par un contrôle lointain.
+B: V | Un choc imputable à la FA peut imposer une cardioversion immédiate.
+C: V | Une anticoagulation doit être instaurée dès que possible selon le contexte.
+D: F | La cardioversion dispense définitivement de prévention embolique.
+E: F | Il faut obligatoirement attendre trois semaines avant tout choc même en état de choc réfractaire.
+JUSTIFICATION: L’instabilité impose une prise en charge urgente ; les précautions d’un geste programmé ne doivent pas retarder le sauvetage.
+EXPLICATION_A: Elle constitue une urgence.
+EXPLICATION_B: La fiche distingue cette urgence d’une cardioversion programmée.
+EXPLICATION_C: La stratégie antithrombotique reste nécessaire au décours.
+EXPLICATION_D: Le risque doit être réévalué après le geste.
+EXPLICATION_E: La fiche prévoit une cardioversion urgente dans cette situation.
+
+---
+ID: 232-138
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 59 ans a une FA rapide responsable d’une dégradation aiguë avec hypoperfusion et altération de conscience. Une prise en charge urgente est organisée. Quelles propositions concernant le risque embolique sont exactes ?
+A: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+B: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+C: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+D: V | Un antécédent personnel d’AVC augmente le risque embolique.
+E: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: Le traitement ne fait pas disparaître l’antécédent.
+EXPLICATION_B: L’âge et les comorbidités peuvent conférer un risque.
+EXPLICATION_C: La fiche ne lui attribue pas cette place.
+EXPLICATION_D: Il pèse fortement dans l’évaluation décrite par la fiche.
+EXPLICATION_E: Le ressenti ne définit pas le risque de thrombus.
+
+---
+ID: 232-139
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Lecture du rythme
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 59 ans a une FA rapide responsable d’une dégradation aiguë avec hypoperfusion et altération de conscience. Une prise en charge urgente est organisée. Quelles propositions concernant la documentation d’une FA sont exactes ?
+A: F | Des QRS réguliers et lents excluent toute FA associée.
+B: F | Un pouls rapide suffit à affirmer le mécanisme atrial.
+C: F | L’absence de palpitations exclut une FA.
+D: V | Un bloc de branche associé peut élargir les QRS.
+E: V | L’absence d’ondes P organisées avec intervalles RR irréguliers soutient une FA.
+JUSTIFICATION: Le diagnostic repose sur l’enregistrement du rythme, et pas sur la seule perception des palpitations.
+EXPLICATION_A: Une FA peut coexister avec un BAV complet et un échappement régulier.
+EXPLICATION_B: Une confirmation électrocardiographique est nécessaire.
+EXPLICATION_C: Une FA peut être asymptomatique ou révélée par une complication.
+EXPLICATION_D: Des QRS larges n’excluent donc pas une FA.
+EXPLICATION_E: C’est le profil ECG habituel décrit.
+
+---
+ID: 232-140
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 59 ans a une FA rapide responsable d’une dégradation aiguë avec hypoperfusion et altération de conscience. Une prise en charge urgente est organisée. Quelles propositions concernant le bilan sont exactes ?
+A: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+B: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+C: V | Une TSH aide à rechercher une hyperthyroïdie.
+D: V | La kaliémie et la fonction rénale doivent être évaluées.
+E: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Ces facteurs peuvent contribuer au trouble.
+EXPLICATION_B: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_C: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_D: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+EXPLICATION_E: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+
+---
+ID: 232-141
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 80 ans présente une FA rapide avec défaillance hémodynamique majeure attribuée à l’arythmie. Une stratégie de cardioversion urgente est envisagée sans délai programmé. Quelle attitude répond à cette instabilité attribuée à la FA ?
+A: F | Ignorer le rythme tant que le patient n’a pas de palpitations.
+B: F | Prévoir seulement un contrôle ambulatoire dans plusieurs mois.
+C: V | Organiser une cardioversion urgente avec sécurisation et stratégie antithrombotique dès que possible.
+D: F | Attendre impérativement trois semaines avant tout geste malgré le choc.
+E: F | Remplacer toute prise en charge rythmique par de l’aspirine seule.
+JUSTIFICATION: La FA rapide est ici retenue comme responsable du choc ; une sécurisation et une cardioversion urgente peuvent être nécessaires.
+EXPLICATION_A: La tolérance objective prime sur le ressenti.
+EXPLICATION_B: Le choc exige une prise en charge immédiate.
+EXPLICATION_C: La fiche prévoit cette urgence en cas de choc réfractaire.
+EXPLICATION_D: Le délai d’un geste programmé ne doit pas retarder l’urgence vitale.
+EXPLICATION_E: Elle ne corrige ni le choc ni la stratégie embolique indiquée.
+
+---
+ID: 232-142
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Priorités immédiates
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 80 ans présente une FA rapide avec défaillance hémodynamique majeure attribuée à l’arythmie. Une stratégie de cardioversion urgente est envisagée sans délai programmé. Quelles propositions concernent une FA responsable d’une instabilité majeure ?
+A: V | Un choc imputable à la FA peut imposer une cardioversion immédiate.
+B: F | Une hypotension avec hypoperfusion peut être gérée uniquement par un contrôle lointain.
+C: V | Une surveillance et la recherche des causes associées sont indispensables.
+D: V | Une anticoagulation doit être instaurée dès que possible selon le contexte.
+E: F | La cardioversion dispense définitivement de prévention embolique.
+JUSTIFICATION: L’instabilité impose une prise en charge urgente ; les précautions d’un geste programmé ne doivent pas retarder le sauvetage.
+EXPLICATION_A: La fiche distingue cette urgence d’une cardioversion programmée.
+EXPLICATION_B: Elle constitue une urgence.
+EXPLICATION_C: L’instabilité peut aussi être favorisée par une cardiopathie ou un déclencheur.
+EXPLICATION_D: La stratégie antithrombotique reste nécessaire au décours.
+EXPLICATION_E: Le risque doit être réévalué après le geste.
+
+---
+ID: 232-143
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 80 ans présente une FA rapide avec défaillance hémodynamique majeure attribuée à l’arythmie. Une stratégie de cardioversion urgente est envisagée sans délai programmé. Quelles propositions concernant le risque embolique sont exactes ?
+A: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+B: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+C: F | L’absence d’événement embolique antérieur garantit un risque futur nul.
+D: V | Un antécédent personnel d’AVC augmente le risque embolique.
+E: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: Le ressenti ne définit pas le risque de thrombus.
+EXPLICATION_B: Le traitement ne fait pas disparaître l’antécédent.
+EXPLICATION_C: L’âge et les comorbidités peuvent conférer un risque.
+EXPLICATION_D: Il pèse fortement dans l’évaluation décrite par la fiche.
+EXPLICATION_E: Le terrain et le contexte de cardioversion restent déterminants.
+
+---
+ID: 232-144
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Lecture du rythme
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 80 ans présente une FA rapide avec défaillance hémodynamique majeure attribuée à l’arythmie. Une stratégie de cardioversion urgente est envisagée sans délai programmé. Quelles propositions concernant la documentation d’une FA sont exactes ?
+A: V | Un enregistrement prolongé peut être nécessaire pour une forme intermittente.
+B: V | L’absence d’ondes P organisées avec intervalles RR irréguliers soutient une FA.
+C: V | Un bloc de branche associé peut élargir les QRS.
+D: F | Un pouls rapide suffit à affirmer le mécanisme atrial.
+E: F | Des QRS réguliers et lents excluent toute FA associée.
+JUSTIFICATION: Le diagnostic repose sur l’enregistrement du rythme, et pas sur la seule perception des palpitations.
+EXPLICATION_A: Un ECG intercritique peut ne pas documenter les épisodes.
+EXPLICATION_B: C’est le profil ECG habituel décrit.
+EXPLICATION_C: Des QRS larges n’excluent donc pas une FA.
+EXPLICATION_D: Une confirmation électrocardiographique est nécessaire.
+EXPLICATION_E: Une FA peut coexister avec un BAV complet et un échappement régulier.
+
+---
+ID: 232-145
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Une femme de 80 ans présente une FA rapide avec défaillance hémodynamique majeure attribuée à l’arythmie. Une stratégie de cardioversion urgente est envisagée sans délai programmé. Quelles propositions concernant le bilan sont exactes ?
+A: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+B: F | La découverte de FA dispense de rechercher une infection ou un SAOS selon le contexte.
+C: V | Une TSH aide à rechercher une hyperthyroïdie.
+D: V | La kaliémie et la fonction rénale doivent être évaluées.
+E: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: Elle contribue à préciser le terrain et la stratégie.
+EXPLICATION_B: Ces facteurs peuvent contribuer au trouble.
+EXPLICATION_C: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_D: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+EXPLICATION_E: La fonction rénale contribue au choix et à la sécurité des traitements.
+
+---
+ID: 232-146
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · raisonnement
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 70 ans en FA rapide a une hypotension persistante avec choc réfractaire. L’équipe a évalué les causes associées et retient le rôle causal du rythme. Quelle attitude répond à cette instabilité attribuée à la FA ?
+A: F | Ignorer le rythme tant que le patient n’a pas de palpitations.
+B: F | Remplacer toute prise en charge rythmique par de l’aspirine seule.
+C: V | Organiser une cardioversion urgente avec sécurisation et stratégie antithrombotique dès que possible.
+D: F | Attendre impérativement trois semaines avant tout geste malgré le choc.
+E: F | Prévoir seulement un contrôle ambulatoire dans plusieurs mois.
+JUSTIFICATION: La FA rapide est ici retenue comme responsable du choc ; une sécurisation et une cardioversion urgente peuvent être nécessaires.
+EXPLICATION_A: La tolérance objective prime sur le ressenti.
+EXPLICATION_B: Elle ne corrige ni le choc ni la stratégie embolique indiquée.
+EXPLICATION_C: La fiche prévoit cette urgence en cas de choc réfractaire.
+EXPLICATION_D: Le délai d’un geste programmé ne doit pas retarder l’urgence vitale.
+EXPLICATION_E: Le choc exige une prise en charge immédiate.
+
+---
+ID: 232-147
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Priorités immédiates
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 70 ans en FA rapide a une hypotension persistante avec choc réfractaire. L’équipe a évalué les causes associées et retient le rôle causal du rythme. Quelles propositions concernent une FA responsable d’une instabilité majeure ?
+A: V | Une anticoagulation doit être instaurée dès que possible selon le contexte.
+B: F | La cardioversion dispense définitivement de prévention embolique.
+C: V | Une surveillance et la recherche des causes associées sont indispensables.
+D: V | Un choc imputable à la FA peut imposer une cardioversion immédiate.
+E: F | Il faut obligatoirement attendre trois semaines avant tout choc même en état de choc réfractaire.
+JUSTIFICATION: L’instabilité impose une prise en charge urgente ; les précautions d’un geste programmé ne doivent pas retarder le sauvetage.
+EXPLICATION_A: La stratégie antithrombotique reste nécessaire au décours.
+EXPLICATION_B: Le risque doit être réévalué après le geste.
+EXPLICATION_C: L’instabilité peut aussi être favorisée par une cardiopathie ou un déclencheur.
+EXPLICATION_D: La fiche distingue cette urgence d’une cardioversion programmée.
+EXPLICATION_E: La fiche prévoit une cardioversion urgente dans cette situation.
+
+---
+ID: 232-148
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Prévention embolique
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 70 ans en FA rapide a une hypotension persistante avec choc réfractaire. L’équipe a évalué les causes associées et retient le rôle causal du rythme. Quelles propositions concernant le risque embolique sont exactes ?
+A: V | Un antécédent personnel d’AVC augmente le risque embolique.
+B: F | Une FA peu ressentie est nécessairement moins emboligène qu’une FA symptomatique.
+C: V | La restauration du rythme sinusal ne dispense pas de réévaluer la stratégie antithrombotique.
+D: V | L’HTA traitée reste à prendre en compte dans l’évaluation.
+E: F | Une aspirine constitue un substitut équivalent à l’anticoagulation indiquée pour la FA.
+JUSTIFICATION: Le risque dépend du terrain ; le type temporel et le ressenti ne suffisent pas à le supprimer.
+EXPLICATION_A: Il pèse fortement dans l’évaluation décrite par la fiche.
+EXPLICATION_B: Le ressenti ne définit pas le risque de thrombus.
+EXPLICATION_C: Le terrain et le contexte de cardioversion restent déterminants.
+EXPLICATION_D: Le traitement ne fait pas disparaître l’antécédent.
+EXPLICATION_E: La fiche ne lui attribue pas cette place.
+
+---
+ID: 232-149
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Lecture du rythme
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 70 ans en FA rapide a une hypotension persistante avec choc réfractaire. L’équipe a évalué les causes associées et retient le rôle causal du rythme. Quelles propositions concernant la documentation d’une FA sont exactes ?
+A: V | Un bloc de branche associé peut élargir les QRS.
+B: F | Des QRS réguliers et lents excluent toute FA associée.
+C: V | L’absence d’ondes P organisées avec intervalles RR irréguliers soutient une FA.
+D: V | Un enregistrement prolongé peut être nécessaire pour une forme intermittente.
+E: F | L’absence de palpitations exclut une FA.
+JUSTIFICATION: Le diagnostic repose sur l’enregistrement du rythme, et pas sur la seule perception des palpitations.
+EXPLICATION_A: Des QRS larges n’excluent donc pas une FA.
+EXPLICATION_B: Une FA peut coexister avec un BAV complet et un échappement régulier.
+EXPLICATION_C: C’est le profil ECG habituel décrit.
+EXPLICATION_D: Un ECG intercritique peut ne pas documenter les épisodes.
+EXPLICATION_E: Une FA peut être asymptomatique ou révélée par une complication.
+
+---
+ID: 232-150
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Urgence mal tolérée · Terrain et déclencheurs
+SOURCE: Fiche item 232 fournie - page(s) 1-7
+CONSIGNE: Un homme de 70 ans en FA rapide a une hypotension persistante avec choc réfractaire. L’équipe a évalué les causes associées et retient le rôle causal du rythme. Quelles propositions concernant le bilan sont exactes ?
+A: F | Une consommation d’alcool ne peut pas déclencher une FA chez un sujet jeune.
+B: V | La kaliémie et la fonction rénale doivent être évaluées.
+C: V | Une TSH aide à rechercher une hyperthyroïdie.
+D: F | La créatinine est sans intérêt avant toute prescription d’anticoagulant.
+E: V | L’échocardiographie recherche notamment valvulopathie et dysfonction ventriculaire.
+JUSTIFICATION: La recherche porte sur le terrain cardiaque, les facteurs favorisants et le bilan avant traitement.
+EXPLICATION_A: La fiche cite l’alcoolisation aiguë parmi les déclencheurs.
+EXPLICATION_B: Elles peuvent intervenir dans les causes et dans la sécurité thérapeutique.
+EXPLICATION_C: Une dysthyroïdie peut favoriser la FA.
+EXPLICATION_D: La fonction rénale contribue au choix et à la sécurité des traitements.
+EXPLICATION_E: Elle contribue à préciser le terrain et la stratégie.

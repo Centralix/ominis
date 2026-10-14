@@ -1,0 +1,3007 @@
+# Item 241 : révision clinique fondée sur la fiche fournie.
+# 150 questions : 120 QCM et 30 QRU ; 105 rang A et 45 rang B pédagogiques.
+# Les rangs ne constituent pas une certification du référentiel EDN.
+# 30 observations, chacune explorée par cinq questions de raisonnement.
+# Les notions reviennent dans des contextes distincts ; aucune inversion automatique V/F.
+ITEM 241 | Goitre, nodules thyroïdiens, cancers thyroïdiens
+COLLEGE: Endocrinologie
+
+---
+ID: 241-001
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Une femme de 62 ans a un goitre multinodulaire ancien, une TSH normale et une dysphagie récente. Le pôle inférieur n’est pas accessible à la palpation. Quel diagnostic principal est le plus probable ?
+A: F | Carcinome papillaire thyroïdien
+B: F | Carcinome anaplasique thyroïdien
+C: V | Goitre multinodulaire euthyroïdien compressif
+D: F | Carcinome médullaire thyroïdien à rechercher
+E: F | Nodule à haut risque échographique nécessitant une cytoponction
+JUSTIFICATION: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_A: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_B: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_C: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_D: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_E: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+
+---
+ID: 241-002
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Goitre et retentissement
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Une femme de 62 ans a un goitre multinodulaire ancien, une TSH normale et une dysphagie récente. Le pôle inférieur n’est pas accessible à la palpation. Quelles conclusions sur le goitre sont justifiées ?
+A: F | Un goitre plongeant est entièrement exploré par la seule échographie cervicale.
+B: F | La présence de plusieurs nodules suffit à les considérer tous bénins.
+C: V | Une imagerie en coupe précise un goitre plongeant et ses rapports trachéaux.
+D: F | Une TSH normale rend impossible une compression.
+E: V | Un pôle inférieur non accessible peut faire suspecter un prolongement thoracique.
+JUSTIFICATION: Le volume, le caractère plongeant, la fonction et les nodules doivent être évalués séparément.
+EXPLICATION_A: Les structures osseuses limitent la fenêtre échographique.
+EXPLICATION_B: Chaque nodule doit être évalué selon son aspect.
+EXPLICATION_C: Elle complète l’examen cervical.
+EXPLICATION_D: Volume et fonction hormonale sont deux dimensions distinctes.
+EXPLICATION_E: L’échographie peut sous-estimer cette portion.
+
+---
+ID: 241-003
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Une femme de 62 ans a un goitre multinodulaire ancien, une TSH normale et une dysphagie récente. Le pôle inférieur n’est pas accessible à la palpation. Quelles propositions concernant le bilan sont exactes ?
+A: F | Une TSH normale exclut un cancer thyroïdien.
+B: F | Une augmentation de volume prouve la malignité.
+C: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+D: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+E: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+EXPLICATION_B: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_C: La classification repose sur l’échographie.
+EXPLICATION_D: Une compression ou une invasion peut être en cause.
+EXPLICATION_E: Elle apprécie la morphologie et le risque.
+
+---
+ID: 241-004
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Une femme de 62 ans a un goitre multinodulaire ancien, une TSH normale et une dysphagie récente. Le pôle inférieur n’est pas accessible à la palpation. Quelles propositions guident la décision ?
+A: V | Un nodule suspect nécessite une évaluation spécialisée.
+B: F | Tout nodule impose une thyroïdectomie totale immédiate.
+C: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+D: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+E: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Le choix dépend du contexte clinique et de la cytologie.
+EXPLICATION_B: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_C: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_D: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_E: Cela évite de confondre évolution et différence de cible.
+
+---
+ID: 241-005
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Une femme de 62 ans a un goitre multinodulaire ancien, une TSH normale et une dysphagie récente. Le pôle inférieur n’est pas accessible à la palpation. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+B: F | Une cytologie bénigne supprime toute analyse de la gêne compressive.
+C: V | Bethesda décrit un résultat cytologique et un niveau de risque.
+D: V | Une cytoponction sous échographie cible le nodule concerné.
+E: F | Une cytologie indéterminée est synonyme de cancer certain.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: Elle n’est pas un test de diagnostic universel d’un nodule.
+EXPLICATION_B: Un nodule bénin peut néanmoins être symptomatique.
+EXPLICATION_C: Il ne s’agit pas d’un score de fonction hormonale.
+EXPLICATION_D: La numérotation des nodules facilite le suivi.
+EXPLICATION_E: La conduite dépend de la catégorie et du contexte.
+
+---
+ID: 241-006
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Un homme de 68 ans a un goitre plongeant avec déviation trachéale et gêne en décubitus. TSH et T4L sont normales. Quel diagnostic principal est le plus probable ?
+A: V | Goitre multinodulaire euthyroïdien compressif
+B: F | Carcinome médullaire thyroïdien à rechercher
+C: F | Nodule thyroïdien autonome hyperfonctionnel
+D: F | Carcinome anaplasique thyroïdien
+E: F | Carcinome papillaire thyroïdien
+JUSTIFICATION: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_A: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_B: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_C: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_D: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_E: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+
+---
+ID: 241-007
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Goitre et retentissement
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Un homme de 68 ans a un goitre plongeant avec déviation trachéale et gêne en décubitus. TSH et T4L sont normales. Quelles conclusions sur le goitre sont justifiées ?
+A: V | Une imagerie en coupe précise un goitre plongeant et ses rapports trachéaux.
+B: V | Un goitre peut être euthyroïdien.
+C: F | Une TSH normale rend impossible une compression.
+D: F | La présence de plusieurs nodules suffit à les considérer tous bénins.
+E: F | Un goitre plongeant est entièrement exploré par la seule échographie cervicale.
+JUSTIFICATION: Le volume, le caractère plongeant, la fonction et les nodules doivent être évalués séparément.
+EXPLICATION_A: Elle complète l’examen cervical.
+EXPLICATION_B: L’augmentation de volume n’implique pas une hyperthyroïdie.
+EXPLICATION_C: Volume et fonction hormonale sont deux dimensions distinctes.
+EXPLICATION_D: Chaque nodule doit être évalué selon son aspect.
+EXPLICATION_E: Les structures osseuses limitent la fenêtre échographique.
+
+---
+ID: 241-008
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Un homme de 68 ans a un goitre plongeant avec déviation trachéale et gêne en décubitus. TSH et T4L sont normales. Quelles propositions concernant le bilan sont exactes ?
+A: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+B: F | Une augmentation de volume prouve la malignité.
+C: F | Une TSH normale exclut un cancer thyroïdien.
+D: V | Le dosage de TSH recherche une dysthyroïdie.
+E: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: Une compression ou une invasion peut être en cause.
+EXPLICATION_B: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_C: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+EXPLICATION_D: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_E: La classification repose sur l’échographie.
+
+---
+ID: 241-009
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Un homme de 68 ans a un goitre plongeant avec déviation trachéale et gêne en décubitus. TSH et T4L sont normales. Quelles propositions guident la décision ?
+A: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+B: F | Tout nodule impose une thyroïdectomie totale immédiate.
+C: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+D: V | Une gêne compressive modifie l’indication thérapeutique.
+E: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_B: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_C: Cela évite de confondre évolution et différence de cible.
+EXPLICATION_D: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_E: Une dysphonie, une compression ou une adénopathie changent le bilan.
+
+---
+ID: 241-010
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Un homme de 68 ans a un goitre plongeant avec déviation trachéale et gêne en décubitus. TSH et T4L sont normales. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: F | Une cytologie bénigne supprime toute analyse de la gêne compressive.
+B: V | Bethesda décrit un résultat cytologique et un niveau de risque.
+C: V | Des microcalcifications et des contours irréguliers sont des éléments suspects.
+D: F | Une cytologie indéterminée est synonyme de cancer certain.
+E: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: Un nodule bénin peut néanmoins être symptomatique.
+EXPLICATION_B: Il ne s’agit pas d’un score de fonction hormonale.
+EXPLICATION_C: Ils participent à l’évaluation échographique.
+EXPLICATION_D: La conduite dépend de la catégorie et du contexte.
+EXPLICATION_E: Elle n’est pas un test de diagnostic universel d’un nodule.
+
+---
+ID: 241-011
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Une femme présente un goitre multinodulaire euthyroïdien dont la portion basse n’est pas visible à l’échographie ; une gêne respiratoire positionnelle apparaît. Quel diagnostic principal est le plus probable ?
+A: F | Carcinome médullaire thyroïdien à rechercher
+B: F | Nodule à haut risque échographique nécessitant une cytoponction
+C: F | Carcinome anaplasique thyroïdien
+D: F | Nodule thyroïdien autonome hyperfonctionnel
+E: V | Goitre multinodulaire euthyroïdien compressif
+JUSTIFICATION: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_A: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_B: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_C: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_D: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_E: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+
+---
+ID: 241-012
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Goitre et retentissement
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Une femme présente un goitre multinodulaire euthyroïdien dont la portion basse n’est pas visible à l’échographie ; une gêne respiratoire positionnelle apparaît. Quelles conclusions sur le goitre sont justifiées ?
+A: V | Un pôle inférieur non accessible peut faire suspecter un prolongement thoracique.
+B: F | Une TSH normale rend impossible une compression.
+C: F | La présence de plusieurs nodules suffit à les considérer tous bénins.
+D: F | Un goitre plongeant est entièrement exploré par la seule échographie cervicale.
+E: V | Un goitre peut être euthyroïdien.
+JUSTIFICATION: Le volume, le caractère plongeant, la fonction et les nodules doivent être évalués séparément.
+EXPLICATION_A: L’échographie peut sous-estimer cette portion.
+EXPLICATION_B: Volume et fonction hormonale sont deux dimensions distinctes.
+EXPLICATION_C: Chaque nodule doit être évalué selon son aspect.
+EXPLICATION_D: Les structures osseuses limitent la fenêtre échographique.
+EXPLICATION_E: L’augmentation de volume n’implique pas une hyperthyroïdie.
+
+---
+ID: 241-013
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Une femme présente un goitre multinodulaire euthyroïdien dont la portion basse n’est pas visible à l’échographie ; une gêne respiratoire positionnelle apparaît. Quelles propositions concernant le bilan sont exactes ?
+A: V | Le dosage de TSH recherche une dysthyroïdie.
+B: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+C: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+D: F | Une augmentation de volume prouve la malignité.
+E: F | Une TSH normale exclut un cancer thyroïdien.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_B: La classification repose sur l’échographie.
+EXPLICATION_C: Elle apprécie la morphologie et le risque.
+EXPLICATION_D: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_E: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+
+---
+ID: 241-014
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Une femme présente un goitre multinodulaire euthyroïdien dont la portion basse n’est pas visible à l’échographie ; une gêne respiratoire positionnelle apparaît. Quelles propositions guident la décision ?
+A: V | Une gêne compressive modifie l’indication thérapeutique.
+B: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+C: F | Tout nodule impose une thyroïdectomie totale immédiate.
+D: V | Un nodule suspect nécessite une évaluation spécialisée.
+E: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_B: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_C: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_D: Le choix dépend du contexte clinique et de la cytologie.
+EXPLICATION_E: Il expose au surdiagnostic et à des interventions inutiles.
+
+---
+ID: 241-015
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Une femme présente un goitre multinodulaire euthyroïdien dont la portion basse n’est pas visible à l’échographie ; une gêne respiratoire positionnelle apparaît. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: V | Une cytoponction sous échographie cible le nodule concerné.
+B: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+C: F | Une cytologie bénigne supprime toute analyse de la gêne compressive.
+D: F | Une cytologie indéterminée est synonyme de cancer certain.
+E: V | Des microcalcifications et des contours irréguliers sont des éléments suspects.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: La numérotation des nodules facilite le suivi.
+EXPLICATION_B: Elle n’est pas un test de diagnostic universel d’un nodule.
+EXPLICATION_C: Un nodule bénin peut néanmoins être symptomatique.
+EXPLICATION_D: La conduite dépend de la catégorie et du contexte.
+EXPLICATION_E: Ils participent à l’évaluation échographique.
+
+---
+ID: 241-016
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Un patient ayant un goitre multinodulaire a une turgescence jugulaire et une compression veineuse documentée, sans dysthyroïdie. Quel diagnostic principal est le plus probable ?
+A: F | Carcinome papillaire thyroïdien
+B: F | Nodule thyroïdien autonome hyperfonctionnel
+C: V | Goitre multinodulaire euthyroïdien compressif
+D: F | Nodule à haut risque échographique nécessitant une cytoponction
+E: F | Carcinome anaplasique thyroïdien
+JUSTIFICATION: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_A: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_B: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_C: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_D: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_E: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+
+---
+ID: 241-017
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Goitre et retentissement
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Un patient ayant un goitre multinodulaire a une turgescence jugulaire et une compression veineuse documentée, sans dysthyroïdie. Quelles conclusions sur le goitre sont justifiées ?
+A: V | Un goitre peut être euthyroïdien.
+B: V | Une imagerie en coupe précise un goitre plongeant et ses rapports trachéaux.
+C: V | Un pôle inférieur non accessible peut faire suspecter un prolongement thoracique.
+D: F | Une TSH normale rend impossible une compression.
+E: F | La présence de plusieurs nodules suffit à les considérer tous bénins.
+JUSTIFICATION: Le volume, le caractère plongeant, la fonction et les nodules doivent être évalués séparément.
+EXPLICATION_A: L’augmentation de volume n’implique pas une hyperthyroïdie.
+EXPLICATION_B: Elle complète l’examen cervical.
+EXPLICATION_C: L’échographie peut sous-estimer cette portion.
+EXPLICATION_D: Volume et fonction hormonale sont deux dimensions distinctes.
+EXPLICATION_E: Chaque nodule doit être évalué selon son aspect.
+
+---
+ID: 241-018
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Un patient ayant un goitre multinodulaire a une turgescence jugulaire et une compression veineuse documentée, sans dysthyroïdie. Quelles propositions concernant le bilan sont exactes ?
+A: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+B: V | Le dosage de TSH recherche une dysthyroïdie.
+C: F | Une augmentation de volume prouve la malignité.
+D: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+E: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: La classification repose sur l’échographie.
+EXPLICATION_B: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_C: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_D: Une compression ou une invasion peut être en cause.
+EXPLICATION_E: Elle apprécie la morphologie et le risque.
+
+---
+ID: 241-019
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Un patient ayant un goitre multinodulaire a une turgescence jugulaire et une compression veineuse documentée, sans dysthyroïdie. Quelles propositions guident la décision ?
+A: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+B: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+C: V | Une gêne compressive modifie l’indication thérapeutique.
+D: V | Un nodule suspect nécessite une évaluation spécialisée.
+E: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_B: Cela évite de confondre évolution et différence de cible.
+EXPLICATION_C: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_D: Le choix dépend du contexte clinique et de la cytologie.
+EXPLICATION_E: Une dysphonie, une compression ou une adénopathie changent le bilan.
+
+---
+ID: 241-020
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Un patient ayant un goitre multinodulaire a une turgescence jugulaire et une compression veineuse documentée, sans dysthyroïdie. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+B: V | Bethesda décrit un résultat cytologique et un niveau de risque.
+C: V | Une cytoponction sous échographie cible le nodule concerné.
+D: F | Une cytologie bénigne supprime toute analyse de la gêne compressive.
+E: V | Des microcalcifications et des contours irréguliers sont des éléments suspects.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: Elle n’est pas un test de diagnostic universel d’un nodule.
+EXPLICATION_B: Il ne s’agit pas d’un score de fonction hormonale.
+EXPLICATION_C: La numérotation des nodules facilite le suivi.
+EXPLICATION_D: Un nodule bénin peut néanmoins être symptomatique.
+EXPLICATION_E: Ils participent à l’évaluation échographique.
+
+---
+ID: 241-021
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Une patiente présente une dysphagie liée à un volumineux goitre multinodulaire. La TSH est normale et les nodules visibles n’ont pas d’aspect franchement suspect. Quel diagnostic principal est le plus probable ?
+A: V | Goitre multinodulaire euthyroïdien compressif
+B: F | Carcinome papillaire thyroïdien
+C: F | Nodule thyroïdien autonome hyperfonctionnel
+D: F | Nodule à haut risque échographique nécessitant une cytoponction
+E: F | Carcinome médullaire thyroïdien à rechercher
+JUSTIFICATION: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_A: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_B: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_C: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_D: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+EXPLICATION_E: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif.
+
+---
+ID: 241-022
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Goitre et retentissement
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Une patiente présente une dysphagie liée à un volumineux goitre multinodulaire. La TSH est normale et les nodules visibles n’ont pas d’aspect franchement suspect. Quelles conclusions sur le goitre sont justifiées ?
+A: V | Un pôle inférieur non accessible peut faire suspecter un prolongement thoracique.
+B: F | Un goitre plongeant est entièrement exploré par la seule échographie cervicale.
+C: V | Une imagerie en coupe précise un goitre plongeant et ses rapports trachéaux.
+D: F | La présence de plusieurs nodules suffit à les considérer tous bénins.
+E: V | Un goitre peut être euthyroïdien.
+JUSTIFICATION: Le volume, le caractère plongeant, la fonction et les nodules doivent être évalués séparément.
+EXPLICATION_A: L’échographie peut sous-estimer cette portion.
+EXPLICATION_B: Les structures osseuses limitent la fenêtre échographique.
+EXPLICATION_C: Elle complète l’examen cervical.
+EXPLICATION_D: Chaque nodule doit être évalué selon son aspect.
+EXPLICATION_E: L’augmentation de volume n’implique pas une hyperthyroïdie.
+
+---
+ID: 241-023
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Une patiente présente une dysphagie liée à un volumineux goitre multinodulaire. La TSH est normale et les nodules visibles n’ont pas d’aspect franchement suspect. Quelles propositions concernant le bilan sont exactes ?
+A: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+B: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+C: V | Le dosage de TSH recherche une dysthyroïdie.
+D: F | Une TSH normale exclut un cancer thyroïdien.
+E: F | Une augmentation de volume prouve la malignité.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: Elle apprécie la morphologie et le risque.
+EXPLICATION_B: Une compression ou une invasion peut être en cause.
+EXPLICATION_C: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_D: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+EXPLICATION_E: L’évolution doit être interprétée avec les autres éléments.
+
+---
+ID: 241-024
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Une patiente présente une dysphagie liée à un volumineux goitre multinodulaire. La TSH est normale et les nodules visibles n’ont pas d’aspect franchement suspect. Quelles propositions guident la décision ?
+A: V | Un nodule suspect nécessite une évaluation spécialisée.
+B: F | Tout nodule impose une thyroïdectomie totale immédiate.
+C: V | Une gêne compressive modifie l’indication thérapeutique.
+D: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+E: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Le choix dépend du contexte clinique et de la cytologie.
+EXPLICATION_B: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_C: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_D: Cela évite de confondre évolution et différence de cible.
+EXPLICATION_E: Il expose au surdiagnostic et à des interventions inutiles.
+
+---
+ID: 241-025
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Goitre compressif · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 1-4
+CONSIGNE: Une patiente présente une dysphagie liée à un volumineux goitre multinodulaire. La TSH est normale et les nodules visibles n’ont pas d’aspect franchement suspect. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+B: V | Des microcalcifications et des contours irréguliers sont des éléments suspects.
+C: F | Une cytologie indéterminée est synonyme de cancer certain.
+D: V | Bethesda décrit un résultat cytologique et un niveau de risque.
+E: V | Une cytoponction sous échographie cible le nodule concerné.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: Elle n’est pas un test de diagnostic universel d’un nodule.
+EXPLICATION_B: Ils participent à l’évaluation échographique.
+EXPLICATION_C: La conduite dépend de la catégorie et du contexte.
+EXPLICATION_D: Il ne s’agit pas d’un score de fonction hormonale.
+EXPLICATION_E: La numérotation des nodules facilite le suivi.
+
+---
+ID: 241-026
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Une femme de 57 ans présente un nodule isolé de 28 mm, une TSH effondrée et une T4L élevée. La scintigraphie montre une hyperfixation focale avec freinage du reste de la glande. Quel diagnostic principal est le plus probable ?
+A: F | Carcinome anaplasique thyroïdien
+B: V | Nodule thyroïdien autonome hyperfonctionnel
+C: F | Carcinome médullaire thyroïdien à rechercher
+D: F | Carcinome papillaire thyroïdien
+E: F | Goitre multinodulaire euthyroïdien compressif
+JUSTIFICATION: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_A: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_B: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_C: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_D: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_E: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+
+---
+ID: 241-027
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Autonomie fonctionnelle
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Une femme de 57 ans présente un nodule isolé de 28 mm, une TSH effondrée et une T4L élevée. La scintigraphie montre une hyperfixation focale avec freinage du reste de la glande. Quelles propositions concernant l’autonomie thyroïdienne sont exactes ?
+A: V | La scintigraphie peut montrer une zone hyperfixante avec freinage du tissu adjacent.
+B: F | La scintigraphie remplace l’évaluation anatomique échographique.
+C: V | Une charge iodée peut déclencher une thyrotoxicose sur un goitre autonome.
+D: F | Un nodule chaud signifie par définition un nodule hypofonctionnel.
+E: F | L’absence de palpitation exclut une hyperthyroïdie chez un sujet âgé.
+JUSTIFICATION: Une TSH basse oriente vers une exploration de la fonction des nodules.
+EXPLICATION_A: Ce profil soutient l’autonomie d’un nodule.
+EXPLICATION_B: Elle explore surtout la fonction.
+EXPLICATION_C: L’exposition aux produits iodés doit être recherchée.
+EXPLICATION_D: Il correspond à une hyperfixation.
+EXPLICATION_E: La présentation peut être peu bruyante.
+
+---
+ID: 241-028
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Une femme de 57 ans présente un nodule isolé de 28 mm, une TSH effondrée et une T4L élevée. La scintigraphie montre une hyperfixation focale avec freinage du reste de la glande. Quelles propositions concernant le bilan sont exactes ?
+A: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+B: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+C: F | Une TSH normale exclut un cancer thyroïdien.
+D: F | Une augmentation de volume prouve la malignité.
+E: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: Elle apprécie la morphologie et le risque.
+EXPLICATION_B: La classification repose sur l’échographie.
+EXPLICATION_C: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+EXPLICATION_D: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_E: Une compression ou une invasion peut être en cause.
+
+---
+ID: 241-029
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Une femme de 57 ans présente un nodule isolé de 28 mm, une TSH effondrée et une T4L élevée. La scintigraphie montre une hyperfixation focale avec freinage du reste de la glande. Quelles propositions guident la décision ?
+A: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+B: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+C: F | Tout nodule impose une thyroïdectomie totale immédiate.
+D: V | Un nodule suspect nécessite une évaluation spécialisée.
+E: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Cela évite de confondre évolution et différence de cible.
+EXPLICATION_B: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_C: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_D: Le choix dépend du contexte clinique et de la cytologie.
+EXPLICATION_E: Il expose au surdiagnostic et à des interventions inutiles.
+
+---
+ID: 241-030
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Une femme de 57 ans présente un nodule isolé de 28 mm, une TSH effondrée et une T4L élevée. La scintigraphie montre une hyperfixation focale avec freinage du reste de la glande. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: F | Une cytologie indéterminée est synonyme de cancer certain.
+B: V | Bethesda décrit un résultat cytologique et un niveau de risque.
+C: F | Une cytologie bénigne supprime toute analyse de la gêne compressive.
+D: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+E: V | Une cytoponction sous échographie cible le nodule concerné.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: La conduite dépend de la catégorie et du contexte.
+EXPLICATION_B: Il ne s’agit pas d’un score de fonction hormonale.
+EXPLICATION_C: Un nodule bénin peut néanmoins être symptomatique.
+EXPLICATION_D: Elle n’est pas un test de diagnostic universel d’un nodule.
+EXPLICATION_E: La numérotation des nodules facilite le suivi.
+
+---
+ID: 241-031
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Un homme de 72 ans a une fibrillation atriale et un nodule thyroïdien hyperfixant. La TSH est basse ; le parenchyme adjacent est freiné. Quel diagnostic principal est le plus probable ?
+A: F | Carcinome médullaire thyroïdien à rechercher
+B: F | Carcinome anaplasique thyroïdien
+C: V | Nodule thyroïdien autonome hyperfonctionnel
+D: F | Goitre multinodulaire euthyroïdien compressif
+E: F | Nodule à haut risque échographique nécessitant une cytoponction
+JUSTIFICATION: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_A: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_B: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_C: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_D: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_E: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+
+---
+ID: 241-032
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Autonomie fonctionnelle
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Un homme de 72 ans a une fibrillation atriale et un nodule thyroïdien hyperfixant. La TSH est basse ; le parenchyme adjacent est freiné. Quelles propositions concernant l’autonomie thyroïdienne sont exactes ?
+A: F | Un nodule chaud signifie par définition un nodule hypofonctionnel.
+B: F | La scintigraphie remplace l’évaluation anatomique échographique.
+C: V | Une charge iodée peut déclencher une thyrotoxicose sur un goitre autonome.
+D: F | L’absence de palpitation exclut une hyperthyroïdie chez un sujet âgé.
+E: V | Une TSH basse conduit à évaluer les hormones thyroïdiennes.
+JUSTIFICATION: Une TSH basse oriente vers une exploration de la fonction des nodules.
+EXPLICATION_A: Il correspond à une hyperfixation.
+EXPLICATION_B: Elle explore surtout la fonction.
+EXPLICATION_C: L’exposition aux produits iodés doit être recherchée.
+EXPLICATION_D: La présentation peut être peu bruyante.
+EXPLICATION_E: Elle peut précéder une hyperthyroïdie franche.
+
+---
+ID: 241-033
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Un homme de 72 ans a une fibrillation atriale et un nodule thyroïdien hyperfixant. La TSH est basse ; le parenchyme adjacent est freiné. Quelles propositions concernant le bilan sont exactes ?
+A: F | Une TSH normale exclut un cancer thyroïdien.
+B: F | Une augmentation de volume prouve la malignité.
+C: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+D: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+E: V | Le dosage de TSH recherche une dysthyroïdie.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+EXPLICATION_B: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_C: Une compression ou une invasion peut être en cause.
+EXPLICATION_D: La classification repose sur l’échographie.
+EXPLICATION_E: Il oriente la suite du bilan fonctionnel.
+
+---
+ID: 241-034
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Un homme de 72 ans a une fibrillation atriale et un nodule thyroïdien hyperfixant. La TSH est basse ; le parenchyme adjacent est freiné. Quelles propositions guident la décision ?
+A: V | Une gêne compressive modifie l’indication thérapeutique.
+B: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+C: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+D: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+E: F | Tout nodule impose une thyroïdectomie totale immédiate.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_B: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_C: Cela évite de confondre évolution et différence de cible.
+EXPLICATION_D: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_E: La majorité des nodules sont bénins et la stratégie est individualisée.
+
+---
+ID: 241-035
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Un homme de 72 ans a une fibrillation atriale et un nodule thyroïdien hyperfixant. La TSH est basse ; le parenchyme adjacent est freiné. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: F | Une cytologie bénigne supprime toute analyse de la gêne compressive.
+B: V | Bethesda décrit un résultat cytologique et un niveau de risque.
+C: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+D: V | Des microcalcifications et des contours irréguliers sont des éléments suspects.
+E: F | Une cytologie indéterminée est synonyme de cancer certain.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: Un nodule bénin peut néanmoins être symptomatique.
+EXPLICATION_B: Il ne s’agit pas d’un score de fonction hormonale.
+EXPLICATION_C: Elle n’est pas un test de diagnostic universel d’un nodule.
+EXPLICATION_D: Ils participent à l’évaluation échographique.
+EXPLICATION_E: La conduite dépend de la catégorie et du contexte.
+
+---
+ID: 241-036
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Une femme de 64 ans développe une thyrotoxicose après injection iodée. Un nodule autonome connu est hyperfixant à l’exploration fonctionnelle. Quel diagnostic principal est le plus probable ?
+A: F | Carcinome anaplasique thyroïdien
+B: V | Nodule thyroïdien autonome hyperfonctionnel
+C: F | Carcinome papillaire thyroïdien
+D: F | Goitre multinodulaire euthyroïdien compressif
+E: F | Nodule à haut risque échographique nécessitant une cytoponction
+JUSTIFICATION: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_A: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_B: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_C: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_D: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_E: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+
+---
+ID: 241-037
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Autonomie fonctionnelle
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Une femme de 64 ans développe une thyrotoxicose après injection iodée. Un nodule autonome connu est hyperfixant à l’exploration fonctionnelle. Quelles propositions concernant l’autonomie thyroïdienne sont exactes ?
+A: V | Une TSH basse conduit à évaluer les hormones thyroïdiennes.
+B: V | La scintigraphie peut montrer une zone hyperfixante avec freinage du tissu adjacent.
+C: F | La scintigraphie remplace l’évaluation anatomique échographique.
+D: F | L’absence de palpitation exclut une hyperthyroïdie chez un sujet âgé.
+E: F | Un nodule chaud signifie par définition un nodule hypofonctionnel.
+JUSTIFICATION: Une TSH basse oriente vers une exploration de la fonction des nodules.
+EXPLICATION_A: Elle peut précéder une hyperthyroïdie franche.
+EXPLICATION_B: Ce profil soutient l’autonomie d’un nodule.
+EXPLICATION_C: Elle explore surtout la fonction.
+EXPLICATION_D: La présentation peut être peu bruyante.
+EXPLICATION_E: Il correspond à une hyperfixation.
+
+---
+ID: 241-038
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Une femme de 64 ans développe une thyrotoxicose après injection iodée. Un nodule autonome connu est hyperfixant à l’exploration fonctionnelle. Quelles propositions concernant le bilan sont exactes ?
+A: F | Une TSH normale exclut un cancer thyroïdien.
+B: V | Le dosage de TSH recherche une dysthyroïdie.
+C: F | Une augmentation de volume prouve la malignité.
+D: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+E: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+EXPLICATION_B: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_C: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_D: La classification repose sur l’échographie.
+EXPLICATION_E: Elle apprécie la morphologie et le risque.
+
+---
+ID: 241-039
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Une femme de 64 ans développe une thyrotoxicose après injection iodée. Un nodule autonome connu est hyperfixant à l’exploration fonctionnelle. Quelles propositions guident la décision ?
+A: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+B: V | Une gêne compressive modifie l’indication thérapeutique.
+C: F | Tout nodule impose une thyroïdectomie totale immédiate.
+D: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+E: V | Un nodule suspect nécessite une évaluation spécialisée.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_B: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_C: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_D: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_E: Le choix dépend du contexte clinique et de la cytologie.
+
+---
+ID: 241-040
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Une femme de 64 ans développe une thyrotoxicose après injection iodée. Un nodule autonome connu est hyperfixant à l’exploration fonctionnelle. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: F | Une cytologie bénigne supprime toute analyse de la gêne compressive.
+B: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+C: F | Une cytologie indéterminée est synonyme de cancer certain.
+D: V | Une cytoponction sous échographie cible le nodule concerné.
+E: V | Des microcalcifications et des contours irréguliers sont des éléments suspects.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: Un nodule bénin peut néanmoins être symptomatique.
+EXPLICATION_B: Elle n’est pas un test de diagnostic universel d’un nodule.
+EXPLICATION_C: La conduite dépend de la catégorie et du contexte.
+EXPLICATION_D: La numérotation des nodules facilite le suivi.
+EXPLICATION_E: Ils participent à l’évaluation échographique.
+
+---
+ID: 241-041
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Une patiente a une TSH basse et un nodule de 32 mm qui fixe seul en scintigraphie ; les hormones périphériques sont encore normales. Quel diagnostic principal est le plus probable ?
+A: V | Nodule thyroïdien autonome hyperfonctionnel
+B: F | Carcinome médullaire thyroïdien à rechercher
+C: F | Carcinome papillaire thyroïdien
+D: F | Goitre multinodulaire euthyroïdien compressif
+E: F | Nodule à haut risque échographique nécessitant une cytoponction
+JUSTIFICATION: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_A: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_B: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_C: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_D: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_E: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+
+---
+ID: 241-042
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Autonomie fonctionnelle
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Une patiente a une TSH basse et un nodule de 32 mm qui fixe seul en scintigraphie ; les hormones périphériques sont encore normales. Quelles propositions concernant l’autonomie thyroïdienne sont exactes ?
+A: V | Une charge iodée peut déclencher une thyrotoxicose sur un goitre autonome.
+B: V | La scintigraphie peut montrer une zone hyperfixante avec freinage du tissu adjacent.
+C: F | L’absence de palpitation exclut une hyperthyroïdie chez un sujet âgé.
+D: F | La scintigraphie remplace l’évaluation anatomique échographique.
+E: V | Une TSH basse conduit à évaluer les hormones thyroïdiennes.
+JUSTIFICATION: Une TSH basse oriente vers une exploration de la fonction des nodules.
+EXPLICATION_A: L’exposition aux produits iodés doit être recherchée.
+EXPLICATION_B: Ce profil soutient l’autonomie d’un nodule.
+EXPLICATION_C: La présentation peut être peu bruyante.
+EXPLICATION_D: Elle explore surtout la fonction.
+EXPLICATION_E: Elle peut précéder une hyperthyroïdie franche.
+
+---
+ID: 241-043
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Une patiente a une TSH basse et un nodule de 32 mm qui fixe seul en scintigraphie ; les hormones périphériques sont encore normales. Quelles propositions concernant le bilan sont exactes ?
+A: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+B: V | Le dosage de TSH recherche une dysthyroïdie.
+C: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+D: F | Une augmentation de volume prouve la malignité.
+E: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: Une compression ou une invasion peut être en cause.
+EXPLICATION_B: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_C: Elle apprécie la morphologie et le risque.
+EXPLICATION_D: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_E: La classification repose sur l’échographie.
+
+---
+ID: 241-044
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Une patiente a une TSH basse et un nodule de 32 mm qui fixe seul en scintigraphie ; les hormones périphériques sont encore normales. Quelles propositions guident la décision ?
+A: V | Un nodule suspect nécessite une évaluation spécialisée.
+B: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+C: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+D: V | Une gêne compressive modifie l’indication thérapeutique.
+E: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Le choix dépend du contexte clinique et de la cytologie.
+EXPLICATION_B: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_C: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_D: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_E: Cela évite de confondre évolution et différence de cible.
+
+---
+ID: 241-045
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Une patiente a une TSH basse et un nodule de 32 mm qui fixe seul en scintigraphie ; les hormones périphériques sont encore normales. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+B: V | Une cytoponction sous échographie cible le nodule concerné.
+C: V | Bethesda décrit un résultat cytologique et un niveau de risque.
+D: F | Une cytologie bénigne supprime toute analyse de la gêne compressive.
+E: V | Des microcalcifications et des contours irréguliers sont des éléments suspects.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: Elle n’est pas un test de diagnostic universel d’un nodule.
+EXPLICATION_B: La numérotation des nodules facilite le suivi.
+EXPLICATION_C: Il ne s’agit pas d’un score de fonction hormonale.
+EXPLICATION_D: Un nodule bénin peut néanmoins être symptomatique.
+EXPLICATION_E: Ils participent à l’évaluation échographique.
+
+---
+ID: 241-046
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Un homme fragile a un nodule hyperfonctionnel avec T4L élevée et amaigrissement ; la scintigraphie retrouve un freinage du tissu adjacent. Quel diagnostic principal est le plus probable ?
+A: F | Carcinome médullaire thyroïdien à rechercher
+B: F | Carcinome papillaire thyroïdien
+C: V | Nodule thyroïdien autonome hyperfonctionnel
+D: F | Nodule à haut risque échographique nécessitant une cytoponction
+E: F | Carcinome anaplasique thyroïdien
+JUSTIFICATION: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_A: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_B: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_C: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_D: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+EXPLICATION_E: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome.
+
+---
+ID: 241-047
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Autonomie fonctionnelle
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Un homme fragile a un nodule hyperfonctionnel avec T4L élevée et amaigrissement ; la scintigraphie retrouve un freinage du tissu adjacent. Quelles propositions concernant l’autonomie thyroïdienne sont exactes ?
+A: V | La scintigraphie peut montrer une zone hyperfixante avec freinage du tissu adjacent.
+B: F | L’absence de palpitation exclut une hyperthyroïdie chez un sujet âgé.
+C: V | Une TSH basse conduit à évaluer les hormones thyroïdiennes.
+D: V | Une charge iodée peut déclencher une thyrotoxicose sur un goitre autonome.
+E: F | Un nodule chaud signifie par définition un nodule hypofonctionnel.
+JUSTIFICATION: Une TSH basse oriente vers une exploration de la fonction des nodules.
+EXPLICATION_A: Ce profil soutient l’autonomie d’un nodule.
+EXPLICATION_B: La présentation peut être peu bruyante.
+EXPLICATION_C: Elle peut précéder une hyperthyroïdie franche.
+EXPLICATION_D: L’exposition aux produits iodés doit être recherchée.
+EXPLICATION_E: Il correspond à une hyperfixation.
+
+---
+ID: 241-048
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Un homme fragile a un nodule hyperfonctionnel avec T4L élevée et amaigrissement ; la scintigraphie retrouve un freinage du tissu adjacent. Quelles propositions concernant le bilan sont exactes ?
+A: F | Une augmentation de volume prouve la malignité.
+B: F | Une TSH normale exclut un cancer thyroïdien.
+C: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+D: V | Le dosage de TSH recherche une dysthyroïdie.
+E: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_B: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+EXPLICATION_C: Elle apprécie la morphologie et le risque.
+EXPLICATION_D: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_E: Une compression ou une invasion peut être en cause.
+
+---
+ID: 241-049
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Un homme fragile a un nodule hyperfonctionnel avec T4L élevée et amaigrissement ; la scintigraphie retrouve un freinage du tissu adjacent. Quelles propositions guident la décision ?
+A: V | Un nodule suspect nécessite une évaluation spécialisée.
+B: V | Une gêne compressive modifie l’indication thérapeutique.
+C: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+D: F | Tout nodule impose une thyroïdectomie totale immédiate.
+E: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Le choix dépend du contexte clinique et de la cytologie.
+EXPLICATION_B: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_C: Cela évite de confondre évolution et différence de cible.
+EXPLICATION_D: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_E: Il expose au surdiagnostic et à des interventions inutiles.
+
+---
+ID: 241-050
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule autonome · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 2-3,5-7
+CONSIGNE: Un homme fragile a un nodule hyperfonctionnel avec T4L élevée et amaigrissement ; la scintigraphie retrouve un freinage du tissu adjacent. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: F | Une cytologie indéterminée est synonyme de cancer certain.
+B: V | Une cytoponction sous échographie cible le nodule concerné.
+C: V | Bethesda décrit un résultat cytologique et un niveau de risque.
+D: V | Des microcalcifications et des contours irréguliers sont des éléments suspects.
+E: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: La conduite dépend de la catégorie et du contexte.
+EXPLICATION_B: La numérotation des nodules facilite le suivi.
+EXPLICATION_C: Il ne s’agit pas d’un score de fonction hormonale.
+EXPLICATION_D: Ils participent à l’évaluation échographique.
+EXPLICATION_E: Elle n’est pas un test de diagnostic universel d’un nodule.
+
+---
+ID: 241-051
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Une femme de 44 ans a une TSH normale et un nodule solide de 18 mm, très hypoéchogène, irrégulier et microcalcifié, classé EU-TIRADS 5. Quel diagnostic principal est le plus probable ?
+A: V | Nodule à haut risque échographique nécessitant une cytoponction
+B: F | Nodule thyroïdien autonome hyperfonctionnel
+C: F | Carcinome médullaire thyroïdien à rechercher
+D: F | Carcinome anaplasique thyroïdien
+E: F | Goitre multinodulaire euthyroïdien compressif
+JUSTIFICATION: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_A: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_B: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_C: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_D: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_E: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+
+---
+ID: 241-052
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Une femme de 44 ans a une TSH normale et un nodule solide de 18 mm, très hypoéchogène, irrégulier et microcalcifié, classé EU-TIRADS 5. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: V | Bethesda décrit un résultat cytologique et un niveau de risque.
+B: F | Une cytologie indéterminée est synonyme de cancer certain.
+C: V | Une cytoponction sous échographie cible le nodule concerné.
+D: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+E: F | Une cytologie bénigne supprime toute analyse de la gêne compressive.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: Il ne s’agit pas d’un score de fonction hormonale.
+EXPLICATION_B: La conduite dépend de la catégorie et du contexte.
+EXPLICATION_C: La numérotation des nodules facilite le suivi.
+EXPLICATION_D: Elle n’est pas un test de diagnostic universel d’un nodule.
+EXPLICATION_E: Un nodule bénin peut néanmoins être symptomatique.
+
+---
+ID: 241-053
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Une femme de 44 ans a une TSH normale et un nodule solide de 18 mm, très hypoéchogène, irrégulier et microcalcifié, classé EU-TIRADS 5. Quelles propositions concernant le bilan sont exactes ?
+A: F | Une TSH normale exclut un cancer thyroïdien.
+B: F | Une augmentation de volume prouve la malignité.
+C: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+D: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+E: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+EXPLICATION_B: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_C: La classification repose sur l’échographie.
+EXPLICATION_D: Elle apprécie la morphologie et le risque.
+EXPLICATION_E: Une compression ou une invasion peut être en cause.
+
+---
+ID: 241-054
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Une femme de 44 ans a une TSH normale et un nodule solide de 18 mm, très hypoéchogène, irrégulier et microcalcifié, classé EU-TIRADS 5. Quelles propositions guident la décision ?
+A: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+B: V | Un nodule suspect nécessite une évaluation spécialisée.
+C: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+D: F | Tout nodule impose une thyroïdectomie totale immédiate.
+E: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_B: Le choix dépend du contexte clinique et de la cytologie.
+EXPLICATION_C: Cela évite de confondre évolution et différence de cible.
+EXPLICATION_D: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_E: Il expose au surdiagnostic et à des interventions inutiles.
+
+---
+ID: 241-055
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Une femme de 44 ans a une TSH normale et un nodule solide de 18 mm, très hypoéchogène, irrégulier et microcalcifié, classé EU-TIRADS 5. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: F | Tous les cancers thyroïdiens ont le même pronostic.
+B: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+C: V | Les carcinomes papillaires peuvent s’étendre aux ganglions cervicaux.
+D: F | La cytologie seule démontre toujours l’invasion capsulaire d’une tumeur vésiculaire.
+E: V | Une invasion capsulaire ou vasculaire permet d’affirmer un carcinome vésiculaire.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: Histologie et stade modifient fortement le pronostic.
+EXPLICATION_B: Il dérive des cellules C et son marqueur est la calcitonine.
+EXPLICATION_C: Cette extension est fréquente dans cette forme.
+EXPLICATION_D: L’étude de l’architecture et de la capsule nécessite l’histologie.
+EXPLICATION_E: Ce critère est histologique.
+
+---
+ID: 241-056
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Un homme irradié dans l’enfance a un nodule de 16 mm classé EU-TIRADS 5. Sa TSH normale le fait penser que le nodule ne peut pas être malin. Quel diagnostic principal est le plus probable ?
+A: F | Carcinome anaplasique thyroïdien
+B: F | Carcinome papillaire thyroïdien
+C: F | Nodule thyroïdien autonome hyperfonctionnel
+D: F | Goitre multinodulaire euthyroïdien compressif
+E: V | Nodule à haut risque échographique nécessitant une cytoponction
+JUSTIFICATION: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_A: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_B: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_C: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_D: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_E: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+
+---
+ID: 241-057
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Un homme irradié dans l’enfance a un nodule de 16 mm classé EU-TIRADS 5. Sa TSH normale le fait penser que le nodule ne peut pas être malin. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: V | Bethesda décrit un résultat cytologique et un niveau de risque.
+B: F | Une cytologie indéterminée est synonyme de cancer certain.
+C: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+D: F | Une cytologie bénigne supprime toute analyse de la gêne compressive.
+E: V | Des microcalcifications et des contours irréguliers sont des éléments suspects.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: Il ne s’agit pas d’un score de fonction hormonale.
+EXPLICATION_B: La conduite dépend de la catégorie et du contexte.
+EXPLICATION_C: Elle n’est pas un test de diagnostic universel d’un nodule.
+EXPLICATION_D: Un nodule bénin peut néanmoins être symptomatique.
+EXPLICATION_E: Ils participent à l’évaluation échographique.
+
+---
+ID: 241-058
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Un homme irradié dans l’enfance a un nodule de 16 mm classé EU-TIRADS 5. Sa TSH normale le fait penser que le nodule ne peut pas être malin. Quelles propositions concernant le bilan sont exactes ?
+A: F | Une augmentation de volume prouve la malignité.
+B: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+C: F | Une TSH normale exclut un cancer thyroïdien.
+D: V | Le dosage de TSH recherche une dysthyroïdie.
+E: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_B: La classification repose sur l’échographie.
+EXPLICATION_C: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+EXPLICATION_D: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_E: Une compression ou une invasion peut être en cause.
+
+---
+ID: 241-059
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Un homme irradié dans l’enfance a un nodule de 16 mm classé EU-TIRADS 5. Sa TSH normale le fait penser que le nodule ne peut pas être malin. Quelles propositions guident la décision ?
+A: V | Une gêne compressive modifie l’indication thérapeutique.
+B: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+C: F | Tout nodule impose une thyroïdectomie totale immédiate.
+D: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+E: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_B: Cela évite de confondre évolution et différence de cible.
+EXPLICATION_C: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_D: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_E: Une dysphonie, une compression ou une adénopathie changent le bilan.
+
+---
+ID: 241-060
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Un homme irradié dans l’enfance a un nodule de 16 mm classé EU-TIRADS 5. Sa TSH normale le fait penser que le nodule ne peut pas être malin. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+B: V | Une invasion capsulaire ou vasculaire permet d’affirmer un carcinome vésiculaire.
+C: F | Tous les cancers thyroïdiens ont le même pronostic.
+D: V | La thyroglobuline est un marqueur de suivi des cancers d’origine folliculaire.
+E: F | La cytologie seule démontre toujours l’invasion capsulaire d’une tumeur vésiculaire.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: Il dérive des cellules C et son marqueur est la calcitonine.
+EXPLICATION_B: Ce critère est histologique.
+EXPLICATION_C: Histologie et stade modifient fortement le pronostic.
+EXPLICATION_D: Elle doit être interprétée selon le traitement et le contexte.
+EXPLICATION_E: L’étude de l’architecture et de la capsule nécessite l’histologie.
+
+---
+ID: 241-061
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Une femme a un nodule de 22 mm solide non ovalaire avec microcalcifications, EU-TIRADS 5, et une TSH normale. La cytologie n’a pas encore été réalisée. Quel diagnostic principal est le plus probable ?
+A: F | Carcinome papillaire thyroïdien
+B: V | Nodule à haut risque échographique nécessitant une cytoponction
+C: F | Goitre multinodulaire euthyroïdien compressif
+D: F | Carcinome médullaire thyroïdien à rechercher
+E: F | Nodule thyroïdien autonome hyperfonctionnel
+JUSTIFICATION: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_A: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_B: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_C: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_D: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_E: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+
+---
+ID: 241-062
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Une femme a un nodule de 22 mm solide non ovalaire avec microcalcifications, EU-TIRADS 5, et une TSH normale. La cytologie n’a pas encore été réalisée. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: F | Une cytologie indéterminée est synonyme de cancer certain.
+B: V | Des microcalcifications et des contours irréguliers sont des éléments suspects.
+C: V | Une cytoponction sous échographie cible le nodule concerné.
+D: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+E: F | Une cytologie bénigne supprime toute analyse de la gêne compressive.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: La conduite dépend de la catégorie et du contexte.
+EXPLICATION_B: Ils participent à l’évaluation échographique.
+EXPLICATION_C: La numérotation des nodules facilite le suivi.
+EXPLICATION_D: Elle n’est pas un test de diagnostic universel d’un nodule.
+EXPLICATION_E: Un nodule bénin peut néanmoins être symptomatique.
+
+---
+ID: 241-063
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Une femme a un nodule de 22 mm solide non ovalaire avec microcalcifications, EU-TIRADS 5, et une TSH normale. La cytologie n’a pas encore été réalisée. Quelles propositions concernant le bilan sont exactes ?
+A: F | Une augmentation de volume prouve la malignité.
+B: V | Le dosage de TSH recherche une dysthyroïdie.
+C: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+D: F | Une TSH normale exclut un cancer thyroïdien.
+E: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_B: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_C: Elle apprécie la morphologie et le risque.
+EXPLICATION_D: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+EXPLICATION_E: La classification repose sur l’échographie.
+
+---
+ID: 241-064
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Une femme a un nodule de 22 mm solide non ovalaire avec microcalcifications, EU-TIRADS 5, et une TSH normale. La cytologie n’a pas encore été réalisée. Quelles propositions guident la décision ?
+A: V | Un nodule suspect nécessite une évaluation spécialisée.
+B: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+C: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+D: V | Une gêne compressive modifie l’indication thérapeutique.
+E: F | Tout nodule impose une thyroïdectomie totale immédiate.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Le choix dépend du contexte clinique et de la cytologie.
+EXPLICATION_B: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_C: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_D: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_E: La majorité des nodules sont bénins et la stratégie est individualisée.
+
+---
+ID: 241-065
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Une femme a un nodule de 22 mm solide non ovalaire avec microcalcifications, EU-TIRADS 5, et une TSH normale. La cytologie n’a pas encore été réalisée. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: F | La cytologie seule démontre toujours l’invasion capsulaire d’une tumeur vésiculaire.
+B: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+C: V | Les carcinomes papillaires peuvent s’étendre aux ganglions cervicaux.
+D: V | La thyroglobuline est un marqueur de suivi des cancers d’origine folliculaire.
+E: F | Tous les cancers thyroïdiens ont le même pronostic.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: L’étude de l’architecture et de la capsule nécessite l’histologie.
+EXPLICATION_B: Il dérive des cellules C et son marqueur est la calcitonine.
+EXPLICATION_C: Cette extension est fréquente dans cette forme.
+EXPLICATION_D: Elle doit être interprétée selon le traitement et le contexte.
+EXPLICATION_E: Histologie et stade modifient fortement le pronostic.
+
+---
+ID: 241-066
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Un patient présente un nodule dur de 19 mm avec adénopathie cervicale suspecte. L’échographie le classe EU-TIRADS 5 ; la TSH est normale. Quel diagnostic principal est le plus probable ?
+A: F | Carcinome anaplasique thyroïdien
+B: F | Nodule thyroïdien autonome hyperfonctionnel
+C: F | Carcinome médullaire thyroïdien à rechercher
+D: V | Nodule à haut risque échographique nécessitant une cytoponction
+E: F | Carcinome papillaire thyroïdien
+JUSTIFICATION: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_A: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_B: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_C: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_D: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_E: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+
+---
+ID: 241-067
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Un patient présente un nodule dur de 19 mm avec adénopathie cervicale suspecte. L’échographie le classe EU-TIRADS 5 ; la TSH est normale. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: V | Une cytoponction sous échographie cible le nodule concerné.
+B: V | Des microcalcifications et des contours irréguliers sont des éléments suspects.
+C: F | Une cytologie bénigne supprime toute analyse de la gêne compressive.
+D: V | Bethesda décrit un résultat cytologique et un niveau de risque.
+E: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: La numérotation des nodules facilite le suivi.
+EXPLICATION_B: Ils participent à l’évaluation échographique.
+EXPLICATION_C: Un nodule bénin peut néanmoins être symptomatique.
+EXPLICATION_D: Il ne s’agit pas d’un score de fonction hormonale.
+EXPLICATION_E: Elle n’est pas un test de diagnostic universel d’un nodule.
+
+---
+ID: 241-068
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Un patient présente un nodule dur de 19 mm avec adénopathie cervicale suspecte. L’échographie le classe EU-TIRADS 5 ; la TSH est normale. Quelles propositions concernant le bilan sont exactes ?
+A: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+B: V | Le dosage de TSH recherche une dysthyroïdie.
+C: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+D: F | Une augmentation de volume prouve la malignité.
+E: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: Elle apprécie la morphologie et le risque.
+EXPLICATION_B: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_C: Une compression ou une invasion peut être en cause.
+EXPLICATION_D: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_E: La classification repose sur l’échographie.
+
+---
+ID: 241-069
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Un patient présente un nodule dur de 19 mm avec adénopathie cervicale suspecte. L’échographie le classe EU-TIRADS 5 ; la TSH est normale. Quelles propositions guident la décision ?
+A: V | Une gêne compressive modifie l’indication thérapeutique.
+B: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+C: V | Un nodule suspect nécessite une évaluation spécialisée.
+D: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+E: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_B: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_C: Le choix dépend du contexte clinique et de la cytologie.
+EXPLICATION_D: Cela évite de confondre évolution et différence de cible.
+EXPLICATION_E: Une dysphonie, une compression ou une adénopathie changent le bilan.
+
+---
+ID: 241-070
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Un patient présente un nodule dur de 19 mm avec adénopathie cervicale suspecte. L’échographie le classe EU-TIRADS 5 ; la TSH est normale. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: V | Les carcinomes papillaires peuvent s’étendre aux ganglions cervicaux.
+B: V | La thyroglobuline est un marqueur de suivi des cancers d’origine folliculaire.
+C: V | Une invasion capsulaire ou vasculaire permet d’affirmer un carcinome vésiculaire.
+D: F | Tous les cancers thyroïdiens ont le même pronostic.
+E: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: Cette extension est fréquente dans cette forme.
+EXPLICATION_B: Elle doit être interprétée selon le traitement et le contexte.
+EXPLICATION_C: Ce critère est histologique.
+EXPLICATION_D: Histologie et stade modifient fortement le pronostic.
+EXPLICATION_E: Il dérive des cellules C et son marqueur est la calcitonine.
+
+---
+ID: 241-071
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Une patiente a une dysphonie et un nodule de 25 mm aux contours irréguliers, très hypoéchogène, classé EU-TIRADS 5. Aucun prélèvement n’a été effectué. Quel diagnostic principal est le plus probable ?
+A: F | Carcinome anaplasique thyroïdien
+B: F | Carcinome médullaire thyroïdien à rechercher
+C: V | Nodule à haut risque échographique nécessitant une cytoponction
+D: F | Goitre multinodulaire euthyroïdien compressif
+E: F | Carcinome papillaire thyroïdien
+JUSTIFICATION: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_A: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_B: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_C: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_D: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+EXPLICATION_E: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche.
+
+---
+ID: 241-072
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Une patiente a une dysphonie et un nodule de 25 mm aux contours irréguliers, très hypoéchogène, classé EU-TIRADS 5. Aucun prélèvement n’a été effectué. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: V | Des microcalcifications et des contours irréguliers sont des éléments suspects.
+B: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+C: V | Une cytoponction sous échographie cible le nodule concerné.
+D: V | Bethesda décrit un résultat cytologique et un niveau de risque.
+E: F | Une cytologie indéterminée est synonyme de cancer certain.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: Ils participent à l’évaluation échographique.
+EXPLICATION_B: Elle n’est pas un test de diagnostic universel d’un nodule.
+EXPLICATION_C: La numérotation des nodules facilite le suivi.
+EXPLICATION_D: Il ne s’agit pas d’un score de fonction hormonale.
+EXPLICATION_E: La conduite dépend de la catégorie et du contexte.
+
+---
+ID: 241-073
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Une patiente a une dysphonie et un nodule de 25 mm aux contours irréguliers, très hypoéchogène, classé EU-TIRADS 5. Aucun prélèvement n’a été effectué. Quelles propositions concernant le bilan sont exactes ?
+A: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+B: V | Le dosage de TSH recherche une dysthyroïdie.
+C: F | Une augmentation de volume prouve la malignité.
+D: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+E: F | Une TSH normale exclut un cancer thyroïdien.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: Elle apprécie la morphologie et le risque.
+EXPLICATION_B: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_C: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_D: Une compression ou une invasion peut être en cause.
+EXPLICATION_E: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+
+---
+ID: 241-074
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Une patiente a une dysphonie et un nodule de 25 mm aux contours irréguliers, très hypoéchogène, classé EU-TIRADS 5. Aucun prélèvement n’a été effectué. Quelles propositions guident la décision ?
+A: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+B: V | Un nodule suspect nécessite une évaluation spécialisée.
+C: V | Une gêne compressive modifie l’indication thérapeutique.
+D: F | Tout nodule impose une thyroïdectomie totale immédiate.
+E: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_B: Le choix dépend du contexte clinique et de la cytologie.
+EXPLICATION_C: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_D: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_E: Cela évite de confondre évolution et différence de cible.
+
+---
+ID: 241-075
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Nodule suspect · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 3,5-7
+CONSIGNE: Une patiente a une dysphonie et un nodule de 25 mm aux contours irréguliers, très hypoéchogène, classé EU-TIRADS 5. Aucun prélèvement n’a été effectué. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: V | Une invasion capsulaire ou vasculaire permet d’affirmer un carcinome vésiculaire.
+B: F | La cytologie seule démontre toujours l’invasion capsulaire d’une tumeur vésiculaire.
+C: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+D: V | Les carcinomes papillaires peuvent s’étendre aux ganglions cervicaux.
+E: V | La thyroglobuline est un marqueur de suivi des cancers d’origine folliculaire.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: Ce critère est histologique.
+EXPLICATION_B: L’étude de l’architecture et de la capsule nécessite l’histologie.
+EXPLICATION_C: Il dérive des cellules C et son marqueur est la calcitonine.
+EXPLICATION_D: Cette extension est fréquente dans cette forme.
+EXPLICATION_E: Elle doit être interprétée selon le traitement et le contexte.
+
+---
+ID: 241-076
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 31 ans a un nodule thyroïdien et une adénopathie. L’analyse rapporte les anomalies nucléaires caractéristiques d’un carcinome papillaire. Quel diagnostic principal est le plus probable ?
+A: F | Nodule à haut risque échographique nécessitant une cytoponction
+B: F | Nodule thyroïdien autonome hyperfonctionnel
+C: F | Carcinome anaplasique thyroïdien
+D: F | Goitre multinodulaire euthyroïdien compressif
+E: V | Carcinome papillaire thyroïdien
+JUSTIFICATION: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_A: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_B: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_C: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_D: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_E: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+
+---
+ID: 241-077
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 31 ans a un nodule thyroïdien et une adénopathie. L’analyse rapporte les anomalies nucléaires caractéristiques d’un carcinome papillaire. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+B: V | Une invasion capsulaire ou vasculaire permet d’affirmer un carcinome vésiculaire.
+C: F | La cytologie seule démontre toujours l’invasion capsulaire d’une tumeur vésiculaire.
+D: F | Tous les cancers thyroïdiens ont le même pronostic.
+E: V | Les carcinomes papillaires peuvent s’étendre aux ganglions cervicaux.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: Il dérive des cellules C et son marqueur est la calcitonine.
+EXPLICATION_B: Ce critère est histologique.
+EXPLICATION_C: L’étude de l’architecture et de la capsule nécessite l’histologie.
+EXPLICATION_D: Histologie et stade modifient fortement le pronostic.
+EXPLICATION_E: Cette extension est fréquente dans cette forme.
+
+---
+ID: 241-078
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 31 ans a un nodule thyroïdien et une adénopathie. L’analyse rapporte les anomalies nucléaires caractéristiques d’un carcinome papillaire. Quelles propositions concernant le bilan sont exactes ?
+A: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+B: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+C: F | Une augmentation de volume prouve la malignité.
+D: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+E: F | Une TSH normale exclut un cancer thyroïdien.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: Une compression ou une invasion peut être en cause.
+EXPLICATION_B: Elle apprécie la morphologie et le risque.
+EXPLICATION_C: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_D: La classification repose sur l’échographie.
+EXPLICATION_E: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+
+---
+ID: 241-079
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 31 ans a un nodule thyroïdien et une adénopathie. L’analyse rapporte les anomalies nucléaires caractéristiques d’un carcinome papillaire. Quelles propositions guident la décision ?
+A: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+B: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+C: F | Tout nodule impose une thyroïdectomie totale immédiate.
+D: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+E: V | Un nodule suspect nécessite une évaluation spécialisée.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_B: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_C: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_D: Cela évite de confondre évolution et différence de cible.
+EXPLICATION_E: Le choix dépend du contexte clinique et de la cytologie.
+
+---
+ID: 241-080
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 31 ans a un nodule thyroïdien et une adénopathie. L’analyse rapporte les anomalies nucléaires caractéristiques d’un carcinome papillaire. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: F | Une cytologie indéterminée est synonyme de cancer certain.
+B: V | Bethesda décrit un résultat cytologique et un niveau de risque.
+C: F | Une cytologie bénigne supprime toute analyse de la gêne compressive.
+D: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+E: V | Une cytoponction sous échographie cible le nodule concerné.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: La conduite dépend de la catégorie et du contexte.
+EXPLICATION_B: Il ne s’agit pas d’un score de fonction hormonale.
+EXPLICATION_C: Un nodule bénin peut néanmoins être symptomatique.
+EXPLICATION_D: Elle n’est pas un test de diagnostic universel d’un nodule.
+EXPLICATION_E: La numérotation des nodules facilite le suivi.
+
+---
+ID: 241-081
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Chez un homme de 46 ans, une cytologie puis la pièce opératoire identifient un carcinome papillaire avec atteinte ganglionnaire cervicale. Quel diagnostic principal est le plus probable ?
+A: F | Nodule thyroïdien autonome hyperfonctionnel
+B: F | Goitre multinodulaire euthyroïdien compressif
+C: F | Carcinome médullaire thyroïdien à rechercher
+D: F | Nodule à haut risque échographique nécessitant une cytoponction
+E: V | Carcinome papillaire thyroïdien
+JUSTIFICATION: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_A: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_B: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_C: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_D: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_E: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+
+---
+ID: 241-082
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Chez un homme de 46 ans, une cytologie puis la pièce opératoire identifient un carcinome papillaire avec atteinte ganglionnaire cervicale. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: F | La cytologie seule démontre toujours l’invasion capsulaire d’une tumeur vésiculaire.
+B: F | Tous les cancers thyroïdiens ont le même pronostic.
+C: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+D: V | La thyroglobuline est un marqueur de suivi des cancers d’origine folliculaire.
+E: V | Une invasion capsulaire ou vasculaire permet d’affirmer un carcinome vésiculaire.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: L’étude de l’architecture et de la capsule nécessite l’histologie.
+EXPLICATION_B: Histologie et stade modifient fortement le pronostic.
+EXPLICATION_C: Il dérive des cellules C et son marqueur est la calcitonine.
+EXPLICATION_D: Elle doit être interprétée selon le traitement et le contexte.
+EXPLICATION_E: Ce critère est histologique.
+
+---
+ID: 241-083
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Chez un homme de 46 ans, une cytologie puis la pièce opératoire identifient un carcinome papillaire avec atteinte ganglionnaire cervicale. Quelles propositions concernant le bilan sont exactes ?
+A: F | Une TSH normale exclut un cancer thyroïdien.
+B: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+C: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+D: V | Le dosage de TSH recherche une dysthyroïdie.
+E: F | Une augmentation de volume prouve la malignité.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+EXPLICATION_B: La classification repose sur l’échographie.
+EXPLICATION_C: Une compression ou une invasion peut être en cause.
+EXPLICATION_D: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_E: L’évolution doit être interprétée avec les autres éléments.
+
+---
+ID: 241-084
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Chez un homme de 46 ans, une cytologie puis la pièce opératoire identifient un carcinome papillaire avec atteinte ganglionnaire cervicale. Quelles propositions guident la décision ?
+A: F | Tout nodule impose une thyroïdectomie totale immédiate.
+B: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+C: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+D: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+E: V | Une gêne compressive modifie l’indication thérapeutique.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_B: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_C: Cela évite de confondre évolution et différence de cible.
+EXPLICATION_D: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_E: Le retentissement peut justifier un traitement même sans malignité.
+
+---
+ID: 241-085
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Chez un homme de 46 ans, une cytologie puis la pièce opératoire identifient un carcinome papillaire avec atteinte ganglionnaire cervicale. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: F | Une cytologie bénigne supprime toute analyse de la gêne compressive.
+B: V | Des microcalcifications et des contours irréguliers sont des éléments suspects.
+C: V | Bethesda décrit un résultat cytologique et un niveau de risque.
+D: F | Une cytologie indéterminée est synonyme de cancer certain.
+E: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: Un nodule bénin peut néanmoins être symptomatique.
+EXPLICATION_B: Ils participent à l’évaluation échographique.
+EXPLICATION_C: Il ne s’agit pas d’un score de fonction hormonale.
+EXPLICATION_D: La conduite dépend de la catégorie et du contexte.
+EXPLICATION_E: Elle n’est pas un test de diagnostic universel d’un nodule.
+
+---
+ID: 241-086
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente de 28 ans a un cancer thyroïdien d’origine folliculaire dont l’histologie décrit les noyaux typiques d’une forme papillaire. Quel diagnostic principal est le plus probable ?
+A: F | Nodule thyroïdien autonome hyperfonctionnel
+B: F | Carcinome anaplasique thyroïdien
+C: F | Nodule à haut risque échographique nécessitant une cytoponction
+D: V | Carcinome papillaire thyroïdien
+E: F | Carcinome médullaire thyroïdien à rechercher
+JUSTIFICATION: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_A: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_B: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_C: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_D: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_E: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+
+---
+ID: 241-087
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente de 28 ans a un cancer thyroïdien d’origine folliculaire dont l’histologie décrit les noyaux typiques d’une forme papillaire. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: V | Les carcinomes papillaires peuvent s’étendre aux ganglions cervicaux.
+B: F | Tous les cancers thyroïdiens ont le même pronostic.
+C: F | La cytologie seule démontre toujours l’invasion capsulaire d’une tumeur vésiculaire.
+D: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+E: V | La thyroglobuline est un marqueur de suivi des cancers d’origine folliculaire.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: Cette extension est fréquente dans cette forme.
+EXPLICATION_B: Histologie et stade modifient fortement le pronostic.
+EXPLICATION_C: L’étude de l’architecture et de la capsule nécessite l’histologie.
+EXPLICATION_D: Il dérive des cellules C et son marqueur est la calcitonine.
+EXPLICATION_E: Elle doit être interprétée selon le traitement et le contexte.
+
+---
+ID: 241-088
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente de 28 ans a un cancer thyroïdien d’origine folliculaire dont l’histologie décrit les noyaux typiques d’une forme papillaire. Quelles propositions concernant le bilan sont exactes ?
+A: F | Une augmentation de volume prouve la malignité.
+B: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+C: V | Le dosage de TSH recherche une dysthyroïdie.
+D: F | Une TSH normale exclut un cancer thyroïdien.
+E: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_B: Elle apprécie la morphologie et le risque.
+EXPLICATION_C: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_D: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+EXPLICATION_E: La classification repose sur l’échographie.
+
+---
+ID: 241-089
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente de 28 ans a un cancer thyroïdien d’origine folliculaire dont l’histologie décrit les noyaux typiques d’une forme papillaire. Quelles propositions guident la décision ?
+A: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+B: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+C: V | Une gêne compressive modifie l’indication thérapeutique.
+D: F | Tout nodule impose une thyroïdectomie totale immédiate.
+E: V | Un nodule suspect nécessite une évaluation spécialisée.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_B: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_C: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_D: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_E: Le choix dépend du contexte clinique et de la cytologie.
+
+---
+ID: 241-090
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente de 28 ans a un cancer thyroïdien d’origine folliculaire dont l’histologie décrit les noyaux typiques d’une forme papillaire. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+B: F | Une cytologie indéterminée est synonyme de cancer certain.
+C: V | Une cytoponction sous échographie cible le nodule concerné.
+D: F | Une cytologie bénigne supprime toute analyse de la gêne compressive.
+E: V | Des microcalcifications et des contours irréguliers sont des éléments suspects.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: Elle n’est pas un test de diagnostic universel d’un nodule.
+EXPLICATION_B: La conduite dépend de la catégorie et du contexte.
+EXPLICATION_C: La numérotation des nodules facilite le suivi.
+EXPLICATION_D: Un nodule bénin peut néanmoins être symptomatique.
+EXPLICATION_E: Ils participent à l’évaluation échographique.
+
+---
+ID: 241-091
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 50 ans a une adénopathie cervicale révélatrice ; l’étude du nodule thyroïdien confirme un carcinome papillaire différencié. Quel diagnostic principal est le plus probable ?
+A: F | Goitre multinodulaire euthyroïdien compressif
+B: F | Carcinome médullaire thyroïdien à rechercher
+C: F | Carcinome anaplasique thyroïdien
+D: V | Carcinome papillaire thyroïdien
+E: F | Nodule à haut risque échographique nécessitant une cytoponction
+JUSTIFICATION: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_A: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_B: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_C: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_D: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_E: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+
+---
+ID: 241-092
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 50 ans a une adénopathie cervicale révélatrice ; l’étude du nodule thyroïdien confirme un carcinome papillaire différencié. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: F | Tous les cancers thyroïdiens ont le même pronostic.
+B: V | Une invasion capsulaire ou vasculaire permet d’affirmer un carcinome vésiculaire.
+C: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+D: V | La thyroglobuline est un marqueur de suivi des cancers d’origine folliculaire.
+E: V | Les carcinomes papillaires peuvent s’étendre aux ganglions cervicaux.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: Histologie et stade modifient fortement le pronostic.
+EXPLICATION_B: Ce critère est histologique.
+EXPLICATION_C: Il dérive des cellules C et son marqueur est la calcitonine.
+EXPLICATION_D: Elle doit être interprétée selon le traitement et le contexte.
+EXPLICATION_E: Cette extension est fréquente dans cette forme.
+
+---
+ID: 241-093
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 50 ans a une adénopathie cervicale révélatrice ; l’étude du nodule thyroïdien confirme un carcinome papillaire différencié. Quelles propositions concernant le bilan sont exactes ?
+A: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+B: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+C: V | Le dosage de TSH recherche une dysthyroïdie.
+D: F | Une augmentation de volume prouve la malignité.
+E: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: Une compression ou une invasion peut être en cause.
+EXPLICATION_B: La classification repose sur l’échographie.
+EXPLICATION_C: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_D: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_E: Elle apprécie la morphologie et le risque.
+
+---
+ID: 241-094
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 50 ans a une adénopathie cervicale révélatrice ; l’étude du nodule thyroïdien confirme un carcinome papillaire différencié. Quelles propositions guident la décision ?
+A: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+B: V | Un nodule suspect nécessite une évaluation spécialisée.
+C: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+D: V | Une gêne compressive modifie l’indication thérapeutique.
+E: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Cela évite de confondre évolution et différence de cible.
+EXPLICATION_B: Le choix dépend du contexte clinique et de la cytologie.
+EXPLICATION_C: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_D: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_E: Il expose au surdiagnostic et à des interventions inutiles.
+
+---
+ID: 241-095
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 50 ans a une adénopathie cervicale révélatrice ; l’étude du nodule thyroïdien confirme un carcinome papillaire différencié. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: V | Bethesda décrit un résultat cytologique et un niveau de risque.
+B: V | Des microcalcifications et des contours irréguliers sont des éléments suspects.
+C: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+D: F | Une cytologie bénigne supprime toute analyse de la gêne compressive.
+E: V | Une cytoponction sous échographie cible le nodule concerné.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: Il ne s’agit pas d’un score de fonction hormonale.
+EXPLICATION_B: Ils participent à l’évaluation échographique.
+EXPLICATION_C: Elle n’est pas un test de diagnostic universel d’un nodule.
+EXPLICATION_D: Un nodule bénin peut néanmoins être symptomatique.
+EXPLICATION_E: La numérotation des nodules facilite le suivi.
+
+---
+ID: 241-096
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente a un carcinome papillaire retrouvé sur une pièce de thyroïdectomie. Elle demande pourquoi les ganglions cervicaux et le suivi biologique doivent être évalués. Quel diagnostic principal est le plus probable ?
+A: F | Nodule thyroïdien autonome hyperfonctionnel
+B: F | Carcinome médullaire thyroïdien à rechercher
+C: V | Carcinome papillaire thyroïdien
+D: F | Carcinome anaplasique thyroïdien
+E: F | Goitre multinodulaire euthyroïdien compressif
+JUSTIFICATION: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_A: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_B: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_C: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_D: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+EXPLICATION_E: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire.
+
+---
+ID: 241-097
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente a un carcinome papillaire retrouvé sur une pièce de thyroïdectomie. Elle demande pourquoi les ganglions cervicaux et le suivi biologique doivent être évalués. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+B: F | La cytologie seule démontre toujours l’invasion capsulaire d’une tumeur vésiculaire.
+C: V | Une invasion capsulaire ou vasculaire permet d’affirmer un carcinome vésiculaire.
+D: V | Les carcinomes papillaires peuvent s’étendre aux ganglions cervicaux.
+E: V | La thyroglobuline est un marqueur de suivi des cancers d’origine folliculaire.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: Il dérive des cellules C et son marqueur est la calcitonine.
+EXPLICATION_B: L’étude de l’architecture et de la capsule nécessite l’histologie.
+EXPLICATION_C: Ce critère est histologique.
+EXPLICATION_D: Cette extension est fréquente dans cette forme.
+EXPLICATION_E: Elle doit être interprétée selon le traitement et le contexte.
+
+---
+ID: 241-098
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente a un carcinome papillaire retrouvé sur une pièce de thyroïdectomie. Elle demande pourquoi les ganglions cervicaux et le suivi biologique doivent être évalués. Quelles propositions concernant le bilan sont exactes ?
+A: V | Le dosage de TSH recherche une dysthyroïdie.
+B: F | Une TSH normale exclut un cancer thyroïdien.
+C: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+D: F | Une augmentation de volume prouve la malignité.
+E: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_B: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+EXPLICATION_C: Une compression ou une invasion peut être en cause.
+EXPLICATION_D: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_E: Elle apprécie la morphologie et le risque.
+
+---
+ID: 241-099
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente a un carcinome papillaire retrouvé sur une pièce de thyroïdectomie. Elle demande pourquoi les ganglions cervicaux et le suivi biologique doivent être évalués. Quelles propositions guident la décision ?
+A: V | Un nodule suspect nécessite une évaluation spécialisée.
+B: V | Une gêne compressive modifie l’indication thérapeutique.
+C: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+D: F | Tout nodule impose une thyroïdectomie totale immédiate.
+E: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Le choix dépend du contexte clinique et de la cytologie.
+EXPLICATION_B: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_C: Cela évite de confondre évolution et différence de cible.
+EXPLICATION_D: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_E: Il expose au surdiagnostic et à des interventions inutiles.
+
+---
+ID: 241-100
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer papillaire · Cytologie et risque
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente a un carcinome papillaire retrouvé sur une pièce de thyroïdectomie. Elle demande pourquoi les ganglions cervicaux et le suivi biologique doivent être évalués. Quelles propositions concernant la ponction et son interprétation sont exactes ?
+A: F | Une cytologie indéterminée est synonyme de cancer certain.
+B: V | Des microcalcifications et des contours irréguliers sont des éléments suspects.
+C: V | Une cytoponction sous échographie cible le nodule concerné.
+D: F | Une thyroglobuline sanguine isolée permet de diagnostiquer tout nodule malin.
+E: V | Bethesda décrit un résultat cytologique et un niveau de risque.
+JUSTIFICATION: Le risque échographique, la taille et le contexte guident la cytoponction.
+EXPLICATION_A: La conduite dépend de la catégorie et du contexte.
+EXPLICATION_B: Ils participent à l’évaluation échographique.
+EXPLICATION_C: La numérotation des nodules facilite le suivi.
+EXPLICATION_D: Elle n’est pas un test de diagnostic universel d’un nodule.
+EXPLICATION_E: Il ne s’agit pas d’un score de fonction hormonale.
+
+---
+ID: 241-101
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Cancer médullaire · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme a un nodule thyroïdien, des flushes et une diarrhée. La calcitonine est très élevée ; l’évaluation tumorale est en cours. Quel diagnostic principal est le plus probable ?
+A: F | Goitre multinodulaire euthyroïdien compressif
+B: F | Nodule à haut risque échographique nécessitant une cytoponction
+C: F | Nodule thyroïdien autonome hyperfonctionnel
+D: F | Carcinome papillaire thyroïdien
+E: V | Carcinome médullaire thyroïdien à rechercher
+JUSTIFICATION: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_A: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_B: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_C: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_D: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_E: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+
+---
+ID: 241-102
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer médullaire · Cancer médullaire
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme a un nodule thyroïdien, des flushes et une diarrhée. La calcitonine est très élevée ; l’évaluation tumorale est en cours. Quelles propositions sont adaptées à cette suspicion ?
+A: V | Une prédisposition liée à RET et une NEM2 doivent être envisagées.
+B: F | Une calcitonine élevée classe la tumeur comme carcinome papillaire.
+C: V | Une diarrhée ou des flushes peuvent accompagner cette tumeur.
+D: F | La TSH est le marqueur tumoral spécifique du carcinome médullaire.
+E: F | L’absence d’antécédent familial rapporté exclut toute prédisposition.
+JUSTIFICATION: La calcitonine et le contexte familial orientent vers un carcinome médullaire.
+EXPLICATION_A: Une partie des carcinomes médullaires est familiale.
+EXPLICATION_B: Elle oriente vers une origine médullaire, à confirmer dans le contexte.
+EXPLICATION_C: Ces manifestations ne sont pas constantes.
+EXPLICATION_D: La TSH explore l’axe hormonal ; la calcitonine est le marqueur associé.
+EXPLICATION_E: Elle ne suffit pas à écarter une forme génétique.
+
+---
+ID: 241-103
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer médullaire · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme a un nodule thyroïdien, des flushes et une diarrhée. La calcitonine est très élevée ; l’évaluation tumorale est en cours. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: F | Tous les cancers thyroïdiens ont le même pronostic.
+B: V | Les carcinomes papillaires peuvent s’étendre aux ganglions cervicaux.
+C: F | La cytologie seule démontre toujours l’invasion capsulaire d’une tumeur vésiculaire.
+D: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+E: V | Une invasion capsulaire ou vasculaire permet d’affirmer un carcinome vésiculaire.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: Histologie et stade modifient fortement le pronostic.
+EXPLICATION_B: Cette extension est fréquente dans cette forme.
+EXPLICATION_C: L’étude de l’architecture et de la capsule nécessite l’histologie.
+EXPLICATION_D: Il dérive des cellules C et son marqueur est la calcitonine.
+EXPLICATION_E: Ce critère est histologique.
+
+---
+ID: 241-104
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer médullaire · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme a un nodule thyroïdien, des flushes et une diarrhée. La calcitonine est très élevée ; l’évaluation tumorale est en cours. Quelles propositions concernant le bilan sont exactes ?
+A: F | Une augmentation de volume prouve la malignité.
+B: F | Une TSH normale exclut un cancer thyroïdien.
+C: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+D: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+E: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_B: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+EXPLICATION_C: La classification repose sur l’échographie.
+EXPLICATION_D: Elle apprécie la morphologie et le risque.
+EXPLICATION_E: Une compression ou une invasion peut être en cause.
+
+---
+ID: 241-105
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Cancer médullaire · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme a un nodule thyroïdien, des flushes et une diarrhée. La calcitonine est très élevée ; l’évaluation tumorale est en cours. Quelles propositions guident la décision ?
+A: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+B: F | Tout nodule impose une thyroïdectomie totale immédiate.
+C: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+D: V | Un nodule suspect nécessite une évaluation spécialisée.
+E: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_B: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_C: Cela évite de confondre évolution et différence de cible.
+EXPLICATION_D: Le choix dépend du contexte clinique et de la cytologie.
+EXPLICATION_E: Il expose au surdiagnostic et à des interventions inutiles.
+
+---
+ID: 241-106
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme dont un parent a un cancer médullaire présente un nodule et une calcitonine élevée. Quel diagnostic principal est le plus probable ?
+A: F | Carcinome papillaire thyroïdien
+B: F | Nodule à haut risque échographique nécessitant une cytoponction
+C: F | Carcinome anaplasique thyroïdien
+D: F | Nodule thyroïdien autonome hyperfonctionnel
+E: V | Carcinome médullaire thyroïdien à rechercher
+JUSTIFICATION: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_A: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_B: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_C: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_D: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_E: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+
+---
+ID: 241-107
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · Cancer médullaire
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme dont un parent a un cancer médullaire présente un nodule et une calcitonine élevée. Quelles propositions sont adaptées à cette suspicion ?
+A: V | Une diarrhée ou des flushes peuvent accompagner cette tumeur.
+B: F | L’absence d’antécédent familial rapporté exclut toute prédisposition.
+C: V | Le carcinome médullaire dérive des cellules C.
+D: F | La TSH est le marqueur tumoral spécifique du carcinome médullaire.
+E: F | Une calcitonine élevée classe la tumeur comme carcinome papillaire.
+JUSTIFICATION: La calcitonine et le contexte familial orientent vers un carcinome médullaire.
+EXPLICATION_A: Ces manifestations ne sont pas constantes.
+EXPLICATION_B: Elle ne suffit pas à écarter une forme génétique.
+EXPLICATION_C: Il s’agit d’une tumeur neuroendocrine.
+EXPLICATION_D: La TSH explore l’axe hormonal ; la calcitonine est le marqueur associé.
+EXPLICATION_E: Elle oriente vers une origine médullaire, à confirmer dans le contexte.
+
+---
+ID: 241-108
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme dont un parent a un cancer médullaire présente un nodule et une calcitonine élevée. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: V | Une invasion capsulaire ou vasculaire permet d’affirmer un carcinome vésiculaire.
+B: F | La cytologie seule démontre toujours l’invasion capsulaire d’une tumeur vésiculaire.
+C: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+D: F | Tous les cancers thyroïdiens ont le même pronostic.
+E: V | La thyroglobuline est un marqueur de suivi des cancers d’origine folliculaire.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: Ce critère est histologique.
+EXPLICATION_B: L’étude de l’architecture et de la capsule nécessite l’histologie.
+EXPLICATION_C: Il dérive des cellules C et son marqueur est la calcitonine.
+EXPLICATION_D: Histologie et stade modifient fortement le pronostic.
+EXPLICATION_E: Elle doit être interprétée selon le traitement et le contexte.
+
+---
+ID: 241-109
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme dont un parent a un cancer médullaire présente un nodule et une calcitonine élevée. Quelles propositions concernant le bilan sont exactes ?
+A: F | Une augmentation de volume prouve la malignité.
+B: F | Une TSH normale exclut un cancer thyroïdien.
+C: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+D: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+E: V | Le dosage de TSH recherche une dysthyroïdie.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_B: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+EXPLICATION_C: Une compression ou une invasion peut être en cause.
+EXPLICATION_D: La classification repose sur l’échographie.
+EXPLICATION_E: Il oriente la suite du bilan fonctionnel.
+
+---
+ID: 241-110
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme dont un parent a un cancer médullaire présente un nodule et une calcitonine élevée. Quelles propositions guident la décision ?
+A: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+B: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+C: V | Une gêne compressive modifie l’indication thérapeutique.
+D: F | Tout nodule impose une thyroïdectomie totale immédiate.
+E: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_B: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_C: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_D: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_E: Cela évite de confondre évolution et différence de cible.
+
+---
+ID: 241-111
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un patient a une tumeur thyroïdienne exprimant la calcitonine et l’ACE ; l’origine cellulaire et le risque familial doivent être précisés. Quel diagnostic principal est le plus probable ?
+A: F | Goitre multinodulaire euthyroïdien compressif
+B: F | Nodule à haut risque échographique nécessitant une cytoponction
+C: F | Carcinome papillaire thyroïdien
+D: V | Carcinome médullaire thyroïdien à rechercher
+E: F | Carcinome anaplasique thyroïdien
+JUSTIFICATION: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_A: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_B: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_C: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_D: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_E: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+
+---
+ID: 241-112
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · Cancer médullaire
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un patient a une tumeur thyroïdienne exprimant la calcitonine et l’ACE ; l’origine cellulaire et le risque familial doivent être précisés. Quelles propositions sont adaptées à cette suspicion ?
+A: V | Une prédisposition liée à RET et une NEM2 doivent être envisagées.
+B: V | Le carcinome médullaire dérive des cellules C.
+C: F | La TSH est le marqueur tumoral spécifique du carcinome médullaire.
+D: F | Une calcitonine élevée classe la tumeur comme carcinome papillaire.
+E: F | L’absence d’antécédent familial rapporté exclut toute prédisposition.
+JUSTIFICATION: La calcitonine et le contexte familial orientent vers un carcinome médullaire.
+EXPLICATION_A: Une partie des carcinomes médullaires est familiale.
+EXPLICATION_B: Il s’agit d’une tumeur neuroendocrine.
+EXPLICATION_C: La TSH explore l’axe hormonal ; la calcitonine est le marqueur associé.
+EXPLICATION_D: Elle oriente vers une origine médullaire, à confirmer dans le contexte.
+EXPLICATION_E: Elle ne suffit pas à écarter une forme génétique.
+
+---
+ID: 241-113
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un patient a une tumeur thyroïdienne exprimant la calcitonine et l’ACE ; l’origine cellulaire et le risque familial doivent être précisés. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: F | Tous les cancers thyroïdiens ont le même pronostic.
+B: V | Les carcinomes papillaires peuvent s’étendre aux ganglions cervicaux.
+C: F | La cytologie seule démontre toujours l’invasion capsulaire d’une tumeur vésiculaire.
+D: V | La thyroglobuline est un marqueur de suivi des cancers d’origine folliculaire.
+E: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: Histologie et stade modifient fortement le pronostic.
+EXPLICATION_B: Cette extension est fréquente dans cette forme.
+EXPLICATION_C: L’étude de l’architecture et de la capsule nécessite l’histologie.
+EXPLICATION_D: Elle doit être interprétée selon le traitement et le contexte.
+EXPLICATION_E: Il dérive des cellules C et son marqueur est la calcitonine.
+
+---
+ID: 241-114
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un patient a une tumeur thyroïdienne exprimant la calcitonine et l’ACE ; l’origine cellulaire et le risque familial doivent être précisés. Quelles propositions concernant le bilan sont exactes ?
+A: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+B: V | Le dosage de TSH recherche une dysthyroïdie.
+C: F | Une augmentation de volume prouve la malignité.
+D: F | Une TSH normale exclut un cancer thyroïdien.
+E: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: La classification repose sur l’échographie.
+EXPLICATION_B: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_C: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_D: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+EXPLICATION_E: Elle apprécie la morphologie et le risque.
+
+---
+ID: 241-115
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un patient a une tumeur thyroïdienne exprimant la calcitonine et l’ACE ; l’origine cellulaire et le risque familial doivent être précisés. Quelles propositions guident la décision ?
+A: V | Une gêne compressive modifie l’indication thérapeutique.
+B: F | Tout nodule impose une thyroïdectomie totale immédiate.
+C: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+D: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+E: V | Un nodule suspect nécessite une évaluation spécialisée.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_B: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_C: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_D: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_E: Le choix dépend du contexte clinique et de la cytologie.
+
+---
+ID: 241-116
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente présentant une mutation RET a un nodule thyroïdien avec élévation de calcitonine. Quel diagnostic principal est le plus probable ?
+A: F | Nodule thyroïdien autonome hyperfonctionnel
+B: F | Carcinome anaplasique thyroïdien
+C: F | Goitre multinodulaire euthyroïdien compressif
+D: F | Carcinome papillaire thyroïdien
+E: V | Carcinome médullaire thyroïdien à rechercher
+JUSTIFICATION: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_A: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_B: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_C: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_D: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_E: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+
+---
+ID: 241-117
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · Cancer médullaire
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente présentant une mutation RET a un nodule thyroïdien avec élévation de calcitonine. Quelles propositions sont adaptées à cette suspicion ?
+A: F | L’absence d’antécédent familial rapporté exclut toute prédisposition.
+B: F | La TSH est le marqueur tumoral spécifique du carcinome médullaire.
+C: V | Une diarrhée ou des flushes peuvent accompagner cette tumeur.
+D: V | Le carcinome médullaire dérive des cellules C.
+E: V | Une prédisposition liée à RET et une NEM2 doivent être envisagées.
+JUSTIFICATION: La calcitonine et le contexte familial orientent vers un carcinome médullaire.
+EXPLICATION_A: Elle ne suffit pas à écarter une forme génétique.
+EXPLICATION_B: La TSH explore l’axe hormonal ; la calcitonine est le marqueur associé.
+EXPLICATION_C: Ces manifestations ne sont pas constantes.
+EXPLICATION_D: Il s’agit d’une tumeur neuroendocrine.
+EXPLICATION_E: Une partie des carcinomes médullaires est familiale.
+
+---
+ID: 241-118
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente présentant une mutation RET a un nodule thyroïdien avec élévation de calcitonine. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: F | Tous les cancers thyroïdiens ont le même pronostic.
+B: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+C: V | Une invasion capsulaire ou vasculaire permet d’affirmer un carcinome vésiculaire.
+D: V | La thyroglobuline est un marqueur de suivi des cancers d’origine folliculaire.
+E: V | Les carcinomes papillaires peuvent s’étendre aux ganglions cervicaux.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: Histologie et stade modifient fortement le pronostic.
+EXPLICATION_B: Il dérive des cellules C et son marqueur est la calcitonine.
+EXPLICATION_C: Ce critère est histologique.
+EXPLICATION_D: Elle doit être interprétée selon le traitement et le contexte.
+EXPLICATION_E: Cette extension est fréquente dans cette forme.
+
+---
+ID: 241-119
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente présentant une mutation RET a un nodule thyroïdien avec élévation de calcitonine. Quelles propositions concernant le bilan sont exactes ?
+A: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+B: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+C: V | Le dosage de TSH recherche une dysthyroïdie.
+D: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+E: F | Une augmentation de volume prouve la malignité.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: Elle apprécie la morphologie et le risque.
+EXPLICATION_B: La classification repose sur l’échographie.
+EXPLICATION_C: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_D: Une compression ou une invasion peut être en cause.
+EXPLICATION_E: L’évolution doit être interprétée avec les autres éléments.
+
+---
+ID: 241-120
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente présentant une mutation RET a un nodule thyroïdien avec élévation de calcitonine. Quelles propositions guident la décision ?
+A: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+B: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+C: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+D: V | Une gêne compressive modifie l’indication thérapeutique.
+E: V | Un nodule suspect nécessite une évaluation spécialisée.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_B: Cela évite de confondre évolution et différence de cible.
+EXPLICATION_C: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_D: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_E: Le choix dépend du contexte clinique et de la cytologie.
+
+---
+ID: 241-121
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme a un nodule thyroïdien et une adénopathie dont le prélèvement exprime la calcitonine ; il n’a pas d’antécédent familial connu. Quel diagnostic principal est le plus probable ?
+A: F | Carcinome anaplasique thyroïdien
+B: F | Nodule thyroïdien autonome hyperfonctionnel
+C: F | Nodule à haut risque échographique nécessitant une cytoponction
+D: V | Carcinome médullaire thyroïdien à rechercher
+E: F | Goitre multinodulaire euthyroïdien compressif
+JUSTIFICATION: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_A: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_B: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_C: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_D: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+EXPLICATION_E: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire.
+
+---
+ID: 241-122
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · Cancer médullaire
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme a un nodule thyroïdien et une adénopathie dont le prélèvement exprime la calcitonine ; il n’a pas d’antécédent familial connu. Quelles propositions sont adaptées à cette suspicion ?
+A: V | Une prédisposition liée à RET et une NEM2 doivent être envisagées.
+B: F | Une calcitonine élevée classe la tumeur comme carcinome papillaire.
+C: F | La TSH est le marqueur tumoral spécifique du carcinome médullaire.
+D: V | Une diarrhée ou des flushes peuvent accompagner cette tumeur.
+E: V | Le carcinome médullaire dérive des cellules C.
+JUSTIFICATION: La calcitonine et le contexte familial orientent vers un carcinome médullaire.
+EXPLICATION_A: Une partie des carcinomes médullaires est familiale.
+EXPLICATION_B: Elle oriente vers une origine médullaire, à confirmer dans le contexte.
+EXPLICATION_C: La TSH explore l’axe hormonal ; la calcitonine est le marqueur associé.
+EXPLICATION_D: Ces manifestations ne sont pas constantes.
+EXPLICATION_E: Il s’agit d’une tumeur neuroendocrine.
+
+---
+ID: 241-123
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme a un nodule thyroïdien et une adénopathie dont le prélèvement exprime la calcitonine ; il n’a pas d’antécédent familial connu. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: V | La thyroglobuline est un marqueur de suivi des cancers d’origine folliculaire.
+B: V | Les carcinomes papillaires peuvent s’étendre aux ganglions cervicaux.
+C: V | Une invasion capsulaire ou vasculaire permet d’affirmer un carcinome vésiculaire.
+D: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+E: F | La cytologie seule démontre toujours l’invasion capsulaire d’une tumeur vésiculaire.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: Elle doit être interprétée selon le traitement et le contexte.
+EXPLICATION_B: Cette extension est fréquente dans cette forme.
+EXPLICATION_C: Ce critère est histologique.
+EXPLICATION_D: Il dérive des cellules C et son marqueur est la calcitonine.
+EXPLICATION_E: L’étude de l’architecture et de la capsule nécessite l’histologie.
+
+---
+ID: 241-124
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme a un nodule thyroïdien et une adénopathie dont le prélèvement exprime la calcitonine ; il n’a pas d’antécédent familial connu. Quelles propositions concernant le bilan sont exactes ?
+A: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+B: F | Une augmentation de volume prouve la malignité.
+C: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+D: V | Le dosage de TSH recherche une dysthyroïdie.
+E: F | Une TSH normale exclut un cancer thyroïdien.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: Elle apprécie la morphologie et le risque.
+EXPLICATION_B: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_C: Une compression ou une invasion peut être en cause.
+EXPLICATION_D: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_E: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+
+---
+ID: 241-125
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer médullaire · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme a un nodule thyroïdien et une adénopathie dont le prélèvement exprime la calcitonine ; il n’a pas d’antécédent familial connu. Quelles propositions guident la décision ?
+A: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+B: F | Tout nodule impose une thyroïdectomie totale immédiate.
+C: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+D: V | Un nodule suspect nécessite une évaluation spécialisée.
+E: V | Une gêne compressive modifie l’indication thérapeutique.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Cela évite de confondre évolution et différence de cible.
+EXPLICATION_B: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_C: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_D: Le choix dépend du contexte clinique et de la cytologie.
+EXPLICATION_E: Le retentissement peut justifier un traitement même sans malignité.
+
+---
+ID: 241-126
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 79 ans présente une masse thyroïdienne rapidement croissante avec dysphonie et dyspnée. La biopsie identifie un carcinome anaplasique. Quel diagnostic principal est le plus probable ?
+A: V | Carcinome anaplasique thyroïdien
+B: F | Carcinome papillaire thyroïdien
+C: F | Nodule à haut risque échographique nécessitant une cytoponction
+D: F | Carcinome médullaire thyroïdien à rechercher
+E: F | Nodule thyroïdien autonome hyperfonctionnel
+JUSTIFICATION: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_A: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_B: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_C: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_D: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_E: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+
+---
+ID: 241-127
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Tumeur rapidement évolutive
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 79 ans présente une masse thyroïdienne rapidement croissante avec dysphonie et dyspnée. La biopsie identifie un carcinome anaplasique. Quelles propositions concernant ce tableau sont exactes ?
+A: F | Une dyspnée compressive peut attendre une surveillance échographique espacée.
+B: F | Un âge avancé suffit à affirmer l’histologie.
+C: V | Le carcinome anaplasique est une hypothèse grave chez le sujet âgé.
+D: V | L’imagerie en coupe peut préciser une extension aux structures voisines.
+E: F | L’évolution rapide permet de conclure à un goitre simple sans bilan.
+JUSTIFICATION: Une tumeur cervicale rapidement compressive nécessite une évaluation urgente.
+EXPLICATION_A: La sécurité respiratoire doit être évaluée rapidement.
+EXPLICATION_B: Un prélèvement reste nécessaire pour identifier la tumeur.
+EXPLICATION_C: Son évolution est agressive.
+EXPLICATION_D: Elle aide à évaluer le retentissement et l’extension.
+EXPLICATION_E: Elle impose au contraire une exploration.
+
+---
+ID: 241-128
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 79 ans présente une masse thyroïdienne rapidement croissante avec dysphonie et dyspnée. La biopsie identifie un carcinome anaplasique. Quelles propositions concernant le bilan sont exactes ?
+A: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+B: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+C: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+D: F | Une augmentation de volume prouve la malignité.
+E: F | Une TSH normale exclut un cancer thyroïdien.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: Elle apprécie la morphologie et le risque.
+EXPLICATION_B: La classification repose sur l’échographie.
+EXPLICATION_C: Une compression ou une invasion peut être en cause.
+EXPLICATION_D: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_E: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+
+---
+ID: 241-129
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 79 ans présente une masse thyroïdienne rapidement croissante avec dysphonie et dyspnée. La biopsie identifie un carcinome anaplasique. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: V | Les carcinomes papillaires peuvent s’étendre aux ganglions cervicaux.
+B: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+C: F | Tous les cancers thyroïdiens ont le même pronostic.
+D: F | La cytologie seule démontre toujours l’invasion capsulaire d’une tumeur vésiculaire.
+E: V | Une invasion capsulaire ou vasculaire permet d’affirmer un carcinome vésiculaire.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: Cette extension est fréquente dans cette forme.
+EXPLICATION_B: Il dérive des cellules C et son marqueur est la calcitonine.
+EXPLICATION_C: Histologie et stade modifient fortement le pronostic.
+EXPLICATION_D: L’étude de l’architecture et de la capsule nécessite l’histologie.
+EXPLICATION_E: Ce critère est histologique.
+
+---
+ID: 241-130
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 79 ans présente une masse thyroïdienne rapidement croissante avec dysphonie et dyspnée. La biopsie identifie un carcinome anaplasique. Quelles propositions guident la décision ?
+A: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+B: V | Un nodule suspect nécessite une évaluation spécialisée.
+C: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+D: F | Tout nodule impose une thyroïdectomie totale immédiate.
+E: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_B: Le choix dépend du contexte clinique et de la cytologie.
+EXPLICATION_C: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_D: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_E: Cela évite de confondre évolution et différence de cible.
+
+---
+ID: 241-131
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme de 76 ans développe en quelques semaines une tumeur cervicale dure, fixée et compressive. Le prélèvement confirme une histologie anaplasique. Quel diagnostic principal est le plus probable ?
+A: F | Carcinome médullaire thyroïdien à rechercher
+B: F | Carcinome papillaire thyroïdien
+C: F | Goitre multinodulaire euthyroïdien compressif
+D: F | Nodule à haut risque échographique nécessitant une cytoponction
+E: V | Carcinome anaplasique thyroïdien
+JUSTIFICATION: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_A: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_B: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_C: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_D: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_E: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+
+---
+ID: 241-132
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Tumeur rapidement évolutive
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme de 76 ans développe en quelques semaines une tumeur cervicale dure, fixée et compressive. Le prélèvement confirme une histologie anaplasique. Quelles propositions concernant ce tableau sont exactes ?
+A: V | L’imagerie en coupe peut préciser une extension aux structures voisines.
+B: F | Un âge avancé suffit à affirmer l’histologie.
+C: V | Une croissance rapide avec dysphonie constitue un signe d’alarme.
+D: F | L’évolution rapide permet de conclure à un goitre simple sans bilan.
+E: F | Une dyspnée compressive peut attendre une surveillance échographique espacée.
+JUSTIFICATION: Une tumeur cervicale rapidement compressive nécessite une évaluation urgente.
+EXPLICATION_A: Elle aide à évaluer le retentissement et l’extension.
+EXPLICATION_B: Un prélèvement reste nécessaire pour identifier la tumeur.
+EXPLICATION_C: Une atteinte locale doit être recherchée.
+EXPLICATION_D: Elle impose au contraire une exploration.
+EXPLICATION_E: La sécurité respiratoire doit être évaluée rapidement.
+
+---
+ID: 241-133
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme de 76 ans développe en quelques semaines une tumeur cervicale dure, fixée et compressive. Le prélèvement confirme une histologie anaplasique. Quelles propositions concernant le bilan sont exactes ?
+A: F | Une augmentation de volume prouve la malignité.
+B: V | Le dosage de TSH recherche une dysthyroïdie.
+C: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+D: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+E: F | Une TSH normale exclut un cancer thyroïdien.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_B: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_C: La classification repose sur l’échographie.
+EXPLICATION_D: Une compression ou une invasion peut être en cause.
+EXPLICATION_E: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+
+---
+ID: 241-134
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme de 76 ans développe en quelques semaines une tumeur cervicale dure, fixée et compressive. Le prélèvement confirme une histologie anaplasique. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: F | Tous les cancers thyroïdiens ont le même pronostic.
+B: F | La cytologie seule démontre toujours l’invasion capsulaire d’une tumeur vésiculaire.
+C: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+D: V | Une invasion capsulaire ou vasculaire permet d’affirmer un carcinome vésiculaire.
+E: V | La thyroglobuline est un marqueur de suivi des cancers d’origine folliculaire.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: Histologie et stade modifient fortement le pronostic.
+EXPLICATION_B: L’étude de l’architecture et de la capsule nécessite l’histologie.
+EXPLICATION_C: Il dérive des cellules C et son marqueur est la calcitonine.
+EXPLICATION_D: Ce critère est histologique.
+EXPLICATION_E: Elle doit être interprétée selon le traitement et le contexte.
+
+---
+ID: 241-135
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme de 76 ans développe en quelques semaines une tumeur cervicale dure, fixée et compressive. Le prélèvement confirme une histologie anaplasique. Quelles propositions guident la décision ?
+A: V | Une gêne compressive modifie l’indication thérapeutique.
+B: F | Tout nodule impose une thyroïdectomie totale immédiate.
+C: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+D: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+E: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_B: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_C: Cela évite de confondre évolution et différence de cible.
+EXPLICATION_D: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_E: Il expose au surdiagnostic et à des interventions inutiles.
+
+---
+ID: 241-136
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente âgée présente une masse thyroïdienne envahissant les structures voisines et une gêne respiratoire. La biopsie rapporte un carcinome anaplasique. Quel diagnostic principal est le plus probable ?
+A: F | Goitre multinodulaire euthyroïdien compressif
+B: F | Carcinome papillaire thyroïdien
+C: F | Nodule thyroïdien autonome hyperfonctionnel
+D: V | Carcinome anaplasique thyroïdien
+E: F | Carcinome médullaire thyroïdien à rechercher
+JUSTIFICATION: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_A: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_B: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_C: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_D: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_E: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+
+---
+ID: 241-137
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Tumeur rapidement évolutive
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente âgée présente une masse thyroïdienne envahissant les structures voisines et une gêne respiratoire. La biopsie rapporte un carcinome anaplasique. Quelles propositions concernant ce tableau sont exactes ?
+A: F | L’évolution rapide permet de conclure à un goitre simple sans bilan.
+B: V | Une croissance rapide avec dysphonie constitue un signe d’alarme.
+C: F | Une dyspnée compressive peut attendre une surveillance échographique espacée.
+D: F | Un âge avancé suffit à affirmer l’histologie.
+E: V | Le carcinome anaplasique est une hypothèse grave chez le sujet âgé.
+JUSTIFICATION: Une tumeur cervicale rapidement compressive nécessite une évaluation urgente.
+EXPLICATION_A: Elle impose au contraire une exploration.
+EXPLICATION_B: Une atteinte locale doit être recherchée.
+EXPLICATION_C: La sécurité respiratoire doit être évaluée rapidement.
+EXPLICATION_D: Un prélèvement reste nécessaire pour identifier la tumeur.
+EXPLICATION_E: Son évolution est agressive.
+
+---
+ID: 241-138
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente âgée présente une masse thyroïdienne envahissant les structures voisines et une gêne respiratoire. La biopsie rapporte un carcinome anaplasique. Quelles propositions concernant le bilan sont exactes ?
+A: F | Une augmentation de volume prouve la malignité.
+B: V | Le dosage de TSH recherche une dysthyroïdie.
+C: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+D: F | Une TSH normale exclut un cancer thyroïdien.
+E: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_B: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_C: La classification repose sur l’échographie.
+EXPLICATION_D: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+EXPLICATION_E: Elle apprécie la morphologie et le risque.
+
+---
+ID: 241-139
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente âgée présente une masse thyroïdienne envahissant les structures voisines et une gêne respiratoire. La biopsie rapporte un carcinome anaplasique. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: F | La cytologie seule démontre toujours l’invasion capsulaire d’une tumeur vésiculaire.
+B: V | Les carcinomes papillaires peuvent s’étendre aux ganglions cervicaux.
+C: V | La thyroglobuline est un marqueur de suivi des cancers d’origine folliculaire.
+D: F | Tous les cancers thyroïdiens ont le même pronostic.
+E: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: L’étude de l’architecture et de la capsule nécessite l’histologie.
+EXPLICATION_B: Cette extension est fréquente dans cette forme.
+EXPLICATION_C: Elle doit être interprétée selon le traitement et le contexte.
+EXPLICATION_D: Histologie et stade modifient fortement le pronostic.
+EXPLICATION_E: Il dérive des cellules C et son marqueur est la calcitonine.
+
+---
+ID: 241-140
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une patiente âgée présente une masse thyroïdienne envahissant les structures voisines et une gêne respiratoire. La biopsie rapporte un carcinome anaplasique. Quelles propositions guident la décision ?
+A: V | Une gêne compressive modifie l’indication thérapeutique.
+B: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+C: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+D: V | Un nodule suspect nécessite une évaluation spécialisée.
+E: F | Tout nodule impose une thyroïdectomie totale immédiate.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_B: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_C: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_D: Le choix dépend du contexte clinique et de la cytologie.
+EXPLICATION_E: La majorité des nodules sont bénins et la stratégie est individualisée.
+
+---
+ID: 241-141
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme de 81 ans a une augmentation rapide de volume thyroïdien avec dysphagie. L’histologie confirme une forme anaplasique, distincte d’un cancer différencié. Quel diagnostic principal est le plus probable ?
+A: F | Carcinome médullaire thyroïdien à rechercher
+B: F | Nodule thyroïdien autonome hyperfonctionnel
+C: F | Goitre multinodulaire euthyroïdien compressif
+D: F | Nodule à haut risque échographique nécessitant une cytoponction
+E: V | Carcinome anaplasique thyroïdien
+JUSTIFICATION: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_A: Un nodule avec calcitonine très élevée et contexte évocateur fait rechercher un carcinome médullaire. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_B: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_C: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_D: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_E: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+
+---
+ID: 241-142
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Tumeur rapidement évolutive
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme de 81 ans a une augmentation rapide de volume thyroïdien avec dysphagie. L’histologie confirme une forme anaplasique, distincte d’un cancer différencié. Quelles propositions concernant ce tableau sont exactes ?
+A: F | Une dyspnée compressive peut attendre une surveillance échographique espacée.
+B: V | Le carcinome anaplasique est une hypothèse grave chez le sujet âgé.
+C: V | Une croissance rapide avec dysphonie constitue un signe d’alarme.
+D: V | L’imagerie en coupe peut préciser une extension aux structures voisines.
+E: F | Un âge avancé suffit à affirmer l’histologie.
+JUSTIFICATION: Une tumeur cervicale rapidement compressive nécessite une évaluation urgente.
+EXPLICATION_A: La sécurité respiratoire doit être évaluée rapidement.
+EXPLICATION_B: Son évolution est agressive.
+EXPLICATION_C: Une atteinte locale doit être recherchée.
+EXPLICATION_D: Elle aide à évaluer le retentissement et l’extension.
+EXPLICATION_E: Un prélèvement reste nécessaire pour identifier la tumeur.
+
+---
+ID: 241-143
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme de 81 ans a une augmentation rapide de volume thyroïdien avec dysphagie. L’histologie confirme une forme anaplasique, distincte d’un cancer différencié. Quelles propositions concernant le bilan sont exactes ?
+A: F | La seule palpation permet de classer un nodule selon EU-TIRADS.
+B: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+C: F | Une augmentation de volume prouve la malignité.
+D: V | Le dosage de TSH recherche une dysthyroïdie.
+E: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: La classification repose sur l’échographie.
+EXPLICATION_B: Une compression ou une invasion peut être en cause.
+EXPLICATION_C: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_D: Il oriente la suite du bilan fonctionnel.
+EXPLICATION_E: Elle apprécie la morphologie et le risque.
+
+---
+ID: 241-144
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme de 81 ans a une augmentation rapide de volume thyroïdien avec dysphagie. L’histologie confirme une forme anaplasique, distincte d’un cancer différencié. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: F | Tous les cancers thyroïdiens ont le même pronostic.
+B: V | Une invasion capsulaire ou vasculaire permet d’affirmer un carcinome vésiculaire.
+C: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+D: V | Les carcinomes papillaires peuvent s’étendre aux ganglions cervicaux.
+E: V | La thyroglobuline est un marqueur de suivi des cancers d’origine folliculaire.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: Histologie et stade modifient fortement le pronostic.
+EXPLICATION_B: Ce critère est histologique.
+EXPLICATION_C: Il dérive des cellules C et son marqueur est la calcitonine.
+EXPLICATION_D: Cette extension est fréquente dans cette forme.
+EXPLICATION_E: Elle doit être interprétée selon le traitement et le contexte.
+
+---
+ID: 241-145
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Un homme de 81 ans a une augmentation rapide de volume thyroïdien avec dysphagie. L’histologie confirme une forme anaplasique, distincte d’un cancer différencié. Quelles propositions guident la décision ?
+A: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+B: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+C: F | Une surveillance signifie qu’aucun symptôme nouveau ne doit être réévalué.
+D: V | Une gêne compressive modifie l’indication thérapeutique.
+E: V | Un nodule suspect nécessite une évaluation spécialisée.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_B: Cela évite de confondre évolution et différence de cible.
+EXPLICATION_C: Une dysphonie, une compression ou une adénopathie changent le bilan.
+EXPLICATION_D: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_E: Le choix dépend du contexte clinique et de la cytologie.
+
+---
+ID: 241-146
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · raisonnement
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 74 ans a une tumeur thyroïdienne anaplasique documentée avec progression locale rapide. La priorité est l’évaluation de l’extension et de la sécurité respiratoire. Quel diagnostic principal est le plus probable ?
+A: F | Carcinome papillaire thyroïdien
+B: F | Goitre multinodulaire euthyroïdien compressif
+C: F | Nodule thyroïdien autonome hyperfonctionnel
+D: F | Nodule à haut risque échographique nécessitant une cytoponction
+E: V | Carcinome anaplasique thyroïdien
+JUSTIFICATION: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_A: Les anomalies nucléaires caractéristiques documentées au prélèvement orientent vers un carcinome papillaire. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_B: Le volume multinodulaire avec TSH normale et gêne locale caractérise un goitre euthyroïdien compressif. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_C: La TSH basse et la fixation focale avec freinage adjacent indiquent un nodule autonome. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_D: Un nodule solide de plus de 10 mm classé EU-TIRADS 5 doit être exploré par cytoponction selon la fiche. Ici : L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+EXPLICATION_E: L’histologie anaplasique documentée et le tableau rapidement compressif définissent une tumeur agressive.
+
+---
+ID: 241-147
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Tumeur rapidement évolutive
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 74 ans a une tumeur thyroïdienne anaplasique documentée avec progression locale rapide. La priorité est l’évaluation de l’extension et de la sécurité respiratoire. Quelles propositions concernant ce tableau sont exactes ?
+A: F | L’évolution rapide permet de conclure à un goitre simple sans bilan.
+B: V | Le carcinome anaplasique est une hypothèse grave chez le sujet âgé.
+C: V | L’imagerie en coupe peut préciser une extension aux structures voisines.
+D: V | Une croissance rapide avec dysphonie constitue un signe d’alarme.
+E: F | Un âge avancé suffit à affirmer l’histologie.
+JUSTIFICATION: Une tumeur cervicale rapidement compressive nécessite une évaluation urgente.
+EXPLICATION_A: Elle impose au contraire une exploration.
+EXPLICATION_B: Son évolution est agressive.
+EXPLICATION_C: Elle aide à évaluer le retentissement et l’extension.
+EXPLICATION_D: Une atteinte locale doit être recherchée.
+EXPLICATION_E: Un prélèvement reste nécessaire pour identifier la tumeur.
+
+---
+ID: 241-148
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Bilan initial
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 74 ans a une tumeur thyroïdienne anaplasique documentée avec progression locale rapide. La priorité est l’évaluation de l’extension et de la sécurité respiratoire. Quelles propositions concernant le bilan sont exactes ?
+A: F | Une augmentation de volume prouve la malignité.
+B: F | Une TSH normale exclut un cancer thyroïdien.
+C: V | L’échographie analyse les nodules et les aires ganglionnaires cervicales.
+D: V | La recherche de dysphagie, dyspnée ou dysphonie évalue le retentissement local.
+E: V | Le dosage de TSH recherche une dysthyroïdie.
+JUSTIFICATION: Fonction hormonale et risque tumoral répondent à des examens complémentaires différents.
+EXPLICATION_A: L’évolution doit être interprétée avec les autres éléments.
+EXPLICATION_B: La fonction hormonale ne suffit pas à juger la nature d’un nodule.
+EXPLICATION_C: Elle apprécie la morphologie et le risque.
+EXPLICATION_D: Une compression ou une invasion peut être en cause.
+EXPLICATION_E: Il oriente la suite du bilan fonctionnel.
+
+---
+ID: 241-149
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Différenciation tumorale
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 74 ans a une tumeur thyroïdienne anaplasique documentée avec progression locale rapide. La priorité est l’évaluation de l’extension et de la sécurité respiratoire. Quelles propositions sur les cancers thyroïdiens sont exactes ?
+A: F | La cytologie seule démontre toujours l’invasion capsulaire d’une tumeur vésiculaire.
+B: F | Le carcinome médullaire dérive des cellules folliculaires et sécrète la thyroglobuline.
+C: V | La thyroglobuline est un marqueur de suivi des cancers d’origine folliculaire.
+D: V | Les carcinomes papillaires peuvent s’étendre aux ganglions cervicaux.
+E: V | Une invasion capsulaire ou vasculaire permet d’affirmer un carcinome vésiculaire.
+JUSTIFICATION: Origine cellulaire et histologie déterminent marqueurs et comportement.
+EXPLICATION_A: L’étude de l’architecture et de la capsule nécessite l’histologie.
+EXPLICATION_B: Il dérive des cellules C et son marqueur est la calcitonine.
+EXPLICATION_C: Elle doit être interprétée selon le traitement et le contexte.
+EXPLICATION_D: Cette extension est fréquente dans cette forme.
+EXPLICATION_E: Ce critère est histologique.
+
+---
+ID: 241-150
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Cancer anaplasique · Décision et surveillance
+SOURCE: Fiche item 241 fournie - page(s) 7-8
+CONSIGNE: Une femme de 74 ans a une tumeur thyroïdienne anaplasique documentée avec progression locale rapide. La priorité est l’évaluation de l’extension et de la sécurité respiratoire. Quelles propositions guident la décision ?
+A: V | Une gêne compressive modifie l’indication thérapeutique.
+B: F | Tout nodule impose une thyroïdectomie totale immédiate.
+C: F | Un dépistage échographique systématique sans contexte est toujours bénéfique.
+D: V | Un nodule suspect nécessite une évaluation spécialisée.
+E: V | Le suivi doit comparer le même nodule identifié sur le schéma échographique.
+JUSTIFICATION: Une prise en charge proportionnée évite à la fois la banalisation et les gestes inutiles.
+EXPLICATION_A: Le retentissement peut justifier un traitement même sans malignité.
+EXPLICATION_B: La majorité des nodules sont bénins et la stratégie est individualisée.
+EXPLICATION_C: Il expose au surdiagnostic et à des interventions inutiles.
+EXPLICATION_D: Le choix dépend du contexte clinique et de la cytologie.
+EXPLICATION_E: Cela évite de confondre évolution et différence de cible.

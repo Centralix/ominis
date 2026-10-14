@@ -1,0 +1,3007 @@
+# Item 285 : révision clinique fondée sur la fiche fournie.
+# 150 questions : 120 QCM et 30 QRU ; 105 rang A et 45 rang B pédagogiques.
+# Les rangs ne constituent pas une certification du référentiel EDN.
+# 30 observations, chacune explorée par cinq questions de raisonnement.
+# Les notions reviennent dans des contextes distincts ; aucune inversion automatique V/F.
+ITEM 285 | Diarrhées chroniques
+COLLEGE: Hépato-gastro-entérologie
+
+---
+ID: 285-001
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 32 ans a diarrhée chronique et carence martiale ; les IgA totales sont normales, les anti-transglutaminase positifs et la biopsie montre une atrophie villositaire concordante. Quel diagnostic principal est le plus probable ?
+A: F | Une diarrhée à prédominance motrice.
+B: F | Une fausse diarrhée sur rétention fécale.
+C: V | Une maladie cœliaque.
+D: F | Une diarrhée à prédominance osmotique.
+E: F | Une colite microscopique.
+JUSTIFICATION: Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_A: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_B: La rétention peut produire une présentation trompeuse. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_C: Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_D: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_E: La colite microscopique est définie histologiquement. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+
+---
+ID: 285-002
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Entéropathie au gluten
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 32 ans a diarrhée chronique et carence martiale ; les IgA totales sont normales, les anti-transglutaminase positifs et la biopsie montre une atrophie villositaire concordante. Quelles propositions soutiennent une maladie cœliaque ?
+A: F | Une échographie normale suffit à réfuter l’entéropathie.
+B: V | Une carence martiale peut être révélatrice même sans diarrhée spectaculaire.
+C: V | Une atrophie villositaire avec lymphocytose intraépithéliale est compatible.
+D: F | Le diagnostic exige toujours une diarrhée très abondante.
+E: F | Une sérologie IgA négative exclut sûrement la maladie malgré un déficit en IgA.
+JUSTIFICATION: Le diagnostic associe contexte, sérologie adaptée et histologie duodénale.
+EXPLICATION_A: Elle ne remplace pas la sérologie et l’histologie adaptées.
+EXPLICATION_B: Les formes paucisymptomatiques existent.
+EXPLICATION_C: La biopsie duodénale documente l’atteinte.
+EXPLICATION_D: Des signes carentiels isolés peuvent conduire au diagnostic.
+EXPLICATION_E: Une stratégie adaptée, notamment IgG, est nécessaire.
+
+---
+ID: 285-003
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Traitement et suivi cœliaques
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 32 ans a diarrhée chronique et carence martiale ; les IgA totales sont normales, les anti-transglutaminase positifs et la biopsie montre une atrophie villositaire concordante. Quelles propositions concernant le suivi sont exactes ?
+A: F | Une résistance bien documentée ne nécessite jamais de recherche de complication.
+B: V | Une persistance des symptômes conduit notamment à vérifier l’observance.
+C: F | Les anticorps et l’histologie doivent nécessairement être normaux après quelques jours.
+D: V | Les carences doivent être recherchées et corrigées.
+E: F | La disparition de la diarrhée autorise automatiquement à reprendre le gluten.
+JUSTIFICATION: L’éviction du gluten et la correction des carences nécessitent un accompagnement durable.
+EXPLICATION_A: Des complications rares et graves doivent être envisagées.
+EXPLICATION_B: La fiche en fait une cause fréquente d’échec.
+EXPLICATION_C: Leur normalisation peut être plus lente que l’amélioration clinique.
+EXPLICATION_D: Fer, vitamines et autres éléments peuvent manquer.
+EXPLICATION_E: Le régime est poursuivi à vie dans la maladie confirmée.
+
+---
+ID: 285-004
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 32 ans a diarrhée chronique et carence martiale ; les IgA totales sont normales, les anti-transglutaminase positifs et la biopsie montre une atrophie villositaire concordante. Quelles propositions guident l’évaluation initiale ?
+A: F | L’absence de fièvre exclut toute cause organique chronique.
+B: V | Le toucher rectal peut rechercher un fécalome.
+C: V | Le poids et les signes de dénutrition doivent être évalués.
+D: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+E: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_B: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_C: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_D: Une polyexonération peut avoir un poids et une consistance normaux.
+EXPLICATION_E: Elle fait rechercher une composante organique.
+
+---
+ID: 285-005
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 32 ans a diarrhée chronique et carence martiale ; les IgA totales sont normales, les anti-transglutaminase positifs et la biopsie montre une atrophie villositaire concordante. Quelles propositions concernant les examens sont exactes ?
+A: V | La TSH peut rechercher une cause motrice endocrinienne.
+B: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+C: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+D: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+E: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: L’hyperthyroïdie accélère le transit.
+EXPLICATION_B: Le diagnostic est histologique.
+EXPLICATION_C: Elle contribue au bilan de maldigestion.
+EXPLICATION_D: L’exploration dépend de la question diagnostique.
+EXPLICATION_E: Plusieurs mécanismes peuvent produire une perte de graisses.
+
+---
+ID: 285-006
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 41 ans a amaigrissement, carences et atteinte duodénale compatible avec maladie cœliaque, confirmée par sérologie adaptée. Quel diagnostic principal est le plus probable ?
+A: V | Une maladie cœliaque.
+B: F | Une insuffisance pancréatique exocrine.
+C: F | Une diarrhée à prédominance motrice.
+D: F | Une fausse diarrhée sur rétention fécale.
+E: F | Une colite microscopique.
+JUSTIFICATION: Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_A: Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_B: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_C: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_D: La rétention peut produire une présentation trompeuse. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_E: La colite microscopique est définie histologiquement. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+
+---
+ID: 285-007
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Entéropathie au gluten
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 41 ans a amaigrissement, carences et atteinte duodénale compatible avec maladie cœliaque, confirmée par sérologie adaptée. Quelles propositions soutiennent une maladie cœliaque ?
+A: F | Une échographie normale suffit à réfuter l’entéropathie.
+B: F | Une sérologie IgA négative exclut sûrement la maladie malgré un déficit en IgA.
+C: V | Les IgA anti-transglutaminase doivent être interprétées avec les IgA totales.
+D: V | Une carence martiale peut être révélatrice même sans diarrhée spectaculaire.
+E: F | Le diagnostic exige toujours une diarrhée très abondante.
+JUSTIFICATION: Le diagnostic associe contexte, sérologie adaptée et histologie duodénale.
+EXPLICATION_A: Elle ne remplace pas la sérologie et l’histologie adaptées.
+EXPLICATION_B: Une stratégie adaptée, notamment IgG, est nécessaire.
+EXPLICATION_C: Un déficit en IgA peut masquer le résultat.
+EXPLICATION_D: Les formes paucisymptomatiques existent.
+EXPLICATION_E: Des signes carentiels isolés peuvent conduire au diagnostic.
+
+---
+ID: 285-008
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Traitement et suivi cœliaques
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 41 ans a amaigrissement, carences et atteinte duodénale compatible avec maladie cœliaque, confirmée par sérologie adaptée. Quelles propositions concernant le suivi sont exactes ?
+A: F | Une résistance bien documentée ne nécessite jamais de recherche de complication.
+B: F | Les anticorps et l’histologie doivent nécessairement être normaux après quelques jours.
+C: F | La disparition de la diarrhée autorise automatiquement à reprendre le gluten.
+D: V | Une persistance des symptômes conduit notamment à vérifier l’observance.
+E: V | L’aide d’un diététicien peut améliorer l’adhésion au régime.
+JUSTIFICATION: L’éviction du gluten et la correction des carences nécessitent un accompagnement durable.
+EXPLICATION_A: Des complications rares et graves doivent être envisagées.
+EXPLICATION_B: Leur normalisation peut être plus lente que l’amélioration clinique.
+EXPLICATION_C: Le régime est poursuivi à vie dans la maladie confirmée.
+EXPLICATION_D: La fiche en fait une cause fréquente d’échec.
+EXPLICATION_E: Le régime est contraignant et doit être expliqué.
+
+---
+ID: 285-009
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 41 ans a amaigrissement, carences et atteinte duodénale compatible avec maladie cœliaque, confirmée par sérologie adaptée. Quelles propositions guident l’évaluation initiale ?
+A: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+B: V | Les médicaments pris dans les mois précédents doivent être revus.
+C: F | L’absence de fièvre exclut toute cause organique chronique.
+D: V | Le toucher rectal peut rechercher un fécalome.
+E: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Elle fait rechercher une composante organique.
+EXPLICATION_B: Une cause iatrogène peut être retardée.
+EXPLICATION_C: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_D: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_E: Une polyexonération peut avoir un poids et une consistance normaux.
+
+---
+ID: 285-010
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 41 ans a amaigrissement, carences et atteinte duodénale compatible avec maladie cœliaque, confirmée par sérologie adaptée. Quelles propositions concernant les examens sont exactes ?
+A: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+B: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+C: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+D: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+E: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Plusieurs mécanismes peuvent produire une perte de graisses.
+EXPLICATION_B: Le diagnostic est histologique.
+EXPLICATION_C: L’exploration dépend de la question diagnostique.
+EXPLICATION_D: Elle contribue au bilan de maldigestion.
+EXPLICATION_E: Une colite microscopique peut être invisible à l’endoscopie.
+
+---
+ID: 285-011
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 26 ans diabétique de type 1 a une carence martiale avec diarrhée modérée ; la sérologie et les biopsies confirment une entéropathie au gluten. Quel diagnostic principal est le plus probable ?
+A: F | Une fausse diarrhée sur rétention fécale.
+B: F | Une diarrhée à prédominance osmotique.
+C: V | Une maladie cœliaque.
+D: F | Une insuffisance pancréatique exocrine.
+E: F | Une colite microscopique.
+JUSTIFICATION: Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_A: La rétention peut produire une présentation trompeuse. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_B: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_C: Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_D: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_E: La colite microscopique est définie histologiquement. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+
+---
+ID: 285-012
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Entéropathie au gluten
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 26 ans diabétique de type 1 a une carence martiale avec diarrhée modérée ; la sérologie et les biopsies confirment une entéropathie au gluten. Quelles propositions soutiennent une maladie cœliaque ?
+A: V | Une atrophie villositaire avec lymphocytose intraépithéliale est compatible.
+B: F | Une sérologie IgA négative exclut sûrement la maladie malgré un déficit en IgA.
+C: F | Le diagnostic exige toujours une diarrhée très abondante.
+D: F | Une échographie normale suffit à réfuter l’entéropathie.
+E: V | Les IgA anti-transglutaminase doivent être interprétées avec les IgA totales.
+JUSTIFICATION: Le diagnostic associe contexte, sérologie adaptée et histologie duodénale.
+EXPLICATION_A: La biopsie duodénale documente l’atteinte.
+EXPLICATION_B: Une stratégie adaptée, notamment IgG, est nécessaire.
+EXPLICATION_C: Des signes carentiels isolés peuvent conduire au diagnostic.
+EXPLICATION_D: Elle ne remplace pas la sérologie et l’histologie adaptées.
+EXPLICATION_E: Un déficit en IgA peut masquer le résultat.
+
+---
+ID: 285-013
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Traitement et suivi cœliaques
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 26 ans diabétique de type 1 a une carence martiale avec diarrhée modérée ; la sérologie et les biopsies confirment une entéropathie au gluten. Quelles propositions concernant le suivi sont exactes ?
+A: F | Les anticorps et l’histologie doivent nécessairement être normaux après quelques jours.
+B: V | L’aide d’un diététicien peut améliorer l’adhésion au régime.
+C: F | La disparition de la diarrhée autorise automatiquement à reprendre le gluten.
+D: F | Une résistance bien documentée ne nécessite jamais de recherche de complication.
+E: V | Les carences doivent être recherchées et corrigées.
+JUSTIFICATION: L’éviction du gluten et la correction des carences nécessitent un accompagnement durable.
+EXPLICATION_A: Leur normalisation peut être plus lente que l’amélioration clinique.
+EXPLICATION_B: Le régime est contraignant et doit être expliqué.
+EXPLICATION_C: Le régime est poursuivi à vie dans la maladie confirmée.
+EXPLICATION_D: Des complications rares et graves doivent être envisagées.
+EXPLICATION_E: Fer, vitamines et autres éléments peuvent manquer.
+
+---
+ID: 285-014
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 26 ans diabétique de type 1 a une carence martiale avec diarrhée modérée ; la sérologie et les biopsies confirment une entéropathie au gluten. Quelles propositions guident l’évaluation initiale ?
+A: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+B: V | Le poids et les signes de dénutrition doivent être évalués.
+C: V | Les médicaments pris dans les mois précédents doivent être revus.
+D: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+E: F | L’absence de fièvre exclut toute cause organique chronique.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Elle fait rechercher une composante organique.
+EXPLICATION_B: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_C: Une cause iatrogène peut être retardée.
+EXPLICATION_D: Une polyexonération peut avoir un poids et une consistance normaux.
+EXPLICATION_E: Plusieurs causes ne sont pas fébriles.
+
+---
+ID: 285-015
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 26 ans diabétique de type 1 a une carence martiale avec diarrhée modérée ; la sérologie et les biopsies confirment une entéropathie au gluten. Quelles propositions concernant les examens sont exactes ?
+A: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+B: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+C: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+D: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+E: V | La TSH peut rechercher une cause motrice endocrinienne.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Plusieurs mécanismes peuvent produire une perte de graisses.
+EXPLICATION_B: Le diagnostic est histologique.
+EXPLICATION_C: Une colite microscopique peut être invisible à l’endoscopie.
+EXPLICATION_D: L’exploration dépend de la question diagnostique.
+EXPLICATION_E: L’hyperthyroïdie accélère le transit.
+
+---
+ID: 285-016
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 53 ans a une diarrhée chronique, un déficit en IgA et des examens adaptés confirmant une maladie cœliaque avec atrophie villositaire. Quel diagnostic principal est le plus probable ?
+A: V | Une maladie cœliaque.
+B: F | Une diarrhée à prédominance osmotique.
+C: F | Une fausse diarrhée sur rétention fécale.
+D: F | Une insuffisance pancréatique exocrine.
+E: F | Une diarrhée à prédominance motrice.
+JUSTIFICATION: Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_A: Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_B: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_C: La rétention peut produire une présentation trompeuse. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_D: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_E: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+
+---
+ID: 285-017
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Entéropathie au gluten
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 53 ans a une diarrhée chronique, un déficit en IgA et des examens adaptés confirmant une maladie cœliaque avec atrophie villositaire. Quelles propositions soutiennent une maladie cœliaque ?
+A: V | Les IgA anti-transglutaminase doivent être interprétées avec les IgA totales.
+B: F | Le diagnostic exige toujours une diarrhée très abondante.
+C: V | Une atrophie villositaire avec lymphocytose intraépithéliale est compatible.
+D: F | Une échographie normale suffit à réfuter l’entéropathie.
+E: V | Une carence martiale peut être révélatrice même sans diarrhée spectaculaire.
+JUSTIFICATION: Le diagnostic associe contexte, sérologie adaptée et histologie duodénale.
+EXPLICATION_A: Un déficit en IgA peut masquer le résultat.
+EXPLICATION_B: Des signes carentiels isolés peuvent conduire au diagnostic.
+EXPLICATION_C: La biopsie duodénale documente l’atteinte.
+EXPLICATION_D: Elle ne remplace pas la sérologie et l’histologie adaptées.
+EXPLICATION_E: Les formes paucisymptomatiques existent.
+
+---
+ID: 285-018
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Traitement et suivi cœliaques
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 53 ans a une diarrhée chronique, un déficit en IgA et des examens adaptés confirmant une maladie cœliaque avec atrophie villositaire. Quelles propositions concernant le suivi sont exactes ?
+A: F | Une résistance bien documentée ne nécessite jamais de recherche de complication.
+B: V | Une persistance des symptômes conduit notamment à vérifier l’observance.
+C: V | L’aide d’un diététicien peut améliorer l’adhésion au régime.
+D: V | Les carences doivent être recherchées et corrigées.
+E: F | Les anticorps et l’histologie doivent nécessairement être normaux après quelques jours.
+JUSTIFICATION: L’éviction du gluten et la correction des carences nécessitent un accompagnement durable.
+EXPLICATION_A: Des complications rares et graves doivent être envisagées.
+EXPLICATION_B: La fiche en fait une cause fréquente d’échec.
+EXPLICATION_C: Le régime est contraignant et doit être expliqué.
+EXPLICATION_D: Fer, vitamines et autres éléments peuvent manquer.
+EXPLICATION_E: Leur normalisation peut être plus lente que l’amélioration clinique.
+
+---
+ID: 285-019
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 53 ans a une diarrhée chronique, un déficit en IgA et des examens adaptés confirmant une maladie cœliaque avec atrophie villositaire. Quelles propositions guident l’évaluation initiale ?
+A: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+B: V | Les médicaments pris dans les mois précédents doivent être revus.
+C: V | Le poids et les signes de dénutrition doivent être évalués.
+D: V | Le toucher rectal peut rechercher un fécalome.
+E: F | L’absence de fièvre exclut toute cause organique chronique.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Elle fait rechercher une composante organique.
+EXPLICATION_B: Une cause iatrogène peut être retardée.
+EXPLICATION_C: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_D: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_E: Plusieurs causes ne sont pas fébriles.
+
+---
+ID: 285-020
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 53 ans a une diarrhée chronique, un déficit en IgA et des examens adaptés confirmant une maladie cœliaque avec atrophie villositaire. Quelles propositions concernant les examens sont exactes ?
+A: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+B: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+C: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+D: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+E: V | La TSH peut rechercher une cause motrice endocrinienne.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Plusieurs mécanismes peuvent produire une perte de graisses.
+EXPLICATION_B: L’exploration dépend de la question diagnostique.
+EXPLICATION_C: Une colite microscopique peut être invisible à l’endoscopie.
+EXPLICATION_D: Elle contribue au bilan de maldigestion.
+EXPLICATION_E: L’hyperthyroïdie accélère le transit.
+
+---
+ID: 285-021
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 47 ans a ostéopénie, carences et symptômes digestifs discrets ; le bilan sérologique et histologique confirme une maladie cœliaque. Quel diagnostic principal est le plus probable ?
+A: F | Une diarrhée à prédominance osmotique.
+B: V | Une maladie cœliaque.
+C: F | Une insuffisance pancréatique exocrine.
+D: F | Une diarrhée à prédominance motrice.
+E: F | Une colite microscopique.
+JUSTIFICATION: Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_A: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_B: Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_C: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_D: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+EXPLICATION_E: La colite microscopique est définie histologiquement. Ici : Les carences avec sérologie adaptée positive et atrophie villositaire concordante soutiennent la maladie cœliaque.
+
+---
+ID: 285-022
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Entéropathie au gluten
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 47 ans a ostéopénie, carences et symptômes digestifs discrets ; le bilan sérologique et histologique confirme une maladie cœliaque. Quelles propositions soutiennent une maladie cœliaque ?
+A: V | Une carence martiale peut être révélatrice même sans diarrhée spectaculaire.
+B: F | Une sérologie IgA négative exclut sûrement la maladie malgré un déficit en IgA.
+C: V | Une atrophie villositaire avec lymphocytose intraépithéliale est compatible.
+D: F | Une échographie normale suffit à réfuter l’entéropathie.
+E: V | Les IgA anti-transglutaminase doivent être interprétées avec les IgA totales.
+JUSTIFICATION: Le diagnostic associe contexte, sérologie adaptée et histologie duodénale.
+EXPLICATION_A: Les formes paucisymptomatiques existent.
+EXPLICATION_B: Une stratégie adaptée, notamment IgG, est nécessaire.
+EXPLICATION_C: La biopsie duodénale documente l’atteinte.
+EXPLICATION_D: Elle ne remplace pas la sérologie et l’histologie adaptées.
+EXPLICATION_E: Un déficit en IgA peut masquer le résultat.
+
+---
+ID: 285-023
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Traitement et suivi cœliaques
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 47 ans a ostéopénie, carences et symptômes digestifs discrets ; le bilan sérologique et histologique confirme une maladie cœliaque. Quelles propositions concernant le suivi sont exactes ?
+A: F | La disparition de la diarrhée autorise automatiquement à reprendre le gluten.
+B: V | Les carences doivent être recherchées et corrigées.
+C: V | L’aide d’un diététicien peut améliorer l’adhésion au régime.
+D: F | Une résistance bien documentée ne nécessite jamais de recherche de complication.
+E: V | Une persistance des symptômes conduit notamment à vérifier l’observance.
+JUSTIFICATION: L’éviction du gluten et la correction des carences nécessitent un accompagnement durable.
+EXPLICATION_A: Le régime est poursuivi à vie dans la maladie confirmée.
+EXPLICATION_B: Fer, vitamines et autres éléments peuvent manquer.
+EXPLICATION_C: Le régime est contraignant et doit être expliqué.
+EXPLICATION_D: Des complications rares et graves doivent être envisagées.
+EXPLICATION_E: La fiche en fait une cause fréquente d’échec.
+
+---
+ID: 285-024
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 47 ans a ostéopénie, carences et symptômes digestifs discrets ; le bilan sérologique et histologique confirme une maladie cœliaque. Quelles propositions guident l’évaluation initiale ?
+A: F | L’absence de fièvre exclut toute cause organique chronique.
+B: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+C: V | Le poids et les signes de dénutrition doivent être évalués.
+D: V | Le toucher rectal peut rechercher un fécalome.
+E: V | Les médicaments pris dans les mois précédents doivent être revus.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_B: Une polyexonération peut avoir un poids et une consistance normaux.
+EXPLICATION_C: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_D: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_E: Une cause iatrogène peut être retardée.
+
+---
+ID: 285-025
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Malabsorption entérocytaire · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 47 ans a ostéopénie, carences et symptômes digestifs discrets ; le bilan sérologique et histologique confirme une maladie cœliaque. Quelles propositions concernant les examens sont exactes ?
+A: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+B: V | La TSH peut rechercher une cause motrice endocrinienne.
+C: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+D: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+E: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Elle contribue au bilan de maldigestion.
+EXPLICATION_B: L’hyperthyroïdie accélère le transit.
+EXPLICATION_C: Une colite microscopique peut être invisible à l’endoscopie.
+EXPLICATION_D: Le diagnostic est histologique.
+EXPLICATION_E: L’exploration dépend de la question diagnostique.
+
+---
+ID: 285-026
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 62 ans ayant une pancréatite chronique a des selles graisseuses volumineuses, un amaigrissement et une élastase fécale effondrée. Quel diagnostic principal est le plus probable ?
+A: F | Une colite microscopique.
+B: V | Une insuffisance pancréatique exocrine.
+C: F | Une diarrhée à prédominance motrice.
+D: F | Une maladie cœliaque.
+E: F | Une fausse diarrhée sur rétention fécale.
+JUSTIFICATION: La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_A: La colite microscopique est définie histologiquement. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_B: La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_C: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_D: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_E: La rétention peut produire une présentation trompeuse. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+
+---
+ID: 285-027
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Maldigestion
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 62 ans ayant une pancréatite chronique a des selles graisseuses volumineuses, un amaigrissement et une élastase fécale effondrée. Quelles propositions soutiennent une origine pancréatique exocrine ?
+A: V | Une élastase fécale très basse soutient l’hypothèse.
+B: F | Une élastase normale suffit à expliquer toute carence par le pancréas.
+C: F | Une stéatorrhée prouve une inflammation colique isolée.
+D: F | La maldigestion et la malabsorption entérocytaire sont un mécanisme identique.
+E: V | Des selles graisseuses volumineuses sont compatibles.
+JUSTIFICATION: Un défaut de digestion peut provoquer des selles graisseuses et des carences.
+EXPLICATION_A: Elle est un examen orienté de la fiche.
+EXPLICATION_B: Les données doivent être confrontées au contexte et aux autres causes.
+EXPLICATION_C: Le grêle et la digestion doivent être évalués.
+EXPLICATION_D: La première concerne la digestion avant absorption.
+EXPLICATION_E: La maldigestion des lipides entraîne une stéatorrhée.
+
+---
+ID: 285-028
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Conséquences des pertes
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 62 ans ayant une pancréatite chronique a des selles graisseuses volumineuses, un amaigrissement et une élastase fécale effondrée. Quelles propositions concernant les carences sont exactes ?
+A: V | Une perte de poids malgré des apports conservés fait discuter une mauvaise assimilation.
+B: F | Toute carence vitaminique permet d’identifier l’organe responsable sans bilan.
+C: V | Des déficits en calcium ou magnésium peuvent participer à des crampes ou tétanie.
+D: F | L’absence de perte de poids exclut toute forme débutante de malabsorption.
+E: F | Des apports déclarés normaux garantissent l’absorption effective de tous les nutriments.
+JUSTIFICATION: Le retentissement peut être nutritionnel, électrolytique et vitaminique.
+EXPLICATION_A: Elle doit être documentée et expliquée.
+EXPLICATION_B: Plusieurs causes sont possibles.
+EXPLICATION_C: Ils font partie des conséquences décrites.
+EXPLICATION_D: Des formes peu symptomatiques existent.
+EXPLICATION_E: Une maladie digestive peut compromettre l’assimilation.
+
+---
+ID: 285-029
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 62 ans ayant une pancréatite chronique a des selles graisseuses volumineuses, un amaigrissement et une élastase fécale effondrée. Quelles propositions guident l’évaluation initiale ?
+A: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+B: V | Le toucher rectal peut rechercher un fécalome.
+C: V | Le poids et les signes de dénutrition doivent être évalués.
+D: F | L’absence de fièvre exclut toute cause organique chronique.
+E: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Une polyexonération peut avoir un poids et une consistance normaux.
+EXPLICATION_B: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_C: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_D: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_E: Elle fait rechercher une composante organique.
+
+---
+ID: 285-030
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 62 ans ayant une pancréatite chronique a des selles graisseuses volumineuses, un amaigrissement et une élastase fécale effondrée. Quelles propositions concernant les examens sont exactes ?
+A: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+B: V | La TSH peut rechercher une cause motrice endocrinienne.
+C: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+D: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+E: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Le diagnostic est histologique.
+EXPLICATION_B: L’hyperthyroïdie accélère le transit.
+EXPLICATION_C: Elle contribue au bilan de maldigestion.
+EXPLICATION_D: Plusieurs mécanismes peuvent produire une perte de graisses.
+EXPLICATION_E: L’exploration dépend de la question diagnostique.
+
+---
+ID: 285-031
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 68 ans avec affection pancréatique documentée présente une stéatorrhée et une fonction exocrine très diminuée au bilan. Quel diagnostic principal est le plus probable ?
+A: V | Une insuffisance pancréatique exocrine.
+B: F | Une colite microscopique.
+C: F | Une diarrhée à prédominance osmotique.
+D: F | Une fausse diarrhée sur rétention fécale.
+E: F | Une maladie cœliaque.
+JUSTIFICATION: La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_A: La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_B: La colite microscopique est définie histologiquement. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_C: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_D: La rétention peut produire une présentation trompeuse. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_E: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+
+---
+ID: 285-032
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Maldigestion
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 68 ans avec affection pancréatique documentée présente une stéatorrhée et une fonction exocrine très diminuée au bilan. Quelles propositions soutiennent une origine pancréatique exocrine ?
+A: V | Une pancréatite chronique constitue un contexte possible.
+B: V | Une élastase fécale très basse soutient l’hypothèse.
+C: F | Une élastase normale suffit à expliquer toute carence par le pancréas.
+D: F | Une stéatorrhée prouve une inflammation colique isolée.
+E: F | La maldigestion et la malabsorption entérocytaire sont un mécanisme identique.
+JUSTIFICATION: Un défaut de digestion peut provoquer des selles graisseuses et des carences.
+EXPLICATION_A: Elle peut altérer la fonction exocrine.
+EXPLICATION_B: Elle est un examen orienté de la fiche.
+EXPLICATION_C: Les données doivent être confrontées au contexte et aux autres causes.
+EXPLICATION_D: Le grêle et la digestion doivent être évalués.
+EXPLICATION_E: La première concerne la digestion avant absorption.
+
+---
+ID: 285-033
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Conséquences des pertes
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 68 ans avec affection pancréatique documentée présente une stéatorrhée et une fonction exocrine très diminuée au bilan. Quelles propositions concernant les carences sont exactes ?
+A: F | L’absence de perte de poids exclut toute forme débutante de malabsorption.
+B: F | Des apports déclarés normaux garantissent l’absorption effective de tous les nutriments.
+C: V | Une perte de poids malgré des apports conservés fait discuter une mauvaise assimilation.
+D: V | Une carence en vitamine K peut contribuer à des saignements.
+E: F | Toute carence vitaminique permet d’identifier l’organe responsable sans bilan.
+JUSTIFICATION: Le retentissement peut être nutritionnel, électrolytique et vitaminique.
+EXPLICATION_A: Des formes peu symptomatiques existent.
+EXPLICATION_B: Une maladie digestive peut compromettre l’assimilation.
+EXPLICATION_C: Elle doit être documentée et expliquée.
+EXPLICATION_D: La fiche cite les hématomes et troubles de coagulation.
+EXPLICATION_E: Plusieurs causes sont possibles.
+
+---
+ID: 285-034
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 68 ans avec affection pancréatique documentée présente une stéatorrhée et une fonction exocrine très diminuée au bilan. Quelles propositions guident l’évaluation initiale ?
+A: V | Le toucher rectal peut rechercher un fécalome.
+B: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+C: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+D: V | Les médicaments pris dans les mois précédents doivent être revus.
+E: F | L’absence de fièvre exclut toute cause organique chronique.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_B: Elle fait rechercher une composante organique.
+EXPLICATION_C: Une polyexonération peut avoir un poids et une consistance normaux.
+EXPLICATION_D: Une cause iatrogène peut être retardée.
+EXPLICATION_E: Plusieurs causes ne sont pas fébriles.
+
+---
+ID: 285-035
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 68 ans avec affection pancréatique documentée présente une stéatorrhée et une fonction exocrine très diminuée au bilan. Quelles propositions concernant les examens sont exactes ?
+A: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+B: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+C: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+D: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+E: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Elle contribue au bilan de maldigestion.
+EXPLICATION_B: L’exploration dépend de la question diagnostique.
+EXPLICATION_C: Le diagnostic est histologique.
+EXPLICATION_D: Plusieurs mécanismes peuvent produire une perte de graisses.
+EXPLICATION_E: Une colite microscopique peut être invisible à l’endoscopie.
+
+---
+ID: 285-036
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 55 ans a une pancréatite chronique, des carences et une maldigestion lipidique confirmée par le bilan pancréatique. Quel diagnostic principal est le plus probable ?
+A: V | Une insuffisance pancréatique exocrine.
+B: F | Une diarrhée à prédominance motrice.
+C: F | Une maladie cœliaque.
+D: F | Une diarrhée à prédominance osmotique.
+E: F | Une fausse diarrhée sur rétention fécale.
+JUSTIFICATION: La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_A: La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_B: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_C: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_D: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_E: La rétention peut produire une présentation trompeuse. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+
+---
+ID: 285-037
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Maldigestion
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 55 ans a une pancréatite chronique, des carences et une maldigestion lipidique confirmée par le bilan pancréatique. Quelles propositions soutiennent une origine pancréatique exocrine ?
+A: V | Des selles graisseuses volumineuses sont compatibles.
+B: F | La maldigestion et la malabsorption entérocytaire sont un mécanisme identique.
+C: F | Une élastase normale suffit à expliquer toute carence par le pancréas.
+D: F | Une stéatorrhée prouve une inflammation colique isolée.
+E: V | Une pancréatite chronique constitue un contexte possible.
+JUSTIFICATION: Un défaut de digestion peut provoquer des selles graisseuses et des carences.
+EXPLICATION_A: La maldigestion des lipides entraîne une stéatorrhée.
+EXPLICATION_B: La première concerne la digestion avant absorption.
+EXPLICATION_C: Les données doivent être confrontées au contexte et aux autres causes.
+EXPLICATION_D: Le grêle et la digestion doivent être évalués.
+EXPLICATION_E: Elle peut altérer la fonction exocrine.
+
+---
+ID: 285-038
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Conséquences des pertes
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 55 ans a une pancréatite chronique, des carences et une maldigestion lipidique confirmée par le bilan pancréatique. Quelles propositions concernant les carences sont exactes ?
+A: F | Toute carence vitaminique permet d’identifier l’organe responsable sans bilan.
+B: V | Une carence en vitamine K peut contribuer à des saignements.
+C: F | L’absence de perte de poids exclut toute forme débutante de malabsorption.
+D: F | Des apports déclarés normaux garantissent l’absorption effective de tous les nutriments.
+E: V | Des déficits en calcium ou magnésium peuvent participer à des crampes ou tétanie.
+JUSTIFICATION: Le retentissement peut être nutritionnel, électrolytique et vitaminique.
+EXPLICATION_A: Plusieurs causes sont possibles.
+EXPLICATION_B: La fiche cite les hématomes et troubles de coagulation.
+EXPLICATION_C: Des formes peu symptomatiques existent.
+EXPLICATION_D: Une maladie digestive peut compromettre l’assimilation.
+EXPLICATION_E: Ils font partie des conséquences décrites.
+
+---
+ID: 285-039
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 55 ans a une pancréatite chronique, des carences et une maldigestion lipidique confirmée par le bilan pancréatique. Quelles propositions guident l’évaluation initiale ?
+A: V | Les médicaments pris dans les mois précédents doivent être revus.
+B: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+C: F | L’absence de fièvre exclut toute cause organique chronique.
+D: V | Le poids et les signes de dénutrition doivent être évalués.
+E: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Une cause iatrogène peut être retardée.
+EXPLICATION_B: Une polyexonération peut avoir un poids et une consistance normaux.
+EXPLICATION_C: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_D: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_E: Elle fait rechercher une composante organique.
+
+---
+ID: 285-040
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 55 ans a une pancréatite chronique, des carences et une maldigestion lipidique confirmée par le bilan pancréatique. Quelles propositions concernant les examens sont exactes ?
+A: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+B: V | La TSH peut rechercher une cause motrice endocrinienne.
+C: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+D: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+E: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Une colite microscopique peut être invisible à l’endoscopie.
+EXPLICATION_B: L’hyperthyroïdie accélère le transit.
+EXPLICATION_C: Le diagnostic est histologique.
+EXPLICATION_D: Plusieurs mécanismes peuvent produire une perte de graisses.
+EXPLICATION_E: L’exploration dépend de la question diagnostique.
+
+---
+ID: 285-041
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 71 ans a une maladie pancréatique avec selles graisseuses et élastase très basse ; les autres causes principales ont été évaluées. Quel diagnostic principal est le plus probable ?
+A: V | Une insuffisance pancréatique exocrine.
+B: F | Une maladie cœliaque.
+C: F | Une colite microscopique.
+D: F | Une diarrhée à prédominance motrice.
+E: F | Une diarrhée à prédominance osmotique.
+JUSTIFICATION: La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_A: La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_B: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_C: La colite microscopique est définie histologiquement. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_D: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_E: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+
+---
+ID: 285-042
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Maldigestion
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 71 ans a une maladie pancréatique avec selles graisseuses et élastase très basse ; les autres causes principales ont été évaluées. Quelles propositions soutiennent une origine pancréatique exocrine ?
+A: V | Une élastase fécale très basse soutient l’hypothèse.
+B: F | Une élastase normale suffit à expliquer toute carence par le pancréas.
+C: V | Une pancréatite chronique constitue un contexte possible.
+D: V | Des selles graisseuses volumineuses sont compatibles.
+E: F | La maldigestion et la malabsorption entérocytaire sont un mécanisme identique.
+JUSTIFICATION: Un défaut de digestion peut provoquer des selles graisseuses et des carences.
+EXPLICATION_A: Elle est un examen orienté de la fiche.
+EXPLICATION_B: Les données doivent être confrontées au contexte et aux autres causes.
+EXPLICATION_C: Elle peut altérer la fonction exocrine.
+EXPLICATION_D: La maldigestion des lipides entraîne une stéatorrhée.
+EXPLICATION_E: La première concerne la digestion avant absorption.
+
+---
+ID: 285-043
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Conséquences des pertes
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 71 ans a une maladie pancréatique avec selles graisseuses et élastase très basse ; les autres causes principales ont été évaluées. Quelles propositions concernant les carences sont exactes ?
+A: F | Des apports déclarés normaux garantissent l’absorption effective de tous les nutriments.
+B: V | Une carence en vitamine K peut contribuer à des saignements.
+C: F | Toute carence vitaminique permet d’identifier l’organe responsable sans bilan.
+D: V | Des déficits en calcium ou magnésium peuvent participer à des crampes ou tétanie.
+E: V | Une perte de poids malgré des apports conservés fait discuter une mauvaise assimilation.
+JUSTIFICATION: Le retentissement peut être nutritionnel, électrolytique et vitaminique.
+EXPLICATION_A: Une maladie digestive peut compromettre l’assimilation.
+EXPLICATION_B: La fiche cite les hématomes et troubles de coagulation.
+EXPLICATION_C: Plusieurs causes sont possibles.
+EXPLICATION_D: Ils font partie des conséquences décrites.
+EXPLICATION_E: Elle doit être documentée et expliquée.
+
+---
+ID: 285-044
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 71 ans a une maladie pancréatique avec selles graisseuses et élastase très basse ; les autres causes principales ont été évaluées. Quelles propositions guident l’évaluation initiale ?
+A: F | L’absence de fièvre exclut toute cause organique chronique.
+B: V | Le poids et les signes de dénutrition doivent être évalués.
+C: V | Le toucher rectal peut rechercher un fécalome.
+D: V | Les médicaments pris dans les mois précédents doivent être revus.
+E: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_B: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_C: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_D: Une cause iatrogène peut être retardée.
+EXPLICATION_E: Elle fait rechercher une composante organique.
+
+---
+ID: 285-045
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 71 ans a une maladie pancréatique avec selles graisseuses et élastase très basse ; les autres causes principales ont été évaluées. Quelles propositions concernant les examens sont exactes ?
+A: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+B: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+C: V | La TSH peut rechercher une cause motrice endocrinienne.
+D: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+E: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Plusieurs mécanismes peuvent produire une perte de graisses.
+EXPLICATION_B: Elle contribue au bilan de maldigestion.
+EXPLICATION_C: L’hyperthyroïdie accélère le transit.
+EXPLICATION_D: Une colite microscopique peut être invisible à l’endoscopie.
+EXPLICATION_E: L’exploration dépend de la question diagnostique.
+
+---
+ID: 285-046
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 59 ans présente une diarrhée chronique graisseuse et une insuffisance pancréatique exocrine documentée, sans entéropathie cœliaque retenue. Quel diagnostic principal est le plus probable ?
+A: F | Une fausse diarrhée sur rétention fécale.
+B: V | Une insuffisance pancréatique exocrine.
+C: F | Une colite microscopique.
+D: F | Une diarrhée à prédominance osmotique.
+E: F | Une diarrhée à prédominance motrice.
+JUSTIFICATION: La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_A: La rétention peut produire une présentation trompeuse. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_B: La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_C: La colite microscopique est définie histologiquement. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_D: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+EXPLICATION_E: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+
+---
+ID: 285-047
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Maldigestion
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 59 ans présente une diarrhée chronique graisseuse et une insuffisance pancréatique exocrine documentée, sans entéropathie cœliaque retenue. Quelles propositions soutiennent une origine pancréatique exocrine ?
+A: V | Une pancréatite chronique constitue un contexte possible.
+B: V | Une élastase fécale très basse soutient l’hypothèse.
+C: V | Des selles graisseuses volumineuses sont compatibles.
+D: F | Une stéatorrhée prouve une inflammation colique isolée.
+E: F | La maldigestion et la malabsorption entérocytaire sont un mécanisme identique.
+JUSTIFICATION: Un défaut de digestion peut provoquer des selles graisseuses et des carences.
+EXPLICATION_A: Elle peut altérer la fonction exocrine.
+EXPLICATION_B: Elle est un examen orienté de la fiche.
+EXPLICATION_C: La maldigestion des lipides entraîne une stéatorrhée.
+EXPLICATION_D: Le grêle et la digestion doivent être évalués.
+EXPLICATION_E: La première concerne la digestion avant absorption.
+
+---
+ID: 285-048
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Conséquences des pertes
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 59 ans présente une diarrhée chronique graisseuse et une insuffisance pancréatique exocrine documentée, sans entéropathie cœliaque retenue. Quelles propositions concernant les carences sont exactes ?
+A: V | Une carence en vitamine K peut contribuer à des saignements.
+B: V | Une perte de poids malgré des apports conservés fait discuter une mauvaise assimilation.
+C: F | Des apports déclarés normaux garantissent l’absorption effective de tous les nutriments.
+D: F | L’absence de perte de poids exclut toute forme débutante de malabsorption.
+E: V | Des déficits en calcium ou magnésium peuvent participer à des crampes ou tétanie.
+JUSTIFICATION: Le retentissement peut être nutritionnel, électrolytique et vitaminique.
+EXPLICATION_A: La fiche cite les hématomes et troubles de coagulation.
+EXPLICATION_B: Elle doit être documentée et expliquée.
+EXPLICATION_C: Une maladie digestive peut compromettre l’assimilation.
+EXPLICATION_D: Des formes peu symptomatiques existent.
+EXPLICATION_E: Ils font partie des conséquences décrites.
+
+---
+ID: 285-049
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 59 ans présente une diarrhée chronique graisseuse et une insuffisance pancréatique exocrine documentée, sans entéropathie cœliaque retenue. Quelles propositions guident l’évaluation initiale ?
+A: F | L’absence de fièvre exclut toute cause organique chronique.
+B: V | Les médicaments pris dans les mois précédents doivent être revus.
+C: V | Le poids et les signes de dénutrition doivent être évalués.
+D: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+E: V | Le toucher rectal peut rechercher un fécalome.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_B: Une cause iatrogène peut être retardée.
+EXPLICATION_C: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_D: Une polyexonération peut avoir un poids et une consistance normaux.
+EXPLICATION_E: Une fausse diarrhée ne doit pas être méconnue.
+
+---
+ID: 285-050
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Maldigestion pancréatique · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 59 ans présente une diarrhée chronique graisseuse et une insuffisance pancréatique exocrine documentée, sans entéropathie cœliaque retenue. Quelles propositions concernant les examens sont exactes ?
+A: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+B: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+C: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+D: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+E: V | La TSH peut rechercher une cause motrice endocrinienne.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Le diagnostic est histologique.
+EXPLICATION_B: L’exploration dépend de la question diagnostique.
+EXPLICATION_C: Une colite microscopique peut être invisible à l’endoscopie.
+EXPLICATION_D: Elle contribue au bilan de maldigestion.
+EXPLICATION_E: L’hyperthyroïdie accélère le transit.
+
+---
+ID: 285-051
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 35 ans a une diarrhée chronique après produits lactés, régressant à leur éviction ; le bilan retient un déficit en lactase sans signe d’alarme. Quel diagnostic principal est le plus probable ?
+A: V | Une diarrhée à prédominance osmotique.
+B: F | Une maladie cœliaque.
+C: F | Une insuffisance pancréatique exocrine.
+D: F | Une fausse diarrhée sur rétention fécale.
+E: F | Une colite microscopique.
+JUSTIFICATION: La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_A: La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_B: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_C: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_D: La rétention peut produire une présentation trompeuse. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_E: La colite microscopique est définie histologiquement. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+
+---
+ID: 285-052
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Charge osmotique
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 35 ans a une diarrhée chronique après produits lactés, régressant à leur éviction ; le bilan retient un déficit en lactase sans signe d’alarme. Quelles propositions interprètent le mécanisme osmotique ?
+A: V | Des polyols ou certains laxatifs peuvent contribuer au mécanisme.
+B: F | Une diarrhée osmotique doit persister de façon identique malgré suppression de toute charge en cause.
+C: V | Le lactose mal digéré peut provoquer une diarrhée osmotique.
+D: F | Les produits sans sucre ne peuvent pas contenir de substances osmotiques.
+E: F | Un effet lié au lactose prouve une maladie cœliaque.
+JUSTIFICATION: Des substances mal absorbées retiennent l’eau dans la lumière digestive.
+EXPLICATION_A: Il faut rechercher les consommations réelles.
+EXPLICATION_B: L’éviction peut réduire les symptômes.
+EXPLICATION_C: La fiche cite le déficit en lactase.
+EXPLICATION_D: Certains polyols peuvent en apporter.
+EXPLICATION_E: Le mécanisme doit être exploré sans cette assimilation automatique.
+
+---
+ID: 285-053
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 35 ans a une diarrhée chronique après produits lactés, régressant à leur éviction ; le bilan retient un déficit en lactase sans signe d’alarme. Quelles propositions concernant la démarche sont exactes ?
+A: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+B: F | Un médicament pris depuis longtemps ne peut jamais provoquer de diarrhée retardée.
+C: V | Une carence ou une perte de poids nouvelle peut conduire à élargir le bilan.
+D: V | Des causes peuvent associer plusieurs mécanismes.
+E: F | L’amélioration symptomatique prouve que tous les diagnostics différentiels ont été exclus.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: Le tableau doit être réévalué.
+EXPLICATION_B: La fiche cite des effets parfois à distance.
+EXPLICATION_C: Le mécanisme initial ne doit pas être figé.
+EXPLICATION_D: La classification osmotique, motrice ou sécrétoire est schématique.
+EXPLICATION_E: La réponse n’est pas toujours spécifique.
+
+---
+ID: 285-054
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 35 ans a une diarrhée chronique après produits lactés, régressant à leur éviction ; le bilan retient un déficit en lactase sans signe d’alarme. Quelles propositions guident l’évaluation initiale ?
+A: F | L’absence de fièvre exclut toute cause organique chronique.
+B: V | Le poids et les signes de dénutrition doivent être évalués.
+C: V | Le toucher rectal peut rechercher un fécalome.
+D: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+E: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_B: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_C: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_D: Elle fait rechercher une composante organique.
+EXPLICATION_E: Une polyexonération peut avoir un poids et une consistance normaux.
+
+---
+ID: 285-055
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 35 ans a une diarrhée chronique après produits lactés, régressant à leur éviction ; le bilan retient un déficit en lactase sans signe d’alarme. Quelles propositions concernant les examens sont exactes ?
+A: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+B: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+C: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+D: V | La TSH peut rechercher une cause motrice endocrinienne.
+E: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Le diagnostic est histologique.
+EXPLICATION_B: L’exploration dépend de la question diagnostique.
+EXPLICATION_C: Elle contribue au bilan de maldigestion.
+EXPLICATION_D: L’hyperthyroïdie accélère le transit.
+EXPLICATION_E: Plusieurs mécanismes peuvent produire une perte de graisses.
+
+---
+ID: 285-056
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 44 ans consomme de nombreux produits riches en polyols ; les selles liquides régressent quand cette consommation cesse. Quel diagnostic principal est le plus probable ?
+A: F | Une fausse diarrhée sur rétention fécale.
+B: V | Une diarrhée à prédominance osmotique.
+C: F | Une diarrhée à prédominance motrice.
+D: F | Une insuffisance pancréatique exocrine.
+E: F | Une maladie cœliaque.
+JUSTIFICATION: La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_A: La rétention peut produire une présentation trompeuse. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_B: La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_C: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_D: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_E: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+
+---
+ID: 285-057
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Charge osmotique
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 44 ans consomme de nombreux produits riches en polyols ; les selles liquides régressent quand cette consommation cesse. Quelles propositions interprètent le mécanisme osmotique ?
+A: F | Une diarrhée osmotique doit persister de façon identique malgré suppression de toute charge en cause.
+B: V | Une relation nette à une ingestion et une régression à l’éviction soutiennent l’hypothèse.
+C: F | Les produits sans sucre ne peuvent pas contenir de substances osmotiques.
+D: V | Des polyols ou certains laxatifs peuvent contribuer au mécanisme.
+E: F | Un effet lié au lactose prouve une maladie cœliaque.
+JUSTIFICATION: Des substances mal absorbées retiennent l’eau dans la lumière digestive.
+EXPLICATION_A: L’éviction peut réduire les symptômes.
+EXPLICATION_B: L’interrogatoire alimentaire est utile.
+EXPLICATION_C: Certains polyols peuvent en apporter.
+EXPLICATION_D: Il faut rechercher les consommations réelles.
+EXPLICATION_E: Le mécanisme doit être exploré sans cette assimilation automatique.
+
+---
+ID: 285-058
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 44 ans consomme de nombreux produits riches en polyols ; les selles liquides régressent quand cette consommation cesse. Quelles propositions concernant la démarche sont exactes ?
+A: F | Un médicament pris depuis longtemps ne peut jamais provoquer de diarrhée retardée.
+B: F | L’amélioration symptomatique prouve que tous les diagnostics différentiels ont été exclus.
+C: V | Des causes peuvent associer plusieurs mécanismes.
+D: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+E: V | Un médicament suspect doit être réévalué avec ses indications.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: La fiche cite des effets parfois à distance.
+EXPLICATION_B: La réponse n’est pas toujours spécifique.
+EXPLICATION_C: La classification osmotique, motrice ou sécrétoire est schématique.
+EXPLICATION_D: Le tableau doit être réévalué.
+EXPLICATION_E: L’imputabilité nécessite une analyse raisonnée.
+
+---
+ID: 285-059
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 44 ans consomme de nombreux produits riches en polyols ; les selles liquides régressent quand cette consommation cesse. Quelles propositions guident l’évaluation initiale ?
+A: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+B: V | Les médicaments pris dans les mois précédents doivent être revus.
+C: V | Le toucher rectal peut rechercher un fécalome.
+D: F | L’absence de fièvre exclut toute cause organique chronique.
+E: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Une polyexonération peut avoir un poids et une consistance normaux.
+EXPLICATION_B: Une cause iatrogène peut être retardée.
+EXPLICATION_C: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_D: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_E: Elle fait rechercher une composante organique.
+
+---
+ID: 285-060
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 44 ans consomme de nombreux produits riches en polyols ; les selles liquides régressent quand cette consommation cesse. Quelles propositions concernant les examens sont exactes ?
+A: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+B: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+C: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+D: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+E: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: L’exploration dépend de la question diagnostique.
+EXPLICATION_B: Une colite microscopique peut être invisible à l’endoscopie.
+EXPLICATION_C: Le diagnostic est histologique.
+EXPLICATION_D: Plusieurs mécanismes peuvent produire une perte de graisses.
+EXPLICATION_E: Elle contribue au bilan de maldigestion.
+
+---
+ID: 285-061
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 57 ans prend régulièrement du magnésium ; la diarrhée est corrélée aux prises et disparaît à l’arrêt encadré. Quel diagnostic principal est le plus probable ?
+A: F | Une diarrhée à prédominance motrice.
+B: F | Une insuffisance pancréatique exocrine.
+C: V | Une diarrhée à prédominance osmotique.
+D: F | Une maladie cœliaque.
+E: F | Une colite microscopique.
+JUSTIFICATION: La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_A: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_B: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_C: La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_D: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_E: La colite microscopique est définie histologiquement. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+
+---
+ID: 285-062
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Charge osmotique
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 57 ans prend régulièrement du magnésium ; la diarrhée est corrélée aux prises et disparaît à l’arrêt encadré. Quelles propositions interprètent le mécanisme osmotique ?
+A: F | Un effet lié au lactose prouve une maladie cœliaque.
+B: F | Une diarrhée osmotique doit persister de façon identique malgré suppression de toute charge en cause.
+C: F | Les produits sans sucre ne peuvent pas contenir de substances osmotiques.
+D: V | Une relation nette à une ingestion et une régression à l’éviction soutiennent l’hypothèse.
+E: V | Le lactose mal digéré peut provoquer une diarrhée osmotique.
+JUSTIFICATION: Des substances mal absorbées retiennent l’eau dans la lumière digestive.
+EXPLICATION_A: Le mécanisme doit être exploré sans cette assimilation automatique.
+EXPLICATION_B: L’éviction peut réduire les symptômes.
+EXPLICATION_C: Certains polyols peuvent en apporter.
+EXPLICATION_D: L’interrogatoire alimentaire est utile.
+EXPLICATION_E: La fiche cite le déficit en lactase.
+
+---
+ID: 285-063
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 57 ans prend régulièrement du magnésium ; la diarrhée est corrélée aux prises et disparaît à l’arrêt encadré. Quelles propositions concernant la démarche sont exactes ?
+A: V | Un médicament suspect doit être réévalué avec ses indications.
+B: F | L’amélioration symptomatique prouve que tous les diagnostics différentiels ont été exclus.
+C: F | Un médicament pris depuis longtemps ne peut jamais provoquer de diarrhée retardée.
+D: V | Une carence ou une perte de poids nouvelle peut conduire à élargir le bilan.
+E: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: L’imputabilité nécessite une analyse raisonnée.
+EXPLICATION_B: La réponse n’est pas toujours spécifique.
+EXPLICATION_C: La fiche cite des effets parfois à distance.
+EXPLICATION_D: Le mécanisme initial ne doit pas être figé.
+EXPLICATION_E: Le tableau doit être réévalué.
+
+---
+ID: 285-064
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 57 ans prend régulièrement du magnésium ; la diarrhée est corrélée aux prises et disparaît à l’arrêt encadré. Quelles propositions guident l’évaluation initiale ?
+A: V | Les médicaments pris dans les mois précédents doivent être revus.
+B: F | L’absence de fièvre exclut toute cause organique chronique.
+C: V | Le poids et les signes de dénutrition doivent être évalués.
+D: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+E: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Une cause iatrogène peut être retardée.
+EXPLICATION_B: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_C: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_D: Une polyexonération peut avoir un poids et une consistance normaux.
+EXPLICATION_E: Elle fait rechercher une composante organique.
+
+---
+ID: 285-065
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 57 ans prend régulièrement du magnésium ; la diarrhée est corrélée aux prises et disparaît à l’arrêt encadré. Quelles propositions concernant les examens sont exactes ?
+A: V | La TSH peut rechercher une cause motrice endocrinienne.
+B: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+C: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+D: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+E: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: L’hyperthyroïdie accélère le transit.
+EXPLICATION_B: Le diagnostic est histologique.
+EXPLICATION_C: Une colite microscopique peut être invisible à l’endoscopie.
+EXPLICATION_D: L’exploration dépend de la question diagnostique.
+EXPLICATION_E: Plusieurs mécanismes peuvent produire une perte de graisses.
+
+---
+ID: 285-066
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 39 ans prend du lactulose au long cours et développe des selles liquides liées aux prises ; le mécanisme osmotique est retenu. Quel diagnostic principal est le plus probable ?
+A: F | Une colite microscopique.
+B: F | Une diarrhée à prédominance motrice.
+C: V | Une diarrhée à prédominance osmotique.
+D: F | Une insuffisance pancréatique exocrine.
+E: F | Une fausse diarrhée sur rétention fécale.
+JUSTIFICATION: La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_A: La colite microscopique est définie histologiquement. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_B: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_C: La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_D: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_E: La rétention peut produire une présentation trompeuse. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+
+---
+ID: 285-067
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Charge osmotique
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 39 ans prend du lactulose au long cours et développe des selles liquides liées aux prises ; le mécanisme osmotique est retenu. Quelles propositions interprètent le mécanisme osmotique ?
+A: V | Des polyols ou certains laxatifs peuvent contribuer au mécanisme.
+B: V | Le lactose mal digéré peut provoquer une diarrhée osmotique.
+C: F | Les produits sans sucre ne peuvent pas contenir de substances osmotiques.
+D: V | Une relation nette à une ingestion et une régression à l’éviction soutiennent l’hypothèse.
+E: F | Un effet lié au lactose prouve une maladie cœliaque.
+JUSTIFICATION: Des substances mal absorbées retiennent l’eau dans la lumière digestive.
+EXPLICATION_A: Il faut rechercher les consommations réelles.
+EXPLICATION_B: La fiche cite le déficit en lactase.
+EXPLICATION_C: Certains polyols peuvent en apporter.
+EXPLICATION_D: L’interrogatoire alimentaire est utile.
+EXPLICATION_E: Le mécanisme doit être exploré sans cette assimilation automatique.
+
+---
+ID: 285-068
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 39 ans prend du lactulose au long cours et développe des selles liquides liées aux prises ; le mécanisme osmotique est retenu. Quelles propositions concernant la démarche sont exactes ?
+A: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+B: V | Une carence ou une perte de poids nouvelle peut conduire à élargir le bilan.
+C: V | Un médicament suspect doit être réévalué avec ses indications.
+D: V | Des causes peuvent associer plusieurs mécanismes.
+E: F | L’amélioration symptomatique prouve que tous les diagnostics différentiels ont été exclus.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: Le tableau doit être réévalué.
+EXPLICATION_B: Le mécanisme initial ne doit pas être figé.
+EXPLICATION_C: L’imputabilité nécessite une analyse raisonnée.
+EXPLICATION_D: La classification osmotique, motrice ou sécrétoire est schématique.
+EXPLICATION_E: La réponse n’est pas toujours spécifique.
+
+---
+ID: 285-069
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 39 ans prend du lactulose au long cours et développe des selles liquides liées aux prises ; le mécanisme osmotique est retenu. Quelles propositions guident l’évaluation initiale ?
+A: V | Le toucher rectal peut rechercher un fécalome.
+B: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+C: V | Le poids et les signes de dénutrition doivent être évalués.
+D: V | Les médicaments pris dans les mois précédents doivent être revus.
+E: F | L’absence de fièvre exclut toute cause organique chronique.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_B: Elle fait rechercher une composante organique.
+EXPLICATION_C: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_D: Une cause iatrogène peut être retardée.
+EXPLICATION_E: Plusieurs causes ne sont pas fébriles.
+
+---
+ID: 285-070
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 39 ans prend du lactulose au long cours et développe des selles liquides liées aux prises ; le mécanisme osmotique est retenu. Quelles propositions concernant les examens sont exactes ?
+A: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+B: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+C: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+D: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+E: V | La TSH peut rechercher une cause motrice endocrinienne.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: L’exploration dépend de la question diagnostique.
+EXPLICATION_B: Elle contribue au bilan de maldigestion.
+EXPLICATION_C: Une colite microscopique peut être invisible à l’endoscopie.
+EXPLICATION_D: Plusieurs mécanismes peuvent produire une perte de graisses.
+EXPLICATION_E: L’hyperthyroïdie accélère le transit.
+
+---
+ID: 285-071
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 48 ans a une diarrhée liée au lactose, confirmée par un bilan orienté et l’éviction, sans malabsorption diffuse. Quel diagnostic principal est le plus probable ?
+A: V | Une diarrhée à prédominance osmotique.
+B: F | Une fausse diarrhée sur rétention fécale.
+C: F | Une colite microscopique.
+D: F | Une maladie cœliaque.
+E: F | Une diarrhée à prédominance motrice.
+JUSTIFICATION: La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_A: La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_B: La rétention peut produire une présentation trompeuse. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_C: La colite microscopique est définie histologiquement. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_D: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+EXPLICATION_E: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : La relation à une charge osmotique et sa régression à l’éviction soutiennent le mécanisme.
+
+---
+ID: 285-072
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Charge osmotique
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 48 ans a une diarrhée liée au lactose, confirmée par un bilan orienté et l’éviction, sans malabsorption diffuse. Quelles propositions interprètent le mécanisme osmotique ?
+A: V | Le lactose mal digéré peut provoquer une diarrhée osmotique.
+B: F | Les produits sans sucre ne peuvent pas contenir de substances osmotiques.
+C: V | Une relation nette à une ingestion et une régression à l’éviction soutiennent l’hypothèse.
+D: F | Une diarrhée osmotique doit persister de façon identique malgré suppression de toute charge en cause.
+E: V | Des polyols ou certains laxatifs peuvent contribuer au mécanisme.
+JUSTIFICATION: Des substances mal absorbées retiennent l’eau dans la lumière digestive.
+EXPLICATION_A: La fiche cite le déficit en lactase.
+EXPLICATION_B: Certains polyols peuvent en apporter.
+EXPLICATION_C: L’interrogatoire alimentaire est utile.
+EXPLICATION_D: L’éviction peut réduire les symptômes.
+EXPLICATION_E: Il faut rechercher les consommations réelles.
+
+---
+ID: 285-073
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 48 ans a une diarrhée liée au lactose, confirmée par un bilan orienté et l’éviction, sans malabsorption diffuse. Quelles propositions concernant la démarche sont exactes ?
+A: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+B: V | Un médicament suspect doit être réévalué avec ses indications.
+C: F | Un médicament pris depuis longtemps ne peut jamais provoquer de diarrhée retardée.
+D: V | Une carence ou une perte de poids nouvelle peut conduire à élargir le bilan.
+E: V | Des causes peuvent associer plusieurs mécanismes.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: Le tableau doit être réévalué.
+EXPLICATION_B: L’imputabilité nécessite une analyse raisonnée.
+EXPLICATION_C: La fiche cite des effets parfois à distance.
+EXPLICATION_D: Le mécanisme initial ne doit pas être figé.
+EXPLICATION_E: La classification osmotique, motrice ou sécrétoire est schématique.
+
+---
+ID: 285-074
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 48 ans a une diarrhée liée au lactose, confirmée par un bilan orienté et l’éviction, sans malabsorption diffuse. Quelles propositions guident l’évaluation initiale ?
+A: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+B: V | Les médicaments pris dans les mois précédents doivent être revus.
+C: V | Le poids et les signes de dénutrition doivent être évalués.
+D: F | L’absence de fièvre exclut toute cause organique chronique.
+E: V | Le toucher rectal peut rechercher un fécalome.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Une polyexonération peut avoir un poids et une consistance normaux.
+EXPLICATION_B: Une cause iatrogène peut être retardée.
+EXPLICATION_C: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_D: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_E: Une fausse diarrhée ne doit pas être méconnue.
+
+---
+ID: 285-075
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Charge mal absorbée · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 48 ans a une diarrhée liée au lactose, confirmée par un bilan orienté et l’éviction, sans malabsorption diffuse. Quelles propositions concernant les examens sont exactes ?
+A: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+B: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+C: V | La TSH peut rechercher une cause motrice endocrinienne.
+D: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+E: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Le diagnostic est histologique.
+EXPLICATION_B: Elle contribue au bilan de maldigestion.
+EXPLICATION_C: L’hyperthyroïdie accélère le transit.
+EXPLICATION_D: L’exploration dépend de la question diagnostique.
+EXPLICATION_E: Une colite microscopique peut être invisible à l’endoscopie.
+
+---
+ID: 285-076
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 38 ans a des selles liquides en salves au réveil et après repas, sans carence ; le bilan retient un transit accéléré après recherche de causes organiques. Quel diagnostic principal est le plus probable ?
+A: F | Une diarrhée à prédominance osmotique.
+B: V | Une diarrhée à prédominance motrice.
+C: F | Une maladie cœliaque.
+D: F | Une fausse diarrhée sur rétention fécale.
+E: F | Une insuffisance pancréatique exocrine.
+JUSTIFICATION: Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_A: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_B: Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_C: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_D: La rétention peut produire une présentation trompeuse. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_E: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+
+---
+ID: 285-077
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Accélération du transit
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 38 ans a des selles liquides en salves au réveil et après repas, sans carence ; le bilan retient un transit accéléré après recherche de causes organiques. Quelles propositions sont compatibles avec un mécanisme moteur ?
+A: F | Une réponse partielle au ralentisseur identifie l’étiologie avec certitude.
+B: V | Une hyperthyroïdie peut être une cause organique motrice.
+C: V | Des débris alimentaires peuvent être observés lors d’un transit accéléré.
+D: F | Des selles postprandiales suffisent à exclure toute cause organique.
+E: F | Toute diarrhée motrice est nécessairement fonctionnelle.
+JUSTIFICATION: Des selles groupées au réveil et après repas orientent sans suffire à conclure à une cause fonctionnelle.
+EXPLICATION_A: Elle n’est pas spécifique.
+EXPLICATION_B: La TSH contribue au bilan.
+EXPLICATION_C: Ils ne prouvent pas à eux seuls une malabsorption spécifique.
+EXPLICATION_D: Le terrain et le retentissement doivent être analysés.
+EXPLICATION_E: Une cause endocrinienne peut exister.
+
+---
+ID: 285-078
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 38 ans a des selles liquides en salves au réveil et après repas, sans carence ; le bilan retient un transit accéléré après recherche de causes organiques. Quelles propositions concernant la démarche sont exactes ?
+A: V | Des causes peuvent associer plusieurs mécanismes.
+B: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+C: F | L’amélioration symptomatique prouve que tous les diagnostics différentiels ont été exclus.
+D: V | Une carence ou une perte de poids nouvelle peut conduire à élargir le bilan.
+E: F | Un médicament pris depuis longtemps ne peut jamais provoquer de diarrhée retardée.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: La classification osmotique, motrice ou sécrétoire est schématique.
+EXPLICATION_B: Le tableau doit être réévalué.
+EXPLICATION_C: La réponse n’est pas toujours spécifique.
+EXPLICATION_D: Le mécanisme initial ne doit pas être figé.
+EXPLICATION_E: La fiche cite des effets parfois à distance.
+
+---
+ID: 285-079
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 38 ans a des selles liquides en salves au réveil et après repas, sans carence ; le bilan retient un transit accéléré après recherche de causes organiques. Quelles propositions guident l’évaluation initiale ?
+A: V | Le toucher rectal peut rechercher un fécalome.
+B: V | Le poids et les signes de dénutrition doivent être évalués.
+C: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+D: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+E: F | L’absence de fièvre exclut toute cause organique chronique.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_B: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_C: Elle fait rechercher une composante organique.
+EXPLICATION_D: Une polyexonération peut avoir un poids et une consistance normaux.
+EXPLICATION_E: Plusieurs causes ne sont pas fébriles.
+
+---
+ID: 285-080
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 38 ans a des selles liquides en salves au réveil et après repas, sans carence ; le bilan retient un transit accéléré après recherche de causes organiques. Quelles propositions concernant les examens sont exactes ?
+A: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+B: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+C: V | La TSH peut rechercher une cause motrice endocrinienne.
+D: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+E: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Elle contribue au bilan de maldigestion.
+EXPLICATION_B: Le diagnostic est histologique.
+EXPLICATION_C: L’hyperthyroïdie accélère le transit.
+EXPLICATION_D: Plusieurs mécanismes peuvent produire une perte de graisses.
+EXPLICATION_E: L’exploration dépend de la question diagnostique.
+
+---
+ID: 285-081
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 46 ans hyperthyroïdienne a une polyexonération liquide postprandiale et un transit accéléré, sans maldigestion dominante. Quel diagnostic principal est le plus probable ?
+A: F | Une insuffisance pancréatique exocrine.
+B: F | Une diarrhée à prédominance osmotique.
+C: V | Une diarrhée à prédominance motrice.
+D: F | Une colite microscopique.
+E: F | Une maladie cœliaque.
+JUSTIFICATION: Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_A: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_B: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_C: Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_D: La colite microscopique est définie histologiquement. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_E: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+
+---
+ID: 285-082
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Accélération du transit
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 46 ans hyperthyroïdienne a une polyexonération liquide postprandiale et un transit accéléré, sans maldigestion dominante. Quelles propositions sont compatibles avec un mécanisme moteur ?
+A: V | Des selles impérieuses groupées après les repas sont compatibles.
+B: F | Une réponse partielle au ralentisseur identifie l’étiologie avec certitude.
+C: F | Toute diarrhée motrice est nécessairement fonctionnelle.
+D: F | Des selles postprandiales suffisent à exclure toute cause organique.
+E: V | Des débris alimentaires peuvent être observés lors d’un transit accéléré.
+JUSTIFICATION: Des selles groupées au réveil et après repas orientent sans suffire à conclure à une cause fonctionnelle.
+EXPLICATION_A: La fiche décrit ce profil.
+EXPLICATION_B: Elle n’est pas spécifique.
+EXPLICATION_C: Une cause endocrinienne peut exister.
+EXPLICATION_D: Le terrain et le retentissement doivent être analysés.
+EXPLICATION_E: Ils ne prouvent pas à eux seuls une malabsorption spécifique.
+
+---
+ID: 285-083
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 46 ans hyperthyroïdienne a une polyexonération liquide postprandiale et un transit accéléré, sans maldigestion dominante. Quelles propositions concernant la démarche sont exactes ?
+A: F | Un médicament pris depuis longtemps ne peut jamais provoquer de diarrhée retardée.
+B: F | L’amélioration symptomatique prouve que tous les diagnostics différentiels ont été exclus.
+C: V | Des causes peuvent associer plusieurs mécanismes.
+D: V | Un médicament suspect doit être réévalué avec ses indications.
+E: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: La fiche cite des effets parfois à distance.
+EXPLICATION_B: La réponse n’est pas toujours spécifique.
+EXPLICATION_C: La classification osmotique, motrice ou sécrétoire est schématique.
+EXPLICATION_D: L’imputabilité nécessite une analyse raisonnée.
+EXPLICATION_E: Le tableau doit être réévalué.
+
+---
+ID: 285-084
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 46 ans hyperthyroïdienne a une polyexonération liquide postprandiale et un transit accéléré, sans maldigestion dominante. Quelles propositions guident l’évaluation initiale ?
+A: F | L’absence de fièvre exclut toute cause organique chronique.
+B: V | Le toucher rectal peut rechercher un fécalome.
+C: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+D: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+E: V | Les médicaments pris dans les mois précédents doivent être revus.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_B: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_C: Une polyexonération peut avoir un poids et une consistance normaux.
+EXPLICATION_D: Elle fait rechercher une composante organique.
+EXPLICATION_E: Une cause iatrogène peut être retardée.
+
+---
+ID: 285-085
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 46 ans hyperthyroïdienne a une polyexonération liquide postprandiale et un transit accéléré, sans maldigestion dominante. Quelles propositions concernant les examens sont exactes ?
+A: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+B: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+C: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+D: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+E: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Le diagnostic est histologique.
+EXPLICATION_B: L’exploration dépend de la question diagnostique.
+EXPLICATION_C: Elle contribue au bilan de maldigestion.
+EXPLICATION_D: Une colite microscopique peut être invisible à l’endoscopie.
+EXPLICATION_E: Plusieurs mécanismes peuvent produire une perte de graisses.
+
+---
+ID: 285-086
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 51 ans a une diarrhée motrice documentée avec selles impérieuses de faible volume au réveil ; le bilan étiologique est orienté. Quel diagnostic principal est le plus probable ?
+A: V | Une diarrhée à prédominance motrice.
+B: F | Une fausse diarrhée sur rétention fécale.
+C: F | Une colite microscopique.
+D: F | Une diarrhée à prédominance osmotique.
+E: F | Une insuffisance pancréatique exocrine.
+JUSTIFICATION: Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_A: Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_B: La rétention peut produire une présentation trompeuse. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_C: La colite microscopique est définie histologiquement. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_D: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_E: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+
+---
+ID: 285-087
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Accélération du transit
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 51 ans a une diarrhée motrice documentée avec selles impérieuses de faible volume au réveil ; le bilan étiologique est orienté. Quelles propositions sont compatibles avec un mécanisme moteur ?
+A: V | Des selles impérieuses groupées après les repas sont compatibles.
+B: F | Une réponse partielle au ralentisseur identifie l’étiologie avec certitude.
+C: V | Une hyperthyroïdie peut être une cause organique motrice.
+D: F | Toute diarrhée motrice est nécessairement fonctionnelle.
+E: F | Des selles postprandiales suffisent à exclure toute cause organique.
+JUSTIFICATION: Des selles groupées au réveil et après repas orientent sans suffire à conclure à une cause fonctionnelle.
+EXPLICATION_A: La fiche décrit ce profil.
+EXPLICATION_B: Elle n’est pas spécifique.
+EXPLICATION_C: La TSH contribue au bilan.
+EXPLICATION_D: Une cause endocrinienne peut exister.
+EXPLICATION_E: Le terrain et le retentissement doivent être analysés.
+
+---
+ID: 285-088
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 51 ans a une diarrhée motrice documentée avec selles impérieuses de faible volume au réveil ; le bilan étiologique est orienté. Quelles propositions concernant la démarche sont exactes ?
+A: F | L’amélioration symptomatique prouve que tous les diagnostics différentiels ont été exclus.
+B: F | Un médicament pris depuis longtemps ne peut jamais provoquer de diarrhée retardée.
+C: V | Une carence ou une perte de poids nouvelle peut conduire à élargir le bilan.
+D: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+E: V | Un médicament suspect doit être réévalué avec ses indications.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: La réponse n’est pas toujours spécifique.
+EXPLICATION_B: La fiche cite des effets parfois à distance.
+EXPLICATION_C: Le mécanisme initial ne doit pas être figé.
+EXPLICATION_D: Le tableau doit être réévalué.
+EXPLICATION_E: L’imputabilité nécessite une analyse raisonnée.
+
+---
+ID: 285-089
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 51 ans a une diarrhée motrice documentée avec selles impérieuses de faible volume au réveil ; le bilan étiologique est orienté. Quelles propositions guident l’évaluation initiale ?
+A: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+B: V | Le poids et les signes de dénutrition doivent être évalués.
+C: F | L’absence de fièvre exclut toute cause organique chronique.
+D: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+E: V | Les médicaments pris dans les mois précédents doivent être revus.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Une polyexonération peut avoir un poids et une consistance normaux.
+EXPLICATION_B: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_C: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_D: Elle fait rechercher une composante organique.
+EXPLICATION_E: Une cause iatrogène peut être retardée.
+
+---
+ID: 285-090
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 51 ans a une diarrhée motrice documentée avec selles impérieuses de faible volume au réveil ; le bilan étiologique est orienté. Quelles propositions concernant les examens sont exactes ?
+A: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+B: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+C: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+D: V | La TSH peut rechercher une cause motrice endocrinienne.
+E: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: L’exploration dépend de la question diagnostique.
+EXPLICATION_B: Une colite microscopique peut être invisible à l’endoscopie.
+EXPLICATION_C: Le diagnostic est histologique.
+EXPLICATION_D: L’hyperthyroïdie accélère le transit.
+EXPLICATION_E: Plusieurs mécanismes peuvent produire une perte de graisses.
+
+---
+ID: 285-091
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 29 ans a des selles groupées après les repas, sans perte de poids ; un mécanisme moteur est retenu après bilan adapté. Quel diagnostic principal est le plus probable ?
+A: F | Une colite microscopique.
+B: F | Une diarrhée à prédominance osmotique.
+C: V | Une diarrhée à prédominance motrice.
+D: F | Une fausse diarrhée sur rétention fécale.
+E: F | Une maladie cœliaque.
+JUSTIFICATION: Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_A: La colite microscopique est définie histologiquement. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_B: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_C: Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_D: La rétention peut produire une présentation trompeuse. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_E: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+
+---
+ID: 285-092
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Accélération du transit
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 29 ans a des selles groupées après les repas, sans perte de poids ; un mécanisme moteur est retenu après bilan adapté. Quelles propositions sont compatibles avec un mécanisme moteur ?
+A: V | Des débris alimentaires peuvent être observés lors d’un transit accéléré.
+B: F | Des selles postprandiales suffisent à exclure toute cause organique.
+C: V | Une hyperthyroïdie peut être une cause organique motrice.
+D: F | Une réponse partielle au ralentisseur identifie l’étiologie avec certitude.
+E: V | Des selles impérieuses groupées après les repas sont compatibles.
+JUSTIFICATION: Des selles groupées au réveil et après repas orientent sans suffire à conclure à une cause fonctionnelle.
+EXPLICATION_A: Ils ne prouvent pas à eux seuls une malabsorption spécifique.
+EXPLICATION_B: Le terrain et le retentissement doivent être analysés.
+EXPLICATION_C: La TSH contribue au bilan.
+EXPLICATION_D: Elle n’est pas spécifique.
+EXPLICATION_E: La fiche décrit ce profil.
+
+---
+ID: 285-093
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 29 ans a des selles groupées après les repas, sans perte de poids ; un mécanisme moteur est retenu après bilan adapté. Quelles propositions concernant la démarche sont exactes ?
+A: F | L’amélioration symptomatique prouve que tous les diagnostics différentiels ont été exclus.
+B: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+C: V | Un médicament suspect doit être réévalué avec ses indications.
+D: V | Une carence ou une perte de poids nouvelle peut conduire à élargir le bilan.
+E: V | Des causes peuvent associer plusieurs mécanismes.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: La réponse n’est pas toujours spécifique.
+EXPLICATION_B: Le tableau doit être réévalué.
+EXPLICATION_C: L’imputabilité nécessite une analyse raisonnée.
+EXPLICATION_D: Le mécanisme initial ne doit pas être figé.
+EXPLICATION_E: La classification osmotique, motrice ou sécrétoire est schématique.
+
+---
+ID: 285-094
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 29 ans a des selles groupées après les repas, sans perte de poids ; un mécanisme moteur est retenu après bilan adapté. Quelles propositions guident l’évaluation initiale ?
+A: V | Le poids et les signes de dénutrition doivent être évalués.
+B: F | L’absence de fièvre exclut toute cause organique chronique.
+C: V | Les médicaments pris dans les mois précédents doivent être revus.
+D: V | Le toucher rectal peut rechercher un fécalome.
+E: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_B: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_C: Une cause iatrogène peut être retardée.
+EXPLICATION_D: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_E: Elle fait rechercher une composante organique.
+
+---
+ID: 285-095
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 29 ans a des selles groupées après les repas, sans perte de poids ; un mécanisme moteur est retenu après bilan adapté. Quelles propositions concernant les examens sont exactes ?
+A: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+B: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+C: V | La TSH peut rechercher une cause motrice endocrinienne.
+D: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+E: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: L’exploration dépend de la question diagnostique.
+EXPLICATION_B: Elle contribue au bilan de maldigestion.
+EXPLICATION_C: L’hyperthyroïdie accélère le transit.
+EXPLICATION_D: Plusieurs mécanismes peuvent produire une perte de graisses.
+EXPLICATION_E: Une colite microscopique peut être invisible à l’endoscopie.
+
+---
+ID: 285-096
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 42 ans a un transit accéléré avec selles postprandiales et débris alimentaires, sans carence ; l’évaluation retient une diarrhée motrice. Quel diagnostic principal est le plus probable ?
+A: F | Une maladie cœliaque.
+B: F | Une fausse diarrhée sur rétention fécale.
+C: F | Une insuffisance pancréatique exocrine.
+D: F | Une colite microscopique.
+E: V | Une diarrhée à prédominance motrice.
+JUSTIFICATION: Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_A: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_B: La rétention peut produire une présentation trompeuse. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_C: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_D: La colite microscopique est définie histologiquement. Ici : Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+EXPLICATION_E: Le groupement postprandial et matinal avec transit accéléré soutient le mécanisme moteur.
+
+---
+ID: 285-097
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Accélération du transit
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 42 ans a un transit accéléré avec selles postprandiales et débris alimentaires, sans carence ; l’évaluation retient une diarrhée motrice. Quelles propositions sont compatibles avec un mécanisme moteur ?
+A: F | Une réponse partielle au ralentisseur identifie l’étiologie avec certitude.
+B: V | Des débris alimentaires peuvent être observés lors d’un transit accéléré.
+C: F | Toute diarrhée motrice est nécessairement fonctionnelle.
+D: V | Des selles impérieuses groupées après les repas sont compatibles.
+E: V | Une hyperthyroïdie peut être une cause organique motrice.
+JUSTIFICATION: Des selles groupées au réveil et après repas orientent sans suffire à conclure à une cause fonctionnelle.
+EXPLICATION_A: Elle n’est pas spécifique.
+EXPLICATION_B: Ils ne prouvent pas à eux seuls une malabsorption spécifique.
+EXPLICATION_C: Une cause endocrinienne peut exister.
+EXPLICATION_D: La fiche décrit ce profil.
+EXPLICATION_E: La TSH contribue au bilan.
+
+---
+ID: 285-098
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 42 ans a un transit accéléré avec selles postprandiales et débris alimentaires, sans carence ; l’évaluation retient une diarrhée motrice. Quelles propositions concernant la démarche sont exactes ?
+A: V | Des causes peuvent associer plusieurs mécanismes.
+B: V | Une carence ou une perte de poids nouvelle peut conduire à élargir le bilan.
+C: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+D: V | Un médicament suspect doit être réévalué avec ses indications.
+E: F | Un médicament pris depuis longtemps ne peut jamais provoquer de diarrhée retardée.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: La classification osmotique, motrice ou sécrétoire est schématique.
+EXPLICATION_B: Le mécanisme initial ne doit pas être figé.
+EXPLICATION_C: Le tableau doit être réévalué.
+EXPLICATION_D: L’imputabilité nécessite une analyse raisonnée.
+EXPLICATION_E: La fiche cite des effets parfois à distance.
+
+---
+ID: 285-099
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 42 ans a un transit accéléré avec selles postprandiales et débris alimentaires, sans carence ; l’évaluation retient une diarrhée motrice. Quelles propositions guident l’évaluation initiale ?
+A: V | Le poids et les signes de dénutrition doivent être évalués.
+B: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+C: V | Les médicaments pris dans les mois précédents doivent être revus.
+D: F | L’absence de fièvre exclut toute cause organique chronique.
+E: V | Le toucher rectal peut rechercher un fécalome.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_B: Une polyexonération peut avoir un poids et une consistance normaux.
+EXPLICATION_C: Une cause iatrogène peut être retardée.
+EXPLICATION_D: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_E: Une fausse diarrhée ne doit pas être méconnue.
+
+---
+ID: 285-100
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Transit accéléré · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 42 ans a un transit accéléré avec selles postprandiales et débris alimentaires, sans carence ; l’évaluation retient une diarrhée motrice. Quelles propositions concernant les examens sont exactes ?
+A: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+B: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+C: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+D: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+E: V | La TSH peut rechercher une cause motrice endocrinienne.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Le diagnostic est histologique.
+EXPLICATION_B: Elle contribue au bilan de maldigestion.
+EXPLICATION_C: L’exploration dépend de la question diagnostique.
+EXPLICATION_D: Une colite microscopique peut être invisible à l’endoscopie.
+EXPLICATION_E: L’hyperthyroïdie accélère le transit.
+
+---
+ID: 285-101
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Inflammation microscopique · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 65 ans a une diarrhée hydrique chronique et une coloscopie d’aspect normal ; les biopsies documentent une colite collagène. Quel diagnostic principal est le plus probable ?
+A: F | Une maladie cœliaque.
+B: V | Une colite microscopique.
+C: F | Une diarrhée à prédominance motrice.
+D: F | Une diarrhée à prédominance osmotique.
+E: F | Une insuffisance pancréatique exocrine.
+JUSTIFICATION: Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_A: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_B: Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_C: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_D: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_E: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+
+---
+ID: 285-102
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Inflammation microscopique · Diagnostic histologique
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 65 ans a une diarrhée hydrique chronique et une coloscopie d’aspect normal ; les biopsies documentent une colite collagène. Quelles propositions concernant une colite microscopique sont exactes ?
+A: F | L’absence d’ulcération endoscopique interdit de faire des biopsies.
+B: V | Une bande collagène sous-épithéliale épaissie oriente vers la forme collagène.
+C: V | Certains médicaments peuvent favoriser ce tableau.
+D: F | Le caractère hydrique exclut une affection inflammatoire.
+E: F | Toute diarrhée sous médicament prouve une colite microscopique.
+JUSTIFICATION: La muqueuse peut paraître normale ; les biopsies sont déterminantes.
+EXPLICATION_A: Les biopsies peuvent précisément révéler la maladie.
+EXPLICATION_B: La fiche la distingue de la forme lymphocytaire.
+EXPLICATION_C: AINS et certains autres traitements sont cités.
+EXPLICATION_D: Une inflammation microscopique peut produire ce symptôme.
+EXPLICATION_E: Plusieurs mécanismes iatrogènes existent.
+
+---
+ID: 285-103
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Inflammation microscopique · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 65 ans a une diarrhée hydrique chronique et une coloscopie d’aspect normal ; les biopsies documentent une colite collagène. Quelles propositions concernant la démarche sont exactes ?
+A: V | Une carence ou une perte de poids nouvelle peut conduire à élargir le bilan.
+B: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+C: F | L’amélioration symptomatique prouve que tous les diagnostics différentiels ont été exclus.
+D: F | Un médicament pris depuis longtemps ne peut jamais provoquer de diarrhée retardée.
+E: V | Des causes peuvent associer plusieurs mécanismes.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: Le mécanisme initial ne doit pas être figé.
+EXPLICATION_B: Le tableau doit être réévalué.
+EXPLICATION_C: La réponse n’est pas toujours spécifique.
+EXPLICATION_D: La fiche cite des effets parfois à distance.
+EXPLICATION_E: La classification osmotique, motrice ou sécrétoire est schématique.
+
+---
+ID: 285-104
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Inflammation microscopique · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 65 ans a une diarrhée hydrique chronique et une coloscopie d’aspect normal ; les biopsies documentent une colite collagène. Quelles propositions guident l’évaluation initiale ?
+A: V | Le toucher rectal peut rechercher un fécalome.
+B: V | Le poids et les signes de dénutrition doivent être évalués.
+C: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+D: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+E: F | L’absence de fièvre exclut toute cause organique chronique.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_B: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_C: Elle fait rechercher une composante organique.
+EXPLICATION_D: Une polyexonération peut avoir un poids et une consistance normaux.
+EXPLICATION_E: Plusieurs causes ne sont pas fébriles.
+
+---
+ID: 285-105
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Inflammation microscopique · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 65 ans a une diarrhée hydrique chronique et une coloscopie d’aspect normal ; les biopsies documentent une colite collagène. Quelles propositions concernant les examens sont exactes ?
+A: V | La TSH peut rechercher une cause motrice endocrinienne.
+B: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+C: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+D: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+E: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: L’hyperthyroïdie accélère le transit.
+EXPLICATION_B: L’exploration dépend de la question diagnostique.
+EXPLICATION_C: Plusieurs mécanismes peuvent produire une perte de graisses.
+EXPLICATION_D: Le diagnostic est histologique.
+EXPLICATION_E: Elle contribue au bilan de maldigestion.
+
+---
+ID: 285-106
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 69 ans a une diarrhée aqueuse avec biopsies coliques montrant une colite lymphocytaire malgré une muqueuse visuellement normale. Quel diagnostic principal est le plus probable ?
+A: F | Une fausse diarrhée sur rétention fécale.
+B: V | Une colite microscopique.
+C: F | Une insuffisance pancréatique exocrine.
+D: F | Une diarrhée à prédominance motrice.
+E: F | Une diarrhée à prédominance osmotique.
+JUSTIFICATION: Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_A: La rétention peut produire une présentation trompeuse. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_B: Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_C: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_D: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_E: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+
+---
+ID: 285-107
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · Diagnostic histologique
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 69 ans a une diarrhée aqueuse avec biopsies coliques montrant une colite lymphocytaire malgré une muqueuse visuellement normale. Quelles propositions concernant une colite microscopique sont exactes ?
+A: V | Une diarrhée hydrique peut être présente malgré une coloscopie visuellement normale.
+B: F | Le caractère hydrique exclut une affection inflammatoire.
+C: F | L’absence d’ulcération endoscopique interdit de faire des biopsies.
+D: F | Toute diarrhée sous médicament prouve une colite microscopique.
+E: V | Certains médicaments peuvent favoriser ce tableau.
+JUSTIFICATION: La muqueuse peut paraître normale ; les biopsies sont déterminantes.
+EXPLICATION_A: Le diagnostic dépend de l’histologie.
+EXPLICATION_B: Une inflammation microscopique peut produire ce symptôme.
+EXPLICATION_C: Les biopsies peuvent précisément révéler la maladie.
+EXPLICATION_D: Plusieurs mécanismes iatrogènes existent.
+EXPLICATION_E: AINS et certains autres traitements sont cités.
+
+---
+ID: 285-108
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 69 ans a une diarrhée aqueuse avec biopsies coliques montrant une colite lymphocytaire malgré une muqueuse visuellement normale. Quelles propositions concernant la démarche sont exactes ?
+A: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+B: F | Un médicament pris depuis longtemps ne peut jamais provoquer de diarrhée retardée.
+C: F | L’amélioration symptomatique prouve que tous les diagnostics différentiels ont été exclus.
+D: V | Des causes peuvent associer plusieurs mécanismes.
+E: V | Un médicament suspect doit être réévalué avec ses indications.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: Le tableau doit être réévalué.
+EXPLICATION_B: La fiche cite des effets parfois à distance.
+EXPLICATION_C: La réponse n’est pas toujours spécifique.
+EXPLICATION_D: La classification osmotique, motrice ou sécrétoire est schématique.
+EXPLICATION_E: L’imputabilité nécessite une analyse raisonnée.
+
+---
+ID: 285-109
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 69 ans a une diarrhée aqueuse avec biopsies coliques montrant une colite lymphocytaire malgré une muqueuse visuellement normale. Quelles propositions guident l’évaluation initiale ?
+A: F | L’absence de fièvre exclut toute cause organique chronique.
+B: V | Les médicaments pris dans les mois précédents doivent être revus.
+C: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+D: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+E: V | Le toucher rectal peut rechercher un fécalome.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_B: Une cause iatrogène peut être retardée.
+EXPLICATION_C: Elle fait rechercher une composante organique.
+EXPLICATION_D: Une polyexonération peut avoir un poids et une consistance normaux.
+EXPLICATION_E: Une fausse diarrhée ne doit pas être méconnue.
+
+---
+ID: 285-110
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 69 ans a une diarrhée aqueuse avec biopsies coliques montrant une colite lymphocytaire malgré une muqueuse visuellement normale. Quelles propositions concernant les examens sont exactes ?
+A: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+B: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+C: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+D: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+E: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Elle contribue au bilan de maldigestion.
+EXPLICATION_B: Le diagnostic est histologique.
+EXPLICATION_C: Une colite microscopique peut être invisible à l’endoscopie.
+EXPLICATION_D: Plusieurs mécanismes peuvent produire une perte de graisses.
+EXPLICATION_E: L’exploration dépend de la question diagnostique.
+
+---
+ID: 285-111
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 58 ans sous médicament suspect a une diarrhée chronique ; les biopsies confirment une colite microscopique. Quel diagnostic principal est le plus probable ?
+A: V | Une colite microscopique.
+B: F | Une fausse diarrhée sur rétention fécale.
+C: F | Une diarrhée à prédominance motrice.
+D: F | Une diarrhée à prédominance osmotique.
+E: F | Une maladie cœliaque.
+JUSTIFICATION: Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_A: Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_B: La rétention peut produire une présentation trompeuse. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_C: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_D: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_E: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+
+---
+ID: 285-112
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · Diagnostic histologique
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 58 ans sous médicament suspect a une diarrhée chronique ; les biopsies confirment une colite microscopique. Quelles propositions concernant une colite microscopique sont exactes ?
+A: F | Le caractère hydrique exclut une affection inflammatoire.
+B: F | Toute diarrhée sous médicament prouve une colite microscopique.
+C: F | L’absence d’ulcération endoscopique interdit de faire des biopsies.
+D: V | Une diarrhée hydrique peut être présente malgré une coloscopie visuellement normale.
+E: V | Une bande collagène sous-épithéliale épaissie oriente vers la forme collagène.
+JUSTIFICATION: La muqueuse peut paraître normale ; les biopsies sont déterminantes.
+EXPLICATION_A: Une inflammation microscopique peut produire ce symptôme.
+EXPLICATION_B: Plusieurs mécanismes iatrogènes existent.
+EXPLICATION_C: Les biopsies peuvent précisément révéler la maladie.
+EXPLICATION_D: Le diagnostic dépend de l’histologie.
+EXPLICATION_E: La fiche la distingue de la forme lymphocytaire.
+
+---
+ID: 285-113
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 58 ans sous médicament suspect a une diarrhée chronique ; les biopsies confirment une colite microscopique. Quelles propositions concernant la démarche sont exactes ?
+A: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+B: V | Une carence ou une perte de poids nouvelle peut conduire à élargir le bilan.
+C: F | Un médicament pris depuis longtemps ne peut jamais provoquer de diarrhée retardée.
+D: F | L’amélioration symptomatique prouve que tous les diagnostics différentiels ont été exclus.
+E: V | Un médicament suspect doit être réévalué avec ses indications.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: Le tableau doit être réévalué.
+EXPLICATION_B: Le mécanisme initial ne doit pas être figé.
+EXPLICATION_C: La fiche cite des effets parfois à distance.
+EXPLICATION_D: La réponse n’est pas toujours spécifique.
+EXPLICATION_E: L’imputabilité nécessite une analyse raisonnée.
+
+---
+ID: 285-114
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 58 ans sous médicament suspect a une diarrhée chronique ; les biopsies confirment une colite microscopique. Quelles propositions guident l’évaluation initiale ?
+A: V | Les médicaments pris dans les mois précédents doivent être revus.
+B: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+C: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+D: F | L’absence de fièvre exclut toute cause organique chronique.
+E: V | Le poids et les signes de dénutrition doivent être évalués.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Une cause iatrogène peut être retardée.
+EXPLICATION_B: Elle fait rechercher une composante organique.
+EXPLICATION_C: Une polyexonération peut avoir un poids et une consistance normaux.
+EXPLICATION_D: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_E: Une malabsorption ou une affection organique peut retentir sur le poids.
+
+---
+ID: 285-115
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 58 ans sous médicament suspect a une diarrhée chronique ; les biopsies confirment une colite microscopique. Quelles propositions concernant les examens sont exactes ?
+A: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+B: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+C: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+D: V | La TSH peut rechercher une cause motrice endocrinienne.
+E: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: L’exploration dépend de la question diagnostique.
+EXPLICATION_B: Plusieurs mécanismes peuvent produire une perte de graisses.
+EXPLICATION_C: Le diagnostic est histologique.
+EXPLICATION_D: L’hyperthyroïdie accélère le transit.
+EXPLICATION_E: Une colite microscopique peut être invisible à l’endoscopie.
+
+---
+ID: 285-116
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 74 ans présente des selles hydriques nocturnes ; l’endoscopie paraît normale mais les biopsies sont diagnostiques d’une colite microscopique. Quel diagnostic principal est le plus probable ?
+A: F | Une maladie cœliaque.
+B: F | Une insuffisance pancréatique exocrine.
+C: F | Une fausse diarrhée sur rétention fécale.
+D: F | Une diarrhée à prédominance motrice.
+E: V | Une colite microscopique.
+JUSTIFICATION: Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_A: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_B: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_C: La rétention peut produire une présentation trompeuse. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_D: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_E: Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+
+---
+ID: 285-117
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · Diagnostic histologique
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 74 ans présente des selles hydriques nocturnes ; l’endoscopie paraît normale mais les biopsies sont diagnostiques d’une colite microscopique. Quelles propositions concernant une colite microscopique sont exactes ?
+A: F | Le caractère hydrique exclut une affection inflammatoire.
+B: V | Une diarrhée hydrique peut être présente malgré une coloscopie visuellement normale.
+C: F | Toute diarrhée sous médicament prouve une colite microscopique.
+D: V | Certains médicaments peuvent favoriser ce tableau.
+E: V | Une bande collagène sous-épithéliale épaissie oriente vers la forme collagène.
+JUSTIFICATION: La muqueuse peut paraître normale ; les biopsies sont déterminantes.
+EXPLICATION_A: Une inflammation microscopique peut produire ce symptôme.
+EXPLICATION_B: Le diagnostic dépend de l’histologie.
+EXPLICATION_C: Plusieurs mécanismes iatrogènes existent.
+EXPLICATION_D: AINS et certains autres traitements sont cités.
+EXPLICATION_E: La fiche la distingue de la forme lymphocytaire.
+
+---
+ID: 285-118
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 74 ans présente des selles hydriques nocturnes ; l’endoscopie paraît normale mais les biopsies sont diagnostiques d’une colite microscopique. Quelles propositions concernant la démarche sont exactes ?
+A: F | L’amélioration symptomatique prouve que tous les diagnostics différentiels ont été exclus.
+B: V | Une carence ou une perte de poids nouvelle peut conduire à élargir le bilan.
+C: V | Des causes peuvent associer plusieurs mécanismes.
+D: V | Un médicament suspect doit être réévalué avec ses indications.
+E: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: La réponse n’est pas toujours spécifique.
+EXPLICATION_B: Le mécanisme initial ne doit pas être figé.
+EXPLICATION_C: La classification osmotique, motrice ou sécrétoire est schématique.
+EXPLICATION_D: L’imputabilité nécessite une analyse raisonnée.
+EXPLICATION_E: Le tableau doit être réévalué.
+
+---
+ID: 285-119
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 74 ans présente des selles hydriques nocturnes ; l’endoscopie paraît normale mais les biopsies sont diagnostiques d’une colite microscopique. Quelles propositions guident l’évaluation initiale ?
+A: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+B: V | Le poids et les signes de dénutrition doivent être évalués.
+C: V | Le toucher rectal peut rechercher un fécalome.
+D: F | L’absence de fièvre exclut toute cause organique chronique.
+E: V | Les médicaments pris dans les mois précédents doivent être revus.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Elle fait rechercher une composante organique.
+EXPLICATION_B: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_C: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_D: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_E: Une cause iatrogène peut être retardée.
+
+---
+ID: 285-120
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 74 ans présente des selles hydriques nocturnes ; l’endoscopie paraît normale mais les biopsies sont diagnostiques d’une colite microscopique. Quelles propositions concernant les examens sont exactes ?
+A: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+B: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+C: V | La TSH peut rechercher une cause motrice endocrinienne.
+D: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+E: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Elle contribue au bilan de maldigestion.
+EXPLICATION_B: Plusieurs mécanismes peuvent produire une perte de graisses.
+EXPLICATION_C: L’hyperthyroïdie accélère le transit.
+EXPLICATION_D: L’exploration dépend de la question diagnostique.
+EXPLICATION_E: Une colite microscopique peut être invisible à l’endoscopie.
+
+---
+ID: 285-121
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 62 ans ayant une auto-immunité thyroïdienne a une colite microscopique confirmée sur biopsies pour diarrhée chronique. Quel diagnostic principal est le plus probable ?
+A: F | Une diarrhée à prédominance osmotique.
+B: F | Une fausse diarrhée sur rétention fécale.
+C: V | Une colite microscopique.
+D: F | Une maladie cœliaque.
+E: F | Une insuffisance pancréatique exocrine.
+JUSTIFICATION: Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_A: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_B: La rétention peut produire une présentation trompeuse. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_C: Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_D: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+EXPLICATION_E: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : Les biopsies diagnostiques expliquent une diarrhée hydrique malgré l’aspect normal de la muqueuse.
+
+---
+ID: 285-122
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · Diagnostic histologique
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 62 ans ayant une auto-immunité thyroïdienne a une colite microscopique confirmée sur biopsies pour diarrhée chronique. Quelles propositions concernant une colite microscopique sont exactes ?
+A: F | Le caractère hydrique exclut une affection inflammatoire.
+B: V | Une diarrhée hydrique peut être présente malgré une coloscopie visuellement normale.
+C: F | L’absence d’ulcération endoscopique interdit de faire des biopsies.
+D: V | Une bande collagène sous-épithéliale épaissie oriente vers la forme collagène.
+E: V | Certains médicaments peuvent favoriser ce tableau.
+JUSTIFICATION: La muqueuse peut paraître normale ; les biopsies sont déterminantes.
+EXPLICATION_A: Une inflammation microscopique peut produire ce symptôme.
+EXPLICATION_B: Le diagnostic dépend de l’histologie.
+EXPLICATION_C: Les biopsies peuvent précisément révéler la maladie.
+EXPLICATION_D: La fiche la distingue de la forme lymphocytaire.
+EXPLICATION_E: AINS et certains autres traitements sont cités.
+
+---
+ID: 285-123
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 62 ans ayant une auto-immunité thyroïdienne a une colite microscopique confirmée sur biopsies pour diarrhée chronique. Quelles propositions concernant la démarche sont exactes ?
+A: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+B: V | Une carence ou une perte de poids nouvelle peut conduire à élargir le bilan.
+C: V | Des causes peuvent associer plusieurs mécanismes.
+D: V | Un médicament suspect doit être réévalué avec ses indications.
+E: F | Un médicament pris depuis longtemps ne peut jamais provoquer de diarrhée retardée.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: Le tableau doit être réévalué.
+EXPLICATION_B: Le mécanisme initial ne doit pas être figé.
+EXPLICATION_C: La classification osmotique, motrice ou sécrétoire est schématique.
+EXPLICATION_D: L’imputabilité nécessite une analyse raisonnée.
+EXPLICATION_E: La fiche cite des effets parfois à distance.
+
+---
+ID: 285-124
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 62 ans ayant une auto-immunité thyroïdienne a une colite microscopique confirmée sur biopsies pour diarrhée chronique. Quelles propositions guident l’évaluation initiale ?
+A: V | Le toucher rectal peut rechercher un fécalome.
+B: V | Le poids et les signes de dénutrition doivent être évalués.
+C: F | L’absence de fièvre exclut toute cause organique chronique.
+D: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+E: V | Les médicaments pris dans les mois précédents doivent être revus.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_B: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_C: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_D: Une polyexonération peut avoir un poids et une consistance normaux.
+EXPLICATION_E: Une cause iatrogène peut être retardée.
+
+---
+ID: 285-125
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Inflammation microscopique · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 62 ans ayant une auto-immunité thyroïdienne a une colite microscopique confirmée sur biopsies pour diarrhée chronique. Quelles propositions concernant les examens sont exactes ?
+A: V | La TSH peut rechercher une cause motrice endocrinienne.
+B: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+C: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+D: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+E: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: L’hyperthyroïdie accélère le transit.
+EXPLICATION_B: L’exploration dépend de la question diagnostique.
+EXPLICATION_C: Le diagnostic est histologique.
+EXPLICATION_D: Une colite microscopique peut être invisible à l’endoscopie.
+EXPLICATION_E: Elle contribue au bilan de maldigestion.
+
+---
+ID: 285-126
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 81 ans a des émissions liquides depuis plusieurs semaines, alternant avec de petites selles dures ; le toucher rectal retrouve un fécalome. Quel diagnostic principal est le plus probable ?
+A: F | Une diarrhée à prédominance motrice.
+B: F | Une insuffisance pancréatique exocrine.
+C: V | Une fausse diarrhée sur rétention fécale.
+D: F | Une colite microscopique.
+E: F | Une diarrhée à prédominance osmotique.
+JUSTIFICATION: Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_A: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_B: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_C: Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_D: La colite microscopique est définie histologiquement. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_E: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+
+---
+ID: 285-127
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Liquide sur rétention
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 81 ans a des émissions liquides depuis plusieurs semaines, alternant avec de petites selles dures ; le toucher rectal retrouve un fécalome. Quelles propositions interprètent une fausse diarrhée du constipé ?
+A: V | Le toucher rectal peut documenter un fécalome.
+B: F | Un ralentisseur est à proposer automatiquement avant l’examen.
+C: F | Toute émission liquide impose un diagnostic infectieux.
+D: F | L’absence de selle moulée prouve que le rectum est vide.
+E: V | Le traitement de la constipation peut résoudre cette présentation.
+JUSTIFICATION: Le liquide peut coexister avec une rétention de selles dures.
+EXPLICATION_A: Il aide à identifier la rétention.
+EXPLICATION_B: Il peut aggraver une rétention.
+EXPLICATION_C: La rétention est un diagnostic différentiel.
+EXPLICATION_D: Un fécalome peut être présent.
+EXPLICATION_E: Le mécanisme doit être pris en charge.
+
+---
+ID: 285-128
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 81 ans a des émissions liquides depuis plusieurs semaines, alternant avec de petites selles dures ; le toucher rectal retrouve un fécalome. Quelles propositions concernant la démarche sont exactes ?
+A: F | Un médicament pris depuis longtemps ne peut jamais provoquer de diarrhée retardée.
+B: F | L’amélioration symptomatique prouve que tous les diagnostics différentiels ont été exclus.
+C: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+D: V | Des causes peuvent associer plusieurs mécanismes.
+E: V | Une carence ou une perte de poids nouvelle peut conduire à élargir le bilan.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: La fiche cite des effets parfois à distance.
+EXPLICATION_B: La réponse n’est pas toujours spécifique.
+EXPLICATION_C: Le tableau doit être réévalué.
+EXPLICATION_D: La classification osmotique, motrice ou sécrétoire est schématique.
+EXPLICATION_E: Le mécanisme initial ne doit pas être figé.
+
+---
+ID: 285-129
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 81 ans a des émissions liquides depuis plusieurs semaines, alternant avec de petites selles dures ; le toucher rectal retrouve un fécalome. Quelles propositions guident l’évaluation initiale ?
+A: V | Le poids et les signes de dénutrition doivent être évalués.
+B: V | Le toucher rectal peut rechercher un fécalome.
+C: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+D: F | L’absence de fièvre exclut toute cause organique chronique.
+E: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_B: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_C: Elle fait rechercher une composante organique.
+EXPLICATION_D: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_E: Une polyexonération peut avoir un poids et une consistance normaux.
+
+---
+ID: 285-130
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 81 ans a des émissions liquides depuis plusieurs semaines, alternant avec de petites selles dures ; le toucher rectal retrouve un fécalome. Quelles propositions concernant les examens sont exactes ?
+A: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+B: V | La TSH peut rechercher une cause motrice endocrinienne.
+C: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+D: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+E: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Elle contribue au bilan de maldigestion.
+EXPLICATION_B: L’hyperthyroïdie accélère le transit.
+EXPLICATION_C: Plusieurs mécanismes peuvent produire une perte de graisses.
+EXPLICATION_D: L’exploration dépend de la question diagnostique.
+EXPLICATION_E: Le diagnostic est histologique.
+
+---
+ID: 285-131
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 77 ans constipée a des fuites liquides ; le bilan montre une rétention rectale et aucune vraie diarrhée chronique abondante. Quel diagnostic principal est le plus probable ?
+A: F | Une colite microscopique.
+B: V | Une fausse diarrhée sur rétention fécale.
+C: F | Une maladie cœliaque.
+D: F | Une diarrhée à prédominance osmotique.
+E: F | Une diarrhée à prédominance motrice.
+JUSTIFICATION: Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_A: La colite microscopique est définie histologiquement. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_B: Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_C: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_D: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_E: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+
+---
+ID: 285-132
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Liquide sur rétention
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 77 ans constipée a des fuites liquides ; le bilan montre une rétention rectale et aucune vraie diarrhée chronique abondante. Quelles propositions interprètent une fausse diarrhée du constipé ?
+A: F | Un ralentisseur est à proposer automatiquement avant l’examen.
+B: V | Le traitement de la constipation peut résoudre cette présentation.
+C: F | L’absence de selle moulée prouve que le rectum est vide.
+D: V | Des petites selles dures associées à des émissions liquides sont évocatrices.
+E: F | Toute émission liquide impose un diagnostic infectieux.
+JUSTIFICATION: Le liquide peut coexister avec une rétention de selles dures.
+EXPLICATION_A: Il peut aggraver une rétention.
+EXPLICATION_B: Le mécanisme doit être pris en charge.
+EXPLICATION_C: Un fécalome peut être présent.
+EXPLICATION_D: La fiche décrit les scybales et le liquide.
+EXPLICATION_E: La rétention est un diagnostic différentiel.
+
+---
+ID: 285-133
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 77 ans constipée a des fuites liquides ; le bilan montre une rétention rectale et aucune vraie diarrhée chronique abondante. Quelles propositions concernant la démarche sont exactes ?
+A: F | Un médicament pris depuis longtemps ne peut jamais provoquer de diarrhée retardée.
+B: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+C: V | Un médicament suspect doit être réévalué avec ses indications.
+D: F | L’amélioration symptomatique prouve que tous les diagnostics différentiels ont été exclus.
+E: V | Des causes peuvent associer plusieurs mécanismes.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: La fiche cite des effets parfois à distance.
+EXPLICATION_B: Le tableau doit être réévalué.
+EXPLICATION_C: L’imputabilité nécessite une analyse raisonnée.
+EXPLICATION_D: La réponse n’est pas toujours spécifique.
+EXPLICATION_E: La classification osmotique, motrice ou sécrétoire est schématique.
+
+---
+ID: 285-134
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 77 ans constipée a des fuites liquides ; le bilan montre une rétention rectale et aucune vraie diarrhée chronique abondante. Quelles propositions guident l’évaluation initiale ?
+A: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+B: F | L’absence de fièvre exclut toute cause organique chronique.
+C: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+D: V | Le toucher rectal peut rechercher un fécalome.
+E: V | Les médicaments pris dans les mois précédents doivent être revus.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Une polyexonération peut avoir un poids et une consistance normaux.
+EXPLICATION_B: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_C: Elle fait rechercher une composante organique.
+EXPLICATION_D: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_E: Une cause iatrogène peut être retardée.
+
+---
+ID: 285-135
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 77 ans constipée a des fuites liquides ; le bilan montre une rétention rectale et aucune vraie diarrhée chronique abondante. Quelles propositions concernant les examens sont exactes ?
+A: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+B: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+C: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+D: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+E: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Le diagnostic est histologique.
+EXPLICATION_B: Plusieurs mécanismes peuvent produire une perte de graisses.
+EXPLICATION_C: Une colite microscopique peut être invisible à l’endoscopie.
+EXPLICATION_D: L’exploration dépend de la question diagnostique.
+EXPLICATION_E: Elle contribue au bilan de maldigestion.
+
+---
+ID: 285-136
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 70 ans sous opiacé décrit une diarrhée mais n’évacue que du liquide autour d’un fécalome documenté. Quel diagnostic principal est le plus probable ?
+A: F | Une maladie cœliaque.
+B: F | Une colite microscopique.
+C: V | Une fausse diarrhée sur rétention fécale.
+D: F | Une diarrhée à prédominance motrice.
+E: F | Une insuffisance pancréatique exocrine.
+JUSTIFICATION: Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_A: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_B: La colite microscopique est définie histologiquement. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_C: Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_D: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_E: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+
+---
+ID: 285-137
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Liquide sur rétention
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 70 ans sous opiacé décrit une diarrhée mais n’évacue que du liquide autour d’un fécalome documenté. Quelles propositions interprètent une fausse diarrhée du constipé ?
+A: V | Le toucher rectal peut documenter un fécalome.
+B: V | Des petites selles dures associées à des émissions liquides sont évocatrices.
+C: F | Toute émission liquide impose un diagnostic infectieux.
+D: F | Un ralentisseur est à proposer automatiquement avant l’examen.
+E: F | L’absence de selle moulée prouve que le rectum est vide.
+JUSTIFICATION: Le liquide peut coexister avec une rétention de selles dures.
+EXPLICATION_A: Il aide à identifier la rétention.
+EXPLICATION_B: La fiche décrit les scybales et le liquide.
+EXPLICATION_C: La rétention est un diagnostic différentiel.
+EXPLICATION_D: Il peut aggraver une rétention.
+EXPLICATION_E: Un fécalome peut être présent.
+
+---
+ID: 285-138
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 70 ans sous opiacé décrit une diarrhée mais n’évacue que du liquide autour d’un fécalome documenté. Quelles propositions concernant la démarche sont exactes ?
+A: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+B: V | Un médicament suspect doit être réévalué avec ses indications.
+C: F | L’amélioration symptomatique prouve que tous les diagnostics différentiels ont été exclus.
+D: F | Un médicament pris depuis longtemps ne peut jamais provoquer de diarrhée retardée.
+E: V | Une carence ou une perte de poids nouvelle peut conduire à élargir le bilan.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: Le tableau doit être réévalué.
+EXPLICATION_B: L’imputabilité nécessite une analyse raisonnée.
+EXPLICATION_C: La réponse n’est pas toujours spécifique.
+EXPLICATION_D: La fiche cite des effets parfois à distance.
+EXPLICATION_E: Le mécanisme initial ne doit pas être figé.
+
+---
+ID: 285-139
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 70 ans sous opiacé décrit une diarrhée mais n’évacue que du liquide autour d’un fécalome documenté. Quelles propositions guident l’évaluation initiale ?
+A: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+B: F | L’absence de fièvre exclut toute cause organique chronique.
+C: V | Le poids et les signes de dénutrition doivent être évalués.
+D: V | Les médicaments pris dans les mois précédents doivent être revus.
+E: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Elle fait rechercher une composante organique.
+EXPLICATION_B: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_C: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_D: Une cause iatrogène peut être retardée.
+EXPLICATION_E: Une polyexonération peut avoir un poids et une consistance normaux.
+
+---
+ID: 285-140
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 70 ans sous opiacé décrit une diarrhée mais n’évacue que du liquide autour d’un fécalome documenté. Quelles propositions concernant les examens sont exactes ?
+A: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+B: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+C: V | La TSH peut rechercher une cause motrice endocrinienne.
+D: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+E: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Plusieurs mécanismes peuvent produire une perte de graisses.
+EXPLICATION_B: Le diagnostic est histologique.
+EXPLICATION_C: L’hyperthyroïdie accélère le transit.
+EXPLICATION_D: Une colite microscopique peut être invisible à l’endoscopie.
+EXPLICATION_E: L’exploration dépend de la question diagnostique.
+
+---
+ID: 285-141
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 85 ans alterne absence d’évacuation et selles explosives liquides avec scybales ; le toucher rectal confirme une rétention. Quel diagnostic principal est le plus probable ?
+A: V | Une fausse diarrhée sur rétention fécale.
+B: F | Une diarrhée à prédominance osmotique.
+C: F | Une insuffisance pancréatique exocrine.
+D: F | Une colite microscopique.
+E: F | Une maladie cœliaque.
+JUSTIFICATION: Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_A: Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_B: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_C: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_D: La colite microscopique est définie histologiquement. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_E: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+
+---
+ID: 285-142
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Liquide sur rétention
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 85 ans alterne absence d’évacuation et selles explosives liquides avec scybales ; le toucher rectal confirme une rétention. Quelles propositions interprètent une fausse diarrhée du constipé ?
+A: V | Des petites selles dures associées à des émissions liquides sont évocatrices.
+B: F | L’absence de selle moulée prouve que le rectum est vide.
+C: V | Le toucher rectal peut documenter un fécalome.
+D: V | Le traitement de la constipation peut résoudre cette présentation.
+E: F | Un ralentisseur est à proposer automatiquement avant l’examen.
+JUSTIFICATION: Le liquide peut coexister avec une rétention de selles dures.
+EXPLICATION_A: La fiche décrit les scybales et le liquide.
+EXPLICATION_B: Un fécalome peut être présent.
+EXPLICATION_C: Il aide à identifier la rétention.
+EXPLICATION_D: Le mécanisme doit être pris en charge.
+EXPLICATION_E: Il peut aggraver une rétention.
+
+---
+ID: 285-143
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 85 ans alterne absence d’évacuation et selles explosives liquides avec scybales ; le toucher rectal confirme une rétention. Quelles propositions concernant la démarche sont exactes ?
+A: V | Une carence ou une perte de poids nouvelle peut conduire à élargir le bilan.
+B: F | L’amélioration symptomatique prouve que tous les diagnostics différentiels ont été exclus.
+C: V | Un médicament suspect doit être réévalué avec ses indications.
+D: V | Des causes peuvent associer plusieurs mécanismes.
+E: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: Le mécanisme initial ne doit pas être figé.
+EXPLICATION_B: La réponse n’est pas toujours spécifique.
+EXPLICATION_C: L’imputabilité nécessite une analyse raisonnée.
+EXPLICATION_D: La classification osmotique, motrice ou sécrétoire est schématique.
+EXPLICATION_E: Le tableau doit être réévalué.
+
+---
+ID: 285-144
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 85 ans alterne absence d’évacuation et selles explosives liquides avec scybales ; le toucher rectal confirme une rétention. Quelles propositions guident l’évaluation initiale ?
+A: F | L’absence de fièvre exclut toute cause organique chronique.
+B: V | Le toucher rectal peut rechercher un fécalome.
+C: V | Le poids et les signes de dénutrition doivent être évalués.
+D: V | Les médicaments pris dans les mois précédents doivent être revus.
+E: F | Une diarrhée nocturne est toujours la preuve d’un trouble fonctionnel.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_B: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_C: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_D: Une cause iatrogène peut être retardée.
+EXPLICATION_E: Elle fait rechercher une composante organique.
+
+---
+ID: 285-145
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Une femme de 85 ans alterne absence d’évacuation et selles explosives liquides avec scybales ; le toucher rectal confirme une rétention. Quelles propositions concernant les examens sont exactes ?
+A: F | Une stéatorrhée identifie à elle seule une maladie cœliaque.
+B: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+C: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+D: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+E: V | La TSH peut rechercher une cause motrice endocrinienne.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Plusieurs mécanismes peuvent produire une perte de graisses.
+EXPLICATION_B: L’exploration dépend de la question diagnostique.
+EXPLICATION_C: Une colite microscopique peut être invisible à l’endoscopie.
+EXPLICATION_D: Elle contribue au bilan de maldigestion.
+EXPLICATION_E: L’hyperthyroïdie accélère le transit.
+
+---
+ID: 285-146
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · raisonnement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 73 ans peu mobile a une fausse diarrhée documentée sur constipation distale avec fécalome. Quel diagnostic principal est le plus probable ?
+A: F | Une maladie cœliaque.
+B: F | Une diarrhée à prédominance motrice.
+C: F | Une insuffisance pancréatique exocrine.
+D: F | Une diarrhée à prédominance osmotique.
+E: V | Une fausse diarrhée sur rétention fécale.
+JUSTIFICATION: Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_A: La maladie cœliaque associe un mécanisme immunologique au gluten et une atteinte duodénale. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_B: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_C: La maldigestion pancréatique n’est pas une atteinte villositaire primitive. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_D: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+EXPLICATION_E: Les émissions liquides alternent avec selles dures et rétention rectale documentée.
+
+---
+ID: 285-147
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Liquide sur rétention
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 73 ans peu mobile a une fausse diarrhée documentée sur constipation distale avec fécalome. Quelles propositions interprètent une fausse diarrhée du constipé ?
+A: F | Toute émission liquide impose un diagnostic infectieux.
+B: F | Un ralentisseur est à proposer automatiquement avant l’examen.
+C: V | Des petites selles dures associées à des émissions liquides sont évocatrices.
+D: V | Le traitement de la constipation peut résoudre cette présentation.
+E: V | Le toucher rectal peut documenter un fécalome.
+JUSTIFICATION: Le liquide peut coexister avec une rétention de selles dures.
+EXPLICATION_A: La rétention est un diagnostic différentiel.
+EXPLICATION_B: Il peut aggraver une rétention.
+EXPLICATION_C: La fiche décrit les scybales et le liquide.
+EXPLICATION_D: Le mécanisme doit être pris en charge.
+EXPLICATION_E: Il aide à identifier la rétention.
+
+---
+ID: 285-148
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Révision de l’hypothèse
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 73 ans peu mobile a une fausse diarrhée documentée sur constipation distale avec fécalome. Quelles propositions concernant la démarche sont exactes ?
+A: F | Une hypothèse fonctionnelle permet d’ignorer tout signe d’alarme ultérieur.
+B: V | Une carence ou une perte de poids nouvelle peut conduire à élargir le bilan.
+C: F | Un médicament pris depuis longtemps ne peut jamais provoquer de diarrhée retardée.
+D: V | Des causes peuvent associer plusieurs mécanismes.
+E: V | Un médicament suspect doit être réévalué avec ses indications.
+JUSTIFICATION: La réponse thérapeutique et le contexte doivent être intégrés sans conclure sur un signe isolé.
+EXPLICATION_A: Le tableau doit être réévalué.
+EXPLICATION_B: Le mécanisme initial ne doit pas être figé.
+EXPLICATION_C: La fiche cite des effets parfois à distance.
+EXPLICATION_D: La classification osmotique, motrice ou sécrétoire est schématique.
+EXPLICATION_E: L’imputabilité nécessite une analyse raisonnée.
+
+---
+ID: 285-149
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Interrogatoire et retentissement
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 73 ans peu mobile a une fausse diarrhée documentée sur constipation distale avec fécalome. Quelles propositions guident l’évaluation initiale ?
+A: V | Le poids et les signes de dénutrition doivent être évalués.
+B: F | L’absence de fièvre exclut toute cause organique chronique.
+C: V | Les médicaments pris dans les mois précédents doivent être revus.
+D: V | Le toucher rectal peut rechercher un fécalome.
+E: F | Toute augmentation de fréquence avec selles formées prouve une diarrhée abondante.
+JUSTIFICATION: La réalité de la diarrhée, son mécanisme et son retentissement doivent être analysés.
+EXPLICATION_A: Une malabsorption ou une affection organique peut retentir sur le poids.
+EXPLICATION_B: Plusieurs causes ne sont pas fébriles.
+EXPLICATION_C: Une cause iatrogène peut être retardée.
+EXPLICATION_D: Une fausse diarrhée ne doit pas être méconnue.
+EXPLICATION_E: Une polyexonération peut avoir un poids et une consistance normaux.
+
+---
+ID: 285-150
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Diagnostic différentiel · Exploration orientée
+SOURCE: Fiche item 285 fournie - page(s) 1-5
+CONSIGNE: Un homme de 73 ans peu mobile a une fausse diarrhée documentée sur constipation distale avec fécalome. Quelles propositions concernant les examens sont exactes ?
+A: F | Une coloscopie macroscopiquement normale exclut toute colite microscopique.
+B: V | La TSH peut rechercher une cause motrice endocrinienne.
+C: F | Un seul examen des selles suffit toujours à caractériser toute diarrhée chronique.
+D: V | Des biopsies coliques peuvent être nécessaires malgré une muqueuse macroscopiquement normale.
+E: V | Une élastase fécale effondrée soutient une insuffisance pancréatique exocrine.
+JUSTIFICATION: Les biopsies et examens fonctionnels sont choisis selon le mécanisme suspecté.
+EXPLICATION_A: Le diagnostic est histologique.
+EXPLICATION_B: L’hyperthyroïdie accélère le transit.
+EXPLICATION_C: L’exploration dépend de la question diagnostique.
+EXPLICATION_D: Une colite microscopique peut être invisible à l’endoscopie.
+EXPLICATION_E: Elle contribue au bilan de maldigestion.

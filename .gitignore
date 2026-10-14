@@ -1,0 +1,9 @@
+/config/mail.php
+/storage/*
+!/storage/.htaccess
+/tmp/
+/output/
+/.env
+/.env.*
+*.log
+/.runtime/

@@ -1,0 +1,3007 @@
+# Item 154 : révision clinique fondée sur la fiche fournie.
+# 150 questions : 120 QCM et 30 QRU ; 105 rang A et 45 rang B pédagogiques.
+# Les rangs ne constituent pas une certification du référentiel EDN.
+# 30 observations, chacune explorée par cinq questions de raisonnement.
+# Les notions reviennent dans des contextes distincts ; aucune inversion automatique V/F.
+ITEM 154 | Infections broncho-pulmonaires communautaires
+COLLEGE: Pneumologie
+
+---
+ID: 154-001
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 1
+CONSIGNE: Une femme de 26 ans sans comorbidité a une toux après rhinopharyngite, des ronchi diffus et une SpO2 normale. Elle est afébrile, sans foyer auscultatoire ni dyspnée. Quel diagnostic principal est le plus probable ?
+A: F | Pneumonie à Legionella documentée
+B: F | Pneumonie à Mycoplasma documentée
+C: F | Pneumonie grippale documentée
+D: V | Bronchite aiguë du sujet sain
+E: F | Empyème pleural compliquant une pneumonie
+JUSTIFICATION: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_A: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_B: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_C: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_D: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_E: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+
+---
+ID: 154-002
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Bronchite aiguë
+SOURCE: Fiche item 154 fournie - page(s) 1
+CONSIGNE: Une femme de 26 ans sans comorbidité a une toux après rhinopharyngite, des ronchi diffus et une SpO2 normale. Elle est afébrile, sans foyer auscultatoire ni dyspnée. Quelles propositions sont adaptées à une bronchite aiguë du sujet sain ?
+A: F | La bronchite est définie par une atteinte alvéolaire radiologique.
+B: V | L’apparition d’un foyer ou d’une mauvaise tolérance doit faire reconsidérer une pneumonie.
+C: V | Une expectoration devenue purulente ne suffit pas à prescrire un antibiotique.
+D: F | Une antibiothérapie est systématique pour réduire la durée de toute toux.
+E: F | Un scanner est nécessaire dans toute bronchite bien tolérée.
+JUSTIFICATION: Une bronchite aiguë bien tolérée sans argument parenchymateux est généralement virale.
+EXPLICATION_A: Cette atteinte évoque une pneumonie.
+EXPLICATION_B: Le diagnostic initial reste réévaluable.
+EXPLICATION_C: La purulence n’est pas synonyme d’étiologie bactérienne.
+EXPLICATION_D: Elle n’est pas indiquée de routine dans cette présentation.
+EXPLICATION_E: Les examens ne sont pas systématiques en l’absence d’alerte.
+
+---
+ID: 154-003
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Une femme de 26 ans sans comorbidité a une toux après rhinopharyngite, des ronchi diffus et une SpO2 normale. Elle est afébrile, sans foyer auscultatoire ni dyspnée. Quels éléments guident l’orientation du patient ?
+A: F | L’absence de douleur thoracique exclut une pneumonie grave.
+B: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+C: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+D: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+E: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: La présentation peut être atypique.
+EXPLICATION_B: Elle participe aux critères de gravité.
+EXPLICATION_C: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_D: Les signes généraux peuvent être atypiques.
+EXPLICATION_E: La gravité ne se réduit pas à l’étendue visible.
+
+---
+ID: 154-004
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Une femme de 26 ans sans comorbidité a une toux après rhinopharyngite, des ronchi diffus et une SpO2 normale. Elle est afébrile, sans foyer auscultatoire ni dyspnée. Quelles propositions concernant les prélèvements sont exactes ?
+A: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+B: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+C: F | Une PCR virale positive exclut toute co-infection bactérienne.
+D: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+E: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: Elle aide à l’enquête étiologique.
+EXPLICATION_B: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+EXPLICATION_C: Les deux peuvent coexister.
+EXPLICATION_D: La purulence peut accompagner d’autres infections, dont une bronchite.
+EXPLICATION_E: Le bilan doit être adapté à la présentation.
+
+---
+ID: 154-005
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Imagerie et sémiologie
+SOURCE: Fiche item 154 fournie - page(s) 2
+CONSIGNE: Une femme de 26 ans sans comorbidité a une toux après rhinopharyngite, des ronchi diffus et une SpO2 normale. Elle est afébrile, sans foyer auscultatoire ni dyspnée. Quelles interprétations sont exactes ?
+A: V | Un bronchogramme aérien peut être visible dans une opacité alvéolaire.
+B: V | Un scanner peut préciser une complication ou un diagnostic alternatif.
+C: F | Une opacité lobaire identifie avec certitude le pneumocoque.
+D: F | Une auscultation normale exclut à elle seule une pneumonie.
+E: F | Un épanchement pleural augmente typiquement les vibrations vocales comme une condensation isolée.
+JUSTIFICATION: L’imagerie documente l’atteinte parenchymateuse et ses complications sans identifier à elle seule le germe.
+EXPLICATION_A: Les bronches aérées contrastent avec le parenchyme condensé.
+EXPLICATION_B: Il n’est pas l’examen systématique initial de toute infection respiratoire.
+EXPLICATION_C: L’aspect oriente mais ne constitue pas une identification microbiologique.
+EXPLICATION_D: L’examen peut être peu contributif.
+EXPLICATION_E: Un épanchement les diminue.
+
+---
+ID: 154-006
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 1
+CONSIGNE: Un homme de 33 ans présente une brûlure rétrosternale à la toux après un épisode viral. Les expectorations sont jaunes, mais il n’a ni fièvre persistante, ni foyer, ni mauvaise tolérance. Quel diagnostic principal est le plus probable ?
+A: F | Pneumonie communautaire à pneumocoque documentée
+B: V | Bronchite aiguë du sujet sain
+C: F | Pneumonie grippale documentée
+D: F | Pneumonie à Legionella documentée
+E: F | Empyème pleural compliquant une pneumonie
+JUSTIFICATION: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_A: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_B: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_C: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_D: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_E: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+
+---
+ID: 154-007
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Bronchite aiguë
+SOURCE: Fiche item 154 fournie - page(s) 1
+CONSIGNE: Un homme de 33 ans présente une brûlure rétrosternale à la toux après un épisode viral. Les expectorations sont jaunes, mais il n’a ni fièvre persistante, ni foyer, ni mauvaise tolérance. Quelles propositions sont adaptées à une bronchite aiguë du sujet sain ?
+A: F | Une antibiothérapie est systématique pour réduire la durée de toute toux.
+B: F | Un scanner est nécessaire dans toute bronchite bien tolérée.
+C: V | Une toux peut persister au-delà de la phase fébrile.
+D: V | L’apparition d’un foyer ou d’une mauvaise tolérance doit faire reconsidérer une pneumonie.
+E: F | La bronchite est définie par une atteinte alvéolaire radiologique.
+JUSTIFICATION: Une bronchite aiguë bien tolérée sans argument parenchymateux est généralement virale.
+EXPLICATION_A: Elle n’est pas indiquée de routine dans cette présentation.
+EXPLICATION_B: Les examens ne sont pas systématiques en l’absence d’alerte.
+EXPLICATION_C: Sa persistance isolée n’établit pas une complication bactérienne.
+EXPLICATION_D: Le diagnostic initial reste réévaluable.
+EXPLICATION_E: Cette atteinte évoque une pneumonie.
+
+---
+ID: 154-008
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Un homme de 33 ans présente une brûlure rétrosternale à la toux après un épisode viral. Les expectorations sont jaunes, mais il n’a ni fièvre persistante, ni foyer, ni mauvaise tolérance. Quels éléments guident l’orientation du patient ?
+A: F | L’absence de douleur thoracique exclut une pneumonie grave.
+B: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+C: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+D: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+E: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: La présentation peut être atypique.
+EXPLICATION_B: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_C: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_D: Les signes généraux peuvent être atypiques.
+EXPLICATION_E: La gravité ne se réduit pas à l’étendue visible.
+
+---
+ID: 154-009
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Un homme de 33 ans présente une brûlure rétrosternale à la toux après un épisode viral. Les expectorations sont jaunes, mais il n’a ni fièvre persistante, ni foyer, ni mauvaise tolérance. Quelles propositions concernant les prélèvements sont exactes ?
+A: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+B: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+C: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+D: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+E: F | Une PCR virale positive exclut toute co-infection bactérienne.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+EXPLICATION_B: La contamination oropharyngée limite la valeur de certains résultats.
+EXPLICATION_C: La purulence peut accompagner d’autres infections, dont une bronchite.
+EXPLICATION_D: Le bilan doit être adapté à la présentation.
+EXPLICATION_E: Les deux peuvent coexister.
+
+---
+ID: 154-010
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Imagerie et sémiologie
+SOURCE: Fiche item 154 fournie - page(s) 2
+CONSIGNE: Un homme de 33 ans présente une brûlure rétrosternale à la toux après un épisode viral. Les expectorations sont jaunes, mais il n’a ni fièvre persistante, ni foyer, ni mauvaise tolérance. Quelles interprétations sont exactes ?
+A: F | Une auscultation normale exclut à elle seule une pneumonie.
+B: F | Une opacité lobaire identifie avec certitude le pneumocoque.
+C: F | Un épanchement pleural augmente typiquement les vibrations vocales comme une condensation isolée.
+D: V | Une condensation peut s’accompagner d’un souffle tubaire.
+E: V | Un scanner peut préciser une complication ou un diagnostic alternatif.
+JUSTIFICATION: L’imagerie documente l’atteinte parenchymateuse et ses complications sans identifier à elle seule le germe.
+EXPLICATION_A: L’examen peut être peu contributif.
+EXPLICATION_B: L’aspect oriente mais ne constitue pas une identification microbiologique.
+EXPLICATION_C: Un épanchement les diminue.
+EXPLICATION_D: Elle transmet différemment les bruits respiratoires.
+EXPLICATION_E: Il n’est pas l’examen systématique initial de toute infection respiratoire.
+
+---
+ID: 154-011
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 1
+CONSIGNE: Une patiente saine tousse depuis dix jours après une rhinite. Elle est en amélioration, sans polypnée, désaturation ou douleur pleurale ; l’auscultation n’est pas focale. Quel diagnostic principal est le plus probable ?
+A: F | Empyème pleural compliquant une pneumonie
+B: V | Bronchite aiguë du sujet sain
+C: F | Pneumonie à Mycoplasma documentée
+D: F | Pneumonie communautaire à pneumocoque documentée
+E: F | Pneumonie grippale documentée
+JUSTIFICATION: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_A: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_B: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_C: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_D: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_E: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+
+---
+ID: 154-012
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Bronchite aiguë
+SOURCE: Fiche item 154 fournie - page(s) 1
+CONSIGNE: Une patiente saine tousse depuis dix jours après une rhinite. Elle est en amélioration, sans polypnée, désaturation ou douleur pleurale ; l’auscultation n’est pas focale. Quelles propositions sont adaptées à une bronchite aiguë du sujet sain ?
+A: F | La bronchite est définie par une atteinte alvéolaire radiologique.
+B: F | Un scanner est nécessaire dans toute bronchite bien tolérée.
+C: F | Une antibiothérapie est systématique pour réduire la durée de toute toux.
+D: V | Une expectoration devenue purulente ne suffit pas à prescrire un antibiotique.
+E: V | Une toux peut persister au-delà de la phase fébrile.
+JUSTIFICATION: Une bronchite aiguë bien tolérée sans argument parenchymateux est généralement virale.
+EXPLICATION_A: Cette atteinte évoque une pneumonie.
+EXPLICATION_B: Les examens ne sont pas systématiques en l’absence d’alerte.
+EXPLICATION_C: Elle n’est pas indiquée de routine dans cette présentation.
+EXPLICATION_D: La purulence n’est pas synonyme d’étiologie bactérienne.
+EXPLICATION_E: Sa persistance isolée n’établit pas une complication bactérienne.
+
+---
+ID: 154-013
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Une patiente saine tousse depuis dix jours après une rhinite. Elle est en amélioration, sans polypnée, désaturation ou douleur pleurale ; l’auscultation n’est pas focale. Quels éléments guident l’orientation du patient ?
+A: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+B: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+C: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+D: F | L’absence de douleur thoracique exclut une pneumonie grave.
+E: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: Les signes généraux peuvent être atypiques.
+EXPLICATION_B: Elle participe aux critères de gravité.
+EXPLICATION_C: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_D: La présentation peut être atypique.
+EXPLICATION_E: Elle peut accompagner une infection grave ou une hypoxémie.
+
+---
+ID: 154-014
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Une patiente saine tousse depuis dix jours après une rhinite. Elle est en amélioration, sans polypnée, désaturation ou douleur pleurale ; l’auscultation n’est pas focale. Quelles propositions concernant les prélèvements sont exactes ?
+A: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+B: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+C: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+D: F | Une PCR virale positive exclut toute co-infection bactérienne.
+E: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: La contamination oropharyngée limite la valeur de certains résultats.
+EXPLICATION_B: La purulence peut accompagner d’autres infections, dont une bronchite.
+EXPLICATION_C: Elle aide à l’enquête étiologique.
+EXPLICATION_D: Les deux peuvent coexister.
+EXPLICATION_E: Le bilan doit être adapté à la présentation.
+
+---
+ID: 154-015
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Imagerie et sémiologie
+SOURCE: Fiche item 154 fournie - page(s) 2
+CONSIGNE: Une patiente saine tousse depuis dix jours après une rhinite. Elle est en amélioration, sans polypnée, désaturation ou douleur pleurale ; l’auscultation n’est pas focale. Quelles interprétations sont exactes ?
+A: F | Une opacité lobaire identifie avec certitude le pneumocoque.
+B: F | Un épanchement pleural augmente typiquement les vibrations vocales comme une condensation isolée.
+C: F | Une auscultation normale exclut à elle seule une pneumonie.
+D: V | Un bronchogramme aérien peut être visible dans une opacité alvéolaire.
+E: V | Une condensation peut s’accompagner d’un souffle tubaire.
+JUSTIFICATION: L’imagerie documente l’atteinte parenchymateuse et ses complications sans identifier à elle seule le germe.
+EXPLICATION_A: L’aspect oriente mais ne constitue pas une identification microbiologique.
+EXPLICATION_B: Un épanchement les diminue.
+EXPLICATION_C: L’examen peut être peu contributif.
+EXPLICATION_D: Les bronches aérées contrastent avec le parenchyme condensé.
+EXPLICATION_E: Elle transmet différemment les bruits respiratoires.
+
+---
+ID: 154-016
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 1
+CONSIGNE: Un homme de 29 ans a une toux sèche devenue productive, sans fièvre ni détresse. Des ronchi diffus sont présents mais aucun signe de condensation n’est retrouvé. Quel diagnostic principal est le plus probable ?
+A: V | Bronchite aiguë du sujet sain
+B: F | Pneumonie à Mycoplasma documentée
+C: F | Empyème pleural compliquant une pneumonie
+D: F | Pneumonie communautaire à pneumocoque documentée
+E: F | Pneumonie à Legionella documentée
+JUSTIFICATION: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_A: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_B: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_C: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_D: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_E: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+
+---
+ID: 154-017
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Bronchite aiguë
+SOURCE: Fiche item 154 fournie - page(s) 1
+CONSIGNE: Un homme de 29 ans a une toux sèche devenue productive, sans fièvre ni détresse. Des ronchi diffus sont présents mais aucun signe de condensation n’est retrouvé. Quelles propositions sont adaptées à une bronchite aiguë du sujet sain ?
+A: V | Une expectoration devenue purulente ne suffit pas à prescrire un antibiotique.
+B: V | L’apparition d’un foyer ou d’une mauvaise tolérance doit faire reconsidérer une pneumonie.
+C: V | Une toux peut persister au-delà de la phase fébrile.
+D: F | Un scanner est nécessaire dans toute bronchite bien tolérée.
+E: F | La bronchite est définie par une atteinte alvéolaire radiologique.
+JUSTIFICATION: Une bronchite aiguë bien tolérée sans argument parenchymateux est généralement virale.
+EXPLICATION_A: La purulence n’est pas synonyme d’étiologie bactérienne.
+EXPLICATION_B: Le diagnostic initial reste réévaluable.
+EXPLICATION_C: Sa persistance isolée n’établit pas une complication bactérienne.
+EXPLICATION_D: Les examens ne sont pas systématiques en l’absence d’alerte.
+EXPLICATION_E: Cette atteinte évoque une pneumonie.
+
+---
+ID: 154-018
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Un homme de 29 ans a une toux sèche devenue productive, sans fièvre ni détresse. Des ronchi diffus sont présents mais aucun signe de condensation n’est retrouvé. Quels éléments guident l’orientation du patient ?
+A: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+B: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+C: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+D: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+E: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_B: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_C: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_D: Elle participe aux critères de gravité.
+EXPLICATION_E: Les signes généraux peuvent être atypiques.
+
+---
+ID: 154-019
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Un homme de 29 ans a une toux sèche devenue productive, sans fièvre ni détresse. Des ronchi diffus sont présents mais aucun signe de condensation n’est retrouvé. Quelles propositions concernant les prélèvements sont exactes ?
+A: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+B: F | Une PCR virale positive exclut toute co-infection bactérienne.
+C: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+D: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+E: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: Le bilan doit être adapté à la présentation.
+EXPLICATION_B: Les deux peuvent coexister.
+EXPLICATION_C: Elle aide à l’enquête étiologique.
+EXPLICATION_D: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+EXPLICATION_E: La contamination oropharyngée limite la valeur de certains résultats.
+
+---
+ID: 154-020
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Imagerie et sémiologie
+SOURCE: Fiche item 154 fournie - page(s) 2
+CONSIGNE: Un homme de 29 ans a une toux sèche devenue productive, sans fièvre ni détresse. Des ronchi diffus sont présents mais aucun signe de condensation n’est retrouvé. Quelles interprétations sont exactes ?
+A: V | Un bronchogramme aérien peut être visible dans une opacité alvéolaire.
+B: F | Un épanchement pleural augmente typiquement les vibrations vocales comme une condensation isolée.
+C: F | Une opacité lobaire identifie avec certitude le pneumocoque.
+D: V | Une condensation peut s’accompagner d’un souffle tubaire.
+E: V | Un scanner peut préciser une complication ou un diagnostic alternatif.
+JUSTIFICATION: L’imagerie documente l’atteinte parenchymateuse et ses complications sans identifier à elle seule le germe.
+EXPLICATION_A: Les bronches aérées contrastent avec le parenchyme condensé.
+EXPLICATION_B: Un épanchement les diminue.
+EXPLICATION_C: L’aspect oriente mais ne constitue pas une identification microbiologique.
+EXPLICATION_D: Elle transmet différemment les bruits respiratoires.
+EXPLICATION_E: Il n’est pas l’examen systématique initial de toute infection respiratoire.
+
+---
+ID: 154-021
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 1
+CONSIGNE: Une femme de 38 ans a une toux résiduelle après une infection des voies aériennes supérieures. L’examen est normal, sans comorbidité respiratoire ni signe d’alarme. Quel diagnostic principal est le plus probable ?
+A: V | Bronchite aiguë du sujet sain
+B: F | Pneumonie grippale documentée
+C: F | Pneumonie à Mycoplasma documentée
+D: F | Pneumonie communautaire à pneumocoque documentée
+E: F | Pneumonie à Legionella documentée
+JUSTIFICATION: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_A: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_B: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_C: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_D: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+EXPLICATION_E: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë.
+
+---
+ID: 154-022
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Bronchite aiguë
+SOURCE: Fiche item 154 fournie - page(s) 1
+CONSIGNE: Une femme de 38 ans a une toux résiduelle après une infection des voies aériennes supérieures. L’examen est normal, sans comorbidité respiratoire ni signe d’alarme. Quelles propositions sont adaptées à une bronchite aiguë du sujet sain ?
+A: V | Une expectoration devenue purulente ne suffit pas à prescrire un antibiotique.
+B: V | L’apparition d’un foyer ou d’une mauvaise tolérance doit faire reconsidérer une pneumonie.
+C: F | Un scanner est nécessaire dans toute bronchite bien tolérée.
+D: F | Une antibiothérapie est systématique pour réduire la durée de toute toux.
+E: V | Une toux peut persister au-delà de la phase fébrile.
+JUSTIFICATION: Une bronchite aiguë bien tolérée sans argument parenchymateux est généralement virale.
+EXPLICATION_A: La purulence n’est pas synonyme d’étiologie bactérienne.
+EXPLICATION_B: Le diagnostic initial reste réévaluable.
+EXPLICATION_C: Les examens ne sont pas systématiques en l’absence d’alerte.
+EXPLICATION_D: Elle n’est pas indiquée de routine dans cette présentation.
+EXPLICATION_E: Sa persistance isolée n’établit pas une complication bactérienne.
+
+---
+ID: 154-023
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Une femme de 38 ans a une toux résiduelle après une infection des voies aériennes supérieures. L’examen est normal, sans comorbidité respiratoire ni signe d’alarme. Quels éléments guident l’orientation du patient ?
+A: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+B: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+C: F | L’absence de douleur thoracique exclut une pneumonie grave.
+D: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+E: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: Les signes généraux peuvent être atypiques.
+EXPLICATION_B: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_C: La présentation peut être atypique.
+EXPLICATION_D: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_E: Elle participe aux critères de gravité.
+
+---
+ID: 154-024
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Une femme de 38 ans a une toux résiduelle après une infection des voies aériennes supérieures. L’examen est normal, sans comorbidité respiratoire ni signe d’alarme. Quelles propositions concernant les prélèvements sont exactes ?
+A: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+B: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+C: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+D: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+E: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+EXPLICATION_B: Elle aide à l’enquête étiologique.
+EXPLICATION_C: Le bilan doit être adapté à la présentation.
+EXPLICATION_D: La contamination oropharyngée limite la valeur de certains résultats.
+EXPLICATION_E: La purulence peut accompagner d’autres infections, dont une bronchite.
+
+---
+ID: 154-025
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Bronchite · Imagerie et sémiologie
+SOURCE: Fiche item 154 fournie - page(s) 2
+CONSIGNE: Une femme de 38 ans a une toux résiduelle après une infection des voies aériennes supérieures. L’examen est normal, sans comorbidité respiratoire ni signe d’alarme. Quelles interprétations sont exactes ?
+A: F | Un épanchement pleural augmente typiquement les vibrations vocales comme une condensation isolée.
+B: F | Une auscultation normale exclut à elle seule une pneumonie.
+C: V | Un scanner peut préciser une complication ou un diagnostic alternatif.
+D: V | Une condensation peut s’accompagner d’un souffle tubaire.
+E: V | Un bronchogramme aérien peut être visible dans une opacité alvéolaire.
+JUSTIFICATION: L’imagerie documente l’atteinte parenchymateuse et ses complications sans identifier à elle seule le germe.
+EXPLICATION_A: Un épanchement les diminue.
+EXPLICATION_B: L’examen peut être peu contributif.
+EXPLICATION_C: Il n’est pas l’examen systématique initial de toute infection respiratoire.
+EXPLICATION_D: Elle transmet différemment les bruits respiratoires.
+EXPLICATION_E: Les bronches aérées contrastent avec le parenchyme condensé.
+
+---
+ID: 154-026
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 2-4,7-8
+CONSIGNE: Un homme de 46 ans a une fièvre brutale et une condensation lobaire avec bronchogramme. L’hémoculture identifie un pneumocoque sensible à l’amoxicilline. Quel diagnostic principal est le plus probable ?
+A: F | Empyème pleural compliquant une pneumonie
+B: V | Pneumonie communautaire à pneumocoque documentée
+C: F | Bronchite aiguë du sujet sain
+D: F | Pneumonie grippale documentée
+E: F | Pneumonie à Legionella documentée
+JUSTIFICATION: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_A: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_B: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_C: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_D: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_E: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+
+---
+ID: 154-027
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Pneumocoque et traitement ciblé
+SOURCE: Fiche item 154 fournie - page(s) 4,7-8
+CONSIGNE: Un homme de 46 ans a une fièvre brutale et une condensation lobaire avec bronchogramme. L’hémoculture identifie un pneumocoque sensible à l’amoxicilline. Quelles propositions concernant une PAC à pneumocoque sont exactes ?
+A: F | L’absence de diarrhée prouve une infection à pneumocoque.
+B: V | Un épanchement peut compliquer cette pneumonie.
+C: V | L’amoxicilline est une option de référence pour un pneumocoque sensible dans un contexte adapté.
+D: F | Le métronidazole seul est le traitement ciblé de référence du pneumocoque.
+E: F | Une sensibilité documentée dispense de surveiller la tolérance respiratoire.
+JUSTIFICATION: Le contexte et la microbiologie guident la prise en charge et la désescalade.
+EXPLICATION_A: Aucun signe négatif isolé ne l’identifie.
+EXPLICATION_B: Sa nature et sa tolérance doivent être évaluées.
+EXPLICATION_C: Le terrain et la gravité doivent aussi être pris en compte.
+EXPLICATION_D: Il ne couvre pas ce germe.
+EXPLICATION_E: Le traitement ciblé ne supprime pas immédiatement le risque de complication.
+
+---
+ID: 154-028
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Un homme de 46 ans a une fièvre brutale et une condensation lobaire avec bronchogramme. L’hémoculture identifie un pneumocoque sensible à l’amoxicilline. Quels éléments guident l’orientation du patient ?
+A: F | L’absence de douleur thoracique exclut une pneumonie grave.
+B: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+C: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+D: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+E: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: La présentation peut être atypique.
+EXPLICATION_B: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_C: Elle participe aux critères de gravité.
+EXPLICATION_D: Les signes généraux peuvent être atypiques.
+EXPLICATION_E: La sécurité du traitement ambulatoire doit être appréciée.
+
+---
+ID: 154-029
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Imagerie et sémiologie
+SOURCE: Fiche item 154 fournie - page(s) 2
+CONSIGNE: Un homme de 46 ans a une fièvre brutale et une condensation lobaire avec bronchogramme. L’hémoculture identifie un pneumocoque sensible à l’amoxicilline. Quelles interprétations sont exactes ?
+A: V | Un scanner peut préciser une complication ou un diagnostic alternatif.
+B: F | Un épanchement pleural augmente typiquement les vibrations vocales comme une condensation isolée.
+C: F | Une auscultation normale exclut à elle seule une pneumonie.
+D: V | Un bronchogramme aérien peut être visible dans une opacité alvéolaire.
+E: F | Une opacité lobaire identifie avec certitude le pneumocoque.
+JUSTIFICATION: L’imagerie documente l’atteinte parenchymateuse et ses complications sans identifier à elle seule le germe.
+EXPLICATION_A: Il n’est pas l’examen systématique initial de toute infection respiratoire.
+EXPLICATION_B: Un épanchement les diminue.
+EXPLICATION_C: L’examen peut être peu contributif.
+EXPLICATION_D: Les bronches aérées contrastent avec le parenchyme condensé.
+EXPLICATION_E: L’aspect oriente mais ne constitue pas une identification microbiologique.
+
+---
+ID: 154-030
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Un homme de 46 ans a une fièvre brutale et une condensation lobaire avec bronchogramme. L’hémoculture identifie un pneumocoque sensible à l’amoxicilline. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+B: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+C: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+D: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+E: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+EXPLICATION_B: Il faut comprendre la cause de la non-amélioration.
+EXPLICATION_C: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_D: L’échec peut être lié à une exposition antibiotique insuffisante.
+EXPLICATION_E: Une détérioration impose une réévaluation immédiate.
+
+---
+ID: 154-031
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 2-4,7-8
+CONSIGNE: Une femme de 59 ans présente une douleur pleurale et une condensation systématisée. Un prélèvement respiratoire de qualité documente un pneumocoque sensible. Quel diagnostic principal est le plus probable ?
+A: V | Pneumonie communautaire à pneumocoque documentée
+B: F | Pneumonie grippale documentée
+C: F | Bronchite aiguë du sujet sain
+D: F | Empyème pleural compliquant une pneumonie
+E: F | Pneumonie à Mycoplasma documentée
+JUSTIFICATION: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_A: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_B: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_C: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_D: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_E: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+
+---
+ID: 154-032
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Pneumocoque et traitement ciblé
+SOURCE: Fiche item 154 fournie - page(s) 4,7-8
+CONSIGNE: Une femme de 59 ans présente une douleur pleurale et une condensation systématisée. Un prélèvement respiratoire de qualité documente un pneumocoque sensible. Quelles propositions concernant une PAC à pneumocoque sont exactes ?
+A: F | Le métronidazole seul est le traitement ciblé de référence du pneumocoque.
+B: F | Une sensibilité documentée dispense de surveiller la tolérance respiratoire.
+C: V | Un épanchement peut compliquer cette pneumonie.
+D: V | Une forme lobaire brutale est compatible avec le pneumocoque.
+E: F | L’absence de diarrhée prouve une infection à pneumocoque.
+JUSTIFICATION: Le contexte et la microbiologie guident la prise en charge et la désescalade.
+EXPLICATION_A: Il ne couvre pas ce germe.
+EXPLICATION_B: Le traitement ciblé ne supprime pas immédiatement le risque de complication.
+EXPLICATION_C: Sa nature et sa tolérance doivent être évaluées.
+EXPLICATION_D: Ce profil est classique mais non exclusif.
+EXPLICATION_E: Aucun signe négatif isolé ne l’identifie.
+
+---
+ID: 154-033
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Une femme de 59 ans présente une douleur pleurale et une condensation systématisée. Un prélèvement respiratoire de qualité documente un pneumocoque sensible. Quels éléments guident l’orientation du patient ?
+A: F | L’absence de douleur thoracique exclut une pneumonie grave.
+B: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+C: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+D: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+E: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: La présentation peut être atypique.
+EXPLICATION_B: Les signes généraux peuvent être atypiques.
+EXPLICATION_C: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_D: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_E: La sécurité du traitement ambulatoire doit être appréciée.
+
+---
+ID: 154-034
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Imagerie et sémiologie
+SOURCE: Fiche item 154 fournie - page(s) 2
+CONSIGNE: Une femme de 59 ans présente une douleur pleurale et une condensation systématisée. Un prélèvement respiratoire de qualité documente un pneumocoque sensible. Quelles interprétations sont exactes ?
+A: F | Un épanchement pleural augmente typiquement les vibrations vocales comme une condensation isolée.
+B: F | Une opacité lobaire identifie avec certitude le pneumocoque.
+C: V | Une condensation peut s’accompagner d’un souffle tubaire.
+D: V | Un scanner peut préciser une complication ou un diagnostic alternatif.
+E: F | Une auscultation normale exclut à elle seule une pneumonie.
+JUSTIFICATION: L’imagerie documente l’atteinte parenchymateuse et ses complications sans identifier à elle seule le germe.
+EXPLICATION_A: Un épanchement les diminue.
+EXPLICATION_B: L’aspect oriente mais ne constitue pas une identification microbiologique.
+EXPLICATION_C: Elle transmet différemment les bruits respiratoires.
+EXPLICATION_D: Il n’est pas l’examen systématique initial de toute infection respiratoire.
+EXPLICATION_E: L’examen peut être peu contributif.
+
+---
+ID: 154-035
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Une femme de 59 ans présente une douleur pleurale et une condensation systématisée. Un prélèvement respiratoire de qualité documente un pneumocoque sensible. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+B: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+C: V | Rechercher une complication pleurale ou un abcès est pertinent.
+D: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+E: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: Une détérioration impose une réévaluation immédiate.
+EXPLICATION_B: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+EXPLICATION_C: Ces complications peuvent expliquer une persistance des symptômes.
+EXPLICATION_D: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_E: Il faut comprendre la cause de la non-amélioration.
+
+---
+ID: 154-036
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 2-4,7-8
+CONSIGNE: Un patient a une PAC lobaire avec expectoration saumonée ; une hémoculture positive identifie le pneumocoque, sans allergie aux pénicillines. Quel diagnostic principal est le plus probable ?
+A: F | Pneumonie à Legionella documentée
+B: V | Pneumonie communautaire à pneumocoque documentée
+C: F | Pneumonie à Mycoplasma documentée
+D: F | Bronchite aiguë du sujet sain
+E: F | Empyème pleural compliquant une pneumonie
+JUSTIFICATION: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_A: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_B: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_C: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_D: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_E: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+
+---
+ID: 154-037
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Pneumocoque et traitement ciblé
+SOURCE: Fiche item 154 fournie - page(s) 4,7-8
+CONSIGNE: Un patient a une PAC lobaire avec expectoration saumonée ; une hémoculture positive identifie le pneumocoque, sans allergie aux pénicillines. Quelles propositions concernant une PAC à pneumocoque sont exactes ?
+A: F | Une sensibilité documentée dispense de surveiller la tolérance respiratoire.
+B: F | Le métronidazole seul est le traitement ciblé de référence du pneumocoque.
+C: V | Une forme lobaire brutale est compatible avec le pneumocoque.
+D: F | L’absence de diarrhée prouve une infection à pneumocoque.
+E: V | L’amoxicilline est une option de référence pour un pneumocoque sensible dans un contexte adapté.
+JUSTIFICATION: Le contexte et la microbiologie guident la prise en charge et la désescalade.
+EXPLICATION_A: Le traitement ciblé ne supprime pas immédiatement le risque de complication.
+EXPLICATION_B: Il ne couvre pas ce germe.
+EXPLICATION_C: Ce profil est classique mais non exclusif.
+EXPLICATION_D: Aucun signe négatif isolé ne l’identifie.
+EXPLICATION_E: Le terrain et la gravité doivent aussi être pris en compte.
+
+---
+ID: 154-038
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Un patient a une PAC lobaire avec expectoration saumonée ; une hémoculture positive identifie le pneumocoque, sans allergie aux pénicillines. Quels éléments guident l’orientation du patient ?
+A: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+B: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+C: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+D: F | L’absence de douleur thoracique exclut une pneumonie grave.
+E: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: Les signes généraux peuvent être atypiques.
+EXPLICATION_B: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_C: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_D: La présentation peut être atypique.
+EXPLICATION_E: Elle participe aux critères de gravité.
+
+---
+ID: 154-039
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Imagerie et sémiologie
+SOURCE: Fiche item 154 fournie - page(s) 2
+CONSIGNE: Un patient a une PAC lobaire avec expectoration saumonée ; une hémoculture positive identifie le pneumocoque, sans allergie aux pénicillines. Quelles interprétations sont exactes ?
+A: V | Un bronchogramme aérien peut être visible dans une opacité alvéolaire.
+B: V | Une condensation peut s’accompagner d’un souffle tubaire.
+C: F | Une opacité lobaire identifie avec certitude le pneumocoque.
+D: F | Une auscultation normale exclut à elle seule une pneumonie.
+E: F | Un épanchement pleural augmente typiquement les vibrations vocales comme une condensation isolée.
+JUSTIFICATION: L’imagerie documente l’atteinte parenchymateuse et ses complications sans identifier à elle seule le germe.
+EXPLICATION_A: Les bronches aérées contrastent avec le parenchyme condensé.
+EXPLICATION_B: Elle transmet différemment les bruits respiratoires.
+EXPLICATION_C: L’aspect oriente mais ne constitue pas une identification microbiologique.
+EXPLICATION_D: L’examen peut être peu contributif.
+EXPLICATION_E: Un épanchement les diminue.
+
+---
+ID: 154-040
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Un patient a une PAC lobaire avec expectoration saumonée ; une hémoculture positive identifie le pneumocoque, sans allergie aux pénicillines. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+B: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+C: V | Rechercher une complication pleurale ou un abcès est pertinent.
+D: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+E: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_B: Il faut comprendre la cause de la non-amélioration.
+EXPLICATION_C: Ces complications peuvent expliquer une persistance des symptômes.
+EXPLICATION_D: Une détérioration impose une réévaluation immédiate.
+EXPLICATION_E: L’échec peut être lié à une exposition antibiotique insuffisante.
+
+---
+ID: 154-041
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 2-4,7-8
+CONSIGNE: Une patiente de 67 ans a une condensation lobaire fébrile ; les examens microbiologiques confirment un pneumocoque sensible et l’évolution doit être surveillée. Quel diagnostic principal est le plus probable ?
+A: V | Pneumonie communautaire à pneumocoque documentée
+B: F | Pneumonie à Legionella documentée
+C: F | Pneumonie grippale documentée
+D: F | Bronchite aiguë du sujet sain
+E: F | Pneumonie à Mycoplasma documentée
+JUSTIFICATION: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_A: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_B: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_C: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_D: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_E: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+
+---
+ID: 154-042
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Pneumocoque et traitement ciblé
+SOURCE: Fiche item 154 fournie - page(s) 4,7-8
+CONSIGNE: Une patiente de 67 ans a une condensation lobaire fébrile ; les examens microbiologiques confirment un pneumocoque sensible et l’évolution doit être surveillée. Quelles propositions concernant une PAC à pneumocoque sont exactes ?
+A: F | L’absence de diarrhée prouve une infection à pneumocoque.
+B: V | L’amoxicilline est une option de référence pour un pneumocoque sensible dans un contexte adapté.
+C: V | Une forme lobaire brutale est compatible avec le pneumocoque.
+D: V | Un épanchement peut compliquer cette pneumonie.
+E: F | Une sensibilité documentée dispense de surveiller la tolérance respiratoire.
+JUSTIFICATION: Le contexte et la microbiologie guident la prise en charge et la désescalade.
+EXPLICATION_A: Aucun signe négatif isolé ne l’identifie.
+EXPLICATION_B: Le terrain et la gravité doivent aussi être pris en compte.
+EXPLICATION_C: Ce profil est classique mais non exclusif.
+EXPLICATION_D: Sa nature et sa tolérance doivent être évaluées.
+EXPLICATION_E: Le traitement ciblé ne supprime pas immédiatement le risque de complication.
+
+---
+ID: 154-043
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Une patiente de 67 ans a une condensation lobaire fébrile ; les examens microbiologiques confirment un pneumocoque sensible et l’évolution doit être surveillée. Quels éléments guident l’orientation du patient ?
+A: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+B: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+C: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+D: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+E: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_B: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_C: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_D: Elle participe aux critères de gravité.
+EXPLICATION_E: Les signes généraux peuvent être atypiques.
+
+---
+ID: 154-044
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Imagerie et sémiologie
+SOURCE: Fiche item 154 fournie - page(s) 2
+CONSIGNE: Une patiente de 67 ans a une condensation lobaire fébrile ; les examens microbiologiques confirment un pneumocoque sensible et l’évolution doit être surveillée. Quelles interprétations sont exactes ?
+A: V | Un bronchogramme aérien peut être visible dans une opacité alvéolaire.
+B: F | Un épanchement pleural augmente typiquement les vibrations vocales comme une condensation isolée.
+C: V | Une condensation peut s’accompagner d’un souffle tubaire.
+D: V | Un scanner peut préciser une complication ou un diagnostic alternatif.
+E: F | Une opacité lobaire identifie avec certitude le pneumocoque.
+JUSTIFICATION: L’imagerie documente l’atteinte parenchymateuse et ses complications sans identifier à elle seule le germe.
+EXPLICATION_A: Les bronches aérées contrastent avec le parenchyme condensé.
+EXPLICATION_B: Un épanchement les diminue.
+EXPLICATION_C: Elle transmet différemment les bruits respiratoires.
+EXPLICATION_D: Il n’est pas l’examen systématique initial de toute infection respiratoire.
+EXPLICATION_E: L’aspect oriente mais ne constitue pas une identification microbiologique.
+
+---
+ID: 154-045
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Une patiente de 67 ans a une condensation lobaire fébrile ; les examens microbiologiques confirment un pneumocoque sensible et l’évolution doit être surveillée. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+B: V | Rechercher une complication pleurale ou un abcès est pertinent.
+C: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+D: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+E: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+EXPLICATION_B: Ces complications peuvent expliquer une persistance des symptômes.
+EXPLICATION_C: L’échec peut être lié à une exposition antibiotique insuffisante.
+EXPLICATION_D: Il faut comprendre la cause de la non-amélioration.
+EXPLICATION_E: Un drainage ou une autre prise en charge peut être nécessaire.
+
+---
+ID: 154-046
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 2-4,7-8
+CONSIGNE: Un homme hospitalisé pour PAC présente une opacité alvéolaire et un prélèvement profond documentant le pneumocoque ; aucun argument microbiologique ne soutient une bactérie atypique. Quel diagnostic principal est le plus probable ?
+A: V | Pneumonie communautaire à pneumocoque documentée
+B: F | Pneumonie à Mycoplasma documentée
+C: F | Pneumonie à Legionella documentée
+D: F | Pneumonie grippale documentée
+E: F | Empyème pleural compliquant une pneumonie
+JUSTIFICATION: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_A: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_B: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_C: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_D: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+EXPLICATION_E: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier.
+
+---
+ID: 154-047
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Pneumocoque et traitement ciblé
+SOURCE: Fiche item 154 fournie - page(s) 4,7-8
+CONSIGNE: Un homme hospitalisé pour PAC présente une opacité alvéolaire et un prélèvement profond documentant le pneumocoque ; aucun argument microbiologique ne soutient une bactérie atypique. Quelles propositions concernant une PAC à pneumocoque sont exactes ?
+A: V | Un épanchement peut compliquer cette pneumonie.
+B: V | L’amoxicilline est une option de référence pour un pneumocoque sensible dans un contexte adapté.
+C: F | Le métronidazole seul est le traitement ciblé de référence du pneumocoque.
+D: V | Une forme lobaire brutale est compatible avec le pneumocoque.
+E: F | Une sensibilité documentée dispense de surveiller la tolérance respiratoire.
+JUSTIFICATION: Le contexte et la microbiologie guident la prise en charge et la désescalade.
+EXPLICATION_A: Sa nature et sa tolérance doivent être évaluées.
+EXPLICATION_B: Le terrain et la gravité doivent aussi être pris en compte.
+EXPLICATION_C: Il ne couvre pas ce germe.
+EXPLICATION_D: Ce profil est classique mais non exclusif.
+EXPLICATION_E: Le traitement ciblé ne supprime pas immédiatement le risque de complication.
+
+---
+ID: 154-048
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Un homme hospitalisé pour PAC présente une opacité alvéolaire et un prélèvement profond documentant le pneumocoque ; aucun argument microbiologique ne soutient une bactérie atypique. Quels éléments guident l’orientation du patient ?
+A: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+B: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+C: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+D: F | L’absence de douleur thoracique exclut une pneumonie grave.
+E: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_B: Elle participe aux critères de gravité.
+EXPLICATION_C: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_D: La présentation peut être atypique.
+EXPLICATION_E: Les signes généraux peuvent être atypiques.
+
+---
+ID: 154-049
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Imagerie et sémiologie
+SOURCE: Fiche item 154 fournie - page(s) 2
+CONSIGNE: Un homme hospitalisé pour PAC présente une opacité alvéolaire et un prélèvement profond documentant le pneumocoque ; aucun argument microbiologique ne soutient une bactérie atypique. Quelles interprétations sont exactes ?
+A: V | Un scanner peut préciser une complication ou un diagnostic alternatif.
+B: V | Un bronchogramme aérien peut être visible dans une opacité alvéolaire.
+C: F | Une auscultation normale exclut à elle seule une pneumonie.
+D: V | Une condensation peut s’accompagner d’un souffle tubaire.
+E: F | Un épanchement pleural augmente typiquement les vibrations vocales comme une condensation isolée.
+JUSTIFICATION: L’imagerie documente l’atteinte parenchymateuse et ses complications sans identifier à elle seule le germe.
+EXPLICATION_A: Il n’est pas l’examen systématique initial de toute infection respiratoire.
+EXPLICATION_B: Les bronches aérées contrastent avec le parenchyme condensé.
+EXPLICATION_C: L’examen peut être peu contributif.
+EXPLICATION_D: Elle transmet différemment les bruits respiratoires.
+EXPLICATION_E: Un épanchement les diminue.
+
+---
+ID: 154-050
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Pneumocoque · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Un homme hospitalisé pour PAC présente une opacité alvéolaire et un prélèvement profond documentant le pneumocoque ; aucun argument microbiologique ne soutient une bactérie atypique. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+B: V | Rechercher une complication pleurale ou un abcès est pertinent.
+C: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+D: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+E: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: L’échec peut être lié à une exposition antibiotique insuffisante.
+EXPLICATION_B: Ces complications peuvent expliquer une persistance des symptômes.
+EXPLICATION_C: Une détérioration impose une réévaluation immédiate.
+EXPLICATION_D: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_E: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+
+---
+ID: 154-051
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 5,7
+CONSIGNE: Une femme de 23 ans a une pneumonie progressive après des cas en collectivité. La PCR respiratoire identifie Mycoplasma pneumoniae. Quel diagnostic principal est le plus probable ?
+A: V | Pneumonie à Mycoplasma documentée
+B: F | Pneumonie communautaire à pneumocoque documentée
+C: F | Empyème pleural compliquant une pneumonie
+D: F | Pneumonie grippale documentée
+E: F | Bronchite aiguë du sujet sain
+JUSTIFICATION: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_A: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_B: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_C: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_D: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_E: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+
+---
+ID: 154-052
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Bactérie atypique
+SOURCE: Fiche item 154 fournie - page(s) 5,7
+CONSIGNE: Une femme de 23 ans a une pneumonie progressive après des cas en collectivité. La PCR respiratoire identifie Mycoplasma pneumoniae. Quelles propositions sont cohérentes avec Mycoplasma ?
+A: V | Un macrolide est une classe active proposée dans la fiche.
+B: F | Une sérologie isolée précocement négative suffit à exclure l’infection.
+C: V | Une anémie hémolytique peut accompagner cette infection.
+D: F | L’amoxicilline est le traitement spécifique de Mycoplasma.
+E: F | Une pneumonie à Mycoplasma est définie par une inhalation d’eau contaminée.
+JUSTIFICATION: Une infection à Mycoplasma peut être associée à des manifestations extrarespiratoires et ne relève pas d’une bêta-lactamine ciblée.
+EXPLICATION_A: Il constitue une option adaptée selon le contexte.
+EXPLICATION_B: La sérologie peut être rétrospective ; la PCR peut documenter l’épisode.
+EXPLICATION_C: La fiche décrit l’association avec des agglutinines froides.
+EXPLICATION_D: Cette bactérie n’est pas couverte par cette bêta-lactamine.
+EXPLICATION_E: C’est une exposition évocatrice de légionellose.
+
+---
+ID: 154-053
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Une femme de 23 ans a une pneumonie progressive après des cas en collectivité. La PCR respiratoire identifie Mycoplasma pneumoniae. Quels éléments guident l’orientation du patient ?
+A: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+B: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+C: F | L’absence de douleur thoracique exclut une pneumonie grave.
+D: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+E: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: Elle participe aux critères de gravité.
+EXPLICATION_B: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_C: La présentation peut être atypique.
+EXPLICATION_D: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_E: Les signes généraux peuvent être atypiques.
+
+---
+ID: 154-054
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Une femme de 23 ans a une pneumonie progressive après des cas en collectivité. La PCR respiratoire identifie Mycoplasma pneumoniae. Quelles propositions concernant les prélèvements sont exactes ?
+A: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+B: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+C: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+D: F | Une PCR virale positive exclut toute co-infection bactérienne.
+E: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: Le bilan doit être adapté à la présentation.
+EXPLICATION_B: Elle aide à l’enquête étiologique.
+EXPLICATION_C: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+EXPLICATION_D: Les deux peuvent coexister.
+EXPLICATION_E: La purulence peut accompagner d’autres infections, dont une bronchite.
+
+---
+ID: 154-055
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Une femme de 23 ans a une pneumonie progressive après des cas en collectivité. La PCR respiratoire identifie Mycoplasma pneumoniae. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+B: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+C: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+D: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+E: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_B: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+EXPLICATION_C: Il faut comprendre la cause de la non-amélioration.
+EXPLICATION_D: Une détérioration impose une réévaluation immédiate.
+EXPLICATION_E: L’échec peut être lié à une exposition antibiotique insuffisante.
+
+---
+ID: 154-056
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 5,7
+CONSIGNE: Un homme de 28 ans a une toux fébrile avec opacités interstitielles et signes ORL. La PCR pour Mycoplasma est positive. Quel diagnostic principal est le plus probable ?
+A: F | Pneumonie à Legionella documentée
+B: F | Empyème pleural compliquant une pneumonie
+C: V | Pneumonie à Mycoplasma documentée
+D: F | Bronchite aiguë du sujet sain
+E: F | Pneumonie communautaire à pneumocoque documentée
+JUSTIFICATION: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_A: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_B: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_C: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_D: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_E: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+
+---
+ID: 154-057
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Bactérie atypique
+SOURCE: Fiche item 154 fournie - page(s) 5,7
+CONSIGNE: Un homme de 28 ans a une toux fébrile avec opacités interstitielles et signes ORL. La PCR pour Mycoplasma est positive. Quelles propositions sont cohérentes avec Mycoplasma ?
+A: F | Une sérologie isolée précocement négative suffit à exclure l’infection.
+B: F | Une pneumonie à Mycoplasma est définie par une inhalation d’eau contaminée.
+C: F | L’amoxicilline est le traitement spécifique de Mycoplasma.
+D: V | Un macrolide est une classe active proposée dans la fiche.
+E: V | Un contexte de cas respiratoires en collectivité est compatible.
+JUSTIFICATION: Une infection à Mycoplasma peut être associée à des manifestations extrarespiratoires et ne relève pas d’une bêta-lactamine ciblée.
+EXPLICATION_A: La sérologie peut être rétrospective ; la PCR peut documenter l’épisode.
+EXPLICATION_B: C’est une exposition évocatrice de légionellose.
+EXPLICATION_C: Cette bactérie n’est pas couverte par cette bêta-lactamine.
+EXPLICATION_D: Il constitue une option adaptée selon le contexte.
+EXPLICATION_E: La transmission interhumaine est possible.
+
+---
+ID: 154-058
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Un homme de 28 ans a une toux fébrile avec opacités interstitielles et signes ORL. La PCR pour Mycoplasma est positive. Quels éléments guident l’orientation du patient ?
+A: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+B: F | L’absence de douleur thoracique exclut une pneumonie grave.
+C: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+D: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+E: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_B: La présentation peut être atypique.
+EXPLICATION_C: Les signes généraux peuvent être atypiques.
+EXPLICATION_D: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_E: La sécurité du traitement ambulatoire doit être appréciée.
+
+---
+ID: 154-059
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Un homme de 28 ans a une toux fébrile avec opacités interstitielles et signes ORL. La PCR pour Mycoplasma est positive. Quelles propositions concernant les prélèvements sont exactes ?
+A: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+B: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+C: F | Une PCR virale positive exclut toute co-infection bactérienne.
+D: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+E: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: La contamination oropharyngée limite la valeur de certains résultats.
+EXPLICATION_B: Le bilan doit être adapté à la présentation.
+EXPLICATION_C: Les deux peuvent coexister.
+EXPLICATION_D: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+EXPLICATION_E: La purulence peut accompagner d’autres infections, dont une bronchite.
+
+---
+ID: 154-060
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Un homme de 28 ans a une toux fébrile avec opacités interstitielles et signes ORL. La PCR pour Mycoplasma est positive. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+B: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+C: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+D: V | Rechercher une complication pleurale ou un abcès est pertinent.
+E: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+EXPLICATION_B: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_C: Une détérioration impose une réévaluation immédiate.
+EXPLICATION_D: Ces complications peuvent expliquer une persistance des symptômes.
+EXPLICATION_E: Il faut comprendre la cause de la non-amélioration.
+
+---
+ID: 154-061
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 5,7
+CONSIGNE: Une patiente jeune présente une pneumonie avec éruption et anémie hémolytique ; la PCR respiratoire confirme Mycoplasma pneumoniae. Quel diagnostic principal est le plus probable ?
+A: F | Pneumonie grippale documentée
+B: F | Pneumonie à Legionella documentée
+C: F | Pneumonie communautaire à pneumocoque documentée
+D: V | Pneumonie à Mycoplasma documentée
+E: F | Bronchite aiguë du sujet sain
+JUSTIFICATION: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_A: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_B: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_C: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_D: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_E: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+
+---
+ID: 154-062
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Bactérie atypique
+SOURCE: Fiche item 154 fournie - page(s) 5,7
+CONSIGNE: Une patiente jeune présente une pneumonie avec éruption et anémie hémolytique ; la PCR respiratoire confirme Mycoplasma pneumoniae. Quelles propositions sont cohérentes avec Mycoplasma ?
+A: F | Une pneumonie à Mycoplasma est définie par une inhalation d’eau contaminée.
+B: F | Une sérologie isolée précocement négative suffit à exclure l’infection.
+C: F | L’amoxicilline est le traitement spécifique de Mycoplasma.
+D: V | Un contexte de cas respiratoires en collectivité est compatible.
+E: V | Une anémie hémolytique peut accompagner cette infection.
+JUSTIFICATION: Une infection à Mycoplasma peut être associée à des manifestations extrarespiratoires et ne relève pas d’une bêta-lactamine ciblée.
+EXPLICATION_A: C’est une exposition évocatrice de légionellose.
+EXPLICATION_B: La sérologie peut être rétrospective ; la PCR peut documenter l’épisode.
+EXPLICATION_C: Cette bactérie n’est pas couverte par cette bêta-lactamine.
+EXPLICATION_D: La transmission interhumaine est possible.
+EXPLICATION_E: La fiche décrit l’association avec des agglutinines froides.
+
+---
+ID: 154-063
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Une patiente jeune présente une pneumonie avec éruption et anémie hémolytique ; la PCR respiratoire confirme Mycoplasma pneumoniae. Quels éléments guident l’orientation du patient ?
+A: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+B: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+C: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+D: F | L’absence de douleur thoracique exclut une pneumonie grave.
+E: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_B: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_C: Les signes généraux peuvent être atypiques.
+EXPLICATION_D: La présentation peut être atypique.
+EXPLICATION_E: Elle participe aux critères de gravité.
+
+---
+ID: 154-064
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Une patiente jeune présente une pneumonie avec éruption et anémie hémolytique ; la PCR respiratoire confirme Mycoplasma pneumoniae. Quelles propositions concernant les prélèvements sont exactes ?
+A: F | Une PCR virale positive exclut toute co-infection bactérienne.
+B: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+C: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+D: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+E: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: Les deux peuvent coexister.
+EXPLICATION_B: La purulence peut accompagner d’autres infections, dont une bronchite.
+EXPLICATION_C: Elle aide à l’enquête étiologique.
+EXPLICATION_D: Le bilan doit être adapté à la présentation.
+EXPLICATION_E: La contamination oropharyngée limite la valeur de certains résultats.
+
+---
+ID: 154-065
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Une patiente jeune présente une pneumonie avec éruption et anémie hémolytique ; la PCR respiratoire confirme Mycoplasma pneumoniae. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+B: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+C: V | Rechercher une complication pleurale ou un abcès est pertinent.
+D: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+E: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: Il faut comprendre la cause de la non-amélioration.
+EXPLICATION_B: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_C: Ces complications peuvent expliquer une persistance des symptômes.
+EXPLICATION_D: Une détérioration impose une réévaluation immédiate.
+EXPLICATION_E: L’échec peut être lié à une exposition antibiotique insuffisante.
+
+---
+ID: 154-066
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 5,7
+CONSIGNE: Un patient de 31 ans a une pneumonie persistante sous amoxicilline, sans mauvaise observance. Une PCR respiratoire documente Mycoplasma. Quel diagnostic principal est le plus probable ?
+A: F | Pneumonie grippale documentée
+B: F | Empyème pleural compliquant une pneumonie
+C: V | Pneumonie à Mycoplasma documentée
+D: F | Pneumonie à Legionella documentée
+E: F | Pneumonie communautaire à pneumocoque documentée
+JUSTIFICATION: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_A: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_B: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_C: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_D: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_E: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+
+---
+ID: 154-067
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Bactérie atypique
+SOURCE: Fiche item 154 fournie - page(s) 5,7
+CONSIGNE: Un patient de 31 ans a une pneumonie persistante sous amoxicilline, sans mauvaise observance. Une PCR respiratoire documente Mycoplasma. Quelles propositions sont cohérentes avec Mycoplasma ?
+A: F | Une pneumonie à Mycoplasma est définie par une inhalation d’eau contaminée.
+B: V | Un contexte de cas respiratoires en collectivité est compatible.
+C: V | Une anémie hémolytique peut accompagner cette infection.
+D: V | Un macrolide est une classe active proposée dans la fiche.
+E: F | Une sérologie isolée précocement négative suffit à exclure l’infection.
+JUSTIFICATION: Une infection à Mycoplasma peut être associée à des manifestations extrarespiratoires et ne relève pas d’une bêta-lactamine ciblée.
+EXPLICATION_A: C’est une exposition évocatrice de légionellose.
+EXPLICATION_B: La transmission interhumaine est possible.
+EXPLICATION_C: La fiche décrit l’association avec des agglutinines froides.
+EXPLICATION_D: Il constitue une option adaptée selon le contexte.
+EXPLICATION_E: La sérologie peut être rétrospective ; la PCR peut documenter l’épisode.
+
+---
+ID: 154-068
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Un patient de 31 ans a une pneumonie persistante sous amoxicilline, sans mauvaise observance. Une PCR respiratoire documente Mycoplasma. Quels éléments guident l’orientation du patient ?
+A: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+B: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+C: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+D: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+E: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_B: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_C: Elle participe aux critères de gravité.
+EXPLICATION_D: Les signes généraux peuvent être atypiques.
+EXPLICATION_E: Elle peut accompagner une infection grave ou une hypoxémie.
+
+---
+ID: 154-069
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Un patient de 31 ans a une pneumonie persistante sous amoxicilline, sans mauvaise observance. Une PCR respiratoire documente Mycoplasma. Quelles propositions concernant les prélèvements sont exactes ?
+A: F | Une PCR virale positive exclut toute co-infection bactérienne.
+B: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+C: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+D: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+E: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: Les deux peuvent coexister.
+EXPLICATION_B: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+EXPLICATION_C: Elle aide à l’enquête étiologique.
+EXPLICATION_D: La contamination oropharyngée limite la valeur de certains résultats.
+EXPLICATION_E: Le bilan doit être adapté à la présentation.
+
+---
+ID: 154-070
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Un patient de 31 ans a une pneumonie persistante sous amoxicilline, sans mauvaise observance. Une PCR respiratoire documente Mycoplasma. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+B: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+C: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+D: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+E: V | Rechercher une complication pleurale ou un abcès est pertinent.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: L’échec peut être lié à une exposition antibiotique insuffisante.
+EXPLICATION_B: Il faut comprendre la cause de la non-amélioration.
+EXPLICATION_C: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_D: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+EXPLICATION_E: Ces complications peuvent expliquer une persistance des symptômes.
+
+---
+ID: 154-071
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 5,7
+CONSIGNE: Une femme de 25 ans a une pneumonie peu bruyante dans une collectivité, avec arthralgies. La PCR identifie Mycoplasma pneumoniae. Quel diagnostic principal est le plus probable ?
+A: F | Pneumonie grippale documentée
+B: F | Empyème pleural compliquant une pneumonie
+C: F | Bronchite aiguë du sujet sain
+D: F | Pneumonie à Legionella documentée
+E: V | Pneumonie à Mycoplasma documentée
+JUSTIFICATION: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_A: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_B: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_C: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_D: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+EXPLICATION_E: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma.
+
+---
+ID: 154-072
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Bactérie atypique
+SOURCE: Fiche item 154 fournie - page(s) 5,7
+CONSIGNE: Une femme de 25 ans a une pneumonie peu bruyante dans une collectivité, avec arthralgies. La PCR identifie Mycoplasma pneumoniae. Quelles propositions sont cohérentes avec Mycoplasma ?
+A: F | Une sérologie isolée précocement négative suffit à exclure l’infection.
+B: F | L’amoxicilline est le traitement spécifique de Mycoplasma.
+C: V | Un contexte de cas respiratoires en collectivité est compatible.
+D: V | Une anémie hémolytique peut accompagner cette infection.
+E: V | Un macrolide est une classe active proposée dans la fiche.
+JUSTIFICATION: Une infection à Mycoplasma peut être associée à des manifestations extrarespiratoires et ne relève pas d’une bêta-lactamine ciblée.
+EXPLICATION_A: La sérologie peut être rétrospective ; la PCR peut documenter l’épisode.
+EXPLICATION_B: Cette bactérie n’est pas couverte par cette bêta-lactamine.
+EXPLICATION_C: La transmission interhumaine est possible.
+EXPLICATION_D: La fiche décrit l’association avec des agglutinines froides.
+EXPLICATION_E: Il constitue une option adaptée selon le contexte.
+
+---
+ID: 154-073
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Une femme de 25 ans a une pneumonie peu bruyante dans une collectivité, avec arthralgies. La PCR identifie Mycoplasma pneumoniae. Quels éléments guident l’orientation du patient ?
+A: F | L’absence de douleur thoracique exclut une pneumonie grave.
+B: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+C: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+D: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+E: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: La présentation peut être atypique.
+EXPLICATION_B: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_C: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_D: Les signes généraux peuvent être atypiques.
+EXPLICATION_E: Elle participe aux critères de gravité.
+
+---
+ID: 154-074
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Une femme de 25 ans a une pneumonie peu bruyante dans une collectivité, avec arthralgies. La PCR identifie Mycoplasma pneumoniae. Quelles propositions concernant les prélèvements sont exactes ?
+A: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+B: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+C: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+D: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+E: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: Le bilan doit être adapté à la présentation.
+EXPLICATION_B: Elle aide à l’enquête étiologique.
+EXPLICATION_C: La purulence peut accompagner d’autres infections, dont une bronchite.
+EXPLICATION_D: La contamination oropharyngée limite la valeur de certains résultats.
+EXPLICATION_E: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+
+---
+ID: 154-075
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Mycoplasma · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Une femme de 25 ans a une pneumonie peu bruyante dans une collectivité, avec arthralgies. La PCR identifie Mycoplasma pneumoniae. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+B: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+C: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+D: V | Rechercher une complication pleurale ou un abcès est pertinent.
+E: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: L’échec peut être lié à une exposition antibiotique insuffisante.
+EXPLICATION_B: Une détérioration impose une réévaluation immédiate.
+EXPLICATION_C: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_D: Ces complications peuvent expliquer une persistance des symptômes.
+EXPLICATION_E: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+
+---
+ID: 154-076
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 5-6,8
+CONSIGNE: Un homme de 69 ans a une pneumonie avec diarrhée, confusion et hyponatrémie après un séjour hôtelier. L’antigénurie Legionella est positive. Quel diagnostic principal est le plus probable ?
+A: F | Empyème pleural compliquant une pneumonie
+B: F | Bronchite aiguë du sujet sain
+C: V | Pneumonie à Legionella documentée
+D: F | Pneumonie communautaire à pneumocoque documentée
+E: F | Pneumonie à Mycoplasma documentée
+JUSTIFICATION: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_A: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_B: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_C: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_D: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_E: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+
+---
+ID: 154-077
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Légionelle
+SOURCE: Fiche item 154 fournie - page(s) 5-6
+CONSIGNE: Un homme de 69 ans a une pneumonie avec diarrhée, confusion et hyponatrémie après un séjour hôtelier. L’antigénurie Legionella est positive. Quelles propositions concernant cette étiologie sont exactes ?
+A: V | PCR et culture sur prélèvement respiratoire peuvent compléter l’antigénurie.
+B: F | Une bêta-lactamine seule constitue un traitement ciblé de la légionelle.
+C: F | Une antigénurie renseigne toujours sur la souche exacte et tous les sérogroupes.
+D: F | Hyponatrémie et diarrhée suffisent à identifier formellement le germe.
+E: V | Une antigénurie négative ne suffit pas à exclure toutes les légionelloses.
+JUSTIFICATION: L’exposition à des aérosols d’eau et les signes extrarespiratoires orientent, sans remplacer la microbiologie.
+EXPLICATION_A: Elles élargissent la documentation et l’enquête.
+EXPLICATION_B: Une molécule active sur cette bactérie intracellulaire est nécessaire.
+EXPLICATION_C: La culture et d’autres méthodes apportent des informations complémentaires.
+EXPLICATION_D: Ils sont évocateurs mais non spécifiques.
+EXPLICATION_E: Le test usuel cible surtout L. pneumophila sérogroupe 1.
+
+---
+ID: 154-078
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Un homme de 69 ans a une pneumonie avec diarrhée, confusion et hyponatrémie après un séjour hôtelier. L’antigénurie Legionella est positive. Quels éléments guident l’orientation du patient ?
+A: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+B: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+C: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+D: F | L’absence de douleur thoracique exclut une pneumonie grave.
+E: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_B: Elle participe aux critères de gravité.
+EXPLICATION_C: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_D: La présentation peut être atypique.
+EXPLICATION_E: Les signes généraux peuvent être atypiques.
+
+---
+ID: 154-079
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Un homme de 69 ans a une pneumonie avec diarrhée, confusion et hyponatrémie après un séjour hôtelier. L’antigénurie Legionella est positive. Quelles propositions concernant les prélèvements sont exactes ?
+A: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+B: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+C: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+D: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+E: F | Une PCR virale positive exclut toute co-infection bactérienne.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+EXPLICATION_B: Le bilan doit être adapté à la présentation.
+EXPLICATION_C: Elle aide à l’enquête étiologique.
+EXPLICATION_D: La purulence peut accompagner d’autres infections, dont une bronchite.
+EXPLICATION_E: Les deux peuvent coexister.
+
+---
+ID: 154-080
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Un homme de 69 ans a une pneumonie avec diarrhée, confusion et hyponatrémie après un séjour hôtelier. L’antigénurie Legionella est positive. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+B: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+C: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+D: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+E: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+EXPLICATION_B: L’échec peut être lié à une exposition antibiotique insuffisante.
+EXPLICATION_C: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_D: Il faut comprendre la cause de la non-amélioration.
+EXPLICATION_E: Une détérioration impose une réévaluation immédiate.
+
+---
+ID: 154-081
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 5-6,8
+CONSIGNE: Une femme fumeuse a une PAC hypoxémiante après exposition à des aérosols d’eau ; la PCR respiratoire confirme Legionella. Quel diagnostic principal est le plus probable ?
+A: F | Bronchite aiguë du sujet sain
+B: F | Pneumonie communautaire à pneumocoque documentée
+C: F | Pneumonie grippale documentée
+D: V | Pneumonie à Legionella documentée
+E: F | Pneumonie à Mycoplasma documentée
+JUSTIFICATION: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_A: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_B: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_C: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_D: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_E: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+
+---
+ID: 154-082
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Légionelle
+SOURCE: Fiche item 154 fournie - page(s) 5-6
+CONSIGNE: Une femme fumeuse a une PAC hypoxémiante après exposition à des aérosols d’eau ; la PCR respiratoire confirme Legionella. Quelles propositions concernant cette étiologie sont exactes ?
+A: V | Une exposition à des aérosols d’eau contaminée est compatible.
+B: F | Une bêta-lactamine seule constitue un traitement ciblé de la légionelle.
+C: V | PCR et culture sur prélèvement respiratoire peuvent compléter l’antigénurie.
+D: F | Hyponatrémie et diarrhée suffisent à identifier formellement le germe.
+E: F | Une antigénurie renseigne toujours sur la souche exacte et tous les sérogroupes.
+JUSTIFICATION: L’exposition à des aérosols d’eau et les signes extrarespiratoires orientent, sans remplacer la microbiologie.
+EXPLICATION_A: Elle doit être recherchée dans l’enquête.
+EXPLICATION_B: Une molécule active sur cette bactérie intracellulaire est nécessaire.
+EXPLICATION_C: Elles élargissent la documentation et l’enquête.
+EXPLICATION_D: Ils sont évocateurs mais non spécifiques.
+EXPLICATION_E: La culture et d’autres méthodes apportent des informations complémentaires.
+
+---
+ID: 154-083
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Une femme fumeuse a une PAC hypoxémiante après exposition à des aérosols d’eau ; la PCR respiratoire confirme Legionella. Quels éléments guident l’orientation du patient ?
+A: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+B: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+C: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+D: F | L’absence de douleur thoracique exclut une pneumonie grave.
+E: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: Les signes généraux peuvent être atypiques.
+EXPLICATION_B: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_C: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_D: La présentation peut être atypique.
+EXPLICATION_E: La gravité ne se réduit pas à l’étendue visible.
+
+---
+ID: 154-084
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Une femme fumeuse a une PAC hypoxémiante après exposition à des aérosols d’eau ; la PCR respiratoire confirme Legionella. Quelles propositions concernant les prélèvements sont exactes ?
+A: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+B: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+C: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+D: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+E: F | Une PCR virale positive exclut toute co-infection bactérienne.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: La purulence peut accompagner d’autres infections, dont une bronchite.
+EXPLICATION_B: La contamination oropharyngée limite la valeur de certains résultats.
+EXPLICATION_C: Le bilan doit être adapté à la présentation.
+EXPLICATION_D: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+EXPLICATION_E: Les deux peuvent coexister.
+
+---
+ID: 154-085
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Une femme fumeuse a une PAC hypoxémiante après exposition à des aérosols d’eau ; la PCR respiratoire confirme Legionella. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+B: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+C: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+D: V | Rechercher une complication pleurale ou un abcès est pertinent.
+E: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: Il faut comprendre la cause de la non-amélioration.
+EXPLICATION_B: Une détérioration impose une réévaluation immédiate.
+EXPLICATION_C: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_D: Ces complications peuvent expliquer une persistance des symptômes.
+EXPLICATION_E: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+
+---
+ID: 154-086
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 5-6,8
+CONSIGNE: Un patient immunodéprimé a une pneumonie grave, une diarrhée et une cytolyse. Malgré une antigénurie négative, la culture respiratoire identifie Legionella. Quel diagnostic principal est le plus probable ?
+A: V | Pneumonie à Legionella documentée
+B: F | Pneumonie communautaire à pneumocoque documentée
+C: F | Empyème pleural compliquant une pneumonie
+D: F | Pneumonie à Mycoplasma documentée
+E: F | Pneumonie grippale documentée
+JUSTIFICATION: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_A: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_B: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_C: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_D: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_E: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+
+---
+ID: 154-087
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Légionelle
+SOURCE: Fiche item 154 fournie - page(s) 5-6
+CONSIGNE: Un patient immunodéprimé a une pneumonie grave, une diarrhée et une cytolyse. Malgré une antigénurie négative, la culture respiratoire identifie Legionella. Quelles propositions concernant cette étiologie sont exactes ?
+A: F | Une antigénurie renseigne toujours sur la souche exacte et tous les sérogroupes.
+B: F | Hyponatrémie et diarrhée suffisent à identifier formellement le germe.
+C: V | Une exposition à des aérosols d’eau contaminée est compatible.
+D: V | Une antigénurie négative ne suffit pas à exclure toutes les légionelloses.
+E: F | Une bêta-lactamine seule constitue un traitement ciblé de la légionelle.
+JUSTIFICATION: L’exposition à des aérosols d’eau et les signes extrarespiratoires orientent, sans remplacer la microbiologie.
+EXPLICATION_A: La culture et d’autres méthodes apportent des informations complémentaires.
+EXPLICATION_B: Ils sont évocateurs mais non spécifiques.
+EXPLICATION_C: Elle doit être recherchée dans l’enquête.
+EXPLICATION_D: Le test usuel cible surtout L. pneumophila sérogroupe 1.
+EXPLICATION_E: Une molécule active sur cette bactérie intracellulaire est nécessaire.
+
+---
+ID: 154-088
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Un patient immunodéprimé a une pneumonie grave, une diarrhée et une cytolyse. Malgré une antigénurie négative, la culture respiratoire identifie Legionella. Quels éléments guident l’orientation du patient ?
+A: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+B: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+C: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+D: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+E: F | L’absence de douleur thoracique exclut une pneumonie grave.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: Les signes généraux peuvent être atypiques.
+EXPLICATION_B: Elle participe aux critères de gravité.
+EXPLICATION_C: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_D: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_E: La présentation peut être atypique.
+
+---
+ID: 154-089
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Un patient immunodéprimé a une pneumonie grave, une diarrhée et une cytolyse. Malgré une antigénurie négative, la culture respiratoire identifie Legionella. Quelles propositions concernant les prélèvements sont exactes ?
+A: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+B: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+C: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+D: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+E: F | Une PCR virale positive exclut toute co-infection bactérienne.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: La purulence peut accompagner d’autres infections, dont une bronchite.
+EXPLICATION_B: Le bilan doit être adapté à la présentation.
+EXPLICATION_C: Elle aide à l’enquête étiologique.
+EXPLICATION_D: La contamination oropharyngée limite la valeur de certains résultats.
+EXPLICATION_E: Les deux peuvent coexister.
+
+---
+ID: 154-090
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Un patient immunodéprimé a une pneumonie grave, une diarrhée et une cytolyse. Malgré une antigénurie négative, la culture respiratoire identifie Legionella. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: V | Rechercher une complication pleurale ou un abcès est pertinent.
+B: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+C: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+D: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+E: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: Ces complications peuvent expliquer une persistance des symptômes.
+EXPLICATION_B: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_C: Une détérioration impose une réévaluation immédiate.
+EXPLICATION_D: L’échec peut être lié à une exposition antibiotique insuffisante.
+EXPLICATION_E: Il faut comprendre la cause de la non-amélioration.
+
+---
+ID: 154-091
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 5-6,8
+CONSIGNE: Un homme a une pneumonie avec myalgies, insuffisance rénale et signes digestifs. Une PCR sur prélèvement respiratoire documente Legionella pneumophila. Quel diagnostic principal est le plus probable ?
+A: F | Pneumonie à Mycoplasma documentée
+B: F | Pneumonie grippale documentée
+C: F | Empyème pleural compliquant une pneumonie
+D: F | Bronchite aiguë du sujet sain
+E: V | Pneumonie à Legionella documentée
+JUSTIFICATION: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_A: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_B: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_C: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_D: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_E: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+
+---
+ID: 154-092
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Légionelle
+SOURCE: Fiche item 154 fournie - page(s) 5-6
+CONSIGNE: Un homme a une pneumonie avec myalgies, insuffisance rénale et signes digestifs. Une PCR sur prélèvement respiratoire documente Legionella pneumophila. Quelles propositions concernant cette étiologie sont exactes ?
+A: V | PCR et culture sur prélèvement respiratoire peuvent compléter l’antigénurie.
+B: V | Une exposition à des aérosols d’eau contaminée est compatible.
+C: V | Une antigénurie négative ne suffit pas à exclure toutes les légionelloses.
+D: F | Hyponatrémie et diarrhée suffisent à identifier formellement le germe.
+E: F | Une antigénurie renseigne toujours sur la souche exacte et tous les sérogroupes.
+JUSTIFICATION: L’exposition à des aérosols d’eau et les signes extrarespiratoires orientent, sans remplacer la microbiologie.
+EXPLICATION_A: Elles élargissent la documentation et l’enquête.
+EXPLICATION_B: Elle doit être recherchée dans l’enquête.
+EXPLICATION_C: Le test usuel cible surtout L. pneumophila sérogroupe 1.
+EXPLICATION_D: Ils sont évocateurs mais non spécifiques.
+EXPLICATION_E: La culture et d’autres méthodes apportent des informations complémentaires.
+
+---
+ID: 154-093
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Un homme a une pneumonie avec myalgies, insuffisance rénale et signes digestifs. Une PCR sur prélèvement respiratoire documente Legionella pneumophila. Quels éléments guident l’orientation du patient ?
+A: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+B: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+C: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+D: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+E: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_B: Elle participe aux critères de gravité.
+EXPLICATION_C: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_D: Les signes généraux peuvent être atypiques.
+EXPLICATION_E: Elle peut accompagner une infection grave ou une hypoxémie.
+
+---
+ID: 154-094
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Un homme a une pneumonie avec myalgies, insuffisance rénale et signes digestifs. Une PCR sur prélèvement respiratoire documente Legionella pneumophila. Quelles propositions concernant les prélèvements sont exactes ?
+A: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+B: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+C: F | Une PCR virale positive exclut toute co-infection bactérienne.
+D: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+E: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: La contamination oropharyngée limite la valeur de certains résultats.
+EXPLICATION_B: Le bilan doit être adapté à la présentation.
+EXPLICATION_C: Les deux peuvent coexister.
+EXPLICATION_D: Elle aide à l’enquête étiologique.
+EXPLICATION_E: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+
+---
+ID: 154-095
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Un homme a une pneumonie avec myalgies, insuffisance rénale et signes digestifs. Une PCR sur prélèvement respiratoire documente Legionella pneumophila. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: V | Rechercher une complication pleurale ou un abcès est pertinent.
+B: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+C: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+D: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+E: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: Ces complications peuvent expliquer une persistance des symptômes.
+EXPLICATION_B: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+EXPLICATION_C: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_D: L’échec peut être lié à une exposition antibiotique insuffisante.
+EXPLICATION_E: Il faut comprendre la cause de la non-amélioration.
+
+---
+ID: 154-096
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 5-6,8
+CONSIGNE: Une patiente hospitalisée pour PAC grave présente une antigénurie Legionella positive après une exposition à un réseau d’eau collectif. Quel diagnostic principal est le plus probable ?
+A: F | Pneumonie grippale documentée
+B: V | Pneumonie à Legionella documentée
+C: F | Pneumonie communautaire à pneumocoque documentée
+D: F | Empyème pleural compliquant une pneumonie
+E: F | Bronchite aiguë du sujet sain
+JUSTIFICATION: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_A: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_B: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_C: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_D: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+EXPLICATION_E: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose.
+
+---
+ID: 154-097
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Légionelle
+SOURCE: Fiche item 154 fournie - page(s) 5-6
+CONSIGNE: Une patiente hospitalisée pour PAC grave présente une antigénurie Legionella positive après une exposition à un réseau d’eau collectif. Quelles propositions concernant cette étiologie sont exactes ?
+A: F | Une bêta-lactamine seule constitue un traitement ciblé de la légionelle.
+B: V | PCR et culture sur prélèvement respiratoire peuvent compléter l’antigénurie.
+C: V | Une antigénurie négative ne suffit pas à exclure toutes les légionelloses.
+D: F | Une antigénurie renseigne toujours sur la souche exacte et tous les sérogroupes.
+E: V | Une exposition à des aérosols d’eau contaminée est compatible.
+JUSTIFICATION: L’exposition à des aérosols d’eau et les signes extrarespiratoires orientent, sans remplacer la microbiologie.
+EXPLICATION_A: Une molécule active sur cette bactérie intracellulaire est nécessaire.
+EXPLICATION_B: Elles élargissent la documentation et l’enquête.
+EXPLICATION_C: Le test usuel cible surtout L. pneumophila sérogroupe 1.
+EXPLICATION_D: La culture et d’autres méthodes apportent des informations complémentaires.
+EXPLICATION_E: Elle doit être recherchée dans l’enquête.
+
+---
+ID: 154-098
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Une patiente hospitalisée pour PAC grave présente une antigénurie Legionella positive après une exposition à un réseau d’eau collectif. Quels éléments guident l’orientation du patient ?
+A: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+B: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+C: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+D: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+E: F | L’absence de douleur thoracique exclut une pneumonie grave.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: Elle participe aux critères de gravité.
+EXPLICATION_B: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_C: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_D: Les signes généraux peuvent être atypiques.
+EXPLICATION_E: La présentation peut être atypique.
+
+---
+ID: 154-099
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Une patiente hospitalisée pour PAC grave présente une antigénurie Legionella positive après une exposition à un réseau d’eau collectif. Quelles propositions concernant les prélèvements sont exactes ?
+A: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+B: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+C: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+D: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+E: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: La contamination oropharyngée limite la valeur de certains résultats.
+EXPLICATION_B: Le bilan doit être adapté à la présentation.
+EXPLICATION_C: La purulence peut accompagner d’autres infections, dont une bronchite.
+EXPLICATION_D: Elle aide à l’enquête étiologique.
+EXPLICATION_E: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+
+---
+ID: 154-100
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Légionelle · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Une patiente hospitalisée pour PAC grave présente une antigénurie Legionella positive après une exposition à un réseau d’eau collectif. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+B: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+C: V | Rechercher une complication pleurale ou un abcès est pertinent.
+D: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+E: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: L’échec peut être lié à une exposition antibiotique insuffisante.
+EXPLICATION_B: Une détérioration impose une réévaluation immédiate.
+EXPLICATION_C: Ces complications peuvent expliquer une persistance des symptômes.
+EXPLICATION_D: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+EXPLICATION_E: Un drainage ou une autre prise en charge peut être nécessaire.
+
+---
+ID: 154-101
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Grippe · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 6-8
+CONSIGNE: Une femme de 73 ans a un syndrome grippal, une dyspnée et des opacités pulmonaires bilatérales. La PCR influenza est positive. Quel diagnostic principal est le plus probable ?
+A: V | Pneumonie grippale documentée
+B: F | Pneumonie à Mycoplasma documentée
+C: F | Bronchite aiguë du sujet sain
+D: F | Pneumonie communautaire à pneumocoque documentée
+E: F | Pneumonie à Legionella documentée
+JUSTIFICATION: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_A: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_B: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_C: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_D: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_E: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+
+---
+ID: 154-102
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Grippe · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Une femme de 73 ans a un syndrome grippal, une dyspnée et des opacités pulmonaires bilatérales. La PCR influenza est positive. Quelles propositions concernant les prélèvements sont exactes ?
+A: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+B: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+C: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+D: F | Une PCR virale positive exclut toute co-infection bactérienne.
+E: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: La purulence peut accompagner d’autres infections, dont une bronchite.
+EXPLICATION_B: Elle aide à l’enquête étiologique.
+EXPLICATION_C: Le bilan doit être adapté à la présentation.
+EXPLICATION_D: Les deux peuvent coexister.
+EXPLICATION_E: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+
+---
+ID: 154-103
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Grippe · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Une femme de 73 ans a un syndrome grippal, une dyspnée et des opacités pulmonaires bilatérales. La PCR influenza est positive. Quels éléments guident l’orientation du patient ?
+A: F | L’absence de douleur thoracique exclut une pneumonie grave.
+B: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+C: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+D: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+E: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: La présentation peut être atypique.
+EXPLICATION_B: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_C: Elle participe aux critères de gravité.
+EXPLICATION_D: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_E: Les signes généraux peuvent être atypiques.
+
+---
+ID: 154-104
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Grippe · Imagerie et sémiologie
+SOURCE: Fiche item 154 fournie - page(s) 2
+CONSIGNE: Une femme de 73 ans a un syndrome grippal, une dyspnée et des opacités pulmonaires bilatérales. La PCR influenza est positive. Quelles interprétations sont exactes ?
+A: V | Un scanner peut préciser une complication ou un diagnostic alternatif.
+B: F | Un épanchement pleural augmente typiquement les vibrations vocales comme une condensation isolée.
+C: F | Une opacité lobaire identifie avec certitude le pneumocoque.
+D: V | Un bronchogramme aérien peut être visible dans une opacité alvéolaire.
+E: F | Une auscultation normale exclut à elle seule une pneumonie.
+JUSTIFICATION: L’imagerie documente l’atteinte parenchymateuse et ses complications sans identifier à elle seule le germe.
+EXPLICATION_A: Il n’est pas l’examen systématique initial de toute infection respiratoire.
+EXPLICATION_B: Un épanchement les diminue.
+EXPLICATION_C: L’aspect oriente mais ne constitue pas une identification microbiologique.
+EXPLICATION_D: Les bronches aérées contrastent avec le parenchyme condensé.
+EXPLICATION_E: L’examen peut être peu contributif.
+
+---
+ID: 154-105
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Grippe · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Une femme de 73 ans a un syndrome grippal, une dyspnée et des opacités pulmonaires bilatérales. La PCR influenza est positive. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+B: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+C: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+D: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+E: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_B: Il faut comprendre la cause de la non-amélioration.
+EXPLICATION_C: Une détérioration impose une réévaluation immédiate.
+EXPLICATION_D: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+EXPLICATION_E: L’échec peut être lié à une exposition antibiotique insuffisante.
+
+---
+ID: 154-106
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Grippe · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 6-8
+CONSIGNE: Un homme diabétique présente une pneumonie hypoxémiante pendant une épidémie grippale. La PCR respiratoire identifie influenza A. Quel diagnostic principal est le plus probable ?
+A: F | Pneumonie communautaire à pneumocoque documentée
+B: F | Pneumonie à Mycoplasma documentée
+C: F | Empyème pleural compliquant une pneumonie
+D: F | Pneumonie à Legionella documentée
+E: V | Pneumonie grippale documentée
+JUSTIFICATION: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_A: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_B: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_C: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_D: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_E: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+
+---
+ID: 154-107
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Grippe · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Un homme diabétique présente une pneumonie hypoxémiante pendant une épidémie grippale. La PCR respiratoire identifie influenza A. Quelles propositions concernant les prélèvements sont exactes ?
+A: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+B: F | Une PCR virale positive exclut toute co-infection bactérienne.
+C: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+D: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+E: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: Le bilan doit être adapté à la présentation.
+EXPLICATION_B: Les deux peuvent coexister.
+EXPLICATION_C: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+EXPLICATION_D: La contamination oropharyngée limite la valeur de certains résultats.
+EXPLICATION_E: La purulence peut accompagner d’autres infections, dont une bronchite.
+
+---
+ID: 154-108
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Grippe · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Un homme diabétique présente une pneumonie hypoxémiante pendant une épidémie grippale. La PCR respiratoire identifie influenza A. Quels éléments guident l’orientation du patient ?
+A: F | L’absence de douleur thoracique exclut une pneumonie grave.
+B: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+C: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+D: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+E: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: La présentation peut être atypique.
+EXPLICATION_B: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_C: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_D: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_E: Les signes généraux peuvent être atypiques.
+
+---
+ID: 154-109
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Grippe · Imagerie et sémiologie
+SOURCE: Fiche item 154 fournie - page(s) 2
+CONSIGNE: Un homme diabétique présente une pneumonie hypoxémiante pendant une épidémie grippale. La PCR respiratoire identifie influenza A. Quelles interprétations sont exactes ?
+A: V | Une condensation peut s’accompagner d’un souffle tubaire.
+B: F | Un épanchement pleural augmente typiquement les vibrations vocales comme une condensation isolée.
+C: V | Un scanner peut préciser une complication ou un diagnostic alternatif.
+D: F | Une opacité lobaire identifie avec certitude le pneumocoque.
+E: F | Une auscultation normale exclut à elle seule une pneumonie.
+JUSTIFICATION: L’imagerie documente l’atteinte parenchymateuse et ses complications sans identifier à elle seule le germe.
+EXPLICATION_A: Elle transmet différemment les bruits respiratoires.
+EXPLICATION_B: Un épanchement les diminue.
+EXPLICATION_C: Il n’est pas l’examen systématique initial de toute infection respiratoire.
+EXPLICATION_D: L’aspect oriente mais ne constitue pas une identification microbiologique.
+EXPLICATION_E: L’examen peut être peu contributif.
+
+---
+ID: 154-110
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Grippe · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Un homme diabétique présente une pneumonie hypoxémiante pendant une épidémie grippale. La PCR respiratoire identifie influenza A. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+B: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+C: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+D: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+E: V | Rechercher une complication pleurale ou un abcès est pertinent.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: Il faut comprendre la cause de la non-amélioration.
+EXPLICATION_B: Une détérioration impose une réévaluation immédiate.
+EXPLICATION_C: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+EXPLICATION_D: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_E: Ces complications peuvent expliquer une persistance des symptômes.
+
+---
+ID: 154-111
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Grippe · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 6-8
+CONSIGNE: Une patiente âgée a une fièvre brutale avec myalgies puis une atteinte parenchymateuse. La PCR confirme influenza B et une co-infection doit être évaluée. Quel diagnostic principal est le plus probable ?
+A: F | Bronchite aiguë du sujet sain
+B: F | Pneumonie à Mycoplasma documentée
+C: F | Pneumonie à Legionella documentée
+D: V | Pneumonie grippale documentée
+E: F | Empyème pleural compliquant une pneumonie
+JUSTIFICATION: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_A: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_B: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_C: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_D: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_E: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+
+---
+ID: 154-112
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Grippe · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Une patiente âgée a une fièvre brutale avec myalgies puis une atteinte parenchymateuse. La PCR confirme influenza B et une co-infection doit être évaluée. Quelles propositions concernant les prélèvements sont exactes ?
+A: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+B: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+C: F | Une PCR virale positive exclut toute co-infection bactérienne.
+D: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+E: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: Elle aide à l’enquête étiologique.
+EXPLICATION_B: La purulence peut accompagner d’autres infections, dont une bronchite.
+EXPLICATION_C: Les deux peuvent coexister.
+EXPLICATION_D: Le bilan doit être adapté à la présentation.
+EXPLICATION_E: La contamination oropharyngée limite la valeur de certains résultats.
+
+---
+ID: 154-113
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Grippe · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Une patiente âgée a une fièvre brutale avec myalgies puis une atteinte parenchymateuse. La PCR confirme influenza B et une co-infection doit être évaluée. Quels éléments guident l’orientation du patient ?
+A: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+B: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+C: F | L’absence de douleur thoracique exclut une pneumonie grave.
+D: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+E: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: Les signes généraux peuvent être atypiques.
+EXPLICATION_B: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_C: La présentation peut être atypique.
+EXPLICATION_D: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_E: Elle participe aux critères de gravité.
+
+---
+ID: 154-114
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Grippe · Imagerie et sémiologie
+SOURCE: Fiche item 154 fournie - page(s) 2
+CONSIGNE: Une patiente âgée a une fièvre brutale avec myalgies puis une atteinte parenchymateuse. La PCR confirme influenza B et une co-infection doit être évaluée. Quelles interprétations sont exactes ?
+A: F | Un épanchement pleural augmente typiquement les vibrations vocales comme une condensation isolée.
+B: V | Un bronchogramme aérien peut être visible dans une opacité alvéolaire.
+C: F | Une auscultation normale exclut à elle seule une pneumonie.
+D: F | Une opacité lobaire identifie avec certitude le pneumocoque.
+E: V | Une condensation peut s’accompagner d’un souffle tubaire.
+JUSTIFICATION: L’imagerie documente l’atteinte parenchymateuse et ses complications sans identifier à elle seule le germe.
+EXPLICATION_A: Un épanchement les diminue.
+EXPLICATION_B: Les bronches aérées contrastent avec le parenchyme condensé.
+EXPLICATION_C: L’examen peut être peu contributif.
+EXPLICATION_D: L’aspect oriente mais ne constitue pas une identification microbiologique.
+EXPLICATION_E: Elle transmet différemment les bruits respiratoires.
+
+---
+ID: 154-115
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Grippe · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Une patiente âgée a une fièvre brutale avec myalgies puis une atteinte parenchymateuse. La PCR confirme influenza B et une co-infection doit être évaluée. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+B: V | Rechercher une complication pleurale ou un abcès est pertinent.
+C: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+D: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+E: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: Il faut comprendre la cause de la non-amélioration.
+EXPLICATION_B: Ces complications peuvent expliquer une persistance des symptômes.
+EXPLICATION_C: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_D: Une détérioration impose une réévaluation immédiate.
+EXPLICATION_E: L’échec peut être lié à une exposition antibiotique insuffisante.
+
+---
+ID: 154-116
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Grippe · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 6-8
+CONSIGNE: Un patient insuffisant respiratoire développe des opacités bilatérales après un syndrome grippal ; la PCR influenza est positive. Quel diagnostic principal est le plus probable ?
+A: F | Pneumonie communautaire à pneumocoque documentée
+B: F | Bronchite aiguë du sujet sain
+C: F | Pneumonie à Legionella documentée
+D: V | Pneumonie grippale documentée
+E: F | Empyème pleural compliquant une pneumonie
+JUSTIFICATION: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_A: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_B: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_C: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_D: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_E: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+
+---
+ID: 154-117
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Grippe · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Un patient insuffisant respiratoire développe des opacités bilatérales après un syndrome grippal ; la PCR influenza est positive. Quelles propositions concernant les prélèvements sont exactes ?
+A: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+B: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+C: F | Une PCR virale positive exclut toute co-infection bactérienne.
+D: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+E: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: Elle aide à l’enquête étiologique.
+EXPLICATION_B: Le bilan doit être adapté à la présentation.
+EXPLICATION_C: Les deux peuvent coexister.
+EXPLICATION_D: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+EXPLICATION_E: La contamination oropharyngée limite la valeur de certains résultats.
+
+---
+ID: 154-118
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Grippe · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Un patient insuffisant respiratoire développe des opacités bilatérales après un syndrome grippal ; la PCR influenza est positive. Quels éléments guident l’orientation du patient ?
+A: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+B: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+C: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+D: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+E: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_B: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_C: Les signes généraux peuvent être atypiques.
+EXPLICATION_D: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_E: Elle participe aux critères de gravité.
+
+---
+ID: 154-119
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Grippe · Imagerie et sémiologie
+SOURCE: Fiche item 154 fournie - page(s) 2
+CONSIGNE: Un patient insuffisant respiratoire développe des opacités bilatérales après un syndrome grippal ; la PCR influenza est positive. Quelles interprétations sont exactes ?
+A: F | Un épanchement pleural augmente typiquement les vibrations vocales comme une condensation isolée.
+B: V | Une condensation peut s’accompagner d’un souffle tubaire.
+C: F | Une opacité lobaire identifie avec certitude le pneumocoque.
+D: V | Un bronchogramme aérien peut être visible dans une opacité alvéolaire.
+E: V | Un scanner peut préciser une complication ou un diagnostic alternatif.
+JUSTIFICATION: L’imagerie documente l’atteinte parenchymateuse et ses complications sans identifier à elle seule le germe.
+EXPLICATION_A: Un épanchement les diminue.
+EXPLICATION_B: Elle transmet différemment les bruits respiratoires.
+EXPLICATION_C: L’aspect oriente mais ne constitue pas une identification microbiologique.
+EXPLICATION_D: Les bronches aérées contrastent avec le parenchyme condensé.
+EXPLICATION_E: Il n’est pas l’examen systématique initial de toute infection respiratoire.
+
+---
+ID: 154-120
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Grippe · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Un patient insuffisant respiratoire développe des opacités bilatérales après un syndrome grippal ; la PCR influenza est positive. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+B: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+C: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+D: V | Rechercher une complication pleurale ou un abcès est pertinent.
+E: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+EXPLICATION_B: Il faut comprendre la cause de la non-amélioration.
+EXPLICATION_C: L’échec peut être lié à une exposition antibiotique insuffisante.
+EXPLICATION_D: Ces complications peuvent expliquer une persistance des symptômes.
+EXPLICATION_E: Un drainage ou une autre prise en charge peut être nécessaire.
+
+---
+ID: 154-121
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Grippe · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 6-8
+CONSIGNE: Une femme hospitalisée présente une pneumonie avec PCR influenza positive. Une aggravation secondaire fait rechercher une complication ou une co-infection bactérienne. Quel diagnostic principal est le plus probable ?
+A: F | Pneumonie communautaire à pneumocoque documentée
+B: V | Pneumonie grippale documentée
+C: F | Pneumonie à Mycoplasma documentée
+D: F | Bronchite aiguë du sujet sain
+E: F | Empyème pleural compliquant une pneumonie
+JUSTIFICATION: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_A: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_B: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_C: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_D: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+EXPLICATION_E: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème. Ici : Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection.
+
+---
+ID: 154-122
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Grippe · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Une femme hospitalisée présente une pneumonie avec PCR influenza positive. Une aggravation secondaire fait rechercher une complication ou une co-infection bactérienne. Quelles propositions concernant les prélèvements sont exactes ?
+A: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+B: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+C: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+D: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+E: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: Le bilan doit être adapté à la présentation.
+EXPLICATION_B: Elle aide à l’enquête étiologique.
+EXPLICATION_C: La purulence peut accompagner d’autres infections, dont une bronchite.
+EXPLICATION_D: La contamination oropharyngée limite la valeur de certains résultats.
+EXPLICATION_E: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+
+---
+ID: 154-123
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Grippe · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Une femme hospitalisée présente une pneumonie avec PCR influenza positive. Une aggravation secondaire fait rechercher une complication ou une co-infection bactérienne. Quels éléments guident l’orientation du patient ?
+A: F | L’absence de douleur thoracique exclut une pneumonie grave.
+B: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+C: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+D: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+E: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: La présentation peut être atypique.
+EXPLICATION_B: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_C: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_D: Les signes généraux peuvent être atypiques.
+EXPLICATION_E: Elle participe aux critères de gravité.
+
+---
+ID: 154-124
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Grippe · Imagerie et sémiologie
+SOURCE: Fiche item 154 fournie - page(s) 2
+CONSIGNE: Une femme hospitalisée présente une pneumonie avec PCR influenza positive. Une aggravation secondaire fait rechercher une complication ou une co-infection bactérienne. Quelles interprétations sont exactes ?
+A: F | Un épanchement pleural augmente typiquement les vibrations vocales comme une condensation isolée.
+B: V | Une condensation peut s’accompagner d’un souffle tubaire.
+C: V | Un scanner peut préciser une complication ou un diagnostic alternatif.
+D: F | Une auscultation normale exclut à elle seule une pneumonie.
+E: V | Un bronchogramme aérien peut être visible dans une opacité alvéolaire.
+JUSTIFICATION: L’imagerie documente l’atteinte parenchymateuse et ses complications sans identifier à elle seule le germe.
+EXPLICATION_A: Un épanchement les diminue.
+EXPLICATION_B: Elle transmet différemment les bruits respiratoires.
+EXPLICATION_C: Il n’est pas l’examen systématique initial de toute infection respiratoire.
+EXPLICATION_D: L’examen peut être peu contributif.
+EXPLICATION_E: Les bronches aérées contrastent avec le parenchyme condensé.
+
+---
+ID: 154-125
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Grippe · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Une femme hospitalisée présente une pneumonie avec PCR influenza positive. Une aggravation secondaire fait rechercher une complication ou une co-infection bactérienne. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+B: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+C: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+D: V | Rechercher une complication pleurale ou un abcès est pertinent.
+E: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: L’échec peut être lié à une exposition antibiotique insuffisante.
+EXPLICATION_B: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+EXPLICATION_C: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_D: Ces complications peuvent expliquer une persistance des symptômes.
+EXPLICATION_E: Une détérioration impose une réévaluation immédiate.
+
+---
+ID: 154-126
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Empyème · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 2,4,9
+CONSIGNE: Un homme traité pour pneumonie reste fébrile avec douleur pleurale. L’échographie montre un épanchement et la ponction ramène du pus. Quel diagnostic principal est le plus probable ?
+A: F | Pneumonie grippale documentée
+B: F | Pneumonie communautaire à pneumocoque documentée
+C: F | Pneumonie à Mycoplasma documentée
+D: F | Pneumonie à Legionella documentée
+E: V | Empyème pleural compliquant une pneumonie
+JUSTIFICATION: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_A: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_B: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_C: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_D: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_E: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+
+---
+ID: 154-127
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Complication pleurale
+SOURCE: Fiche item 154 fournie - page(s) 2,4,9
+CONSIGNE: Un homme traité pour pneumonie reste fébrile avec douleur pleurale. L’échographie montre un épanchement et la ponction ramène du pus. Quelles propositions concernant l’épanchement sont exactes ?
+A: V | Le prélèvement pleural peut contribuer à l’identification microbiologique.
+B: F | Une amélioration de la fièvre rend inutile l’évaluation d’un épanchement persistant mal toléré.
+C: F | Tous les épanchements parapneumoniques sont purulents.
+D: V | Le drainage fait partie de la prise en charge d’un empyème.
+E: F | Une matité pleurale et des vibrations vocales diminuées prouvent une condensation alvéolaire isolée.
+JUSTIFICATION: Un liquide franchement purulent correspond à un empyème et nécessite une prise en charge spécifique.
+EXPLICATION_A: Il est interprété avec le contexte et les traitements reçus.
+EXPLICATION_B: La complication doit être évaluée en elle-même.
+EXPLICATION_C: Une forme non compliquée peut être réactionnelle.
+EXPLICATION_D: L’antibiothérapie seule peut être insuffisante.
+EXPLICATION_E: Cette association oriente vers l’épanchement.
+
+---
+ID: 154-128
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Un homme traité pour pneumonie reste fébrile avec douleur pleurale. L’échographie montre un épanchement et la ponction ramène du pus. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+B: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+C: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+D: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+E: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_B: Il faut comprendre la cause de la non-amélioration.
+EXPLICATION_C: L’échec peut être lié à une exposition antibiotique insuffisante.
+EXPLICATION_D: Une détérioration impose une réévaluation immédiate.
+EXPLICATION_E: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+
+---
+ID: 154-129
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Un homme traité pour pneumonie reste fébrile avec douleur pleurale. L’échographie montre un épanchement et la ponction ramène du pus. Quels éléments guident l’orientation du patient ?
+A: F | L’absence de douleur thoracique exclut une pneumonie grave.
+B: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+C: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+D: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+E: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: La présentation peut être atypique.
+EXPLICATION_B: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_C: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_D: Elle participe aux critères de gravité.
+EXPLICATION_E: Les signes généraux peuvent être atypiques.
+
+---
+ID: 154-130
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Un homme traité pour pneumonie reste fébrile avec douleur pleurale. L’échographie montre un épanchement et la ponction ramène du pus. Quelles propositions concernant les prélèvements sont exactes ?
+A: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+B: F | Une PCR virale positive exclut toute co-infection bactérienne.
+C: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+D: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+E: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: Le bilan doit être adapté à la présentation.
+EXPLICATION_B: Les deux peuvent coexister.
+EXPLICATION_C: Elle aide à l’enquête étiologique.
+EXPLICATION_D: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+EXPLICATION_E: La purulence peut accompagner d’autres infections, dont une bronchite.
+
+---
+ID: 154-131
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Empyème · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 2,4,9
+CONSIGNE: Une femme a une PAC avec matité basale et vibrations vocales diminuées. Le liquide pleural prélevé est franchement purulent. Quel diagnostic principal est le plus probable ?
+A: F | Bronchite aiguë du sujet sain
+B: V | Empyème pleural compliquant une pneumonie
+C: F | Pneumonie à Mycoplasma documentée
+D: F | Pneumonie à Legionella documentée
+E: F | Pneumonie grippale documentée
+JUSTIFICATION: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_A: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_B: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_C: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_D: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_E: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+
+---
+ID: 154-132
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Complication pleurale
+SOURCE: Fiche item 154 fournie - page(s) 2,4,9
+CONSIGNE: Une femme a une PAC avec matité basale et vibrations vocales diminuées. Le liquide pleural prélevé est franchement purulent. Quelles propositions concernant l’épanchement sont exactes ?
+A: F | Tous les épanchements parapneumoniques sont purulents.
+B: F | Une amélioration de la fièvre rend inutile l’évaluation d’un épanchement persistant mal toléré.
+C: F | Une matité pleurale et des vibrations vocales diminuées prouvent une condensation alvéolaire isolée.
+D: V | Un liquide pleural franchement purulent caractérise un empyème.
+E: V | Le prélèvement pleural peut contribuer à l’identification microbiologique.
+JUSTIFICATION: Un liquide franchement purulent correspond à un empyème et nécessite une prise en charge spécifique.
+EXPLICATION_A: Une forme non compliquée peut être réactionnelle.
+EXPLICATION_B: La complication doit être évaluée en elle-même.
+EXPLICATION_C: Cette association oriente vers l’épanchement.
+EXPLICATION_D: Il ne s’agit pas d’un simple épanchement réactionnel.
+EXPLICATION_E: Il est interprété avec le contexte et les traitements reçus.
+
+---
+ID: 154-133
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Une femme a une PAC avec matité basale et vibrations vocales diminuées. Le liquide pleural prélevé est franchement purulent. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+B: V | Rechercher une complication pleurale ou un abcès est pertinent.
+C: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+D: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+E: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+EXPLICATION_B: Ces complications peuvent expliquer une persistance des symptômes.
+EXPLICATION_C: Une détérioration impose une réévaluation immédiate.
+EXPLICATION_D: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_E: Il faut comprendre la cause de la non-amélioration.
+
+---
+ID: 154-134
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Une femme a une PAC avec matité basale et vibrations vocales diminuées. Le liquide pleural prélevé est franchement purulent. Quels éléments guident l’orientation du patient ?
+A: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+B: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+C: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+D: F | L’absence de douleur thoracique exclut une pneumonie grave.
+E: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_B: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_C: Les signes généraux peuvent être atypiques.
+EXPLICATION_D: La présentation peut être atypique.
+EXPLICATION_E: La gravité ne se réduit pas à l’étendue visible.
+
+---
+ID: 154-135
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Une femme a une PAC avec matité basale et vibrations vocales diminuées. Le liquide pleural prélevé est franchement purulent. Quelles propositions concernant les prélèvements sont exactes ?
+A: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+B: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+C: F | Une PCR virale positive exclut toute co-infection bactérienne.
+D: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+E: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: La purulence peut accompagner d’autres infections, dont une bronchite.
+EXPLICATION_B: Le bilan doit être adapté à la présentation.
+EXPLICATION_C: Les deux peuvent coexister.
+EXPLICATION_D: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+EXPLICATION_E: La contamination oropharyngée limite la valeur de certains résultats.
+
+---
+ID: 154-136
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Empyème · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 2,4,9
+CONSIGNE: Un patient présente une aggravation malgré traitement d’une PAC. Un épanchement cloisonné est exploré et le prélèvement est purulent. Quel diagnostic principal est le plus probable ?
+A: F | Pneumonie communautaire à pneumocoque documentée
+B: F | Pneumonie grippale documentée
+C: F | Pneumonie à Legionella documentée
+D: F | Bronchite aiguë du sujet sain
+E: V | Empyème pleural compliquant une pneumonie
+JUSTIFICATION: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_A: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_B: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_C: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_D: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_E: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+
+---
+ID: 154-137
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Complication pleurale
+SOURCE: Fiche item 154 fournie - page(s) 2,4,9
+CONSIGNE: Un patient présente une aggravation malgré traitement d’une PAC. Un épanchement cloisonné est exploré et le prélèvement est purulent. Quelles propositions concernant l’épanchement sont exactes ?
+A: F | Une matité pleurale et des vibrations vocales diminuées prouvent une condensation alvéolaire isolée.
+B: F | Une amélioration de la fièvre rend inutile l’évaluation d’un épanchement persistant mal toléré.
+C: V | Le drainage fait partie de la prise en charge d’un empyème.
+D: F | Tous les épanchements parapneumoniques sont purulents.
+E: V | Un liquide pleural franchement purulent caractérise un empyème.
+JUSTIFICATION: Un liquide franchement purulent correspond à un empyème et nécessite une prise en charge spécifique.
+EXPLICATION_A: Cette association oriente vers l’épanchement.
+EXPLICATION_B: La complication doit être évaluée en elle-même.
+EXPLICATION_C: L’antibiothérapie seule peut être insuffisante.
+EXPLICATION_D: Une forme non compliquée peut être réactionnelle.
+EXPLICATION_E: Il ne s’agit pas d’un simple épanchement réactionnel.
+
+---
+ID: 154-138
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Un patient présente une aggravation malgré traitement d’une PAC. Un épanchement cloisonné est exploré et le prélèvement est purulent. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+B: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+C: V | Rechercher une complication pleurale ou un abcès est pertinent.
+D: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+E: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: L’échec peut être lié à une exposition antibiotique insuffisante.
+EXPLICATION_B: Il faut comprendre la cause de la non-amélioration.
+EXPLICATION_C: Ces complications peuvent expliquer une persistance des symptômes.
+EXPLICATION_D: Une détérioration impose une réévaluation immédiate.
+EXPLICATION_E: Un drainage ou une autre prise en charge peut être nécessaire.
+
+---
+ID: 154-139
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Un patient présente une aggravation malgré traitement d’une PAC. Un épanchement cloisonné est exploré et le prélèvement est purulent. Quels éléments guident l’orientation du patient ?
+A: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+B: F | L’absence de douleur thoracique exclut une pneumonie grave.
+C: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+D: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+E: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_B: La présentation peut être atypique.
+EXPLICATION_C: Les signes généraux peuvent être atypiques.
+EXPLICATION_D: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_E: Elle participe aux critères de gravité.
+
+---
+ID: 154-140
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Un patient présente une aggravation malgré traitement d’une PAC. Un épanchement cloisonné est exploré et le prélèvement est purulent. Quelles propositions concernant les prélèvements sont exactes ?
+A: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+B: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+C: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+D: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+E: F | Une PCR virale positive exclut toute co-infection bactérienne.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: Le bilan doit être adapté à la présentation.
+EXPLICATION_B: Elle aide à l’enquête étiologique.
+EXPLICATION_C: La contamination oropharyngée limite la valeur de certains résultats.
+EXPLICATION_D: La purulence peut accompagner d’autres infections, dont une bronchite.
+EXPLICATION_E: Les deux peuvent coexister.
+
+---
+ID: 154-141
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Empyème · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 2,4,9
+CONSIGNE: Une patiente a une pneumonie avec épanchement mal toléré ; la ponction confirme un liquide purulent nécessitant une prise en charge pleurale. Quel diagnostic principal est le plus probable ?
+A: F | Pneumonie grippale documentée
+B: F | Pneumonie à Mycoplasma documentée
+C: F | Bronchite aiguë du sujet sain
+D: V | Empyème pleural compliquant une pneumonie
+E: F | Pneumonie communautaire à pneumocoque documentée
+JUSTIFICATION: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_A: Une atteinte parenchymateuse et une PCR grippale positive documentent la pneumonie grippale sans exclure une co-infection. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_B: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_C: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_D: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_E: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+
+---
+ID: 154-142
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Complication pleurale
+SOURCE: Fiche item 154 fournie - page(s) 2,4,9
+CONSIGNE: Une patiente a une pneumonie avec épanchement mal toléré ; la ponction confirme un liquide purulent nécessitant une prise en charge pleurale. Quelles propositions concernant l’épanchement sont exactes ?
+A: V | Un liquide pleural franchement purulent caractérise un empyème.
+B: V | Le drainage fait partie de la prise en charge d’un empyème.
+C: V | Le prélèvement pleural peut contribuer à l’identification microbiologique.
+D: F | Une amélioration de la fièvre rend inutile l’évaluation d’un épanchement persistant mal toléré.
+E: F | Une matité pleurale et des vibrations vocales diminuées prouvent une condensation alvéolaire isolée.
+JUSTIFICATION: Un liquide franchement purulent correspond à un empyème et nécessite une prise en charge spécifique.
+EXPLICATION_A: Il ne s’agit pas d’un simple épanchement réactionnel.
+EXPLICATION_B: L’antibiothérapie seule peut être insuffisante.
+EXPLICATION_C: Il est interprété avec le contexte et les traitements reçus.
+EXPLICATION_D: La complication doit être évaluée en elle-même.
+EXPLICATION_E: Cette association oriente vers l’épanchement.
+
+---
+ID: 154-143
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Une patiente a une pneumonie avec épanchement mal toléré ; la ponction confirme un liquide purulent nécessitant une prise en charge pleurale. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+B: F | Une fièvre persistante justifie uniquement de prolonger sans bilan le même antibiotique.
+C: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+D: V | Rechercher une complication pleurale ou un abcès est pertinent.
+E: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+EXPLICATION_B: Il faut comprendre la cause de la non-amélioration.
+EXPLICATION_C: L’échec peut être lié à une exposition antibiotique insuffisante.
+EXPLICATION_D: Ces complications peuvent expliquer une persistance des symptômes.
+EXPLICATION_E: Un drainage ou une autre prise en charge peut être nécessaire.
+
+---
+ID: 154-144
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Une patiente a une pneumonie avec épanchement mal toléré ; la ponction confirme un liquide purulent nécessitant une prise en charge pleurale. Quels éléments guident l’orientation du patient ?
+A: F | Une radiographie peu étendue exclut toute mauvaise tolérance clinique.
+B: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+C: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+D: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+E: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: La gravité ne se réduit pas à l’étendue visible.
+EXPLICATION_B: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_C: Les signes généraux peuvent être atypiques.
+EXPLICATION_D: Elle participe aux critères de gravité.
+EXPLICATION_E: La sécurité du traitement ambulatoire doit être appréciée.
+
+---
+ID: 154-145
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Une patiente a une pneumonie avec épanchement mal toléré ; la ponction confirme un liquide purulent nécessitant une prise en charge pleurale. Quelles propositions concernant les prélèvements sont exactes ?
+A: F | Une PCR virale positive exclut toute co-infection bactérienne.
+B: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+C: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+D: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+E: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: Les deux peuvent coexister.
+EXPLICATION_B: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+EXPLICATION_C: Le bilan doit être adapté à la présentation.
+EXPLICATION_D: Elle aide à l’enquête étiologique.
+EXPLICATION_E: La contamination oropharyngée limite la valeur de certains résultats.
+
+---
+ID: 154-146
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Empyème · raisonnement
+SOURCE: Fiche item 154 fournie - page(s) 2,4,9
+CONSIGNE: Un homme présente une fièvre persistante et un épanchement après PAC. La ponction montre du pus, distinct d’un simple liquide réactionnel. Quel diagnostic principal est le plus probable ?
+A: V | Empyème pleural compliquant une pneumonie
+B: F | Pneumonie communautaire à pneumocoque documentée
+C: F | Pneumonie à Legionella documentée
+D: F | Bronchite aiguë du sujet sain
+E: F | Pneumonie à Mycoplasma documentée
+JUSTIFICATION: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_A: Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_B: Une condensation avec pneumocoque identifié documente cette pneumonie, dont la gravité reste à apprécier. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_C: Une microbiologie positive dans ce tableau respiratoire et extrarespiratoire documente la légionellose. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_D: Une toux post-virale sans foyer, hypoxémie ni signe de gravité évoque une bronchite aiguë. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+EXPLICATION_E: La PCR positive dans un contexte compatible documente une pneumonie à Mycoplasma. Ici : Un épanchement parapneumonique dont la ponction ramène du pus correspond à un empyème.
+
+---
+ID: 154-147
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Complication pleurale
+SOURCE: Fiche item 154 fournie - page(s) 2,4,9
+CONSIGNE: Un homme présente une fièvre persistante et un épanchement après PAC. La ponction montre du pus, distinct d’un simple liquide réactionnel. Quelles propositions concernant l’épanchement sont exactes ?
+A: F | Tous les épanchements parapneumoniques sont purulents.
+B: V | Le drainage fait partie de la prise en charge d’un empyème.
+C: V | Le prélèvement pleural peut contribuer à l’identification microbiologique.
+D: F | Une amélioration de la fièvre rend inutile l’évaluation d’un épanchement persistant mal toléré.
+E: V | Un liquide pleural franchement purulent caractérise un empyème.
+JUSTIFICATION: Un liquide franchement purulent correspond à un empyème et nécessite une prise en charge spécifique.
+EXPLICATION_A: Une forme non compliquée peut être réactionnelle.
+EXPLICATION_B: L’antibiothérapie seule peut être insuffisante.
+EXPLICATION_C: Il est interprété avec le contexte et les traitements reçus.
+EXPLICATION_D: La complication doit être évaluée en elle-même.
+EXPLICATION_E: Il ne s’agit pas d’un simple épanchement réactionnel.
+
+---
+ID: 154-148
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Réévaluation
+SOURCE: Fiche item 154 fournie - page(s) 8-9
+CONSIGNE: Un homme présente une fièvre persistante et un épanchement après PAC. La ponction montre du pus, distinct d’un simple liquide réactionnel. Quelles démarches sont pertinentes devant une évolution défavorable ?
+A: V | Vérifier la prise et l’absorption du traitement est nécessaire.
+B: F | Une complication mécanique disparaît nécessairement en élargissant le spectre antibiotique.
+C: V | Rechercher une complication pleurale ou un abcès est pertinent.
+D: F | Une aggravation respiratoire doit attendre systématiquement 72 heures avant réévaluation.
+E: V | Une embolie pulmonaire ou une tumeur peuvent faire réexaminer le diagnostic.
+JUSTIFICATION: Un échec apparent fait rechercher complication, erreur diagnostique, exposition et problème thérapeutique.
+EXPLICATION_A: L’échec peut être lié à une exposition antibiotique insuffisante.
+EXPLICATION_B: Un drainage ou une autre prise en charge peut être nécessaire.
+EXPLICATION_C: Ces complications peuvent expliquer une persistance des symptômes.
+EXPLICATION_D: Une détérioration impose une réévaluation immédiate.
+EXPLICATION_E: Toutes les opacités ou fièvres ne sont pas des PAC simples.
+
+---
+ID: 154-149
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Tolérance respiratoire
+SOURCE: Fiche item 154 fournie - page(s) 3-4
+CONSIGNE: Un homme présente une fièvre persistante et un épanchement après PAC. La ponction montre du pus, distinct d’un simple liquide réactionnel. Quels éléments guident l’orientation du patient ?
+A: V | Une fréquence respiratoire élevée doit être mesurée et prise en compte.
+B: F | L’absence de douleur thoracique exclut une pneumonie grave.
+C: V | L’isolement et l’impossibilité de prendre le traitement peuvent modifier l’orientation.
+D: V | Une confusion nouvelle constitue un signe de mauvaise tolérance.
+E: F | Une fièvre absente chez un sujet âgé permet d’écarter une infection respiratoire.
+JUSTIFICATION: Respiration, hémodynamique, vigilance et terrain déterminent la gravité.
+EXPLICATION_A: Elle participe aux critères de gravité.
+EXPLICATION_B: La présentation peut être atypique.
+EXPLICATION_C: La sécurité du traitement ambulatoire doit être appréciée.
+EXPLICATION_D: Elle peut accompagner une infection grave ou une hypoxémie.
+EXPLICATION_E: Les signes généraux peuvent être atypiques.
+
+---
+ID: 154-150
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Empyème · Microbiologie
+SOURCE: Fiche item 154 fournie - page(s) 2-3,6-8
+CONSIGNE: Un homme présente une fièvre persistante et un épanchement après PAC. La ponction montre du pus, distinct d’un simple liquide réactionnel. Quelles propositions concernant les prélèvements sont exactes ?
+A: F | Toute infection respiratoire ambulatoire impose une hémoculture.
+B: V | Un prélèvement respiratoire doit être interprété selon sa qualité.
+C: V | La recherche virale peut être pertinente en contexte épidémique hospitalier.
+D: V | Les investigations ne doivent pas retarder le traitement urgent d’une pneumonie grave.
+E: F | Un crachat purulent prouve à lui seul une pneumonie bactérienne.
+JUSTIFICATION: Les examens dépendent de la gravité, du contexte et de la qualité des prélèvements.
+EXPLICATION_A: Le bilan doit être adapté à la présentation.
+EXPLICATION_B: La contamination oropharyngée limite la valeur de certains résultats.
+EXPLICATION_C: Elle aide à l’enquête étiologique.
+EXPLICATION_D: Le prélèvement ne doit pas devenir un obstacle à la prise en charge.
+EXPLICATION_E: La purulence peut accompagner d’autres infections, dont une bronchite.

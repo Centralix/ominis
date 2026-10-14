@@ -1,0 +1,3007 @@
+# Item 234 : révision clinique fondée sur la fiche fournie.
+# 150 questions : 120 QCM et 30 QRU ; 105 rang A et 45 rang B pédagogiques.
+# Les rangs ne constituent pas une certification du référentiel EDN.
+# 30 observations, chacune explorée par cinq questions de raisonnement.
+# Les notions reviennent dans des contextes distincts ; aucune inversion automatique V/F.
+ITEM 234 | Insuffisance cardiaque de l’adulte
+COLLEGE: Cardiologie
+
+---
+ID: 234-001
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 65 ans après infarctus a une dyspnée chronique stable, un BNP élevé et une FEVG à 30 %. Il n’a ni OAP ni signe de choc. Quel diagnostic principal est le plus probable ?
+A: V | Une IC chronique à FEVG altérée.
+B: F | Une IC droite à prédominance de congestion systémique.
+C: F | Une IC chronique à FEVG préservée.
+D: F | Un choc cardiogénique.
+E: F | Un OAP cardiogénique sans choc.
+JUSTIFICATION: Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_A: Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_B: L’atteinte droite est dominée par la congestion systémique. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_C: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_D: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_E: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+
+---
+ID: 234-002
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Interprétation de la FEVG
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 65 ans après infarctus a une dyspnée chronique stable, un BNP élevé et une FEVG à 30 %. Il n’a ni OAP ni signe de choc. Quelles propositions concernant les phénotypes sont exactes selon la fiche ?
+A: V | Une FEVG à 45 % correspond à une fraction d’éjection modérément altérée.
+B: F | Une FEVG préservée suffit à prouver que toute dyspnée est extracardiaque.
+C: F | Une FEVG basse précise à elle seule l’étiologie de la cardiopathie.
+D: V | Une FEVG à 60 % n’exclut pas une insuffisance cardiaque.
+E: F | La FEVG mesure directement la proportion de jours sans dyspnée.
+JUSTIFICATION: La FEVG classe le phénotype mais ne suffit pas, seule, à établir ou réfuter le syndrome clinique.
+EXPLICATION_A: Elle se situe entre 41 et 49 %.
+EXPLICATION_B: Le syndrome peut relever d’un trouble de remplissage.
+EXPLICATION_C: Plusieurs causes peuvent entraîner une baisse de FEVG.
+EXPLICATION_D: Des pressions de remplissage élevées et un tableau compatible peuvent accompagner une FEVG préservée.
+EXPLICATION_E: C’est une mesure de fonction ventriculaire, pas un score de symptômes.
+
+---
+ID: 234-003
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Traitement chronique à FEVG altérée
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 65 ans après infarctus a une dyspnée chronique stable, un BNP élevé et une FEVG à 30 %. Il n’a ni OAP ni signe de choc. Pour une insuffisance cardiaque chronique à FEVG altérée stabilisée, quelles propositions sont exactes ?
+A: F | La spironolactone peut être prescrite sans surveillance rénale ni potassique.
+B: V | Un inhibiteur de SGLT2 fait partie des classes décrites pour la FEVG altérée.
+C: F | Un IEC et le sacubitril/valsartan doivent être cumulés systématiquement comme deux piliers indépendants.
+D: V | Un diurétique de l’anse peut réduire les signes congestifs.
+E: F | La disparition de l’œdème sous furosémide remplace toutes les classes cardioprotectrices.
+JUSTIFICATION: Le traitement cardioprotecteur et le traitement de congestion ont des objectifs complémentaires.
+EXPLICATION_A: La sécurité nécessite de tenir compte du terrain et des anomalies hydroélectrolytiques.
+EXPLICATION_B: La fiche cite dapagliflozine ou empagliflozine.
+EXPLICATION_C: La fiche les présente comme des stratégies alternatives au sein de cette composante du traitement.
+EXPLICATION_D: Il est titré selon l’efficacité et la tolérance.
+EXPLICATION_E: Le traitement symptomatique ne se confond pas avec l’ensemble du traitement de fond.
+
+---
+ID: 234-004
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 65 ans après infarctus a une dyspnée chronique stable, un BNP élevé et une FEVG à 30 %. Il n’a ni OAP ni signe de choc. Quelles propositions concernant le bilan sont exactes ?
+A: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+B: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+C: F | Un ECG isolé suffit à quantifier la FEVG.
+D: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+E: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Ils évaluent le retentissement et la sécurité des traitements.
+EXPLICATION_B: Une valvulopathie avancée peut être responsable.
+EXPLICATION_C: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_D: Ces facteurs sont cités dans la fiche.
+EXPLICATION_E: Une séquelle d’infarctus peut contribuer à la dysfonction.
+
+---
+ID: 234-005
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 65 ans après infarctus a une dyspnée chronique stable, un BNP élevé et une FEVG à 30 %. Il n’a ni OAP ni signe de choc. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+B: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+C: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+D: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+E: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Elle doit être évaluée sans attendre.
+EXPLICATION_B: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_C: L’amélioration congestive ne supprime pas nécessairement la maladie.
+EXPLICATION_D: Une inobservance peut favoriser une décompensation.
+EXPLICATION_E: Les traitements et l’évolution peuvent les modifier.
+
+---
+ID: 234-006
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 58 ans ayant une cardiomyopathie dilatée présente une IC chronique stable avec FEVG à 35 %, sans décompensation aiguë. Quel diagnostic principal est le plus probable ?
+A: F | Une IC droite à prédominance de congestion systémique.
+B: F | Une IC chronique à FEVG modérément altérée.
+C: V | Une IC chronique à FEVG altérée.
+D: F | Un choc cardiogénique.
+E: F | Un OAP cardiogénique sans choc.
+JUSTIFICATION: Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_A: L’atteinte droite est dominée par la congestion systémique. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_B: La fiche distingue une FEVG de 41 à 49 %. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_C: Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_D: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_E: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+
+---
+ID: 234-007
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Interprétation de la FEVG
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 58 ans ayant une cardiomyopathie dilatée présente une IC chronique stable avec FEVG à 35 %, sans décompensation aiguë. Quelles propositions concernant les phénotypes sont exactes selon la fiche ?
+A: F | Une FEVG basse précise à elle seule l’étiologie de la cardiopathie.
+B: F | Une FEVG préservée suffit à prouver que toute dyspnée est extracardiaque.
+C: F | La FEVG mesure directement la proportion de jours sans dyspnée.
+D: V | Une FEVG à 30 % correspond à une fraction d’éjection altérée.
+E: V | Une FEVG à 60 % n’exclut pas une insuffisance cardiaque.
+JUSTIFICATION: La FEVG classe le phénotype mais ne suffit pas, seule, à établir ou réfuter le syndrome clinique.
+EXPLICATION_A: Plusieurs causes peuvent entraîner une baisse de FEVG.
+EXPLICATION_B: Le syndrome peut relever d’un trouble de remplissage.
+EXPLICATION_C: C’est une mesure de fonction ventriculaire, pas un score de symptômes.
+EXPLICATION_D: La fiche retient une FEVG inférieure ou égale à 40 %.
+EXPLICATION_E: Des pressions de remplissage élevées et un tableau compatible peuvent accompagner une FEVG préservée.
+
+---
+ID: 234-008
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Traitement chronique à FEVG altérée
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 58 ans ayant une cardiomyopathie dilatée présente une IC chronique stable avec FEVG à 35 %, sans décompensation aiguë. Pour une insuffisance cardiaque chronique à FEVG altérée stabilisée, quelles propositions sont exactes ?
+A: F | La spironolactone peut être prescrite sans surveillance rénale ni potassique.
+B: V | Un diurétique de l’anse peut réduire les signes congestifs.
+C: F | La disparition de l’œdème sous furosémide remplace toutes les classes cardioprotectrices.
+D: V | Un bêtabloquant fait partie des classes cardioprotectrices décrites, sous réserve de tolérance et de contexte.
+E: F | Un IEC et le sacubitril/valsartan doivent être cumulés systématiquement comme deux piliers indépendants.
+JUSTIFICATION: Le traitement cardioprotecteur et le traitement de congestion ont des objectifs complémentaires.
+EXPLICATION_A: La sécurité nécessite de tenir compte du terrain et des anomalies hydroélectrolytiques.
+EXPLICATION_B: Il est titré selon l’efficacité et la tolérance.
+EXPLICATION_C: Le traitement symptomatique ne se confond pas avec l’ensemble du traitement de fond.
+EXPLICATION_D: La fiche le place dans le traitement chronique.
+EXPLICATION_E: La fiche les présente comme des stratégies alternatives au sein de cette composante du traitement.
+
+---
+ID: 234-009
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 58 ans ayant une cardiomyopathie dilatée présente une IC chronique stable avec FEVG à 35 %, sans décompensation aiguë. Quelles propositions concernant le bilan sont exactes ?
+A: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+B: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+C: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+D: F | Un ECG isolé suffit à quantifier la FEVG.
+E: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_B: Ils évaluent le retentissement et la sécurité des traitements.
+EXPLICATION_C: Une valvulopathie avancée peut être responsable.
+EXPLICATION_D: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_E: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+
+---
+ID: 234-010
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 58 ans ayant une cardiomyopathie dilatée présente une IC chronique stable avec FEVG à 35 %, sans décompensation aiguë. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+B: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+C: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+D: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+E: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Elle doit être évaluée sans attendre.
+EXPLICATION_B: Une inobservance peut favoriser une décompensation.
+EXPLICATION_C: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_D: L’amélioration congestive ne supprime pas nécessairement la maladie.
+EXPLICATION_E: Ces changements doivent être expliqués au patient.
+
+---
+ID: 234-011
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 72 ans a une cardiopathie ischémique et une dyspnée d’effort stable avec FEVG à 38 % ; le syndrome d’IC est documenté. Quel diagnostic principal est le plus probable ?
+A: F | Un choc cardiogénique.
+B: F | Une IC droite à prédominance de congestion systémique.
+C: V | Une IC chronique à FEVG altérée.
+D: F | Une IC chronique à FEVG préservée.
+E: F | Une IC chronique à FEVG modérément altérée.
+JUSTIFICATION: Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_A: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_B: L’atteinte droite est dominée par la congestion systémique. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_C: Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_D: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_E: La fiche distingue une FEVG de 41 à 49 %. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+
+---
+ID: 234-012
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Interprétation de la FEVG
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 72 ans a une cardiopathie ischémique et une dyspnée d’effort stable avec FEVG à 38 % ; le syndrome d’IC est documenté. Quelles propositions concernant les phénotypes sont exactes selon la fiche ?
+A: F | Une FEVG basse précise à elle seule l’étiologie de la cardiopathie.
+B: V | Une FEVG à 45 % correspond à une fraction d’éjection modérément altérée.
+C: V | Une FEVG à 30 % correspond à une fraction d’éjection altérée.
+D: F | Une FEVG préservée suffit à prouver que toute dyspnée est extracardiaque.
+E: F | La FEVG mesure directement la proportion de jours sans dyspnée.
+JUSTIFICATION: La FEVG classe le phénotype mais ne suffit pas, seule, à établir ou réfuter le syndrome clinique.
+EXPLICATION_A: Plusieurs causes peuvent entraîner une baisse de FEVG.
+EXPLICATION_B: Elle se situe entre 41 et 49 %.
+EXPLICATION_C: La fiche retient une FEVG inférieure ou égale à 40 %.
+EXPLICATION_D: Le syndrome peut relever d’un trouble de remplissage.
+EXPLICATION_E: C’est une mesure de fonction ventriculaire, pas un score de symptômes.
+
+---
+ID: 234-013
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Traitement chronique à FEVG altérée
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 72 ans a une cardiopathie ischémique et une dyspnée d’effort stable avec FEVG à 38 % ; le syndrome d’IC est documenté. Pour une insuffisance cardiaque chronique à FEVG altérée stabilisée, quelles propositions sont exactes ?
+A: V | Un bêtabloquant fait partie des classes cardioprotectrices décrites, sous réserve de tolérance et de contexte.
+B: F | La spironolactone peut être prescrite sans surveillance rénale ni potassique.
+C: F | La disparition de l’œdème sous furosémide remplace toutes les classes cardioprotectrices.
+D: F | Un IEC et le sacubitril/valsartan doivent être cumulés systématiquement comme deux piliers indépendants.
+E: V | Un inhibiteur de SGLT2 fait partie des classes décrites pour la FEVG altérée.
+JUSTIFICATION: Le traitement cardioprotecteur et le traitement de congestion ont des objectifs complémentaires.
+EXPLICATION_A: La fiche le place dans le traitement chronique.
+EXPLICATION_B: La sécurité nécessite de tenir compte du terrain et des anomalies hydroélectrolytiques.
+EXPLICATION_C: Le traitement symptomatique ne se confond pas avec l’ensemble du traitement de fond.
+EXPLICATION_D: La fiche les présente comme des stratégies alternatives au sein de cette composante du traitement.
+EXPLICATION_E: La fiche cite dapagliflozine ou empagliflozine.
+
+---
+ID: 234-014
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 72 ans a une cardiopathie ischémique et une dyspnée d’effort stable avec FEVG à 38 % ; le syndrome d’IC est documenté. Quelles propositions concernant le bilan sont exactes ?
+A: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+B: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+C: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+D: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+E: F | Un ECG isolé suffit à quantifier la FEVG.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Ces facteurs sont cités dans la fiche.
+EXPLICATION_B: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_C: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_D: Une valvulopathie avancée peut être responsable.
+EXPLICATION_E: La mesure nécessite une exploration adaptée, notamment échographique.
+
+---
+ID: 234-015
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 72 ans a une cardiopathie ischémique et une dyspnée d’effort stable avec FEVG à 38 % ; le syndrome d’IC est documenté. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+B: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+C: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+D: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+E: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Elle doit être évaluée sans attendre.
+EXPLICATION_B: L’amélioration congestive ne supprime pas nécessairement la maladie.
+EXPLICATION_C: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_D: Ces changements doivent être expliqués au patient.
+EXPLICATION_E: Les traitements et l’évolution peuvent les modifier.
+
+---
+ID: 234-016
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 61 ans après traitement cardiotoxique a une IC objectivée avec FEVG à 32 %, en dehors d’un épisode aigu. Quel diagnostic principal est le plus probable ?
+A: V | Une IC chronique à FEVG altérée.
+B: F | Un OAP cardiogénique sans choc.
+C: F | Une IC chronique à FEVG modérément altérée.
+D: F | Une IC chronique à FEVG préservée.
+E: F | Une IC droite à prédominance de congestion systémique.
+JUSTIFICATION: Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_A: Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_B: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_C: La fiche distingue une FEVG de 41 à 49 %. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_D: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_E: L’atteinte droite est dominée par la congestion systémique. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+
+---
+ID: 234-017
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Interprétation de la FEVG
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 61 ans après traitement cardiotoxique a une IC objectivée avec FEVG à 32 %, en dehors d’un épisode aigu. Quelles propositions concernant les phénotypes sont exactes selon la fiche ?
+A: V | Une FEVG à 30 % correspond à une fraction d’éjection altérée.
+B: F | La FEVG mesure directement la proportion de jours sans dyspnée.
+C: V | Une FEVG à 60 % n’exclut pas une insuffisance cardiaque.
+D: V | Une FEVG à 45 % correspond à une fraction d’éjection modérément altérée.
+E: F | Une FEVG basse précise à elle seule l’étiologie de la cardiopathie.
+JUSTIFICATION: La FEVG classe le phénotype mais ne suffit pas, seule, à établir ou réfuter le syndrome clinique.
+EXPLICATION_A: La fiche retient une FEVG inférieure ou égale à 40 %.
+EXPLICATION_B: C’est une mesure de fonction ventriculaire, pas un score de symptômes.
+EXPLICATION_C: Des pressions de remplissage élevées et un tableau compatible peuvent accompagner une FEVG préservée.
+EXPLICATION_D: Elle se situe entre 41 et 49 %.
+EXPLICATION_E: Plusieurs causes peuvent entraîner une baisse de FEVG.
+
+---
+ID: 234-018
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Traitement chronique à FEVG altérée
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 61 ans après traitement cardiotoxique a une IC objectivée avec FEVG à 32 %, en dehors d’un épisode aigu. Pour une insuffisance cardiaque chronique à FEVG altérée stabilisée, quelles propositions sont exactes ?
+A: F | La spironolactone peut être prescrite sans surveillance rénale ni potassique.
+B: V | Un bêtabloquant fait partie des classes cardioprotectrices décrites, sous réserve de tolérance et de contexte.
+C: V | Un inhibiteur de SGLT2 fait partie des classes décrites pour la FEVG altérée.
+D: F | Un IEC et le sacubitril/valsartan doivent être cumulés systématiquement comme deux piliers indépendants.
+E: V | Un diurétique de l’anse peut réduire les signes congestifs.
+JUSTIFICATION: Le traitement cardioprotecteur et le traitement de congestion ont des objectifs complémentaires.
+EXPLICATION_A: La sécurité nécessite de tenir compte du terrain et des anomalies hydroélectrolytiques.
+EXPLICATION_B: La fiche le place dans le traitement chronique.
+EXPLICATION_C: La fiche cite dapagliflozine ou empagliflozine.
+EXPLICATION_D: La fiche les présente comme des stratégies alternatives au sein de cette composante du traitement.
+EXPLICATION_E: Il est titré selon l’efficacité et la tolérance.
+
+---
+ID: 234-019
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 61 ans après traitement cardiotoxique a une IC objectivée avec FEVG à 32 %, en dehors d’un épisode aigu. Quelles propositions concernant le bilan sont exactes ?
+A: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+B: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+C: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+D: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+E: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_B: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_C: Une valvulopathie avancée peut être responsable.
+EXPLICATION_D: Ils évaluent le retentissement et la sécurité des traitements.
+EXPLICATION_E: Ces facteurs sont cités dans la fiche.
+
+---
+ID: 234-020
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 61 ans après traitement cardiotoxique a une IC objectivée avec FEVG à 32 %, en dehors d’un épisode aigu. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+B: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+C: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+D: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+E: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_B: Une inobservance peut favoriser une décompensation.
+EXPLICATION_C: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_D: Elle doit être évaluée sans attendre.
+EXPLICATION_E: Ces changements doivent être expliqués au patient.
+
+---
+ID: 234-021
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 55 ans a une IC chronique documentée avec dilatation ventriculaire et FEVG à 28 %, actuellement stabilisée. Quel diagnostic principal est le plus probable ?
+A: F | Un OAP cardiogénique sans choc.
+B: F | Une IC chronique à FEVG modérément altérée.
+C: V | Une IC chronique à FEVG altérée.
+D: F | Un choc cardiogénique.
+E: F | Une IC chronique à FEVG préservée.
+JUSTIFICATION: Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_A: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_B: La fiche distingue une FEVG de 41 à 49 %. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_C: Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_D: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+EXPLICATION_E: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : Le syndrome clinique est objectivé avec une FEVG inférieure ou égale à 40 %, sans détresse aiguë décrite.
+
+---
+ID: 234-022
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Interprétation de la FEVG
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 55 ans a une IC chronique documentée avec dilatation ventriculaire et FEVG à 28 %, actuellement stabilisée. Quelles propositions concernant les phénotypes sont exactes selon la fiche ?
+A: V | Une FEVG à 30 % correspond à une fraction d’éjection altérée.
+B: V | Une FEVG à 45 % correspond à une fraction d’éjection modérément altérée.
+C: F | La FEVG mesure directement la proportion de jours sans dyspnée.
+D: F | Une FEVG préservée suffit à prouver que toute dyspnée est extracardiaque.
+E: V | Une FEVG à 60 % n’exclut pas une insuffisance cardiaque.
+JUSTIFICATION: La FEVG classe le phénotype mais ne suffit pas, seule, à établir ou réfuter le syndrome clinique.
+EXPLICATION_A: La fiche retient une FEVG inférieure ou égale à 40 %.
+EXPLICATION_B: Elle se situe entre 41 et 49 %.
+EXPLICATION_C: C’est une mesure de fonction ventriculaire, pas un score de symptômes.
+EXPLICATION_D: Le syndrome peut relever d’un trouble de remplissage.
+EXPLICATION_E: Des pressions de remplissage élevées et un tableau compatible peuvent accompagner une FEVG préservée.
+
+---
+ID: 234-023
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Traitement chronique à FEVG altérée
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 55 ans a une IC chronique documentée avec dilatation ventriculaire et FEVG à 28 %, actuellement stabilisée. Pour une insuffisance cardiaque chronique à FEVG altérée stabilisée, quelles propositions sont exactes ?
+A: V | Un inhibiteur de SGLT2 fait partie des classes décrites pour la FEVG altérée.
+B: F | La spironolactone peut être prescrite sans surveillance rénale ni potassique.
+C: V | Un diurétique de l’anse peut réduire les signes congestifs.
+D: F | La disparition de l’œdème sous furosémide remplace toutes les classes cardioprotectrices.
+E: V | Un bêtabloquant fait partie des classes cardioprotectrices décrites, sous réserve de tolérance et de contexte.
+JUSTIFICATION: Le traitement cardioprotecteur et le traitement de congestion ont des objectifs complémentaires.
+EXPLICATION_A: La fiche cite dapagliflozine ou empagliflozine.
+EXPLICATION_B: La sécurité nécessite de tenir compte du terrain et des anomalies hydroélectrolytiques.
+EXPLICATION_C: Il est titré selon l’efficacité et la tolérance.
+EXPLICATION_D: Le traitement symptomatique ne se confond pas avec l’ensemble du traitement de fond.
+EXPLICATION_E: La fiche le place dans le traitement chronique.
+
+---
+ID: 234-024
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 55 ans a une IC chronique documentée avec dilatation ventriculaire et FEVG à 28 %, actuellement stabilisée. Quelles propositions concernant le bilan sont exactes ?
+A: F | Un ECG isolé suffit à quantifier la FEVG.
+B: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+C: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+D: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+E: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_B: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_C: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_D: Ils évaluent le retentissement et la sécurité des traitements.
+EXPLICATION_E: Ces facteurs sont cités dans la fiche.
+
+---
+ID: 234-025
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG altérée · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 55 ans a une IC chronique documentée avec dilatation ventriculaire et FEVG à 28 %, actuellement stabilisée. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+B: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+C: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+D: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+E: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: L’amélioration congestive ne supprime pas nécessairement la maladie.
+EXPLICATION_B: Une inobservance peut favoriser une décompensation.
+EXPLICATION_C: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_D: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_E: Ces changements doivent être expliqués au patient.
+
+---
+ID: 234-026
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 70 ans a une IC chronique documentée, une FEVG à 45 % et une dyspnée stable. Il n’y a pas de détresse aiguë. Quel diagnostic principal est le plus probable ?
+A: F | Un OAP cardiogénique sans choc.
+B: F | Une IC droite à prédominance de congestion systémique.
+C: F | Un choc cardiogénique.
+D: F | Une IC chronique à FEVG altérée.
+E: V | Une IC chronique à FEVG modérément altérée.
+JUSTIFICATION: Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_A: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_B: L’atteinte droite est dominée par la congestion systémique. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_C: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_D: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_E: Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+
+---
+ID: 234-027
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Interprétation de la FEVG
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 70 ans a une IC chronique documentée, une FEVG à 45 % et une dyspnée stable. Il n’y a pas de détresse aiguë. Quelles propositions concernant les phénotypes sont exactes selon la fiche ?
+A: F | Une FEVG préservée suffit à prouver que toute dyspnée est extracardiaque.
+B: V | Une FEVG à 60 % n’exclut pas une insuffisance cardiaque.
+C: V | Une FEVG à 45 % correspond à une fraction d’éjection modérément altérée.
+D: F | Une FEVG basse précise à elle seule l’étiologie de la cardiopathie.
+E: F | La FEVG mesure directement la proportion de jours sans dyspnée.
+JUSTIFICATION: La FEVG classe le phénotype mais ne suffit pas, seule, à établir ou réfuter le syndrome clinique.
+EXPLICATION_A: Le syndrome peut relever d’un trouble de remplissage.
+EXPLICATION_B: Des pressions de remplissage élevées et un tableau compatible peuvent accompagner une FEVG préservée.
+EXPLICATION_C: Elle se situe entre 41 et 49 %.
+EXPLICATION_D: Plusieurs causes peuvent entraîner une baisse de FEVG.
+EXPLICATION_E: C’est une mesure de fonction ventriculaire, pas un score de symptômes.
+
+---
+ID: 234-028
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Remplissage et terrain
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 70 ans a une IC chronique documentée, une FEVG à 45 % et une dyspnée stable. Il n’y a pas de détresse aiguë. Quelles propositions sont compatibles avec une IC à FEVG préservée ?
+A: F | Le diagnostic peut être affirmé sur l’âge seul sans autre argument.
+B: F | Une FEVG à 60 % impose que les pressions de remplissage soient normales.
+C: V | Des comorbidités comme diabète ou insuffisance rénale doivent être prises en compte.
+D: F | Une congestion est impossible si la contraction globale est conservée.
+E: V | Des pressions de remplissage élevées soutiennent le mécanisme cardiaque.
+JUSTIFICATION: La conservation de la FEVG peut coexister avec un défaut de relaxation et des pressions élevées.
+EXPLICATION_A: Il faut un syndrome clinique et des données objectives compatibles.
+EXPLICATION_B: Ces deux paramètres ne sont pas équivalents.
+EXPLICATION_C: Le phénotype survient souvent chez des sujets âgés avec comorbidités.
+EXPLICATION_D: Une élévation des pressions peut produire des signes congestifs.
+EXPLICATION_E: Elles s’intègrent aux symptômes et autres examens.
+
+---
+ID: 234-029
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 70 ans a une IC chronique documentée, une FEVG à 45 % et une dyspnée stable. Il n’y a pas de détresse aiguë. Quelles propositions concernant le bilan sont exactes ?
+A: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+B: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+C: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+D: F | Un ECG isolé suffit à quantifier la FEVG.
+E: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Ces facteurs sont cités dans la fiche.
+EXPLICATION_B: Une valvulopathie avancée peut être responsable.
+EXPLICATION_C: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_D: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_E: Ils évaluent le retentissement et la sécurité des traitements.
+
+---
+ID: 234-030
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 70 ans a une IC chronique documentée, une FEVG à 45 % et une dyspnée stable. Il n’y a pas de détresse aiguë. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+B: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+C: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+D: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+E: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: L’amélioration congestive ne supprime pas nécessairement la maladie.
+EXPLICATION_B: Une inobservance peut favoriser une décompensation.
+EXPLICATION_C: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_D: Elle doit être évaluée sans attendre.
+EXPLICATION_E: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+
+---
+ID: 234-031
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 68 ans a une IC objectivée après infarctus avec FEVG à 46 %, actuellement stable sans OAP. Quel diagnostic principal est le plus probable ?
+A: F | Un choc cardiogénique.
+B: F | Une IC chronique à FEVG préservée.
+C: F | Une IC droite à prédominance de congestion systémique.
+D: F | Une IC chronique à FEVG altérée.
+E: V | Une IC chronique à FEVG modérément altérée.
+JUSTIFICATION: Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_A: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_B: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_C: L’atteinte droite est dominée par la congestion systémique. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_D: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_E: Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+
+---
+ID: 234-032
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Interprétation de la FEVG
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 68 ans a une IC objectivée après infarctus avec FEVG à 46 %, actuellement stable sans OAP. Quelles propositions concernant les phénotypes sont exactes selon la fiche ?
+A: V | Une FEVG à 30 % correspond à une fraction d’éjection altérée.
+B: V | Une FEVG à 60 % n’exclut pas une insuffisance cardiaque.
+C: F | Une FEVG préservée suffit à prouver que toute dyspnée est extracardiaque.
+D: F | La FEVG mesure directement la proportion de jours sans dyspnée.
+E: F | Une FEVG basse précise à elle seule l’étiologie de la cardiopathie.
+JUSTIFICATION: La FEVG classe le phénotype mais ne suffit pas, seule, à établir ou réfuter le syndrome clinique.
+EXPLICATION_A: La fiche retient une FEVG inférieure ou égale à 40 %.
+EXPLICATION_B: Des pressions de remplissage élevées et un tableau compatible peuvent accompagner une FEVG préservée.
+EXPLICATION_C: Le syndrome peut relever d’un trouble de remplissage.
+EXPLICATION_D: C’est une mesure de fonction ventriculaire, pas un score de symptômes.
+EXPLICATION_E: Plusieurs causes peuvent entraîner une baisse de FEVG.
+
+---
+ID: 234-033
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Remplissage et terrain
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 68 ans a une IC objectivée après infarctus avec FEVG à 46 %, actuellement stable sans OAP. Quelles propositions sont compatibles avec une IC à FEVG préservée ?
+A: F | Le diagnostic peut être affirmé sur l’âge seul sans autre argument.
+B: F | Une FEVG à 60 % impose que les pressions de remplissage soient normales.
+C: V | Une HTA ancienne peut contribuer au terrain.
+D: V | Des comorbidités comme diabète ou insuffisance rénale doivent être prises en compte.
+E: F | Une congestion est impossible si la contraction globale est conservée.
+JUSTIFICATION: La conservation de la FEVG peut coexister avec un défaut de relaxation et des pressions élevées.
+EXPLICATION_A: Il faut un syndrome clinique et des données objectives compatibles.
+EXPLICATION_B: Ces deux paramètres ne sont pas équivalents.
+EXPLICATION_C: La fiche décrit ce contexte fréquent.
+EXPLICATION_D: Le phénotype survient souvent chez des sujets âgés avec comorbidités.
+EXPLICATION_E: Une élévation des pressions peut produire des signes congestifs.
+
+---
+ID: 234-034
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 68 ans a une IC objectivée après infarctus avec FEVG à 46 %, actuellement stable sans OAP. Quelles propositions concernant le bilan sont exactes ?
+A: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+B: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+C: F | Un ECG isolé suffit à quantifier la FEVG.
+D: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+E: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Une valvulopathie avancée peut être responsable.
+EXPLICATION_B: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_C: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_D: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_E: Ils évaluent le retentissement et la sécurité des traitements.
+
+---
+ID: 234-035
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 68 ans a une IC objectivée après infarctus avec FEVG à 46 %, actuellement stable sans OAP. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+B: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+C: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+D: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+E: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Elle doit être évaluée sans attendre.
+EXPLICATION_B: Une inobservance peut favoriser une décompensation.
+EXPLICATION_C: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_D: L’amélioration congestive ne supprime pas nécessairement la maladie.
+EXPLICATION_E: Ces changements doivent être expliqués au patient.
+
+---
+ID: 234-036
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 76 ans a un BNP élevé, des pressions de remplissage élevées et une FEVG à 48 % ; la dyspnée est chronique stable. Quel diagnostic principal est le plus probable ?
+A: V | Une IC chronique à FEVG modérément altérée.
+B: F | Une IC droite à prédominance de congestion systémique.
+C: F | Une IC chronique à FEVG altérée.
+D: F | Un OAP cardiogénique sans choc.
+E: F | Une IC chronique à FEVG préservée.
+JUSTIFICATION: Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_A: Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_B: L’atteinte droite est dominée par la congestion systémique. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_C: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_D: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_E: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+
+---
+ID: 234-037
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Interprétation de la FEVG
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 76 ans a un BNP élevé, des pressions de remplissage élevées et une FEVG à 48 % ; la dyspnée est chronique stable. Quelles propositions concernant les phénotypes sont exactes selon la fiche ?
+A: F | Une FEVG basse précise à elle seule l’étiologie de la cardiopathie.
+B: V | Une FEVG à 30 % correspond à une fraction d’éjection altérée.
+C: F | Une FEVG préservée suffit à prouver que toute dyspnée est extracardiaque.
+D: F | La FEVG mesure directement la proportion de jours sans dyspnée.
+E: V | Une FEVG à 45 % correspond à une fraction d’éjection modérément altérée.
+JUSTIFICATION: La FEVG classe le phénotype mais ne suffit pas, seule, à établir ou réfuter le syndrome clinique.
+EXPLICATION_A: Plusieurs causes peuvent entraîner une baisse de FEVG.
+EXPLICATION_B: La fiche retient une FEVG inférieure ou égale à 40 %.
+EXPLICATION_C: Le syndrome peut relever d’un trouble de remplissage.
+EXPLICATION_D: C’est une mesure de fonction ventriculaire, pas un score de symptômes.
+EXPLICATION_E: Elle se situe entre 41 et 49 %.
+
+---
+ID: 234-038
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Remplissage et terrain
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 76 ans a un BNP élevé, des pressions de remplissage élevées et une FEVG à 48 % ; la dyspnée est chronique stable. Quelles propositions sont compatibles avec une IC à FEVG préservée ?
+A: F | Une congestion est impossible si la contraction globale est conservée.
+B: V | Une HTA ancienne peut contribuer au terrain.
+C: F | Le diagnostic peut être affirmé sur l’âge seul sans autre argument.
+D: V | Des pressions de remplissage élevées soutiennent le mécanisme cardiaque.
+E: F | Une FEVG à 60 % impose que les pressions de remplissage soient normales.
+JUSTIFICATION: La conservation de la FEVG peut coexister avec un défaut de relaxation et des pressions élevées.
+EXPLICATION_A: Une élévation des pressions peut produire des signes congestifs.
+EXPLICATION_B: La fiche décrit ce contexte fréquent.
+EXPLICATION_C: Il faut un syndrome clinique et des données objectives compatibles.
+EXPLICATION_D: Elles s’intègrent aux symptômes et autres examens.
+EXPLICATION_E: Ces deux paramètres ne sont pas équivalents.
+
+---
+ID: 234-039
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 76 ans a un BNP élevé, des pressions de remplissage élevées et une FEVG à 48 % ; la dyspnée est chronique stable. Quelles propositions concernant le bilan sont exactes ?
+A: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+B: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+C: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+D: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+E: F | Un ECG isolé suffit à quantifier la FEVG.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_B: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_C: Une valvulopathie avancée peut être responsable.
+EXPLICATION_D: Ces facteurs sont cités dans la fiche.
+EXPLICATION_E: La mesure nécessite une exploration adaptée, notamment échographique.
+
+---
+ID: 234-040
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 76 ans a un BNP élevé, des pressions de remplissage élevées et une FEVG à 48 % ; la dyspnée est chronique stable. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+B: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+C: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+D: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+E: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_B: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_C: L’amélioration congestive ne supprime pas nécessairement la maladie.
+EXPLICATION_D: Elle doit être évaluée sans attendre.
+EXPLICATION_E: Ces changements doivent être expliqués au patient.
+
+---
+ID: 234-041
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 63 ans a une IC clinique documentée et une FEVG à 43 %, sans signes de choc ni congestion pulmonaire aiguë. Quel diagnostic principal est le plus probable ?
+A: F | Un OAP cardiogénique sans choc.
+B: V | Une IC chronique à FEVG modérément altérée.
+C: F | Un choc cardiogénique.
+D: F | Une IC chronique à FEVG altérée.
+E: F | Une IC chronique à FEVG préservée.
+JUSTIFICATION: Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_A: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_B: Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_C: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_D: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_E: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+
+---
+ID: 234-042
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Interprétation de la FEVG
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 63 ans a une IC clinique documentée et une FEVG à 43 %, sans signes de choc ni congestion pulmonaire aiguë. Quelles propositions concernant les phénotypes sont exactes selon la fiche ?
+A: V | Une FEVG à 45 % correspond à une fraction d’éjection modérément altérée.
+B: F | Une FEVG basse précise à elle seule l’étiologie de la cardiopathie.
+C: V | Une FEVG à 60 % n’exclut pas une insuffisance cardiaque.
+D: V | Une FEVG à 30 % correspond à une fraction d’éjection altérée.
+E: F | La FEVG mesure directement la proportion de jours sans dyspnée.
+JUSTIFICATION: La FEVG classe le phénotype mais ne suffit pas, seule, à établir ou réfuter le syndrome clinique.
+EXPLICATION_A: Elle se situe entre 41 et 49 %.
+EXPLICATION_B: Plusieurs causes peuvent entraîner une baisse de FEVG.
+EXPLICATION_C: Des pressions de remplissage élevées et un tableau compatible peuvent accompagner une FEVG préservée.
+EXPLICATION_D: La fiche retient une FEVG inférieure ou égale à 40 %.
+EXPLICATION_E: C’est une mesure de fonction ventriculaire, pas un score de symptômes.
+
+---
+ID: 234-043
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Remplissage et terrain
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 63 ans a une IC clinique documentée et une FEVG à 43 %, sans signes de choc ni congestion pulmonaire aiguë. Quelles propositions sont compatibles avec une IC à FEVG préservée ?
+A: F | Le diagnostic peut être affirmé sur l’âge seul sans autre argument.
+B: F | Une congestion est impossible si la contraction globale est conservée.
+C: V | Des pressions de remplissage élevées soutiennent le mécanisme cardiaque.
+D: V | Des comorbidités comme diabète ou insuffisance rénale doivent être prises en compte.
+E: V | Une HTA ancienne peut contribuer au terrain.
+JUSTIFICATION: La conservation de la FEVG peut coexister avec un défaut de relaxation et des pressions élevées.
+EXPLICATION_A: Il faut un syndrome clinique et des données objectives compatibles.
+EXPLICATION_B: Une élévation des pressions peut produire des signes congestifs.
+EXPLICATION_C: Elles s’intègrent aux symptômes et autres examens.
+EXPLICATION_D: Le phénotype survient souvent chez des sujets âgés avec comorbidités.
+EXPLICATION_E: La fiche décrit ce contexte fréquent.
+
+---
+ID: 234-044
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 63 ans a une IC clinique documentée et une FEVG à 43 %, sans signes de choc ni congestion pulmonaire aiguë. Quelles propositions concernant le bilan sont exactes ?
+A: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+B: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+C: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+D: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+E: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_B: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_C: Une valvulopathie avancée peut être responsable.
+EXPLICATION_D: Ils évaluent le retentissement et la sécurité des traitements.
+EXPLICATION_E: Ces facteurs sont cités dans la fiche.
+
+---
+ID: 234-045
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 63 ans a une IC clinique documentée et une FEVG à 43 %, sans signes de choc ni congestion pulmonaire aiguë. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+B: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+C: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+D: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+E: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_B: Ces changements doivent être expliqués au patient.
+EXPLICATION_C: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_D: Une inobservance peut favoriser une décompensation.
+EXPLICATION_E: Elle doit être évaluée sans attendre.
+
+---
+ID: 234-046
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 66 ans a une cardiopathie avec IC chronique objectivée et FEVG à 47 %, en dehors de toute décompensation. Quel diagnostic principal est le plus probable ?
+A: V | Une IC chronique à FEVG modérément altérée.
+B: F | Un OAP cardiogénique sans choc.
+C: F | Un choc cardiogénique.
+D: F | Une IC chronique à FEVG préservée.
+E: F | Une IC droite à prédominance de congestion systémique.
+JUSTIFICATION: Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_A: Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_B: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_C: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_D: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+EXPLICATION_E: L’atteinte droite est dominée par la congestion systémique. Ici : Le syndrome clinique est objectivé avec une FEVG entre 41 et 49 %, sans forme aiguë dominante.
+
+---
+ID: 234-047
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Interprétation de la FEVG
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 66 ans a une cardiopathie avec IC chronique objectivée et FEVG à 47 %, en dehors de toute décompensation. Quelles propositions concernant les phénotypes sont exactes selon la fiche ?
+A: F | La FEVG mesure directement la proportion de jours sans dyspnée.
+B: F | Une FEVG préservée suffit à prouver que toute dyspnée est extracardiaque.
+C: V | Une FEVG à 60 % n’exclut pas une insuffisance cardiaque.
+D: V | Une FEVG à 45 % correspond à une fraction d’éjection modérément altérée.
+E: V | Une FEVG à 30 % correspond à une fraction d’éjection altérée.
+JUSTIFICATION: La FEVG classe le phénotype mais ne suffit pas, seule, à établir ou réfuter le syndrome clinique.
+EXPLICATION_A: C’est une mesure de fonction ventriculaire, pas un score de symptômes.
+EXPLICATION_B: Le syndrome peut relever d’un trouble de remplissage.
+EXPLICATION_C: Des pressions de remplissage élevées et un tableau compatible peuvent accompagner une FEVG préservée.
+EXPLICATION_D: Elle se situe entre 41 et 49 %.
+EXPLICATION_E: La fiche retient une FEVG inférieure ou égale à 40 %.
+
+---
+ID: 234-048
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Remplissage et terrain
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 66 ans a une cardiopathie avec IC chronique objectivée et FEVG à 47 %, en dehors de toute décompensation. Quelles propositions sont compatibles avec une IC à FEVG préservée ?
+A: V | Des comorbidités comme diabète ou insuffisance rénale doivent être prises en compte.
+B: V | Des pressions de remplissage élevées soutiennent le mécanisme cardiaque.
+C: F | Une congestion est impossible si la contraction globale est conservée.
+D: F | Une FEVG à 60 % impose que les pressions de remplissage soient normales.
+E: V | Une HTA ancienne peut contribuer au terrain.
+JUSTIFICATION: La conservation de la FEVG peut coexister avec un défaut de relaxation et des pressions élevées.
+EXPLICATION_A: Le phénotype survient souvent chez des sujets âgés avec comorbidités.
+EXPLICATION_B: Elles s’intègrent aux symptômes et autres examens.
+EXPLICATION_C: Une élévation des pressions peut produire des signes congestifs.
+EXPLICATION_D: Ces deux paramètres ne sont pas équivalents.
+EXPLICATION_E: La fiche décrit ce contexte fréquent.
+
+---
+ID: 234-049
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 66 ans a une cardiopathie avec IC chronique objectivée et FEVG à 47 %, en dehors de toute décompensation. Quelles propositions concernant le bilan sont exactes ?
+A: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+B: F | Un ECG isolé suffit à quantifier la FEVG.
+C: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+D: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+E: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Ces facteurs sont cités dans la fiche.
+EXPLICATION_B: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_C: Ils évaluent le retentissement et la sécurité des traitements.
+EXPLICATION_D: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_E: Une séquelle d’infarctus peut contribuer à la dysfonction.
+
+---
+ID: 234-050
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG intermédiaire · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 66 ans a une cardiopathie avec IC chronique objectivée et FEVG à 47 %, en dehors de toute décompensation. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+B: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+C: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+D: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+E: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Une inobservance peut favoriser une décompensation.
+EXPLICATION_B: L’amélioration congestive ne supprime pas nécessairement la maladie.
+EXPLICATION_C: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_D: Ces changements doivent être expliqués au patient.
+EXPLICATION_E: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+
+---
+ID: 234-051
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 81 ans hypertendue a une dyspnée chronique, un BNP élevé et des pressions de remplissage élevées avec FEVG à 60 %. Le diagnostic d’IC est confirmé, sans épisode aigu. Quel diagnostic principal est le plus probable ?
+A: F | Une IC droite à prédominance de congestion systémique.
+B: F | Une IC chronique à FEVG modérément altérée.
+C: F | Une IC chronique à FEVG altérée.
+D: F | Un choc cardiogénique.
+E: V | Une IC chronique à FEVG préservée.
+JUSTIFICATION: Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_A: L’atteinte droite est dominée par la congestion systémique. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_B: La fiche distingue une FEVG de 41 à 49 %. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_C: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_D: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_E: Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+
+---
+ID: 234-052
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Interprétation de la FEVG
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 81 ans hypertendue a une dyspnée chronique, un BNP élevé et des pressions de remplissage élevées avec FEVG à 60 %. Le diagnostic d’IC est confirmé, sans épisode aigu. Quelles propositions concernant les phénotypes sont exactes selon la fiche ?
+A: F | Une FEVG préservée suffit à prouver que toute dyspnée est extracardiaque.
+B: F | Une FEVG basse précise à elle seule l’étiologie de la cardiopathie.
+C: V | Une FEVG à 60 % n’exclut pas une insuffisance cardiaque.
+D: F | La FEVG mesure directement la proportion de jours sans dyspnée.
+E: V | Une FEVG à 45 % correspond à une fraction d’éjection modérément altérée.
+JUSTIFICATION: La FEVG classe le phénotype mais ne suffit pas, seule, à établir ou réfuter le syndrome clinique.
+EXPLICATION_A: Le syndrome peut relever d’un trouble de remplissage.
+EXPLICATION_B: Plusieurs causes peuvent entraîner une baisse de FEVG.
+EXPLICATION_C: Des pressions de remplissage élevées et un tableau compatible peuvent accompagner une FEVG préservée.
+EXPLICATION_D: C’est une mesure de fonction ventriculaire, pas un score de symptômes.
+EXPLICATION_E: Elle se situe entre 41 et 49 %.
+
+---
+ID: 234-053
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Remplissage et terrain
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 81 ans hypertendue a une dyspnée chronique, un BNP élevé et des pressions de remplissage élevées avec FEVG à 60 %. Le diagnostic d’IC est confirmé, sans épisode aigu. Quelles propositions sont compatibles avec une IC à FEVG préservée ?
+A: F | Une FEVG à 60 % impose que les pressions de remplissage soient normales.
+B: F | Une congestion est impossible si la contraction globale est conservée.
+C: V | Des comorbidités comme diabète ou insuffisance rénale doivent être prises en compte.
+D: F | Le diagnostic peut être affirmé sur l’âge seul sans autre argument.
+E: V | Des pressions de remplissage élevées soutiennent le mécanisme cardiaque.
+JUSTIFICATION: La conservation de la FEVG peut coexister avec un défaut de relaxation et des pressions élevées.
+EXPLICATION_A: Ces deux paramètres ne sont pas équivalents.
+EXPLICATION_B: Une élévation des pressions peut produire des signes congestifs.
+EXPLICATION_C: Le phénotype survient souvent chez des sujets âgés avec comorbidités.
+EXPLICATION_D: Il faut un syndrome clinique et des données objectives compatibles.
+EXPLICATION_E: Elles s’intègrent aux symptômes et autres examens.
+
+---
+ID: 234-054
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 81 ans hypertendue a une dyspnée chronique, un BNP élevé et des pressions de remplissage élevées avec FEVG à 60 %. Le diagnostic d’IC est confirmé, sans épisode aigu. Quelles propositions concernant le bilan sont exactes ?
+A: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+B: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+C: F | Un ECG isolé suffit à quantifier la FEVG.
+D: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+E: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Ils évaluent le retentissement et la sécurité des traitements.
+EXPLICATION_B: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_C: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_D: Ces facteurs sont cités dans la fiche.
+EXPLICATION_E: Une valvulopathie avancée peut être responsable.
+
+---
+ID: 234-055
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 81 ans hypertendue a une dyspnée chronique, un BNP élevé et des pressions de remplissage élevées avec FEVG à 60 %. Le diagnostic d’IC est confirmé, sans épisode aigu. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+B: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+C: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+D: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+E: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_B: Une inobservance peut favoriser une décompensation.
+EXPLICATION_C: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_D: L’amélioration congestive ne supprime pas nécessairement la maladie.
+EXPLICATION_E: Elle doit être évaluée sans attendre.
+
+---
+ID: 234-056
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 77 ans diabétique a une IC chronique objectivée avec FEVG à 55 % et trouble de remplissage, sans choc ni OAP. Quel diagnostic principal est le plus probable ?
+A: F | Une IC chronique à FEVG altérée.
+B: V | Une IC chronique à FEVG préservée.
+C: F | Une IC chronique à FEVG modérément altérée.
+D: F | Un OAP cardiogénique sans choc.
+E: F | Une IC droite à prédominance de congestion systémique.
+JUSTIFICATION: Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_A: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_B: Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_C: La fiche distingue une FEVG de 41 à 49 %. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_D: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_E: L’atteinte droite est dominée par la congestion systémique. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+
+---
+ID: 234-057
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Interprétation de la FEVG
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 77 ans diabétique a une IC chronique objectivée avec FEVG à 55 % et trouble de remplissage, sans choc ni OAP. Quelles propositions concernant les phénotypes sont exactes selon la fiche ?
+A: F | La FEVG mesure directement la proportion de jours sans dyspnée.
+B: V | Une FEVG à 30 % correspond à une fraction d’éjection altérée.
+C: V | Une FEVG à 60 % n’exclut pas une insuffisance cardiaque.
+D: F | Une FEVG basse précise à elle seule l’étiologie de la cardiopathie.
+E: F | Une FEVG préservée suffit à prouver que toute dyspnée est extracardiaque.
+JUSTIFICATION: La FEVG classe le phénotype mais ne suffit pas, seule, à établir ou réfuter le syndrome clinique.
+EXPLICATION_A: C’est une mesure de fonction ventriculaire, pas un score de symptômes.
+EXPLICATION_B: La fiche retient une FEVG inférieure ou égale à 40 %.
+EXPLICATION_C: Des pressions de remplissage élevées et un tableau compatible peuvent accompagner une FEVG préservée.
+EXPLICATION_D: Plusieurs causes peuvent entraîner une baisse de FEVG.
+EXPLICATION_E: Le syndrome peut relever d’un trouble de remplissage.
+
+---
+ID: 234-058
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Remplissage et terrain
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 77 ans diabétique a une IC chronique objectivée avec FEVG à 55 % et trouble de remplissage, sans choc ni OAP. Quelles propositions sont compatibles avec une IC à FEVG préservée ?
+A: F | Une FEVG à 60 % impose que les pressions de remplissage soient normales.
+B: F | Le diagnostic peut être affirmé sur l’âge seul sans autre argument.
+C: F | Une congestion est impossible si la contraction globale est conservée.
+D: V | Des comorbidités comme diabète ou insuffisance rénale doivent être prises en compte.
+E: V | Une HTA ancienne peut contribuer au terrain.
+JUSTIFICATION: La conservation de la FEVG peut coexister avec un défaut de relaxation et des pressions élevées.
+EXPLICATION_A: Ces deux paramètres ne sont pas équivalents.
+EXPLICATION_B: Il faut un syndrome clinique et des données objectives compatibles.
+EXPLICATION_C: Une élévation des pressions peut produire des signes congestifs.
+EXPLICATION_D: Le phénotype survient souvent chez des sujets âgés avec comorbidités.
+EXPLICATION_E: La fiche décrit ce contexte fréquent.
+
+---
+ID: 234-059
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 77 ans diabétique a une IC chronique objectivée avec FEVG à 55 % et trouble de remplissage, sans choc ni OAP. Quelles propositions concernant le bilan sont exactes ?
+A: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+B: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+C: F | Un ECG isolé suffit à quantifier la FEVG.
+D: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+E: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_B: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_C: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_D: Une valvulopathie avancée peut être responsable.
+EXPLICATION_E: Ils évaluent le retentissement et la sécurité des traitements.
+
+---
+ID: 234-060
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 77 ans diabétique a une IC chronique objectivée avec FEVG à 55 % et trouble de remplissage, sans choc ni OAP. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+B: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+C: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+D: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+E: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: L’amélioration congestive ne supprime pas nécessairement la maladie.
+EXPLICATION_B: Elle doit être évaluée sans attendre.
+EXPLICATION_C: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_D: Ces changements doivent être expliqués au patient.
+EXPLICATION_E: Une inobservance peut favoriser une décompensation.
+
+---
+ID: 234-061
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 79 ans ayant une HTA ancienne présente une dyspnée stable avec données objectives d’IC et FEVG à 62 %. Quel diagnostic principal est le plus probable ?
+A: F | Un choc cardiogénique.
+B: F | Un OAP cardiogénique sans choc.
+C: F | Une IC chronique à FEVG altérée.
+D: F | Une IC chronique à FEVG modérément altérée.
+E: V | Une IC chronique à FEVG préservée.
+JUSTIFICATION: Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_A: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_B: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_C: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_D: La fiche distingue une FEVG de 41 à 49 %. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_E: Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+
+---
+ID: 234-062
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Interprétation de la FEVG
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 79 ans ayant une HTA ancienne présente une dyspnée stable avec données objectives d’IC et FEVG à 62 %. Quelles propositions concernant les phénotypes sont exactes selon la fiche ?
+A: F | Une FEVG préservée suffit à prouver que toute dyspnée est extracardiaque.
+B: V | Une FEVG à 45 % correspond à une fraction d’éjection modérément altérée.
+C: V | Une FEVG à 30 % correspond à une fraction d’éjection altérée.
+D: F | Une FEVG basse précise à elle seule l’étiologie de la cardiopathie.
+E: F | La FEVG mesure directement la proportion de jours sans dyspnée.
+JUSTIFICATION: La FEVG classe le phénotype mais ne suffit pas, seule, à établir ou réfuter le syndrome clinique.
+EXPLICATION_A: Le syndrome peut relever d’un trouble de remplissage.
+EXPLICATION_B: Elle se situe entre 41 et 49 %.
+EXPLICATION_C: La fiche retient une FEVG inférieure ou égale à 40 %.
+EXPLICATION_D: Plusieurs causes peuvent entraîner une baisse de FEVG.
+EXPLICATION_E: C’est une mesure de fonction ventriculaire, pas un score de symptômes.
+
+---
+ID: 234-063
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Remplissage et terrain
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 79 ans ayant une HTA ancienne présente une dyspnée stable avec données objectives d’IC et FEVG à 62 %. Quelles propositions sont compatibles avec une IC à FEVG préservée ?
+A: V | Des pressions de remplissage élevées soutiennent le mécanisme cardiaque.
+B: F | Une congestion est impossible si la contraction globale est conservée.
+C: F | Une FEVG à 60 % impose que les pressions de remplissage soient normales.
+D: V | Une HTA ancienne peut contribuer au terrain.
+E: F | Le diagnostic peut être affirmé sur l’âge seul sans autre argument.
+JUSTIFICATION: La conservation de la FEVG peut coexister avec un défaut de relaxation et des pressions élevées.
+EXPLICATION_A: Elles s’intègrent aux symptômes et autres examens.
+EXPLICATION_B: Une élévation des pressions peut produire des signes congestifs.
+EXPLICATION_C: Ces deux paramètres ne sont pas équivalents.
+EXPLICATION_D: La fiche décrit ce contexte fréquent.
+EXPLICATION_E: Il faut un syndrome clinique et des données objectives compatibles.
+
+---
+ID: 234-064
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 79 ans ayant une HTA ancienne présente une dyspnée stable avec données objectives d’IC et FEVG à 62 %. Quelles propositions concernant le bilan sont exactes ?
+A: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+B: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+C: F | Un ECG isolé suffit à quantifier la FEVG.
+D: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+E: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Ces facteurs sont cités dans la fiche.
+EXPLICATION_B: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_C: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_D: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_E: Une valvulopathie avancée peut être responsable.
+
+---
+ID: 234-065
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 79 ans ayant une HTA ancienne présente une dyspnée stable avec données objectives d’IC et FEVG à 62 %. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+B: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+C: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+D: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+E: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_B: Elle doit être évaluée sans attendre.
+EXPLICATION_C: L’amélioration congestive ne supprime pas nécessairement la maladie.
+EXPLICATION_D: Ces changements doivent être expliqués au patient.
+EXPLICATION_E: Les traitements et l’évolution peuvent les modifier.
+
+---
+ID: 234-066
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 82 ans insuffisant rénal a une IC chronique confirmée avec pressions de remplissage élevées et FEVG à 58 %. Quel diagnostic principal est le plus probable ?
+A: F | Une IC chronique à FEVG modérément altérée.
+B: F | Une IC droite à prédominance de congestion systémique.
+C: F | Un choc cardiogénique.
+D: F | Un OAP cardiogénique sans choc.
+E: V | Une IC chronique à FEVG préservée.
+JUSTIFICATION: Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_A: La fiche distingue une FEVG de 41 à 49 %. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_B: L’atteinte droite est dominée par la congestion systémique. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_C: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_D: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_E: Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+
+---
+ID: 234-067
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Interprétation de la FEVG
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 82 ans insuffisant rénal a une IC chronique confirmée avec pressions de remplissage élevées et FEVG à 58 %. Quelles propositions concernant les phénotypes sont exactes selon la fiche ?
+A: F | Une FEVG basse précise à elle seule l’étiologie de la cardiopathie.
+B: F | La FEVG mesure directement la proportion de jours sans dyspnée.
+C: V | Une FEVG à 60 % n’exclut pas une insuffisance cardiaque.
+D: V | Une FEVG à 45 % correspond à une fraction d’éjection modérément altérée.
+E: V | Une FEVG à 30 % correspond à une fraction d’éjection altérée.
+JUSTIFICATION: La FEVG classe le phénotype mais ne suffit pas, seule, à établir ou réfuter le syndrome clinique.
+EXPLICATION_A: Plusieurs causes peuvent entraîner une baisse de FEVG.
+EXPLICATION_B: C’est une mesure de fonction ventriculaire, pas un score de symptômes.
+EXPLICATION_C: Des pressions de remplissage élevées et un tableau compatible peuvent accompagner une FEVG préservée.
+EXPLICATION_D: Elle se situe entre 41 et 49 %.
+EXPLICATION_E: La fiche retient une FEVG inférieure ou égale à 40 %.
+
+---
+ID: 234-068
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Remplissage et terrain
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 82 ans insuffisant rénal a une IC chronique confirmée avec pressions de remplissage élevées et FEVG à 58 %. Quelles propositions sont compatibles avec une IC à FEVG préservée ?
+A: V | Des pressions de remplissage élevées soutiennent le mécanisme cardiaque.
+B: F | Une congestion est impossible si la contraction globale est conservée.
+C: V | Une HTA ancienne peut contribuer au terrain.
+D: V | Des comorbidités comme diabète ou insuffisance rénale doivent être prises en compte.
+E: F | Le diagnostic peut être affirmé sur l’âge seul sans autre argument.
+JUSTIFICATION: La conservation de la FEVG peut coexister avec un défaut de relaxation et des pressions élevées.
+EXPLICATION_A: Elles s’intègrent aux symptômes et autres examens.
+EXPLICATION_B: Une élévation des pressions peut produire des signes congestifs.
+EXPLICATION_C: La fiche décrit ce contexte fréquent.
+EXPLICATION_D: Le phénotype survient souvent chez des sujets âgés avec comorbidités.
+EXPLICATION_E: Il faut un syndrome clinique et des données objectives compatibles.
+
+---
+ID: 234-069
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 82 ans insuffisant rénal a une IC chronique confirmée avec pressions de remplissage élevées et FEVG à 58 %. Quelles propositions concernant le bilan sont exactes ?
+A: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+B: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+C: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+D: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+E: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_B: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_C: Ces facteurs sont cités dans la fiche.
+EXPLICATION_D: Une valvulopathie avancée peut être responsable.
+EXPLICATION_E: Ils évaluent le retentissement et la sécurité des traitements.
+
+---
+ID: 234-070
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 82 ans insuffisant rénal a une IC chronique confirmée avec pressions de remplissage élevées et FEVG à 58 %. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+B: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+C: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+D: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+E: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Ces changements doivent être expliqués au patient.
+EXPLICATION_B: Une inobservance peut favoriser une décompensation.
+EXPLICATION_C: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_D: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_E: Elle doit être évaluée sans attendre.
+
+---
+ID: 234-071
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 74 ans a une congestion chronique stabilisée et un syndrome d’IC documenté malgré une FEVG à 57 %. Quel diagnostic principal est le plus probable ?
+A: V | Une IC chronique à FEVG préservée.
+B: F | Un OAP cardiogénique sans choc.
+C: F | Une IC chronique à FEVG altérée.
+D: F | Un choc cardiogénique.
+E: F | Une IC droite à prédominance de congestion systémique.
+JUSTIFICATION: Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_A: Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_B: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_C: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_D: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+EXPLICATION_E: L’atteinte droite est dominée par la congestion systémique. Ici : Le syndrome d’IC est étayé par des pressions de remplissage élevées malgré une FEVG d’au moins 50 %.
+
+---
+ID: 234-072
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Interprétation de la FEVG
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 74 ans a une congestion chronique stabilisée et un syndrome d’IC documenté malgré une FEVG à 57 %. Quelles propositions concernant les phénotypes sont exactes selon la fiche ?
+A: V | Une FEVG à 60 % n’exclut pas une insuffisance cardiaque.
+B: V | Une FEVG à 45 % correspond à une fraction d’éjection modérément altérée.
+C: F | Une FEVG préservée suffit à prouver que toute dyspnée est extracardiaque.
+D: V | Une FEVG à 30 % correspond à une fraction d’éjection altérée.
+E: F | La FEVG mesure directement la proportion de jours sans dyspnée.
+JUSTIFICATION: La FEVG classe le phénotype mais ne suffit pas, seule, à établir ou réfuter le syndrome clinique.
+EXPLICATION_A: Des pressions de remplissage élevées et un tableau compatible peuvent accompagner une FEVG préservée.
+EXPLICATION_B: Elle se situe entre 41 et 49 %.
+EXPLICATION_C: Le syndrome peut relever d’un trouble de remplissage.
+EXPLICATION_D: La fiche retient une FEVG inférieure ou égale à 40 %.
+EXPLICATION_E: C’est une mesure de fonction ventriculaire, pas un score de symptômes.
+
+---
+ID: 234-073
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Remplissage et terrain
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 74 ans a une congestion chronique stabilisée et un syndrome d’IC documenté malgré une FEVG à 57 %. Quelles propositions sont compatibles avec une IC à FEVG préservée ?
+A: V | Des comorbidités comme diabète ou insuffisance rénale doivent être prises en compte.
+B: F | Une congestion est impossible si la contraction globale est conservée.
+C: V | Une HTA ancienne peut contribuer au terrain.
+D: V | Des pressions de remplissage élevées soutiennent le mécanisme cardiaque.
+E: F | Une FEVG à 60 % impose que les pressions de remplissage soient normales.
+JUSTIFICATION: La conservation de la FEVG peut coexister avec un défaut de relaxation et des pressions élevées.
+EXPLICATION_A: Le phénotype survient souvent chez des sujets âgés avec comorbidités.
+EXPLICATION_B: Une élévation des pressions peut produire des signes congestifs.
+EXPLICATION_C: La fiche décrit ce contexte fréquent.
+EXPLICATION_D: Elles s’intègrent aux symptômes et autres examens.
+EXPLICATION_E: Ces deux paramètres ne sont pas équivalents.
+
+---
+ID: 234-074
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 74 ans a une congestion chronique stabilisée et un syndrome d’IC documenté malgré une FEVG à 57 %. Quelles propositions concernant le bilan sont exactes ?
+A: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+B: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+C: F | Un ECG isolé suffit à quantifier la FEVG.
+D: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+E: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Ces facteurs sont cités dans la fiche.
+EXPLICATION_B: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_C: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_D: Ils évaluent le retentissement et la sécurité des traitements.
+EXPLICATION_E: Une séquelle d’infarctus peut contribuer à la dysfonction.
+
+---
+ID: 234-075
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: FEVG conservée · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 74 ans a une congestion chronique stabilisée et un syndrome d’IC documenté malgré une FEVG à 57 %. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+B: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+C: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+D: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+E: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Ces changements doivent être expliqués au patient.
+EXPLICATION_B: Une inobservance peut favoriser une décompensation.
+EXPLICATION_C: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_D: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_E: L’amélioration congestive ne supprime pas nécessairement la maladie.
+
+---
+ID: 234-076
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 69 ans présente une orthopnée brutale avec crépitants bilatéraux et expectoration mousseuse. L’imagerie confirme un OAP cardiogénique ; la pression est à 180/100 mmHg sans hypoperfusion. Quel diagnostic principal est le plus probable ?
+A: F | Une IC droite à prédominance de congestion systémique.
+B: F | Une IC chronique à FEVG altérée.
+C: V | Un OAP cardiogénique sans choc.
+D: F | Une IC chronique à FEVG préservée.
+E: F | Une IC chronique à FEVG modérément altérée.
+JUSTIFICATION: La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_A: L’atteinte droite est dominée par la congestion systémique. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_B: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_C: La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_D: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_E: La fiche distingue une FEVG de 41 à 49 %. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+
+---
+ID: 234-077
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Détresse respiratoire
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 69 ans présente une orthopnée brutale avec crépitants bilatéraux et expectoration mousseuse. L’imagerie confirme un OAP cardiogénique ; la pression est à 180/100 mmHg sans hypoperfusion. Quelles propositions interprètent ce tableau aigu ?
+A: F | Un OAP nécessite toujours une FEVG très basse.
+B: F | La présence de sibilants exclut une origine cardiaque.
+C: F | L’absence d’œdème des chevilles exclut une congestion pulmonaire aiguë.
+D: V | Une poussée hypertensive ou une FA rapide peut être un déclencheur.
+E: V | Une expectoration mousseuse peut accompagner le tableau.
+JUSTIFICATION: Une inondation alvéolaire cardiogénique provoque une détresse respiratoire avec orthopnée et crépitants.
+EXPLICATION_A: Une congestion aiguë peut survenir avec FEVG préservée.
+EXPLICATION_B: La fiche décrit un asthme cardiaque possible.
+EXPLICATION_C: La congestion peut prédominer au poumon.
+EXPLICATION_D: La recherche du facteur causal est nécessaire.
+EXPLICATION_E: Elle figure dans la sémiologie décrite.
+
+---
+ID: 234-078
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Priorités dans l’OAP
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 69 ans présente une orthopnée brutale avec crépitants bilatéraux et expectoration mousseuse. L’imagerie confirme un OAP cardiogénique ; la pression est à 180/100 mmHg sans hypoperfusion. Quelles propositions concernant la prise en charge sont exactes ?
+A: V | Un diurétique IV peut être utilisé pour la congestion selon le contexte.
+B: F | Le facteur déclenchant n’a pas à être traité si la dyspnée s’améliore.
+C: V | Une assistance respiratoire, notamment VNI selon la situation, peut être nécessaire.
+D: F | Une détresse respiratoire aiguë se traite uniquement par conseils alimentaires à domicile.
+E: F | Les dérivés nitrés peuvent être administrés sans tenir compte de la pression artérielle.
+JUSTIFICATION: La détresse respiratoire nécessite traitement urgent, surveillance et prise en charge du déclencheur.
+EXPLICATION_A: La fiche cite le furosémide.
+EXPLICATION_B: Une ischémie ou une arythmie peut continuer à menacer le patient.
+EXPLICATION_C: Le choix dépend de la détresse et de la tolérance.
+EXPLICATION_D: Elle nécessite une prise en charge urgente.
+EXPLICATION_E: La fiche les contre-indique lorsque la pression systolique est inférieure à 100 mmHg.
+
+---
+ID: 234-079
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 69 ans présente une orthopnée brutale avec crépitants bilatéraux et expectoration mousseuse. L’imagerie confirme un OAP cardiogénique ; la pression est à 180/100 mmHg sans hypoperfusion. Quelles propositions concernant le bilan sont exactes ?
+A: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+B: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+C: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+D: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+E: F | Un ECG isolé suffit à quantifier la FEVG.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_B: Une valvulopathie avancée peut être responsable.
+EXPLICATION_C: Ces facteurs sont cités dans la fiche.
+EXPLICATION_D: Ils évaluent le retentissement et la sécurité des traitements.
+EXPLICATION_E: La mesure nécessite une exploration adaptée, notamment échographique.
+
+---
+ID: 234-080
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 69 ans présente une orthopnée brutale avec crépitants bilatéraux et expectoration mousseuse. L’imagerie confirme un OAP cardiogénique ; la pression est à 180/100 mmHg sans hypoperfusion. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+B: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+C: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+D: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+E: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_B: L’amélioration congestive ne supprime pas nécessairement la maladie.
+EXPLICATION_C: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_D: Une inobservance peut favoriser une décompensation.
+EXPLICATION_E: Elle doit être évaluée sans attendre.
+
+---
+ID: 234-081
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 76 ans a une FA rapide avec détresse respiratoire et congestion pulmonaire cardiaque confirmée. La pression est conservée, sans choc. Quel diagnostic principal est le plus probable ?
+A: F | Une IC chronique à FEVG altérée.
+B: V | Un OAP cardiogénique sans choc.
+C: F | Un choc cardiogénique.
+D: F | Une IC chronique à FEVG modérément altérée.
+E: F | Une IC chronique à FEVG préservée.
+JUSTIFICATION: La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_A: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_B: La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_C: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_D: La fiche distingue une FEVG de 41 à 49 %. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_E: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+
+---
+ID: 234-082
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Détresse respiratoire
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 76 ans a une FA rapide avec détresse respiratoire et congestion pulmonaire cardiaque confirmée. La pression est conservée, sans choc. Quelles propositions interprètent ce tableau aigu ?
+A: F | La présence de sibilants exclut une origine cardiaque.
+B: V | Une poussée hypertensive ou une FA rapide peut être un déclencheur.
+C: V | Une orthopnée aiguë avec crépitants bilatéraux est compatible avec un OAP.
+D: F | Un OAP nécessite toujours une FEVG très basse.
+E: F | L’absence d’œdème des chevilles exclut une congestion pulmonaire aiguë.
+JUSTIFICATION: Une inondation alvéolaire cardiogénique provoque une détresse respiratoire avec orthopnée et crépitants.
+EXPLICATION_A: La fiche décrit un asthme cardiaque possible.
+EXPLICATION_B: La recherche du facteur causal est nécessaire.
+EXPLICATION_C: La congestion pulmonaire est au premier plan.
+EXPLICATION_D: Une congestion aiguë peut survenir avec FEVG préservée.
+EXPLICATION_E: La congestion peut prédominer au poumon.
+
+---
+ID: 234-083
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Priorités dans l’OAP
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 76 ans a une FA rapide avec détresse respiratoire et congestion pulmonaire cardiaque confirmée. La pression est conservée, sans choc. Quelles propositions concernant la prise en charge sont exactes ?
+A: F | Le facteur déclenchant n’a pas à être traité si la dyspnée s’améliore.
+B: V | Un diurétique IV peut être utilisé pour la congestion selon le contexte.
+C: V | Une prise en charge hospitalière surveillée est nécessaire.
+D: F | Les dérivés nitrés peuvent être administrés sans tenir compte de la pression artérielle.
+E: F | Une détresse respiratoire aiguë se traite uniquement par conseils alimentaires à domicile.
+JUSTIFICATION: La détresse respiratoire nécessite traitement urgent, surveillance et prise en charge du déclencheur.
+EXPLICATION_A: Une ischémie ou une arythmie peut continuer à menacer le patient.
+EXPLICATION_B: La fiche cite le furosémide.
+EXPLICATION_C: L’OAP peut engager le pronostic vital.
+EXPLICATION_D: La fiche les contre-indique lorsque la pression systolique est inférieure à 100 mmHg.
+EXPLICATION_E: Elle nécessite une prise en charge urgente.
+
+---
+ID: 234-084
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 76 ans a une FA rapide avec détresse respiratoire et congestion pulmonaire cardiaque confirmée. La pression est conservée, sans choc. Quelles propositions concernant le bilan sont exactes ?
+A: F | Un ECG isolé suffit à quantifier la FEVG.
+B: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+C: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+D: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+E: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_B: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_C: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_D: Une valvulopathie avancée peut être responsable.
+EXPLICATION_E: Ils évaluent le retentissement et la sécurité des traitements.
+
+---
+ID: 234-085
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 76 ans a une FA rapide avec détresse respiratoire et congestion pulmonaire cardiaque confirmée. La pression est conservée, sans choc. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+B: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+C: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+D: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+E: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Une inobservance peut favoriser une décompensation.
+EXPLICATION_B: L’amélioration congestive ne supprime pas nécessairement la maladie.
+EXPLICATION_C: Elle doit être évaluée sans attendre.
+EXPLICATION_D: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_E: Ces changements doivent être expliqués au patient.
+
+---
+ID: 234-086
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 72 ans présente un OAP sur décompensation hypertensive avec sibilants et crépitants, sans hypotension ni marbrures. Quel diagnostic principal est le plus probable ?
+A: F | Une IC chronique à FEVG préservée.
+B: F | Un choc cardiogénique.
+C: F | Une IC chronique à FEVG modérément altérée.
+D: V | Un OAP cardiogénique sans choc.
+E: F | Une IC droite à prédominance de congestion systémique.
+JUSTIFICATION: La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_A: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_B: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_C: La fiche distingue une FEVG de 41 à 49 %. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_D: La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_E: L’atteinte droite est dominée par la congestion systémique. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+
+---
+ID: 234-087
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Détresse respiratoire
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 72 ans présente un OAP sur décompensation hypertensive avec sibilants et crépitants, sans hypotension ni marbrures. Quelles propositions interprètent ce tableau aigu ?
+A: V | Une orthopnée aiguë avec crépitants bilatéraux est compatible avec un OAP.
+B: F | Un OAP nécessite toujours une FEVG très basse.
+C: F | L’absence d’œdème des chevilles exclut une congestion pulmonaire aiguë.
+D: F | La présence de sibilants exclut une origine cardiaque.
+E: V | Une expectoration mousseuse peut accompagner le tableau.
+JUSTIFICATION: Une inondation alvéolaire cardiogénique provoque une détresse respiratoire avec orthopnée et crépitants.
+EXPLICATION_A: La congestion pulmonaire est au premier plan.
+EXPLICATION_B: Une congestion aiguë peut survenir avec FEVG préservée.
+EXPLICATION_C: La congestion peut prédominer au poumon.
+EXPLICATION_D: La fiche décrit un asthme cardiaque possible.
+EXPLICATION_E: Elle figure dans la sémiologie décrite.
+
+---
+ID: 234-088
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Priorités dans l’OAP
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 72 ans présente un OAP sur décompensation hypertensive avec sibilants et crépitants, sans hypotension ni marbrures. Quelles propositions concernant la prise en charge sont exactes ?
+A: F | Les dérivés nitrés peuvent être administrés sans tenir compte de la pression artérielle.
+B: F | Le facteur déclenchant n’a pas à être traité si la dyspnée s’améliore.
+C: V | Une assistance respiratoire, notamment VNI selon la situation, peut être nécessaire.
+D: V | Une prise en charge hospitalière surveillée est nécessaire.
+E: F | Une détresse respiratoire aiguë se traite uniquement par conseils alimentaires à domicile.
+JUSTIFICATION: La détresse respiratoire nécessite traitement urgent, surveillance et prise en charge du déclencheur.
+EXPLICATION_A: La fiche les contre-indique lorsque la pression systolique est inférieure à 100 mmHg.
+EXPLICATION_B: Une ischémie ou une arythmie peut continuer à menacer le patient.
+EXPLICATION_C: Le choix dépend de la détresse et de la tolérance.
+EXPLICATION_D: L’OAP peut engager le pronostic vital.
+EXPLICATION_E: Elle nécessite une prise en charge urgente.
+
+---
+ID: 234-089
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 72 ans présente un OAP sur décompensation hypertensive avec sibilants et crépitants, sans hypotension ni marbrures. Quelles propositions concernant le bilan sont exactes ?
+A: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+B: F | Un ECG isolé suffit à quantifier la FEVG.
+C: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+D: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+E: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Une valvulopathie avancée peut être responsable.
+EXPLICATION_B: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_C: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_D: Ces facteurs sont cités dans la fiche.
+EXPLICATION_E: Une séquelle d’infarctus peut contribuer à la dysfonction.
+
+---
+ID: 234-090
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 72 ans présente un OAP sur décompensation hypertensive avec sibilants et crépitants, sans hypotension ni marbrures. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+B: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+C: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+D: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+E: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: L’amélioration congestive ne supprime pas nécessairement la maladie.
+EXPLICATION_B: Elle doit être évaluée sans attendre.
+EXPLICATION_C: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_D: Ces changements doivent être expliqués au patient.
+EXPLICATION_E: Les traitements et l’évolution peuvent les modifier.
+
+---
+ID: 234-091
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 80 ans à FEVG préservée présente une inondation alvéolaire cardiogénique aiguë avec orthopnée ; elle n’a pas de choc. Quel diagnostic principal est le plus probable ?
+A: F | Une IC chronique à FEVG préservée.
+B: F | Un choc cardiogénique.
+C: F | Une IC droite à prédominance de congestion systémique.
+D: V | Un OAP cardiogénique sans choc.
+E: F | Une IC chronique à FEVG altérée.
+JUSTIFICATION: La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_A: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_B: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_C: L’atteinte droite est dominée par la congestion systémique. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_D: La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_E: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+
+---
+ID: 234-092
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Détresse respiratoire
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 80 ans à FEVG préservée présente une inondation alvéolaire cardiogénique aiguë avec orthopnée ; elle n’a pas de choc. Quelles propositions interprètent ce tableau aigu ?
+A: V | Une poussée hypertensive ou une FA rapide peut être un déclencheur.
+B: V | Une orthopnée aiguë avec crépitants bilatéraux est compatible avec un OAP.
+C: V | Une expectoration mousseuse peut accompagner le tableau.
+D: F | L’absence d’œdème des chevilles exclut une congestion pulmonaire aiguë.
+E: F | Un OAP nécessite toujours une FEVG très basse.
+JUSTIFICATION: Une inondation alvéolaire cardiogénique provoque une détresse respiratoire avec orthopnée et crépitants.
+EXPLICATION_A: La recherche du facteur causal est nécessaire.
+EXPLICATION_B: La congestion pulmonaire est au premier plan.
+EXPLICATION_C: Elle figure dans la sémiologie décrite.
+EXPLICATION_D: La congestion peut prédominer au poumon.
+EXPLICATION_E: Une congestion aiguë peut survenir avec FEVG préservée.
+
+---
+ID: 234-093
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Priorités dans l’OAP
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 80 ans à FEVG préservée présente une inondation alvéolaire cardiogénique aiguë avec orthopnée ; elle n’a pas de choc. Quelles propositions concernant la prise en charge sont exactes ?
+A: V | Un diurétique IV peut être utilisé pour la congestion selon le contexte.
+B: V | Une assistance respiratoire, notamment VNI selon la situation, peut être nécessaire.
+C: V | Une prise en charge hospitalière surveillée est nécessaire.
+D: F | Le facteur déclenchant n’a pas à être traité si la dyspnée s’améliore.
+E: F | Une détresse respiratoire aiguë se traite uniquement par conseils alimentaires à domicile.
+JUSTIFICATION: La détresse respiratoire nécessite traitement urgent, surveillance et prise en charge du déclencheur.
+EXPLICATION_A: La fiche cite le furosémide.
+EXPLICATION_B: Le choix dépend de la détresse et de la tolérance.
+EXPLICATION_C: L’OAP peut engager le pronostic vital.
+EXPLICATION_D: Une ischémie ou une arythmie peut continuer à menacer le patient.
+EXPLICATION_E: Elle nécessite une prise en charge urgente.
+
+---
+ID: 234-094
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 80 ans à FEVG préservée présente une inondation alvéolaire cardiogénique aiguë avec orthopnée ; elle n’a pas de choc. Quelles propositions concernant le bilan sont exactes ?
+A: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+B: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+C: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+D: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+E: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Une valvulopathie avancée peut être responsable.
+EXPLICATION_B: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_C: Ils évaluent le retentissement et la sécurité des traitements.
+EXPLICATION_D: Ces facteurs sont cités dans la fiche.
+EXPLICATION_E: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+
+---
+ID: 234-095
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 80 ans à FEVG préservée présente une inondation alvéolaire cardiogénique aiguë avec orthopnée ; elle n’a pas de choc. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+B: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+C: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+D: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+E: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Ces changements doivent être expliqués au patient.
+EXPLICATION_B: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_C: Elle doit être évaluée sans attendre.
+EXPLICATION_D: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_E: Une inobservance peut favoriser une décompensation.
+
+---
+ID: 234-096
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 64 ans a une détresse respiratoire avec opacités de congestion et crépitants, retenue comme OAP cardiogénique. La perfusion systémique reste conservée. Quel diagnostic principal est le plus probable ?
+A: F | Un choc cardiogénique.
+B: F | Une IC chronique à FEVG modérément altérée.
+C: F | Une IC chronique à FEVG altérée.
+D: F | Une IC droite à prédominance de congestion systémique.
+E: V | Un OAP cardiogénique sans choc.
+JUSTIFICATION: La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_A: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_B: La fiche distingue une FEVG de 41 à 49 %. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_C: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_D: L’atteinte droite est dominée par la congestion systémique. Ici : La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+EXPLICATION_E: La détresse respiratoire avec orthopnée et congestion pulmonaire documentée domine, sans hypoperfusion systémique décrite.
+
+---
+ID: 234-097
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Détresse respiratoire
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 64 ans a une détresse respiratoire avec opacités de congestion et crépitants, retenue comme OAP cardiogénique. La perfusion systémique reste conservée. Quelles propositions interprètent ce tableau aigu ?
+A: F | L’absence d’œdème des chevilles exclut une congestion pulmonaire aiguë.
+B: V | Une orthopnée aiguë avec crépitants bilatéraux est compatible avec un OAP.
+C: V | Une poussée hypertensive ou une FA rapide peut être un déclencheur.
+D: F | La présence de sibilants exclut une origine cardiaque.
+E: V | Une expectoration mousseuse peut accompagner le tableau.
+JUSTIFICATION: Une inondation alvéolaire cardiogénique provoque une détresse respiratoire avec orthopnée et crépitants.
+EXPLICATION_A: La congestion peut prédominer au poumon.
+EXPLICATION_B: La congestion pulmonaire est au premier plan.
+EXPLICATION_C: La recherche du facteur causal est nécessaire.
+EXPLICATION_D: La fiche décrit un asthme cardiaque possible.
+EXPLICATION_E: Elle figure dans la sémiologie décrite.
+
+---
+ID: 234-098
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Priorités dans l’OAP
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 64 ans a une détresse respiratoire avec opacités de congestion et crépitants, retenue comme OAP cardiogénique. La perfusion systémique reste conservée. Quelles propositions concernant la prise en charge sont exactes ?
+A: F | Les dérivés nitrés peuvent être administrés sans tenir compte de la pression artérielle.
+B: V | Une prise en charge hospitalière surveillée est nécessaire.
+C: F | Une détresse respiratoire aiguë se traite uniquement par conseils alimentaires à domicile.
+D: V | Un diurétique IV peut être utilisé pour la congestion selon le contexte.
+E: V | Une assistance respiratoire, notamment VNI selon la situation, peut être nécessaire.
+JUSTIFICATION: La détresse respiratoire nécessite traitement urgent, surveillance et prise en charge du déclencheur.
+EXPLICATION_A: La fiche les contre-indique lorsque la pression systolique est inférieure à 100 mmHg.
+EXPLICATION_B: L’OAP peut engager le pronostic vital.
+EXPLICATION_C: Elle nécessite une prise en charge urgente.
+EXPLICATION_D: La fiche cite le furosémide.
+EXPLICATION_E: Le choix dépend de la détresse et de la tolérance.
+
+---
+ID: 234-099
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 64 ans a une détresse respiratoire avec opacités de congestion et crépitants, retenue comme OAP cardiogénique. La perfusion systémique reste conservée. Quelles propositions concernant le bilan sont exactes ?
+A: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+B: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+C: F | Un ECG isolé suffit à quantifier la FEVG.
+D: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+E: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Ils évaluent le retentissement et la sécurité des traitements.
+EXPLICATION_B: Ces facteurs sont cités dans la fiche.
+EXPLICATION_C: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_D: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_E: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+
+---
+ID: 234-100
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Congestion pulmonaire aiguë · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 64 ans a une détresse respiratoire avec opacités de congestion et crépitants, retenue comme OAP cardiogénique. La perfusion systémique reste conservée. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+B: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+C: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+D: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+E: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_B: Une inobservance peut favoriser une décompensation.
+EXPLICATION_C: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_D: Ces changements doivent être expliqués au patient.
+EXPLICATION_E: L’amélioration congestive ne supprime pas nécessairement la maladie.
+
+---
+ID: 234-101
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Défaillance circulatoire · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 67 ans après infarctus a une pression systolique à 75 mmHg, des marbrures, une oligurie et un débit cardiaque très diminué à l’échographie. Une cause cardiogénique est retenue. Quel diagnostic principal est le plus probable ?
+A: F | Une IC chronique à FEVG préservée.
+B: F | Un OAP cardiogénique sans choc.
+C: F | Une IC chronique à FEVG modérément altérée.
+D: V | Un choc cardiogénique.
+E: F | Une IC chronique à FEVG altérée.
+JUSTIFICATION: L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_A: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_B: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_C: La fiche distingue une FEVG de 41 à 49 %. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_D: L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_E: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+
+---
+ID: 234-102
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Défaillance circulatoire · Hypoperfusion
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 67 ans après infarctus a une pression systolique à 75 mmHg, des marbrures, une oligurie et un débit cardiaque très diminué à l’échographie. Une cause cardiogénique est retenue. Quelles propositions caractérisent une mauvaise perfusion systémique ?
+A: V | Une confusion peut traduire un bas débit cérébral.
+B: F | La présence de congestion exclut un bas débit.
+C: F | Une FEVG basse sans signe d’hypoperfusion prouve à elle seule un choc.
+D: V | Des extrémités froides et des marbrures sont préoccupantes.
+E: F | Un rythme régulier garantit une perfusion suffisante.
+JUSTIFICATION: Le choc associe hypotension et signes de perfusion insuffisante, pas seulement une FEVG basse.
+EXPLICATION_A: Le retentissement neurologique doit être évalué.
+EXPLICATION_B: Congestion et hypoperfusion peuvent coexister.
+EXPLICATION_C: Le choc est un syndrome clinique et hémodynamique.
+EXPLICATION_D: Elles participent au tableau d’hypoperfusion.
+EXPLICATION_E: La cadence ne résume pas le débit ni la fonction cardiaque.
+
+---
+ID: 234-103
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Défaillance circulatoire · Urgence circulatoire
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 67 ans après infarctus a une pression systolique à 75 mmHg, des marbrures, une oligurie et un débit cardiaque très diminué à l’échographie. Une cause cardiogénique est retenue. Quelles propositions concernant la stratégie sont exactes ?
+A: V | Un traitement inotrope peut être discuté selon le profil hémodynamique.
+B: F | Le traitement symptomatique dispense de rechercher un infarctus ou une complication mécanique.
+C: V | La surveillance de la diurèse et de la perfusion est nécessaire.
+D: F | Tout traitement hypotenseur chronique doit être poursuivi sans réévaluation malgré le choc.
+E: F | Un remplissage massif uniforme convient à tous les profils sans tenir compte de la congestion.
+JUSTIFICATION: Le choc cardiogénique nécessite une prise en charge intensive et un traitement de la cause.
+EXPLICATION_A: La fiche cite notamment la dobutamine.
+EXPLICATION_B: Le traitement de la cause reste prioritaire.
+EXPLICATION_C: Elle contribue à suivre le retentissement et la réponse.
+EXPLICATION_D: La tolérance et la stratégie immédiate imposent une réévaluation.
+EXPLICATION_E: Le traitement doit être adapté à l’hémodynamique.
+
+---
+ID: 234-104
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Défaillance circulatoire · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 67 ans après infarctus a une pression systolique à 75 mmHg, des marbrures, une oligurie et un débit cardiaque très diminué à l’échographie. Une cause cardiogénique est retenue. Quelles propositions concernant le bilan sont exactes ?
+A: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+B: F | Un ECG isolé suffit à quantifier la FEVG.
+C: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+D: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+E: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Ces facteurs sont cités dans la fiche.
+EXPLICATION_B: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_C: Une valvulopathie avancée peut être responsable.
+EXPLICATION_D: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_E: Ils évaluent le retentissement et la sécurité des traitements.
+
+---
+ID: 234-105
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Défaillance circulatoire · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 67 ans après infarctus a une pression systolique à 75 mmHg, des marbrures, une oligurie et un débit cardiaque très diminué à l’échographie. Une cause cardiogénique est retenue. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+B: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+C: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+D: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+E: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_B: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_C: Elle doit être évaluée sans attendre.
+EXPLICATION_D: Une inobservance peut favoriser une décompensation.
+EXPLICATION_E: L’amélioration congestive ne supprime pas nécessairement la maladie.
+
+---
+ID: 234-106
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 73 ans avec IC sévère présente hypotension, confusion et extrémités froides ; le bilan confirme une défaillance cardiaque responsable du choc. Quel diagnostic principal est le plus probable ?
+A: F | Une IC chronique à FEVG modérément altérée.
+B: F | Une IC chronique à FEVG préservée.
+C: V | Un choc cardiogénique.
+D: F | Un OAP cardiogénique sans choc.
+E: F | Une IC droite à prédominance de congestion systémique.
+JUSTIFICATION: L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_A: La fiche distingue une FEVG de 41 à 49 %. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_B: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_C: L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_D: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_E: L’atteinte droite est dominée par la congestion systémique. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+
+---
+ID: 234-107
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · Hypoperfusion
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 73 ans avec IC sévère présente hypotension, confusion et extrémités froides ; le bilan confirme une défaillance cardiaque responsable du choc. Quelles propositions caractérisent une mauvaise perfusion systémique ?
+A: F | Un rythme régulier garantit une perfusion suffisante.
+B: V | Une oligurie est un signe de retentissement possible.
+C: F | Une FEVG basse sans signe d’hypoperfusion prouve à elle seule un choc.
+D: V | Une confusion peut traduire un bas débit cérébral.
+E: F | La présence de congestion exclut un bas débit.
+JUSTIFICATION: Le choc associe hypotension et signes de perfusion insuffisante, pas seulement une FEVG basse.
+EXPLICATION_A: La cadence ne résume pas le débit ni la fonction cardiaque.
+EXPLICATION_B: Elle peut traduire une perfusion rénale insuffisante.
+EXPLICATION_C: Le choc est un syndrome clinique et hémodynamique.
+EXPLICATION_D: Le retentissement neurologique doit être évalué.
+EXPLICATION_E: Congestion et hypoperfusion peuvent coexister.
+
+---
+ID: 234-108
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · Urgence circulatoire
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 73 ans avec IC sévère présente hypotension, confusion et extrémités froides ; le bilan confirme une défaillance cardiaque responsable du choc. Quelles propositions concernant la stratégie sont exactes ?
+A: F | Le traitement symptomatique dispense de rechercher un infarctus ou une complication mécanique.
+B: V | Une prise en charge en soins intensifs ou réanimation est indiquée.
+C: F | Un remplissage massif uniforme convient à tous les profils sans tenir compte de la congestion.
+D: V | Un traitement inotrope peut être discuté selon le profil hémodynamique.
+E: F | Tout traitement hypotenseur chronique doit être poursuivi sans réévaluation malgré le choc.
+JUSTIFICATION: Le choc cardiogénique nécessite une prise en charge intensive et un traitement de la cause.
+EXPLICATION_A: Le traitement de la cause reste prioritaire.
+EXPLICATION_B: Une défaillance multiviscérale est possible.
+EXPLICATION_C: Le traitement doit être adapté à l’hémodynamique.
+EXPLICATION_D: La fiche cite notamment la dobutamine.
+EXPLICATION_E: La tolérance et la stratégie immédiate imposent une réévaluation.
+
+---
+ID: 234-109
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 73 ans avec IC sévère présente hypotension, confusion et extrémités froides ; le bilan confirme une défaillance cardiaque responsable du choc. Quelles propositions concernant le bilan sont exactes ?
+A: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+B: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+C: F | Un ECG isolé suffit à quantifier la FEVG.
+D: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+E: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Une valvulopathie avancée peut être responsable.
+EXPLICATION_B: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_C: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_D: Ils évaluent le retentissement et la sécurité des traitements.
+EXPLICATION_E: Une séquelle d’infarctus peut contribuer à la dysfonction.
+
+---
+ID: 234-110
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 73 ans avec IC sévère présente hypotension, confusion et extrémités froides ; le bilan confirme une défaillance cardiaque responsable du choc. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+B: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+C: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+D: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+E: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Une inobservance peut favoriser une décompensation.
+EXPLICATION_B: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_C: L’amélioration congestive ne supprime pas nécessairement la maladie.
+EXPLICATION_D: Elle doit être évaluée sans attendre.
+EXPLICATION_E: Ces changements doivent être expliqués au patient.
+
+---
+ID: 234-111
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 59 ans a une cardiomyopathie décompensée avec hypoperfusion, pression à 80 mmHg et débit bas documenté, sans autre cause de choc dominante. Quel diagnostic principal est le plus probable ?
+A: F | Une IC chronique à FEVG altérée.
+B: F | Un OAP cardiogénique sans choc.
+C: V | Un choc cardiogénique.
+D: F | Une IC droite à prédominance de congestion systémique.
+E: F | Une IC chronique à FEVG préservée.
+JUSTIFICATION: L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_A: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_B: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_C: L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_D: L’atteinte droite est dominée par la congestion systémique. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_E: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+
+---
+ID: 234-112
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · Hypoperfusion
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 59 ans a une cardiomyopathie décompensée avec hypoperfusion, pression à 80 mmHg et débit bas documenté, sans autre cause de choc dominante. Quelles propositions caractérisent une mauvaise perfusion systémique ?
+A: V | Des extrémités froides et des marbrures sont préoccupantes.
+B: F | Un rythme régulier garantit une perfusion suffisante.
+C: F | La présence de congestion exclut un bas débit.
+D: V | Une oligurie est un signe de retentissement possible.
+E: F | Une FEVG basse sans signe d’hypoperfusion prouve à elle seule un choc.
+JUSTIFICATION: Le choc associe hypotension et signes de perfusion insuffisante, pas seulement une FEVG basse.
+EXPLICATION_A: Elles participent au tableau d’hypoperfusion.
+EXPLICATION_B: La cadence ne résume pas le débit ni la fonction cardiaque.
+EXPLICATION_C: Congestion et hypoperfusion peuvent coexister.
+EXPLICATION_D: Elle peut traduire une perfusion rénale insuffisante.
+EXPLICATION_E: Le choc est un syndrome clinique et hémodynamique.
+
+---
+ID: 234-113
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · Urgence circulatoire
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 59 ans a une cardiomyopathie décompensée avec hypoperfusion, pression à 80 mmHg et débit bas documenté, sans autre cause de choc dominante. Quelles propositions concernant la stratégie sont exactes ?
+A: F | Tout traitement hypotenseur chronique doit être poursuivi sans réévaluation malgré le choc.
+B: V | La surveillance de la diurèse et de la perfusion est nécessaire.
+C: V | Une prise en charge en soins intensifs ou réanimation est indiquée.
+D: F | Le traitement symptomatique dispense de rechercher un infarctus ou une complication mécanique.
+E: F | Un remplissage massif uniforme convient à tous les profils sans tenir compte de la congestion.
+JUSTIFICATION: Le choc cardiogénique nécessite une prise en charge intensive et un traitement de la cause.
+EXPLICATION_A: La tolérance et la stratégie immédiate imposent une réévaluation.
+EXPLICATION_B: Elle contribue à suivre le retentissement et la réponse.
+EXPLICATION_C: Une défaillance multiviscérale est possible.
+EXPLICATION_D: Le traitement de la cause reste prioritaire.
+EXPLICATION_E: Le traitement doit être adapté à l’hémodynamique.
+
+---
+ID: 234-114
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 59 ans a une cardiomyopathie décompensée avec hypoperfusion, pression à 80 mmHg et débit bas documenté, sans autre cause de choc dominante. Quelles propositions concernant le bilan sont exactes ?
+A: F | Un ECG isolé suffit à quantifier la FEVG.
+B: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+C: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+D: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+E: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_B: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_C: Ces facteurs sont cités dans la fiche.
+EXPLICATION_D: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_E: Une valvulopathie avancée peut être responsable.
+
+---
+ID: 234-115
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 59 ans a une cardiomyopathie décompensée avec hypoperfusion, pression à 80 mmHg et débit bas documenté, sans autre cause de choc dominante. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+B: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+C: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+D: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+E: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Elle doit être évaluée sans attendre.
+EXPLICATION_B: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_C: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_D: Ces changements doivent être expliqués au patient.
+EXPLICATION_E: L’amélioration congestive ne supprime pas nécessairement la maladie.
+
+---
+ID: 234-116
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 78 ans a une défaillance cardiaque aiguë avec oligurie et marbrures malgré les premières mesures ; le choc cardiogénique est confirmé. Quel diagnostic principal est le plus probable ?
+A: F | Une IC chronique à FEVG altérée.
+B: F | Une IC droite à prédominance de congestion systémique.
+C: F | Un OAP cardiogénique sans choc.
+D: V | Un choc cardiogénique.
+E: F | Une IC chronique à FEVG modérément altérée.
+JUSTIFICATION: L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_A: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_B: L’atteinte droite est dominée par la congestion systémique. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_C: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_D: L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_E: La fiche distingue une FEVG de 41 à 49 %. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+
+---
+ID: 234-117
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · Hypoperfusion
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 78 ans a une défaillance cardiaque aiguë avec oligurie et marbrures malgré les premières mesures ; le choc cardiogénique est confirmé. Quelles propositions caractérisent une mauvaise perfusion systémique ?
+A: V | Une confusion peut traduire un bas débit cérébral.
+B: V | Des extrémités froides et des marbrures sont préoccupantes.
+C: F | Un rythme régulier garantit une perfusion suffisante.
+D: V | Une oligurie est un signe de retentissement possible.
+E: F | La présence de congestion exclut un bas débit.
+JUSTIFICATION: Le choc associe hypotension et signes de perfusion insuffisante, pas seulement une FEVG basse.
+EXPLICATION_A: Le retentissement neurologique doit être évalué.
+EXPLICATION_B: Elles participent au tableau d’hypoperfusion.
+EXPLICATION_C: La cadence ne résume pas le débit ni la fonction cardiaque.
+EXPLICATION_D: Elle peut traduire une perfusion rénale insuffisante.
+EXPLICATION_E: Congestion et hypoperfusion peuvent coexister.
+
+---
+ID: 234-118
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · Urgence circulatoire
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 78 ans a une défaillance cardiaque aiguë avec oligurie et marbrures malgré les premières mesures ; le choc cardiogénique est confirmé. Quelles propositions concernant la stratégie sont exactes ?
+A: V | La surveillance de la diurèse et de la perfusion est nécessaire.
+B: V | Une prise en charge en soins intensifs ou réanimation est indiquée.
+C: F | Le traitement symptomatique dispense de rechercher un infarctus ou une complication mécanique.
+D: V | Un traitement inotrope peut être discuté selon le profil hémodynamique.
+E: F | Un remplissage massif uniforme convient à tous les profils sans tenir compte de la congestion.
+JUSTIFICATION: Le choc cardiogénique nécessite une prise en charge intensive et un traitement de la cause.
+EXPLICATION_A: Elle contribue à suivre le retentissement et la réponse.
+EXPLICATION_B: Une défaillance multiviscérale est possible.
+EXPLICATION_C: Le traitement de la cause reste prioritaire.
+EXPLICATION_D: La fiche cite notamment la dobutamine.
+EXPLICATION_E: Le traitement doit être adapté à l’hémodynamique.
+
+---
+ID: 234-119
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 78 ans a une défaillance cardiaque aiguë avec oligurie et marbrures malgré les premières mesures ; le choc cardiogénique est confirmé. Quelles propositions concernant le bilan sont exactes ?
+A: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+B: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+C: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+D: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+E: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_B: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_C: Une valvulopathie avancée peut être responsable.
+EXPLICATION_D: Ces facteurs sont cités dans la fiche.
+EXPLICATION_E: Ils évaluent le retentissement et la sécurité des traitements.
+
+---
+ID: 234-120
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 78 ans a une défaillance cardiaque aiguë avec oligurie et marbrures malgré les premières mesures ; le choc cardiogénique est confirmé. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+B: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+C: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+D: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+E: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_B: Une inobservance peut favoriser une décompensation.
+EXPLICATION_C: Ces changements doivent être expliqués au patient.
+EXPLICATION_D: Elle doit être évaluée sans attendre.
+EXPLICATION_E: Les traitements et l’évolution peuvent les modifier.
+
+---
+ID: 234-121
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 71 ans présente congestion et hypotension avec altération de conscience. L’évaluation hémodynamique retient un bas débit cardiogénique responsable. Quel diagnostic principal est le plus probable ?
+A: F | Une IC chronique à FEVG préservée.
+B: F | Une IC droite à prédominance de congestion systémique.
+C: F | Une IC chronique à FEVG altérée.
+D: V | Un choc cardiogénique.
+E: F | Une IC chronique à FEVG modérément altérée.
+JUSTIFICATION: L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_A: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_B: L’atteinte droite est dominée par la congestion systémique. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_C: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_D: L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+EXPLICATION_E: La fiche distingue une FEVG de 41 à 49 %. Ici : L’hypotension et l’hypoperfusion sont attribuées à une défaillance cardiaque objectivée.
+
+---
+ID: 234-122
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · Hypoperfusion
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 71 ans présente congestion et hypotension avec altération de conscience. L’évaluation hémodynamique retient un bas débit cardiogénique responsable. Quelles propositions caractérisent une mauvaise perfusion systémique ?
+A: V | Des extrémités froides et des marbrures sont préoccupantes.
+B: V | Une oligurie est un signe de retentissement possible.
+C: V | Une confusion peut traduire un bas débit cérébral.
+D: F | Un rythme régulier garantit une perfusion suffisante.
+E: F | Une FEVG basse sans signe d’hypoperfusion prouve à elle seule un choc.
+JUSTIFICATION: Le choc associe hypotension et signes de perfusion insuffisante, pas seulement une FEVG basse.
+EXPLICATION_A: Elles participent au tableau d’hypoperfusion.
+EXPLICATION_B: Elle peut traduire une perfusion rénale insuffisante.
+EXPLICATION_C: Le retentissement neurologique doit être évalué.
+EXPLICATION_D: La cadence ne résume pas le débit ni la fonction cardiaque.
+EXPLICATION_E: Le choc est un syndrome clinique et hémodynamique.
+
+---
+ID: 234-123
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · Urgence circulatoire
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 71 ans présente congestion et hypotension avec altération de conscience. L’évaluation hémodynamique retient un bas débit cardiogénique responsable. Quelles propositions concernant la stratégie sont exactes ?
+A: F | Tout traitement hypotenseur chronique doit être poursuivi sans réévaluation malgré le choc.
+B: V | Une prise en charge en soins intensifs ou réanimation est indiquée.
+C: V | Un traitement inotrope peut être discuté selon le profil hémodynamique.
+D: F | Le traitement symptomatique dispense de rechercher un infarctus ou une complication mécanique.
+E: V | La surveillance de la diurèse et de la perfusion est nécessaire.
+JUSTIFICATION: Le choc cardiogénique nécessite une prise en charge intensive et un traitement de la cause.
+EXPLICATION_A: La tolérance et la stratégie immédiate imposent une réévaluation.
+EXPLICATION_B: Une défaillance multiviscérale est possible.
+EXPLICATION_C: La fiche cite notamment la dobutamine.
+EXPLICATION_D: Le traitement de la cause reste prioritaire.
+EXPLICATION_E: Elle contribue à suivre le retentissement et la réponse.
+
+---
+ID: 234-124
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 71 ans présente congestion et hypotension avec altération de conscience. L’évaluation hémodynamique retient un bas débit cardiogénique responsable. Quelles propositions concernant le bilan sont exactes ?
+A: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+B: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+C: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+D: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+E: F | Un ECG isolé suffit à quantifier la FEVG.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_B: Ces facteurs sont cités dans la fiche.
+EXPLICATION_C: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_D: Ils évaluent le retentissement et la sécurité des traitements.
+EXPLICATION_E: La mesure nécessite une exploration adaptée, notamment échographique.
+
+---
+ID: 234-125
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Défaillance circulatoire · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 71 ans présente congestion et hypotension avec altération de conscience. L’évaluation hémodynamique retient un bas débit cardiogénique responsable. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+B: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+C: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+D: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+E: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: L’amélioration congestive ne supprime pas nécessairement la maladie.
+EXPLICATION_B: Une inobservance peut favoriser une décompensation.
+EXPLICATION_C: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_D: Ces changements doivent être expliqués au patient.
+EXPLICATION_E: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+
+---
+ID: 234-126
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 68 ans avec HTAP présente œdèmes, turgescence jugulaire et hépatalgies. L’échographie documente une défaillance droite ; il n’y a ni OAP ni choc. Quel diagnostic principal est le plus probable ?
+A: F | Un OAP cardiogénique sans choc.
+B: F | Un choc cardiogénique.
+C: F | Une IC chronique à FEVG préservée.
+D: F | Une IC chronique à FEVG modérément altérée.
+E: V | Une IC droite à prédominance de congestion systémique.
+JUSTIFICATION: Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_A: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_B: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_C: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_D: La fiche distingue une FEVG de 41 à 49 %. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_E: Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+
+---
+ID: 234-127
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Congestion systémique
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 68 ans avec HTAP présente œdèmes, turgescence jugulaire et hépatalgies. L’échographie documente une défaillance droite ; il n’y a ni OAP ni choc. Quelles propositions interprètent les signes droits ?
+A: F | La congestion droite exige toujours des crépitants pulmonaires abondants.
+B: F | Une turgescence jugulaire suffit à identifier la cause précise.
+C: V | Une hépatomégalie douloureuse peut être liée à la congestion.
+D: V | Des œdèmes bilatéraux déclives prenant le godet sont compatibles.
+E: F | Des œdèmes isolés prouvent toujours une insuffisance cardiaque droite.
+JUSTIFICATION: La congestion veineuse systémique peut associer œdèmes déclives, turgescence et atteinte hépatique.
+EXPLICATION_A: Une forme droite isolée peut exister.
+EXPLICATION_B: Le mécanisme nécessite un bilan cardiaque et étiologique.
+EXPLICATION_C: La distension de la capsule hépatique peut provoquer des hépatalgies.
+EXPLICATION_D: Ils doivent être interprétés avec le reste du tableau.
+EXPLICATION_E: D’autres causes doivent être évaluées.
+
+---
+ID: 234-128
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Causes d’atteinte droite
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 68 ans avec HTAP présente œdèmes, turgescence jugulaire et hépatalgies. L’échographie documente une défaillance droite ; il n’y a ni OAP ni choc. Quelles propositions concernant les causes sont exactes ?
+A: F | Une IC droite isolée est nécessairement due à une insuffisance mitrale.
+B: F | Une FEVG conservée exclut toute maladie du ventricule droit.
+C: V | Une péricardite constrictive ou une atteinte tricuspidienne peut produire une congestion droite.
+D: F | Une embolie pulmonaire ne peut pas provoquer une défaillance droite aiguë.
+E: V | Une HTAP ou une maladie pulmonaire peut contribuer à une atteinte droite.
+JUSTIFICATION: La recherche distingue retentissement d’IC gauche, causes pulmonaires, valvulaires et péricardiques.
+EXPLICATION_A: Plusieurs autres mécanismes sont possibles.
+EXPLICATION_B: La FEVG décrit le ventricule gauche.
+EXPLICATION_C: Ces causes figurent dans la fiche.
+EXPLICATION_D: Elle fait partie des causes importantes.
+EXPLICATION_E: Le contexte pulmonaire doit être recherché.
+
+---
+ID: 234-129
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 68 ans avec HTAP présente œdèmes, turgescence jugulaire et hépatalgies. L’échographie documente une défaillance droite ; il n’y a ni OAP ni choc. Quelles propositions concernant le bilan sont exactes ?
+A: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+B: F | Un ECG isolé suffit à quantifier la FEVG.
+C: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+D: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+E: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Ils évaluent le retentissement et la sécurité des traitements.
+EXPLICATION_B: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_C: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_D: Une valvulopathie avancée peut être responsable.
+EXPLICATION_E: Ces facteurs sont cités dans la fiche.
+
+---
+ID: 234-130
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 68 ans avec HTAP présente œdèmes, turgescence jugulaire et hépatalgies. L’échographie documente une défaillance droite ; il n’y a ni OAP ni choc. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+B: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+C: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+D: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+E: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_B: Elle doit être évaluée sans attendre.
+EXPLICATION_C: Une inobservance peut favoriser une décompensation.
+EXPLICATION_D: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_E: L’amélioration congestive ne supprime pas nécessairement la maladie.
+
+---
+ID: 234-131
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 75 ans avec atteinte tricuspidienne présente ascite et reflux hépatojugulaire ; le bilan confirme une congestion droite dominante sans détresse aiguë. Quel diagnostic principal est le plus probable ?
+A: F | Une IC chronique à FEVG altérée.
+B: F | Un OAP cardiogénique sans choc.
+C: F | Une IC chronique à FEVG préservée.
+D: F | Un choc cardiogénique.
+E: V | Une IC droite à prédominance de congestion systémique.
+JUSTIFICATION: Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_A: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_B: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_C: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_D: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_E: Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+
+---
+ID: 234-132
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Congestion systémique
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 75 ans avec atteinte tricuspidienne présente ascite et reflux hépatojugulaire ; le bilan confirme une congestion droite dominante sans détresse aiguë. Quelles propositions interprètent les signes droits ?
+A: V | Une hépatomégalie douloureuse peut être liée à la congestion.
+B: F | La congestion droite exige toujours des crépitants pulmonaires abondants.
+C: F | Une turgescence jugulaire suffit à identifier la cause précise.
+D: V | Un reflux hépatojugulaire soutient la congestion droite.
+E: F | Des œdèmes isolés prouvent toujours une insuffisance cardiaque droite.
+JUSTIFICATION: La congestion veineuse systémique peut associer œdèmes déclives, turgescence et atteinte hépatique.
+EXPLICATION_A: La distension de la capsule hépatique peut provoquer des hépatalgies.
+EXPLICATION_B: Une forme droite isolée peut exister.
+EXPLICATION_C: Le mécanisme nécessite un bilan cardiaque et étiologique.
+EXPLICATION_D: Il fait partie des signes décrits.
+EXPLICATION_E: D’autres causes doivent être évaluées.
+
+---
+ID: 234-133
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Causes d’atteinte droite
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 75 ans avec atteinte tricuspidienne présente ascite et reflux hépatojugulaire ; le bilan confirme une congestion droite dominante sans détresse aiguë. Quelles propositions concernant les causes sont exactes ?
+A: F | Une FEVG conservée exclut toute maladie du ventricule droit.
+B: V | Une péricardite constrictive ou une atteinte tricuspidienne peut produire une congestion droite.
+C: V | Une IC gauche peut entraîner une IC droite.
+D: F | Une IC droite isolée est nécessairement due à une insuffisance mitrale.
+E: F | Une embolie pulmonaire ne peut pas provoquer une défaillance droite aiguë.
+JUSTIFICATION: La recherche distingue retentissement d’IC gauche, causes pulmonaires, valvulaires et péricardiques.
+EXPLICATION_A: La FEVG décrit le ventricule gauche.
+EXPLICATION_B: Ces causes figurent dans la fiche.
+EXPLICATION_C: La fiche en fait la première cause.
+EXPLICATION_D: Plusieurs autres mécanismes sont possibles.
+EXPLICATION_E: Elle fait partie des causes importantes.
+
+---
+ID: 234-134
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 75 ans avec atteinte tricuspidienne présente ascite et reflux hépatojugulaire ; le bilan confirme une congestion droite dominante sans détresse aiguë. Quelles propositions concernant le bilan sont exactes ?
+A: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+B: F | Un ECG isolé suffit à quantifier la FEVG.
+C: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+D: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+E: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Une valvulopathie avancée peut être responsable.
+EXPLICATION_B: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_C: Ils évaluent le retentissement et la sécurité des traitements.
+EXPLICATION_D: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_E: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+
+---
+ID: 234-135
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 75 ans avec atteinte tricuspidienne présente ascite et reflux hépatojugulaire ; le bilan confirme une congestion droite dominante sans détresse aiguë. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+B: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+C: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+D: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+E: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Ces changements doivent être expliqués au patient.
+EXPLICATION_B: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_C: Elle doit être évaluée sans attendre.
+EXPLICATION_D: Une inobservance peut favoriser une décompensation.
+EXPLICATION_E: L’amélioration congestive ne supprime pas nécessairement la maladie.
+
+---
+ID: 234-136
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 72 ans a une maladie pulmonaire chronique avec atteinte droite documentée, œdèmes déclives et turgescence jugulaire, sans congestion pulmonaire aiguë. Quel diagnostic principal est le plus probable ?
+A: F | Une IC chronique à FEVG altérée.
+B: F | Un choc cardiogénique.
+C: F | Un OAP cardiogénique sans choc.
+D: V | Une IC droite à prédominance de congestion systémique.
+E: F | Une IC chronique à FEVG modérément altérée.
+JUSTIFICATION: Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_A: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_B: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_C: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_D: Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_E: La fiche distingue une FEVG de 41 à 49 %. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+
+---
+ID: 234-137
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Congestion systémique
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 72 ans a une maladie pulmonaire chronique avec atteinte droite documentée, œdèmes déclives et turgescence jugulaire, sans congestion pulmonaire aiguë. Quelles propositions interprètent les signes droits ?
+A: V | Un reflux hépatojugulaire soutient la congestion droite.
+B: V | Des œdèmes bilatéraux déclives prenant le godet sont compatibles.
+C: F | Des œdèmes isolés prouvent toujours une insuffisance cardiaque droite.
+D: F | La congestion droite exige toujours des crépitants pulmonaires abondants.
+E: F | Une turgescence jugulaire suffit à identifier la cause précise.
+JUSTIFICATION: La congestion veineuse systémique peut associer œdèmes déclives, turgescence et atteinte hépatique.
+EXPLICATION_A: Il fait partie des signes décrits.
+EXPLICATION_B: Ils doivent être interprétés avec le reste du tableau.
+EXPLICATION_C: D’autres causes doivent être évaluées.
+EXPLICATION_D: Une forme droite isolée peut exister.
+EXPLICATION_E: Le mécanisme nécessite un bilan cardiaque et étiologique.
+
+---
+ID: 234-138
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Causes d’atteinte droite
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 72 ans a une maladie pulmonaire chronique avec atteinte droite documentée, œdèmes déclives et turgescence jugulaire, sans congestion pulmonaire aiguë. Quelles propositions concernant les causes sont exactes ?
+A: F | Une IC droite isolée est nécessairement due à une insuffisance mitrale.
+B: F | Une embolie pulmonaire ne peut pas provoquer une défaillance droite aiguë.
+C: V | Une IC gauche peut entraîner une IC droite.
+D: V | Une HTAP ou une maladie pulmonaire peut contribuer à une atteinte droite.
+E: F | Une FEVG conservée exclut toute maladie du ventricule droit.
+JUSTIFICATION: La recherche distingue retentissement d’IC gauche, causes pulmonaires, valvulaires et péricardiques.
+EXPLICATION_A: Plusieurs autres mécanismes sont possibles.
+EXPLICATION_B: Elle fait partie des causes importantes.
+EXPLICATION_C: La fiche en fait la première cause.
+EXPLICATION_D: Le contexte pulmonaire doit être recherché.
+EXPLICATION_E: La FEVG décrit le ventricule gauche.
+
+---
+ID: 234-139
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 72 ans a une maladie pulmonaire chronique avec atteinte droite documentée, œdèmes déclives et turgescence jugulaire, sans congestion pulmonaire aiguë. Quelles propositions concernant le bilan sont exactes ?
+A: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+B: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+C: F | Un ECG isolé suffit à quantifier la FEVG.
+D: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+E: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Ces facteurs sont cités dans la fiche.
+EXPLICATION_B: Une valvulopathie avancée peut être responsable.
+EXPLICATION_C: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_D: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_E: Une séquelle d’infarctus peut contribuer à la dysfonction.
+
+---
+ID: 234-140
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 72 ans a une maladie pulmonaire chronique avec atteinte droite documentée, œdèmes déclives et turgescence jugulaire, sans congestion pulmonaire aiguë. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+B: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+C: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+D: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+E: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Ces changements doivent être expliqués au patient.
+EXPLICATION_B: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_C: Elle doit être évaluée sans attendre.
+EXPLICATION_D: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_E: L’amélioration congestive ne supprime pas nécessairement la maladie.
+
+---
+ID: 234-141
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 66 ans présente une congestion systémique sur péricardite constrictive documentée, avec signes droits mais sans OAP ni choc. Quel diagnostic principal est le plus probable ?
+A: F | Une IC chronique à FEVG préservée.
+B: F | Une IC chronique à FEVG modérément altérée.
+C: F | Une IC chronique à FEVG altérée.
+D: F | Un choc cardiogénique.
+E: V | Une IC droite à prédominance de congestion systémique.
+JUSTIFICATION: Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_A: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_B: La fiche distingue une FEVG de 41 à 49 %. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_C: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_D: Le choc cardiogénique associe défaillance cardiaque et perfusion insuffisante. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_E: Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+
+---
+ID: 234-142
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Congestion systémique
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 66 ans présente une congestion systémique sur péricardite constrictive documentée, avec signes droits mais sans OAP ni choc. Quelles propositions interprètent les signes droits ?
+A: V | Une hépatomégalie douloureuse peut être liée à la congestion.
+B: V | Des œdèmes bilatéraux déclives prenant le godet sont compatibles.
+C: F | Une turgescence jugulaire suffit à identifier la cause précise.
+D: V | Un reflux hépatojugulaire soutient la congestion droite.
+E: F | La congestion droite exige toujours des crépitants pulmonaires abondants.
+JUSTIFICATION: La congestion veineuse systémique peut associer œdèmes déclives, turgescence et atteinte hépatique.
+EXPLICATION_A: La distension de la capsule hépatique peut provoquer des hépatalgies.
+EXPLICATION_B: Ils doivent être interprétés avec le reste du tableau.
+EXPLICATION_C: Le mécanisme nécessite un bilan cardiaque et étiologique.
+EXPLICATION_D: Il fait partie des signes décrits.
+EXPLICATION_E: Une forme droite isolée peut exister.
+
+---
+ID: 234-143
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Causes d’atteinte droite
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 66 ans présente une congestion systémique sur péricardite constrictive documentée, avec signes droits mais sans OAP ni choc. Quelles propositions concernant les causes sont exactes ?
+A: V | Une IC gauche peut entraîner une IC droite.
+B: F | Une FEVG conservée exclut toute maladie du ventricule droit.
+C: V | Une péricardite constrictive ou une atteinte tricuspidienne peut produire une congestion droite.
+D: V | Une HTAP ou une maladie pulmonaire peut contribuer à une atteinte droite.
+E: F | Une embolie pulmonaire ne peut pas provoquer une défaillance droite aiguë.
+JUSTIFICATION: La recherche distingue retentissement d’IC gauche, causes pulmonaires, valvulaires et péricardiques.
+EXPLICATION_A: La fiche en fait la première cause.
+EXPLICATION_B: La FEVG décrit le ventricule gauche.
+EXPLICATION_C: Ces causes figurent dans la fiche.
+EXPLICATION_D: Le contexte pulmonaire doit être recherché.
+EXPLICATION_E: Elle fait partie des causes importantes.
+
+---
+ID: 234-144
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 66 ans présente une congestion systémique sur péricardite constrictive documentée, avec signes droits mais sans OAP ni choc. Quelles propositions concernant le bilan sont exactes ?
+A: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+B: F | Le diagnostic d’insuffisance cardiaque dispense de rechercher une cause valvulaire.
+C: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+D: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+E: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: Une séquelle d’infarctus peut contribuer à la dysfonction.
+EXPLICATION_B: Une valvulopathie avancée peut être responsable.
+EXPLICATION_C: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_D: Ces facteurs sont cités dans la fiche.
+EXPLICATION_E: Ils évaluent le retentissement et la sécurité des traitements.
+
+---
+ID: 234-145
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Un homme de 66 ans présente une congestion systémique sur péricardite constrictive documentée, avec signes droits mais sans OAP ni choc. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+B: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+C: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+D: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+E: F | Une aggravation rapide de dyspnée relève uniquement du prochain contrôle annuel.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Une inobservance peut favoriser une décompensation.
+EXPLICATION_B: Ces changements doivent être expliqués au patient.
+EXPLICATION_C: Les traitements et l’évolution peuvent les modifier.
+EXPLICATION_D: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_E: Elle doit être évaluée sans attendre.
+
+---
+ID: 234-146
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · raisonnement
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 79 ans a une IC droite confirmée avec œdèmes bilatéraux, hépatomégalie et reflux hépatojugulaire ; la perfusion est conservée. Quel diagnostic principal est le plus probable ?
+A: F | Une IC chronique à FEVG altérée.
+B: F | Une IC chronique à FEVG préservée.
+C: V | Une IC droite à prédominance de congestion systémique.
+D: F | Une IC chronique à FEVG modérément altérée.
+E: F | Un OAP cardiogénique sans choc.
+JUSTIFICATION: Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_A: Le phénotype altéré est défini par une FEVG au plus égale à 40 %. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_B: Une FEVG conservée ne réfute pas le syndrome d’IC. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_C: Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_D: La fiche distingue une FEVG de 41 à 49 %. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+EXPLICATION_E: L’OAP est une forme aiguë dominée par la congestion alvéolaire. Ici : Les signes veineux systémiques dominent et une défaillance droite est objectivée sans OAP ou choc dominant.
+
+---
+ID: 234-147
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Congestion systémique
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 79 ans a une IC droite confirmée avec œdèmes bilatéraux, hépatomégalie et reflux hépatojugulaire ; la perfusion est conservée. Quelles propositions interprètent les signes droits ?
+A: F | Des œdèmes isolés prouvent toujours une insuffisance cardiaque droite.
+B: V | Des œdèmes bilatéraux déclives prenant le godet sont compatibles.
+C: F | Une turgescence jugulaire suffit à identifier la cause précise.
+D: V | Un reflux hépatojugulaire soutient la congestion droite.
+E: V | Une hépatomégalie douloureuse peut être liée à la congestion.
+JUSTIFICATION: La congestion veineuse systémique peut associer œdèmes déclives, turgescence et atteinte hépatique.
+EXPLICATION_A: D’autres causes doivent être évaluées.
+EXPLICATION_B: Ils doivent être interprétés avec le reste du tableau.
+EXPLICATION_C: Le mécanisme nécessite un bilan cardiaque et étiologique.
+EXPLICATION_D: Il fait partie des signes décrits.
+EXPLICATION_E: La distension de la capsule hépatique peut provoquer des hépatalgies.
+
+---
+ID: 234-148
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Causes d’atteinte droite
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 79 ans a une IC droite confirmée avec œdèmes bilatéraux, hépatomégalie et reflux hépatojugulaire ; la perfusion est conservée. Quelles propositions concernant les causes sont exactes ?
+A: F | Une FEVG conservée exclut toute maladie du ventricule droit.
+B: V | Une HTAP ou une maladie pulmonaire peut contribuer à une atteinte droite.
+C: F | Une IC droite isolée est nécessairement due à une insuffisance mitrale.
+D: V | Une IC gauche peut entraîner une IC droite.
+E: V | Une péricardite constrictive ou une atteinte tricuspidienne peut produire une congestion droite.
+JUSTIFICATION: La recherche distingue retentissement d’IC gauche, causes pulmonaires, valvulaires et péricardiques.
+EXPLICATION_A: La FEVG décrit le ventricule gauche.
+EXPLICATION_B: Le contexte pulmonaire doit être recherché.
+EXPLICATION_C: Plusieurs autres mécanismes sont possibles.
+EXPLICATION_D: La fiche en fait la première cause.
+EXPLICATION_E: Ces causes figurent dans la fiche.
+
+---
+ID: 234-149
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Bilan et déclencheurs
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 79 ans a une IC droite confirmée avec œdèmes bilatéraux, hépatomégalie et reflux hépatojugulaire ; la perfusion est conservée. Quelles propositions concernant le bilan sont exactes ?
+A: F | Un ECG isolé suffit à quantifier la FEVG.
+B: V | L’échocardiographie évalue la FEVG et les pressions de remplissage.
+C: V | La fonction rénale et l’ionogramme ont leur place dans le bilan.
+D: V | Un passage en FA, une infection ou une ischémie peuvent déclencher une aggravation.
+E: F | L’absence de douleur thoracique exclut une cardiopathie ischémique ancienne.
+JUSTIFICATION: Il faut documenter la fonction cardiaque et rechercher une cause ou un facteur de décompensation.
+EXPLICATION_A: La mesure nécessite une exploration adaptée, notamment échographique.
+EXPLICATION_B: Elle aide aussi à rechercher une valvulopathie ou des anomalies de cinétique.
+EXPLICATION_C: Ils évaluent le retentissement et la sécurité des traitements.
+EXPLICATION_D: Ces facteurs sont cités dans la fiche.
+EXPLICATION_E: Une séquelle d’infarctus peut contribuer à la dysfonction.
+
+---
+ID: 234-150
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Congestion droite · Suivi après stabilisation
+SOURCE: Fiche item 234 fournie - page(s) 1-5
+CONSIGNE: Une femme de 79 ans a une IC droite confirmée avec œdèmes bilatéraux, hépatomégalie et reflux hépatojugulaire ; la perfusion est conservée. Après stabilisation, quelles propositions concernant le suivi sont exactes ?
+A: V | L’adhésion au traitement et les habitudes alimentaires doivent être réévaluées.
+B: V | Une prise de poids et une aggravation de dyspnée peuvent signaler une congestion.
+C: F | La disparition des œdèmes signifie toujours la guérison définitive de la cardiopathie.
+D: V | Une activité physique adaptée et la réadaptation peuvent faire partie du projet.
+E: F | La fonction rénale et la kaliémie n’ont plus à être surveillées une fois le traitement prescrit.
+JUSTIFICATION: Le suivi associe symptômes, poids, traitements et prévention des décompensations.
+EXPLICATION_A: Une inobservance peut favoriser une décompensation.
+EXPLICATION_B: Ces changements doivent être expliqués au patient.
+EXPLICATION_C: L’amélioration congestive ne supprime pas nécessairement la maladie.
+EXPLICATION_D: Elles ne correspondent pas à un effort imposé pendant une détresse aiguë.
+EXPLICATION_E: Les traitements et l’évolution peuvent les modifier.

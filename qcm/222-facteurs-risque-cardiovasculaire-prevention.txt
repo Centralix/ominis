@@ -1,0 +1,3007 @@
+# Item 222 : révision clinique fondée sur la fiche fournie.
+# 150 questions : 120 QCM et 30 QRU ; 105 rang A et 45 rang B pédagogiques.
+# Les rangs ne constituent pas une certification du référentiel EDN.
+# 30 observations, chacune explorée par cinq questions de raisonnement.
+# Les notions reviennent dans des contextes distincts ; aucune inversion automatique V/F.
+ITEM 222 | Facteurs de risque cardiovasculaire et prévention
+COLLEGE: Cardiologie
+
+---
+ID: 222-001
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 46 ans fumeur, sans antécédent cardiovasculaire ni lésion décelable, consulte pour construire un projet de prévention. Son père a eu un infarctus à 49 ans. Selon les définitions de la fiche, quel niveau de prévention correspond à sa situation personnelle ?
+A: F | Une prévention secondaire parce que le patient présente un facteur de risque.
+B: V | Une prévention primaire.
+C: F | Une prévention secondaire après événement clinique.
+D: F | Une prévention primo-secondaire fondée sur une plaque infraclinique documentée.
+E: F | Une prévention secondaire parce qu’un apparenté a eu un infarctus.
+JUSTIFICATION: L’absence d’événement et de lésion décelable situe la prévention avant un premier accident.
+EXPLICATION_A: Un facteur de risque ne constitue pas en lui-même un événement cardiovasculaire clinique.
+EXPLICATION_B: Il n’y a ni lésion décelable ni événement clinique dans l’observation.
+EXPLICATION_C: Aucun événement cardiovasculaire n’est rapporté.
+EXPLICATION_D: Aucune plaque n’a été documentée dans l’observation.
+EXPLICATION_E: L’événement d’un proche est un facteur de risque familial, pas un événement personnel.
+
+---
+ID: 222-002
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Sens de la prévention
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 46 ans fumeur, sans antécédent cardiovasculaire ni lésion décelable, consulte pour construire un projet de prévention. Son père a eu un infarctus à 49 ans. Quelles propositions interprètent correctement les niveaux de prévention ?
+A: V | Après un événement cardiovasculaire clinique, la prévention vise notamment à réduire les récidives.
+B: V | Des lésions athéromateuses infracliniques conduisent à prévenir leur progression et leur expression clinique.
+C: F | L’absence de symptôme suffit toujours à classer le patient en prévention primaire sans lésion.
+D: F | La prévention secondaire commence uniquement après un deuxième infarctus.
+E: F | Une plaque asymptomatique implique que le patient a déjà fait un accident clinique.
+JUSTIFICATION: La présence de lésions infracliniques ou d’un événement clinique modifie le niveau de prévention.
+EXPLICATION_A: C’est la prévention secondaire.
+EXPLICATION_B: La fiche nomme ce contexte prévention primo-secondaire.
+EXPLICATION_C: Des lésions peuvent être objectivées sans symptôme.
+EXPLICATION_D: Un premier événement clinique suffit à définir ce contexte.
+EXPLICATION_E: Une lésion infraclinique peut être présente sans événement.
+
+---
+ID: 222-003
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 46 ans fumeur, sans antécédent cardiovasculaire ni lésion décelable, consulte pour construire un projet de prévention. Son père a eu un infarctus à 49 ans. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: V | Plusieurs facteurs de risque doivent être considérés ensemble.
+B: F | Un facteur de risque absent garantit un risque cardiovasculaire nul.
+C: F | Le risque global correspond uniquement à la probabilité d’avoir des palpitations.
+D: V | Il intègre le risque d’infarctus, d’AVC ou de décès cardiovasculaire.
+E: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: L’évaluation ne repose pas sur un seul chiffre biologique isolé.
+EXPLICATION_B: D’autres déterminants peuvent rester présents.
+EXPLICATION_C: Les événements majeurs définis ne sont pas limités à ce symptôme.
+EXPLICATION_D: Ces événements majeurs sont cités dans la définition de la fiche.
+EXPLICATION_E: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+
+---
+ID: 222-004
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 46 ans fumeur, sans antécédent cardiovasculaire ni lésion décelable, consulte pour construire un projet de prévention. Son père a eu un infarctus à 49 ans. Quelles propositions concernant l’activité physique sont exactes ?
+A: F | Une activité n’est utile que si elle est pratiquée en club.
+B: F | L’activité physique ne concerne que la prévention avant tout événement.
+C: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+D: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+E: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+EXPLICATION_B: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+EXPLICATION_C: Le suivi et les conseils répétés font partie de la prescription.
+EXPLICATION_D: Le programme doit être réaliste et réalisable.
+EXPLICATION_E: La fiche insiste sur une prescription individualisée.
+
+---
+ID: 222-005
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 46 ans fumeur, sans antécédent cardiovasculaire ni lésion décelable, consulte pour construire un projet de prévention. Son père a eu un infarctus à 49 ans. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+B: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+C: V | Associer objectifs thérapeutiques, éducation et suivi.
+D: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+E: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_B: La fiche recommande au contraire leur consommation.
+EXPLICATION_C: Une prescription isolée ne suffit pas à garantir son efficacité.
+EXPLICATION_D: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_E: Les facteurs de risque doivent être traités conjointement.
+
+---
+ID: 222-006
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 55 ans hypertendue, sans événement cardiovasculaire ni lésion décelable, souhaite réduire son risque. Sa mère a eu un infarctus à 60 ans. Selon les définitions de la fiche, quel niveau de prévention correspond à sa situation personnelle ?
+A: F | Une prévention secondaire parce qu’un apparenté a eu un infarctus.
+B: V | Une prévention primaire.
+C: F | Une prévention secondaire parce que le patient présente un facteur de risque.
+D: F | Une prévention primo-secondaire fondée sur une plaque infraclinique documentée.
+E: F | Une prévention secondaire après événement clinique.
+JUSTIFICATION: L’absence d’événement et de lésion décelable situe la prévention avant un premier accident.
+EXPLICATION_A: L’événement d’un proche est un facteur de risque familial, pas un événement personnel.
+EXPLICATION_B: Il n’y a ni lésion décelable ni événement clinique dans l’observation.
+EXPLICATION_C: Un facteur de risque ne constitue pas en lui-même un événement cardiovasculaire clinique.
+EXPLICATION_D: Aucune plaque n’a été documentée dans l’observation.
+EXPLICATION_E: Aucun événement cardiovasculaire n’est rapporté.
+
+---
+ID: 222-007
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Sens de la prévention
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 55 ans hypertendue, sans événement cardiovasculaire ni lésion décelable, souhaite réduire son risque. Sa mère a eu un infarctus à 60 ans. Quelles propositions interprètent correctement les niveaux de prévention ?
+A: V | Avant toute lésion décelable, la prévention vise à réduire la survenue d’un premier événement.
+B: F | L’absence de symptôme suffit toujours à classer le patient en prévention primaire sans lésion.
+C: V | Après un événement cardiovasculaire clinique, la prévention vise notamment à réduire les récidives.
+D: F | Une plaque asymptomatique implique que le patient a déjà fait un accident clinique.
+E: F | La prévention secondaire commence uniquement après un deuxième infarctus.
+JUSTIFICATION: La présence de lésions infracliniques ou d’un événement clinique modifie le niveau de prévention.
+EXPLICATION_A: C’est l’objectif de la prévention primaire.
+EXPLICATION_B: Des lésions peuvent être objectivées sans symptôme.
+EXPLICATION_C: C’est la prévention secondaire.
+EXPLICATION_D: Une lésion infraclinique peut être présente sans événement.
+EXPLICATION_E: Un premier événement clinique suffit à définir ce contexte.
+
+---
+ID: 222-008
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 55 ans hypertendue, sans événement cardiovasculaire ni lésion décelable, souhaite réduire son risque. Sa mère a eu un infarctus à 60 ans. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: F | Le risque global correspond uniquement à la probabilité d’avoir des palpitations.
+B: V | Plusieurs facteurs de risque doivent être considérés ensemble.
+C: V | Il correspond à une probabilité d’événement sur une période donnée.
+D: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+E: F | Un facteur de risque absent garantit un risque cardiovasculaire nul.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: Les événements majeurs définis ne sont pas limités à ce symptôme.
+EXPLICATION_B: L’évaluation ne repose pas sur un seul chiffre biologique isolé.
+EXPLICATION_C: La notion inclut un horizon temporel.
+EXPLICATION_D: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+EXPLICATION_E: D’autres déterminants peuvent rester présents.
+
+---
+ID: 222-009
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 55 ans hypertendue, sans événement cardiovasculaire ni lésion décelable, souhaite réduire son risque. Sa mère a eu un infarctus à 60 ans. Quelles propositions concernant l’activité physique sont exactes ?
+A: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+B: F | Une activité n’est utile que si elle est pratiquée en club.
+C: V | Une marche adaptée peut constituer une activité physique utile.
+D: F | L’activité physique ne concerne que la prévention avant tout événement.
+E: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Le programme doit être réaliste et réalisable.
+EXPLICATION_B: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+EXPLICATION_C: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+EXPLICATION_D: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+EXPLICATION_E: Le suivi et les conseils répétés font partie de la prescription.
+
+---
+ID: 222-010
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 55 ans hypertendue, sans événement cardiovasculaire ni lésion décelable, souhaite réduire son risque. Sa mère a eu un infarctus à 60 ans. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+B: V | Lutter contre le tabagisme actif et passif.
+C: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+D: V | Associer objectifs thérapeutiques, éducation et suivi.
+E: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_B: Le tabac est un facteur de risque cardiovasculaire majeur.
+EXPLICATION_C: Les facteurs de risque doivent être traités conjointement.
+EXPLICATION_D: Une prescription isolée ne suffit pas à garantir son efficacité.
+EXPLICATION_E: La fiche recommande au contraire leur consommation.
+
+---
+ID: 222-011
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 51 ans dyslipidémique ne présente ni événement cardiovasculaire passé ni lésion décelable. Il s’interroge sur le niveau de prévention auquel appartiennent les mesures proposées. Selon les définitions de la fiche, quel niveau de prévention correspond à sa situation personnelle ?
+A: V | Une prévention primaire.
+B: F | Une prévention secondaire après événement clinique.
+C: F | Une prévention secondaire parce que le patient présente un facteur de risque.
+D: F | Une prévention secondaire parce qu’un apparenté a eu un infarctus.
+E: F | Une prévention primo-secondaire fondée sur une plaque infraclinique documentée.
+JUSTIFICATION: L’absence d’événement et de lésion décelable situe la prévention avant un premier accident.
+EXPLICATION_A: Il n’y a ni lésion décelable ni événement clinique dans l’observation.
+EXPLICATION_B: Aucun événement cardiovasculaire n’est rapporté.
+EXPLICATION_C: Un facteur de risque ne constitue pas en lui-même un événement cardiovasculaire clinique.
+EXPLICATION_D: L’événement d’un proche est un facteur de risque familial, pas un événement personnel.
+EXPLICATION_E: Aucune plaque n’a été documentée dans l’observation.
+
+---
+ID: 222-012
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Sens de la prévention
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 51 ans dyslipidémique ne présente ni événement cardiovasculaire passé ni lésion décelable. Il s’interroge sur le niveau de prévention auquel appartiennent les mesures proposées. Quelles propositions interprètent correctement les niveaux de prévention ?
+A: F | L’absence de symptôme suffit toujours à classer le patient en prévention primaire sans lésion.
+B: F | Une plaque asymptomatique implique que le patient a déjà fait un accident clinique.
+C: F | La prévention secondaire commence uniquement après un deuxième infarctus.
+D: V | Avant toute lésion décelable, la prévention vise à réduire la survenue d’un premier événement.
+E: V | Des lésions athéromateuses infracliniques conduisent à prévenir leur progression et leur expression clinique.
+JUSTIFICATION: La présence de lésions infracliniques ou d’un événement clinique modifie le niveau de prévention.
+EXPLICATION_A: Des lésions peuvent être objectivées sans symptôme.
+EXPLICATION_B: Une lésion infraclinique peut être présente sans événement.
+EXPLICATION_C: Un premier événement clinique suffit à définir ce contexte.
+EXPLICATION_D: C’est l’objectif de la prévention primaire.
+EXPLICATION_E: La fiche nomme ce contexte prévention primo-secondaire.
+
+---
+ID: 222-013
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 51 ans dyslipidémique ne présente ni événement cardiovasculaire passé ni lésion décelable. Il s’interroge sur le niveau de prévention auquel appartiennent les mesures proposées. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: F | Un facteur de risque absent garantit un risque cardiovasculaire nul.
+B: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+C: F | Le risque global correspond uniquement à la probabilité d’avoir des palpitations.
+D: V | Il intègre le risque d’infarctus, d’AVC ou de décès cardiovasculaire.
+E: V | Il correspond à une probabilité d’événement sur une période donnée.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: D’autres déterminants peuvent rester présents.
+EXPLICATION_B: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+EXPLICATION_C: Les événements majeurs définis ne sont pas limités à ce symptôme.
+EXPLICATION_D: Ces événements majeurs sont cités dans la définition de la fiche.
+EXPLICATION_E: La notion inclut un horizon temporel.
+
+---
+ID: 222-014
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 51 ans dyslipidémique ne présente ni événement cardiovasculaire passé ni lésion décelable. Il s’interroge sur le niveau de prévention auquel appartiennent les mesures proposées. Quelles propositions concernant l’activité physique sont exactes ?
+A: V | Une marche adaptée peut constituer une activité physique utile.
+B: F | L’activité physique ne concerne que la prévention avant tout événement.
+C: F | Une activité n’est utile que si elle est pratiquée en club.
+D: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+E: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+EXPLICATION_B: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+EXPLICATION_C: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+EXPLICATION_D: Le programme doit être réaliste et réalisable.
+EXPLICATION_E: La fiche insiste sur une prescription individualisée.
+
+---
+ID: 222-015
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 51 ans dyslipidémique ne présente ni événement cardiovasculaire passé ni lésion décelable. Il s’interroge sur le niveau de prévention auquel appartiennent les mesures proposées. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+B: V | Lutter contre le tabagisme actif et passif.
+C: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+D: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+E: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_B: Le tabac est un facteur de risque cardiovasculaire majeur.
+EXPLICATION_C: Les facteurs de risque doivent être traités conjointement.
+EXPLICATION_D: La fiche recommande au contraire leur consommation.
+EXPLICATION_E: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+
+---
+ID: 222-016
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 43 ans fume et reste très sédentaire. Le bilan ne retrouve aucune maladie cardiovasculaire décelable ; elle n’a jamais eu d’événement clinique. Selon les définitions de la fiche, quel niveau de prévention correspond à sa situation personnelle ?
+A: F | Une prévention secondaire parce que le patient présente un facteur de risque.
+B: V | Une prévention primaire.
+C: F | Une prévention primo-secondaire fondée sur une plaque infraclinique documentée.
+D: F | Une prévention secondaire après événement clinique.
+E: F | Une prévention secondaire parce qu’un apparenté a eu un infarctus.
+JUSTIFICATION: L’absence d’événement et de lésion décelable situe la prévention avant un premier accident.
+EXPLICATION_A: Un facteur de risque ne constitue pas en lui-même un événement cardiovasculaire clinique.
+EXPLICATION_B: Il n’y a ni lésion décelable ni événement clinique dans l’observation.
+EXPLICATION_C: Aucune plaque n’a été documentée dans l’observation.
+EXPLICATION_D: Aucun événement cardiovasculaire n’est rapporté.
+EXPLICATION_E: L’événement d’un proche est un facteur de risque familial, pas un événement personnel.
+
+---
+ID: 222-017
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Sens de la prévention
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 43 ans fume et reste très sédentaire. Le bilan ne retrouve aucune maladie cardiovasculaire décelable ; elle n’a jamais eu d’événement clinique. Quelles propositions interprètent correctement les niveaux de prévention ?
+A: F | Une plaque asymptomatique implique que le patient a déjà fait un accident clinique.
+B: F | L’absence de symptôme suffit toujours à classer le patient en prévention primaire sans lésion.
+C: V | Avant toute lésion décelable, la prévention vise à réduire la survenue d’un premier événement.
+D: V | Après un événement cardiovasculaire clinique, la prévention vise notamment à réduire les récidives.
+E: V | Des lésions athéromateuses infracliniques conduisent à prévenir leur progression et leur expression clinique.
+JUSTIFICATION: La présence de lésions infracliniques ou d’un événement clinique modifie le niveau de prévention.
+EXPLICATION_A: Une lésion infraclinique peut être présente sans événement.
+EXPLICATION_B: Des lésions peuvent être objectivées sans symptôme.
+EXPLICATION_C: C’est l’objectif de la prévention primaire.
+EXPLICATION_D: C’est la prévention secondaire.
+EXPLICATION_E: La fiche nomme ce contexte prévention primo-secondaire.
+
+---
+ID: 222-018
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 43 ans fume et reste très sédentaire. Le bilan ne retrouve aucune maladie cardiovasculaire décelable ; elle n’a jamais eu d’événement clinique. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: V | Il correspond à une probabilité d’événement sur une période donnée.
+B: V | Il intègre le risque d’infarctus, d’AVC ou de décès cardiovasculaire.
+C: F | Le risque global correspond uniquement à la probabilité d’avoir des palpitations.
+D: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+E: V | Plusieurs facteurs de risque doivent être considérés ensemble.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: La notion inclut un horizon temporel.
+EXPLICATION_B: Ces événements majeurs sont cités dans la définition de la fiche.
+EXPLICATION_C: Les événements majeurs définis ne sont pas limités à ce symptôme.
+EXPLICATION_D: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+EXPLICATION_E: L’évaluation ne repose pas sur un seul chiffre biologique isolé.
+
+---
+ID: 222-019
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 43 ans fume et reste très sédentaire. Le bilan ne retrouve aucune maladie cardiovasculaire décelable ; elle n’a jamais eu d’événement clinique. Quelles propositions concernant l’activité physique sont exactes ?
+A: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+B: V | Une marche adaptée peut constituer une activité physique utile.
+C: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+D: F | L’activité physique ne concerne que la prévention avant tout événement.
+E: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Le suivi et les conseils répétés font partie de la prescription.
+EXPLICATION_B: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+EXPLICATION_C: La fiche insiste sur une prescription individualisée.
+EXPLICATION_D: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+EXPLICATION_E: Le programme doit être réaliste et réalisable.
+
+---
+ID: 222-020
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 43 ans fume et reste très sédentaire. Le bilan ne retrouve aucune maladie cardiovasculaire décelable ; elle n’a jamais eu d’événement clinique. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: V | Lutter contre le tabagisme actif et passif.
+B: V | Associer objectifs thérapeutiques, éducation et suivi.
+C: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+D: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+E: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Le tabac est un facteur de risque cardiovasculaire majeur.
+EXPLICATION_B: Une prescription isolée ne suffit pas à garantir son efficacité.
+EXPLICATION_C: La fiche recommande au contraire leur consommation.
+EXPLICATION_D: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_E: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+
+---
+ID: 222-021
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 59 ans cumule HTA et tabagisme mais n’a ni lésion cardiovasculaire décelable ni accident personnel. Il pense être en prévention secondaire parce que son frère a eu un infarctus. Selon les définitions de la fiche, quel niveau de prévention correspond à sa situation personnelle ?
+A: F | Une prévention secondaire après événement clinique.
+B: V | Une prévention primaire.
+C: F | Une prévention secondaire parce que le patient présente un facteur de risque.
+D: F | Une prévention primo-secondaire fondée sur une plaque infraclinique documentée.
+E: F | Une prévention secondaire parce qu’un apparenté a eu un infarctus.
+JUSTIFICATION: L’absence d’événement et de lésion décelable situe la prévention avant un premier accident.
+EXPLICATION_A: Aucun événement cardiovasculaire n’est rapporté.
+EXPLICATION_B: Il n’y a ni lésion décelable ni événement clinique dans l’observation.
+EXPLICATION_C: Un facteur de risque ne constitue pas en lui-même un événement cardiovasculaire clinique.
+EXPLICATION_D: Aucune plaque n’a été documentée dans l’observation.
+EXPLICATION_E: L’événement d’un proche est un facteur de risque familial, pas un événement personnel.
+
+---
+ID: 222-022
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Sens de la prévention
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 59 ans cumule HTA et tabagisme mais n’a ni lésion cardiovasculaire décelable ni accident personnel. Il pense être en prévention secondaire parce que son frère a eu un infarctus. Quelles propositions interprètent correctement les niveaux de prévention ?
+A: V | Des lésions athéromateuses infracliniques conduisent à prévenir leur progression et leur expression clinique.
+B: F | L’absence de symptôme suffit toujours à classer le patient en prévention primaire sans lésion.
+C: V | Après un événement cardiovasculaire clinique, la prévention vise notamment à réduire les récidives.
+D: F | La prévention secondaire commence uniquement après un deuxième infarctus.
+E: V | Avant toute lésion décelable, la prévention vise à réduire la survenue d’un premier événement.
+JUSTIFICATION: La présence de lésions infracliniques ou d’un événement clinique modifie le niveau de prévention.
+EXPLICATION_A: La fiche nomme ce contexte prévention primo-secondaire.
+EXPLICATION_B: Des lésions peuvent être objectivées sans symptôme.
+EXPLICATION_C: C’est la prévention secondaire.
+EXPLICATION_D: Un premier événement clinique suffit à définir ce contexte.
+EXPLICATION_E: C’est l’objectif de la prévention primaire.
+
+---
+ID: 222-023
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 59 ans cumule HTA et tabagisme mais n’a ni lésion cardiovasculaire décelable ni accident personnel. Il pense être en prévention secondaire parce que son frère a eu un infarctus. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: F | Un facteur de risque absent garantit un risque cardiovasculaire nul.
+B: V | Plusieurs facteurs de risque doivent être considérés ensemble.
+C: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+D: V | Il intègre le risque d’infarctus, d’AVC ou de décès cardiovasculaire.
+E: V | Il correspond à une probabilité d’événement sur une période donnée.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: D’autres déterminants peuvent rester présents.
+EXPLICATION_B: L’évaluation ne repose pas sur un seul chiffre biologique isolé.
+EXPLICATION_C: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+EXPLICATION_D: Ces événements majeurs sont cités dans la définition de la fiche.
+EXPLICATION_E: La notion inclut un horizon temporel.
+
+---
+ID: 222-024
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 59 ans cumule HTA et tabagisme mais n’a ni lésion cardiovasculaire décelable ni accident personnel. Il pense être en prévention secondaire parce que son frère a eu un infarctus. Quelles propositions concernant l’activité physique sont exactes ?
+A: V | Une marche adaptée peut constituer une activité physique utile.
+B: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+C: F | Une activité n’est utile que si elle est pratiquée en club.
+D: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+E: F | L’activité physique ne concerne que la prévention avant tout événement.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+EXPLICATION_B: Le suivi et les conseils répétés font partie de la prescription.
+EXPLICATION_C: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+EXPLICATION_D: La fiche insiste sur une prescription individualisée.
+EXPLICATION_E: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+
+---
+ID: 222-025
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Avant la maladie décelable · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 59 ans cumule HTA et tabagisme mais n’a ni lésion cardiovasculaire décelable ni accident personnel. Il pense être en prévention secondaire parce que son frère a eu un infarctus. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+B: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+C: V | Associer objectifs thérapeutiques, éducation et suivi.
+D: V | Lutter contre le tabagisme actif et passif.
+E: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_B: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_C: Une prescription isolée ne suffit pas à garantir son efficacité.
+EXPLICATION_D: Le tabac est un facteur de risque cardiovasculaire majeur.
+EXPLICATION_E: Les facteurs de risque doivent être traités conjointement.
+
+---
+ID: 222-026
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 68 ans n’a jamais eu d’événement cardiovasculaire ni de symptôme neurologique. L’exploration d’un souffle documente une plaque carotidienne infraclinique. Selon les définitions propres à la fiche, quel niveau de prévention correspond à cette situation ?
+A: F | Une prévention secondaire après accident clinique.
+B: F | Une prévention primaire chez un patient indemne de toute lésion décelable.
+C: F | Une situation sans indication de prévention car le patient est asymptomatique.
+D: F | Une prévention secondaire uniquement parce que la plaque est visible.
+E: V | Une prévention primo-secondaire selon la terminologie de la fiche.
+JUSTIFICATION: Une plaque objectivée sans événement clinique correspond à la prévention primo-secondaire de la fiche.
+EXPLICATION_A: L’observation ne rapporte pas d’événement clinique.
+EXPLICATION_B: Une lésion est déjà objectivée.
+EXPLICATION_C: L’objectif est de prévenir la progression et l’expression clinique de la lésion.
+EXPLICATION_D: La terminologie de la fiche distingue lésion infraclinique et événement clinique.
+EXPLICATION_E: Une lésion infraclinique est documentée sans événement clinique.
+
+---
+ID: 222-027
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Sens de la prévention
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 68 ans n’a jamais eu d’événement cardiovasculaire ni de symptôme neurologique. L’exploration d’un souffle documente une plaque carotidienne infraclinique. Quelles propositions interprètent correctement les niveaux de prévention ?
+A: F | L’absence de symptôme suffit toujours à classer le patient en prévention primaire sans lésion.
+B: V | Des lésions athéromateuses infracliniques conduisent à prévenir leur progression et leur expression clinique.
+C: V | Après un événement cardiovasculaire clinique, la prévention vise notamment à réduire les récidives.
+D: F | La prévention secondaire commence uniquement après un deuxième infarctus.
+E: F | Une plaque asymptomatique implique que le patient a déjà fait un accident clinique.
+JUSTIFICATION: La présence de lésions infracliniques ou d’un événement clinique modifie le niveau de prévention.
+EXPLICATION_A: Des lésions peuvent être objectivées sans symptôme.
+EXPLICATION_B: La fiche nomme ce contexte prévention primo-secondaire.
+EXPLICATION_C: C’est la prévention secondaire.
+EXPLICATION_D: Un premier événement clinique suffit à définir ce contexte.
+EXPLICATION_E: Une lésion infraclinique peut être présente sans événement.
+
+---
+ID: 222-028
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 68 ans n’a jamais eu d’événement cardiovasculaire ni de symptôme neurologique. L’exploration d’un souffle documente une plaque carotidienne infraclinique. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: V | Plusieurs facteurs de risque doivent être considérés ensemble.
+B: F | Le risque global correspond uniquement à la probabilité d’avoir des palpitations.
+C: V | Il intègre le risque d’infarctus, d’AVC ou de décès cardiovasculaire.
+D: F | Un facteur de risque absent garantit un risque cardiovasculaire nul.
+E: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: L’évaluation ne repose pas sur un seul chiffre biologique isolé.
+EXPLICATION_B: Les événements majeurs définis ne sont pas limités à ce symptôme.
+EXPLICATION_C: Ces événements majeurs sont cités dans la définition de la fiche.
+EXPLICATION_D: D’autres déterminants peuvent rester présents.
+EXPLICATION_E: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+
+---
+ID: 222-029
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 68 ans n’a jamais eu d’événement cardiovasculaire ni de symptôme neurologique. L’exploration d’un souffle documente une plaque carotidienne infraclinique. Quelles propositions concernant l’activité physique sont exactes ?
+A: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+B: F | Une activité n’est utile que si elle est pratiquée en club.
+C: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+D: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+E: F | L’activité physique ne concerne que la prévention avant tout événement.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Le suivi et les conseils répétés font partie de la prescription.
+EXPLICATION_B: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+EXPLICATION_C: Le programme doit être réaliste et réalisable.
+EXPLICATION_D: La fiche insiste sur une prescription individualisée.
+EXPLICATION_E: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+
+---
+ID: 222-030
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 68 ans n’a jamais eu d’événement cardiovasculaire ni de symptôme neurologique. L’exploration d’un souffle documente une plaque carotidienne infraclinique. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+B: V | Associer objectifs thérapeutiques, éducation et suivi.
+C: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+D: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+E: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_B: Une prescription isolée ne suffit pas à garantir son efficacité.
+EXPLICATION_C: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_D: Les facteurs de risque doivent être traités conjointement.
+EXPLICATION_E: La fiche recommande au contraire leur consommation.
+
+---
+ID: 222-031
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 64 ans sans événement cardiovasculaire passé a des lésions athéromateuses des membres inférieurs objectivées lors d’un bilan motivé, sans claudication. Selon les définitions propres à la fiche, quel niveau de prévention correspond à cette situation ?
+A: F | Une prévention primaire chez un patient indemne de toute lésion décelable.
+B: F | Une situation sans indication de prévention car le patient est asymptomatique.
+C: F | Une prévention secondaire uniquement parce que la plaque est visible.
+D: V | Une prévention primo-secondaire selon la terminologie de la fiche.
+E: F | Une prévention secondaire après accident clinique.
+JUSTIFICATION: Une plaque objectivée sans événement clinique correspond à la prévention primo-secondaire de la fiche.
+EXPLICATION_A: Une lésion est déjà objectivée.
+EXPLICATION_B: L’objectif est de prévenir la progression et l’expression clinique de la lésion.
+EXPLICATION_C: La terminologie de la fiche distingue lésion infraclinique et événement clinique.
+EXPLICATION_D: Une lésion infraclinique est documentée sans événement clinique.
+EXPLICATION_E: L’observation ne rapporte pas d’événement clinique.
+
+---
+ID: 222-032
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Sens de la prévention
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 64 ans sans événement cardiovasculaire passé a des lésions athéromateuses des membres inférieurs objectivées lors d’un bilan motivé, sans claudication. Quelles propositions interprètent correctement les niveaux de prévention ?
+A: V | Avant toute lésion décelable, la prévention vise à réduire la survenue d’un premier événement.
+B: F | La prévention secondaire commence uniquement après un deuxième infarctus.
+C: V | Après un événement cardiovasculaire clinique, la prévention vise notamment à réduire les récidives.
+D: F | Une plaque asymptomatique implique que le patient a déjà fait un accident clinique.
+E: F | L’absence de symptôme suffit toujours à classer le patient en prévention primaire sans lésion.
+JUSTIFICATION: La présence de lésions infracliniques ou d’un événement clinique modifie le niveau de prévention.
+EXPLICATION_A: C’est l’objectif de la prévention primaire.
+EXPLICATION_B: Un premier événement clinique suffit à définir ce contexte.
+EXPLICATION_C: C’est la prévention secondaire.
+EXPLICATION_D: Une lésion infraclinique peut être présente sans événement.
+EXPLICATION_E: Des lésions peuvent être objectivées sans symptôme.
+
+---
+ID: 222-033
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 64 ans sans événement cardiovasculaire passé a des lésions athéromateuses des membres inférieurs objectivées lors d’un bilan motivé, sans claudication. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: F | Le risque global correspond uniquement à la probabilité d’avoir des palpitations.
+B: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+C: F | Un facteur de risque absent garantit un risque cardiovasculaire nul.
+D: V | Il correspond à une probabilité d’événement sur une période donnée.
+E: V | Plusieurs facteurs de risque doivent être considérés ensemble.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: Les événements majeurs définis ne sont pas limités à ce symptôme.
+EXPLICATION_B: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+EXPLICATION_C: D’autres déterminants peuvent rester présents.
+EXPLICATION_D: La notion inclut un horizon temporel.
+EXPLICATION_E: L’évaluation ne repose pas sur un seul chiffre biologique isolé.
+
+---
+ID: 222-034
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 64 ans sans événement cardiovasculaire passé a des lésions athéromateuses des membres inférieurs objectivées lors d’un bilan motivé, sans claudication. Quelles propositions concernant l’activité physique sont exactes ?
+A: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+B: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+C: F | Une activité n’est utile que si elle est pratiquée en club.
+D: V | Une marche adaptée peut constituer une activité physique utile.
+E: F | L’activité physique ne concerne que la prévention avant tout événement.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Le programme doit être réaliste et réalisable.
+EXPLICATION_B: Le suivi et les conseils répétés font partie de la prescription.
+EXPLICATION_C: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+EXPLICATION_D: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+EXPLICATION_E: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+
+---
+ID: 222-035
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 64 ans sans événement cardiovasculaire passé a des lésions athéromateuses des membres inférieurs objectivées lors d’un bilan motivé, sans claudication. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+B: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+C: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+D: V | Associer objectifs thérapeutiques, éducation et suivi.
+E: V | Lutter contre le tabagisme actif et passif.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Les facteurs de risque doivent être traités conjointement.
+EXPLICATION_B: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_C: La fiche recommande au contraire leur consommation.
+EXPLICATION_D: Une prescription isolée ne suffit pas à garantir son efficacité.
+EXPLICATION_E: Le tabac est un facteur de risque cardiovasculaire majeur.
+
+---
+ID: 222-036
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 72 ans a une plaque athéromateuse aortique documentée mais n’a jamais présenté d’accident clinique ni de symptôme attribué à cette plaque. Selon les définitions propres à la fiche, quel niveau de prévention correspond à cette situation ?
+A: F | Une prévention primaire chez un patient indemne de toute lésion décelable.
+B: V | Une prévention primo-secondaire selon la terminologie de la fiche.
+C: F | Une prévention secondaire après accident clinique.
+D: F | Une situation sans indication de prévention car le patient est asymptomatique.
+E: F | Une prévention secondaire uniquement parce que la plaque est visible.
+JUSTIFICATION: Une plaque objectivée sans événement clinique correspond à la prévention primo-secondaire de la fiche.
+EXPLICATION_A: Une lésion est déjà objectivée.
+EXPLICATION_B: Une lésion infraclinique est documentée sans événement clinique.
+EXPLICATION_C: L’observation ne rapporte pas d’événement clinique.
+EXPLICATION_D: L’objectif est de prévenir la progression et l’expression clinique de la lésion.
+EXPLICATION_E: La terminologie de la fiche distingue lésion infraclinique et événement clinique.
+
+---
+ID: 222-037
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Sens de la prévention
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 72 ans a une plaque athéromateuse aortique documentée mais n’a jamais présenté d’accident clinique ni de symptôme attribué à cette plaque. Quelles propositions interprètent correctement les niveaux de prévention ?
+A: V | Avant toute lésion décelable, la prévention vise à réduire la survenue d’un premier événement.
+B: F | Une plaque asymptomatique implique que le patient a déjà fait un accident clinique.
+C: F | L’absence de symptôme suffit toujours à classer le patient en prévention primaire sans lésion.
+D: V | Des lésions athéromateuses infracliniques conduisent à prévenir leur progression et leur expression clinique.
+E: F | La prévention secondaire commence uniquement après un deuxième infarctus.
+JUSTIFICATION: La présence de lésions infracliniques ou d’un événement clinique modifie le niveau de prévention.
+EXPLICATION_A: C’est l’objectif de la prévention primaire.
+EXPLICATION_B: Une lésion infraclinique peut être présente sans événement.
+EXPLICATION_C: Des lésions peuvent être objectivées sans symptôme.
+EXPLICATION_D: La fiche nomme ce contexte prévention primo-secondaire.
+EXPLICATION_E: Un premier événement clinique suffit à définir ce contexte.
+
+---
+ID: 222-038
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 72 ans a une plaque athéromateuse aortique documentée mais n’a jamais présenté d’accident clinique ni de symptôme attribué à cette plaque. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: V | Il correspond à une probabilité d’événement sur une période donnée.
+B: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+C: F | Un facteur de risque absent garantit un risque cardiovasculaire nul.
+D: F | Le risque global correspond uniquement à la probabilité d’avoir des palpitations.
+E: V | Il intègre le risque d’infarctus, d’AVC ou de décès cardiovasculaire.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: La notion inclut un horizon temporel.
+EXPLICATION_B: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+EXPLICATION_C: D’autres déterminants peuvent rester présents.
+EXPLICATION_D: Les événements majeurs définis ne sont pas limités à ce symptôme.
+EXPLICATION_E: Ces événements majeurs sont cités dans la définition de la fiche.
+
+---
+ID: 222-039
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 72 ans a une plaque athéromateuse aortique documentée mais n’a jamais présenté d’accident clinique ni de symptôme attribué à cette plaque. Quelles propositions concernant l’activité physique sont exactes ?
+A: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+B: F | Une activité n’est utile que si elle est pratiquée en club.
+C: V | Une marche adaptée peut constituer une activité physique utile.
+D: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+E: F | L’activité physique ne concerne que la prévention avant tout événement.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Le programme doit être réaliste et réalisable.
+EXPLICATION_B: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+EXPLICATION_C: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+EXPLICATION_D: La fiche insiste sur une prescription individualisée.
+EXPLICATION_E: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+
+---
+ID: 222-040
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 72 ans a une plaque athéromateuse aortique documentée mais n’a jamais présenté d’accident clinique ni de symptôme attribué à cette plaque. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+B: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+C: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+D: V | Lutter contre le tabagisme actif et passif.
+E: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_B: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_C: Les facteurs de risque doivent être traités conjointement.
+EXPLICATION_D: Le tabac est un facteur de risque cardiovasculaire majeur.
+EXPLICATION_E: La fiche recommande au contraire leur consommation.
+
+---
+ID: 222-041
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 58 ans sans événement clinique a une plaque carotidienne objectivée. Il pense ne nécessiter aucune prévention puisqu’il ne ressent rien. Selon les définitions propres à la fiche, quel niveau de prévention correspond à cette situation ?
+A: V | Une prévention primo-secondaire selon la terminologie de la fiche.
+B: F | Une prévention secondaire uniquement parce que la plaque est visible.
+C: F | Une prévention secondaire après accident clinique.
+D: F | Une situation sans indication de prévention car le patient est asymptomatique.
+E: F | Une prévention primaire chez un patient indemne de toute lésion décelable.
+JUSTIFICATION: Une plaque objectivée sans événement clinique correspond à la prévention primo-secondaire de la fiche.
+EXPLICATION_A: Une lésion infraclinique est documentée sans événement clinique.
+EXPLICATION_B: La terminologie de la fiche distingue lésion infraclinique et événement clinique.
+EXPLICATION_C: L’observation ne rapporte pas d’événement clinique.
+EXPLICATION_D: L’objectif est de prévenir la progression et l’expression clinique de la lésion.
+EXPLICATION_E: Une lésion est déjà objectivée.
+
+---
+ID: 222-042
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Sens de la prévention
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 58 ans sans événement clinique a une plaque carotidienne objectivée. Il pense ne nécessiter aucune prévention puisqu’il ne ressent rien. Quelles propositions interprètent correctement les niveaux de prévention ?
+A: V | Avant toute lésion décelable, la prévention vise à réduire la survenue d’un premier événement.
+B: V | Des lésions athéromateuses infracliniques conduisent à prévenir leur progression et leur expression clinique.
+C: F | L’absence de symptôme suffit toujours à classer le patient en prévention primaire sans lésion.
+D: F | Une plaque asymptomatique implique que le patient a déjà fait un accident clinique.
+E: V | Après un événement cardiovasculaire clinique, la prévention vise notamment à réduire les récidives.
+JUSTIFICATION: La présence de lésions infracliniques ou d’un événement clinique modifie le niveau de prévention.
+EXPLICATION_A: C’est l’objectif de la prévention primaire.
+EXPLICATION_B: La fiche nomme ce contexte prévention primo-secondaire.
+EXPLICATION_C: Des lésions peuvent être objectivées sans symptôme.
+EXPLICATION_D: Une lésion infraclinique peut être présente sans événement.
+EXPLICATION_E: C’est la prévention secondaire.
+
+---
+ID: 222-043
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 58 ans sans événement clinique a une plaque carotidienne objectivée. Il pense ne nécessiter aucune prévention puisqu’il ne ressent rien. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: F | Le risque global correspond uniquement à la probabilité d’avoir des palpitations.
+B: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+C: V | Plusieurs facteurs de risque doivent être considérés ensemble.
+D: V | Il correspond à une probabilité d’événement sur une période donnée.
+E: V | Il intègre le risque d’infarctus, d’AVC ou de décès cardiovasculaire.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: Les événements majeurs définis ne sont pas limités à ce symptôme.
+EXPLICATION_B: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+EXPLICATION_C: L’évaluation ne repose pas sur un seul chiffre biologique isolé.
+EXPLICATION_D: La notion inclut un horizon temporel.
+EXPLICATION_E: Ces événements majeurs sont cités dans la définition de la fiche.
+
+---
+ID: 222-044
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 58 ans sans événement clinique a une plaque carotidienne objectivée. Il pense ne nécessiter aucune prévention puisqu’il ne ressent rien. Quelles propositions concernant l’activité physique sont exactes ?
+A: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+B: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+C: V | Une marche adaptée peut constituer une activité physique utile.
+D: F | L’activité physique ne concerne que la prévention avant tout événement.
+E: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Le programme doit être réaliste et réalisable.
+EXPLICATION_B: La fiche insiste sur une prescription individualisée.
+EXPLICATION_C: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+EXPLICATION_D: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+EXPLICATION_E: Le suivi et les conseils répétés font partie de la prescription.
+
+---
+ID: 222-045
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 58 ans sans événement clinique a une plaque carotidienne objectivée. Il pense ne nécessiter aucune prévention puisqu’il ne ressent rien. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: V | Associer objectifs thérapeutiques, éducation et suivi.
+B: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+C: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+D: V | Lutter contre le tabagisme actif et passif.
+E: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Une prescription isolée ne suffit pas à garantir son efficacité.
+EXPLICATION_B: La fiche recommande au contraire leur consommation.
+EXPLICATION_C: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_D: Le tabac est un facteur de risque cardiovasculaire majeur.
+EXPLICATION_E: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+
+---
+ID: 222-046
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 61 ans sans antécédent d’accident cardiovasculaire présente des lésions artérielles infracliniques documentées dans deux territoires, sans symptôme. Selon les définitions propres à la fiche, quel niveau de prévention correspond à cette situation ?
+A: F | Une situation sans indication de prévention car le patient est asymptomatique.
+B: V | Une prévention primo-secondaire selon la terminologie de la fiche.
+C: F | Une prévention primaire chez un patient indemne de toute lésion décelable.
+D: F | Une prévention secondaire après accident clinique.
+E: F | Une prévention secondaire uniquement parce que la plaque est visible.
+JUSTIFICATION: Une plaque objectivée sans événement clinique correspond à la prévention primo-secondaire de la fiche.
+EXPLICATION_A: L’objectif est de prévenir la progression et l’expression clinique de la lésion.
+EXPLICATION_B: Une lésion infraclinique est documentée sans événement clinique.
+EXPLICATION_C: Une lésion est déjà objectivée.
+EXPLICATION_D: L’observation ne rapporte pas d’événement clinique.
+EXPLICATION_E: La terminologie de la fiche distingue lésion infraclinique et événement clinique.
+
+---
+ID: 222-047
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Sens de la prévention
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 61 ans sans antécédent d’accident cardiovasculaire présente des lésions artérielles infracliniques documentées dans deux territoires, sans symptôme. Quelles propositions interprètent correctement les niveaux de prévention ?
+A: V | Après un événement cardiovasculaire clinique, la prévention vise notamment à réduire les récidives.
+B: V | Des lésions athéromateuses infracliniques conduisent à prévenir leur progression et leur expression clinique.
+C: F | La prévention secondaire commence uniquement après un deuxième infarctus.
+D: V | Avant toute lésion décelable, la prévention vise à réduire la survenue d’un premier événement.
+E: F | L’absence de symptôme suffit toujours à classer le patient en prévention primaire sans lésion.
+JUSTIFICATION: La présence de lésions infracliniques ou d’un événement clinique modifie le niveau de prévention.
+EXPLICATION_A: C’est la prévention secondaire.
+EXPLICATION_B: La fiche nomme ce contexte prévention primo-secondaire.
+EXPLICATION_C: Un premier événement clinique suffit à définir ce contexte.
+EXPLICATION_D: C’est l’objectif de la prévention primaire.
+EXPLICATION_E: Des lésions peuvent être objectivées sans symptôme.
+
+---
+ID: 222-048
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 61 ans sans antécédent d’accident cardiovasculaire présente des lésions artérielles infracliniques documentées dans deux territoires, sans symptôme. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: V | Plusieurs facteurs de risque doivent être considérés ensemble.
+B: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+C: V | Il intègre le risque d’infarctus, d’AVC ou de décès cardiovasculaire.
+D: F | Un facteur de risque absent garantit un risque cardiovasculaire nul.
+E: V | Il correspond à une probabilité d’événement sur une période donnée.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: L’évaluation ne repose pas sur un seul chiffre biologique isolé.
+EXPLICATION_B: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+EXPLICATION_C: Ces événements majeurs sont cités dans la définition de la fiche.
+EXPLICATION_D: D’autres déterminants peuvent rester présents.
+EXPLICATION_E: La notion inclut un horizon temporel.
+
+---
+ID: 222-049
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 61 ans sans antécédent d’accident cardiovasculaire présente des lésions artérielles infracliniques documentées dans deux territoires, sans symptôme. Quelles propositions concernant l’activité physique sont exactes ?
+A: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+B: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+C: V | Une marche adaptée peut constituer une activité physique utile.
+D: F | Une activité n’est utile que si elle est pratiquée en club.
+E: F | L’activité physique ne concerne que la prévention avant tout événement.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Le suivi et les conseils répétés font partie de la prescription.
+EXPLICATION_B: La fiche insiste sur une prescription individualisée.
+EXPLICATION_C: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+EXPLICATION_D: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+EXPLICATION_E: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+
+---
+ID: 222-050
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Lésion infraclinique · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 61 ans sans antécédent d’accident cardiovasculaire présente des lésions artérielles infracliniques documentées dans deux territoires, sans symptôme. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+B: V | Lutter contre le tabagisme actif et passif.
+C: V | Associer objectifs thérapeutiques, éducation et suivi.
+D: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+E: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_B: Le tabac est un facteur de risque cardiovasculaire majeur.
+EXPLICATION_C: Une prescription isolée ne suffit pas à garantir son efficacité.
+EXPLICATION_D: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_E: Les facteurs de risque doivent être traités conjointement.
+
+---
+ID: 222-051
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 57 ans sort d’hospitalisation après un premier infarctus du myocarde. Il ne ressent plus de douleur et demande quel est désormais le niveau de prévention. Quel niveau de prévention s’applique maintenant à la prévention de nouveaux événements ?
+A: F | Une prévention primaire parce que l’événement est le premier.
+B: F | Une prévention primaire avant toute maladie clinique.
+C: F | Une absence de prévention après guérison des symptômes.
+D: F | Une prévention primo-secondaire limitée à une plaque sans événement.
+E: V | Une prévention secondaire.
+JUSTIFICATION: Un antécédent clinique personnel impose une prévention des récidives.
+EXPLICATION_A: Le premier événement suffit à placer le suivi en prévention secondaire.
+EXPLICATION_B: L’accident personnel a déjà eu lieu.
+EXPLICATION_C: Le risque de récidive persiste même après amélioration clinique.
+EXPLICATION_D: La présence d’un accident clinique dépasse ce contexte.
+EXPLICATION_E: Un événement cardiovasculaire clinique personnel est survenu.
+
+---
+ID: 222-052
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Sens de la prévention
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 57 ans sort d’hospitalisation après un premier infarctus du myocarde. Il ne ressent plus de douleur et demande quel est désormais le niveau de prévention. Quelles propositions interprètent correctement les niveaux de prévention ?
+A: F | La prévention secondaire commence uniquement après un deuxième infarctus.
+B: F | L’absence de symptôme suffit toujours à classer le patient en prévention primaire sans lésion.
+C: F | Une plaque asymptomatique implique que le patient a déjà fait un accident clinique.
+D: V | Après un événement cardiovasculaire clinique, la prévention vise notamment à réduire les récidives.
+E: V | Des lésions athéromateuses infracliniques conduisent à prévenir leur progression et leur expression clinique.
+JUSTIFICATION: La présence de lésions infracliniques ou d’un événement clinique modifie le niveau de prévention.
+EXPLICATION_A: Un premier événement clinique suffit à définir ce contexte.
+EXPLICATION_B: Des lésions peuvent être objectivées sans symptôme.
+EXPLICATION_C: Une lésion infraclinique peut être présente sans événement.
+EXPLICATION_D: C’est la prévention secondaire.
+EXPLICATION_E: La fiche nomme ce contexte prévention primo-secondaire.
+
+---
+ID: 222-053
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 57 ans sort d’hospitalisation après un premier infarctus du myocarde. Il ne ressent plus de douleur et demande quel est désormais le niveau de prévention. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: F | Un facteur de risque absent garantit un risque cardiovasculaire nul.
+B: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+C: V | Plusieurs facteurs de risque doivent être considérés ensemble.
+D: V | Il intègre le risque d’infarctus, d’AVC ou de décès cardiovasculaire.
+E: F | Le risque global correspond uniquement à la probabilité d’avoir des palpitations.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: D’autres déterminants peuvent rester présents.
+EXPLICATION_B: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+EXPLICATION_C: L’évaluation ne repose pas sur un seul chiffre biologique isolé.
+EXPLICATION_D: Ces événements majeurs sont cités dans la définition de la fiche.
+EXPLICATION_E: Les événements majeurs définis ne sont pas limités à ce symptôme.
+
+---
+ID: 222-054
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 57 ans sort d’hospitalisation après un premier infarctus du myocarde. Il ne ressent plus de douleur et demande quel est désormais le niveau de prévention. Quelles propositions concernant l’activité physique sont exactes ?
+A: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+B: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+C: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+D: F | L’activité physique ne concerne que la prévention avant tout événement.
+E: F | Une activité n’est utile que si elle est pratiquée en club.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Le programme doit être réaliste et réalisable.
+EXPLICATION_B: La fiche insiste sur une prescription individualisée.
+EXPLICATION_C: Le suivi et les conseils répétés font partie de la prescription.
+EXPLICATION_D: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+EXPLICATION_E: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+
+---
+ID: 222-055
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 57 ans sort d’hospitalisation après un premier infarctus du myocarde. Il ne ressent plus de douleur et demande quel est désormais le niveau de prévention. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+B: V | Associer objectifs thérapeutiques, éducation et suivi.
+C: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+D: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+E: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_B: Une prescription isolée ne suffit pas à garantir son efficacité.
+EXPLICATION_C: La fiche recommande au contraire leur consommation.
+EXPLICATION_D: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_E: Les facteurs de risque doivent être traités conjointement.
+
+---
+ID: 222-056
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 70 ans a présenté un AVC ischémique clinique. Après stabilisation, le projet porte sur le risque cardiovasculaire futur. Quel niveau de prévention s’applique maintenant à la prévention de nouveaux événements ?
+A: F | Une prévention primaire avant toute maladie clinique.
+B: F | Une prévention primaire parce que l’événement est le premier.
+C: V | Une prévention secondaire.
+D: F | Une absence de prévention après guérison des symptômes.
+E: F | Une prévention primo-secondaire limitée à une plaque sans événement.
+JUSTIFICATION: Un antécédent clinique personnel impose une prévention des récidives.
+EXPLICATION_A: L’accident personnel a déjà eu lieu.
+EXPLICATION_B: Le premier événement suffit à placer le suivi en prévention secondaire.
+EXPLICATION_C: Un événement cardiovasculaire clinique personnel est survenu.
+EXPLICATION_D: Le risque de récidive persiste même après amélioration clinique.
+EXPLICATION_E: La présence d’un accident clinique dépasse ce contexte.
+
+---
+ID: 222-057
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Sens de la prévention
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 70 ans a présenté un AVC ischémique clinique. Après stabilisation, le projet porte sur le risque cardiovasculaire futur. Quelles propositions interprètent correctement les niveaux de prévention ?
+A: F | L’absence de symptôme suffit toujours à classer le patient en prévention primaire sans lésion.
+B: V | Avant toute lésion décelable, la prévention vise à réduire la survenue d’un premier événement.
+C: F | La prévention secondaire commence uniquement après un deuxième infarctus.
+D: F | Une plaque asymptomatique implique que le patient a déjà fait un accident clinique.
+E: V | Après un événement cardiovasculaire clinique, la prévention vise notamment à réduire les récidives.
+JUSTIFICATION: La présence de lésions infracliniques ou d’un événement clinique modifie le niveau de prévention.
+EXPLICATION_A: Des lésions peuvent être objectivées sans symptôme.
+EXPLICATION_B: C’est l’objectif de la prévention primaire.
+EXPLICATION_C: Un premier événement clinique suffit à définir ce contexte.
+EXPLICATION_D: Une lésion infraclinique peut être présente sans événement.
+EXPLICATION_E: C’est la prévention secondaire.
+
+---
+ID: 222-058
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 70 ans a présenté un AVC ischémique clinique. Après stabilisation, le projet porte sur le risque cardiovasculaire futur. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: F | Le risque global correspond uniquement à la probabilité d’avoir des palpitations.
+B: F | Un facteur de risque absent garantit un risque cardiovasculaire nul.
+C: V | Plusieurs facteurs de risque doivent être considérés ensemble.
+D: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+E: V | Il correspond à une probabilité d’événement sur une période donnée.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: Les événements majeurs définis ne sont pas limités à ce symptôme.
+EXPLICATION_B: D’autres déterminants peuvent rester présents.
+EXPLICATION_C: L’évaluation ne repose pas sur un seul chiffre biologique isolé.
+EXPLICATION_D: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+EXPLICATION_E: La notion inclut un horizon temporel.
+
+---
+ID: 222-059
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 70 ans a présenté un AVC ischémique clinique. Après stabilisation, le projet porte sur le risque cardiovasculaire futur. Quelles propositions concernant l’activité physique sont exactes ?
+A: F | Une activité n’est utile que si elle est pratiquée en club.
+B: F | L’activité physique ne concerne que la prévention avant tout événement.
+C: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+D: V | Une marche adaptée peut constituer une activité physique utile.
+E: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+EXPLICATION_B: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+EXPLICATION_C: Le programme doit être réaliste et réalisable.
+EXPLICATION_D: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+EXPLICATION_E: Le suivi et les conseils répétés font partie de la prescription.
+
+---
+ID: 222-060
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 70 ans a présenté un AVC ischémique clinique. Après stabilisation, le projet porte sur le risque cardiovasculaire futur. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+B: V | Associer objectifs thérapeutiques, éducation et suivi.
+C: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+D: V | Lutter contre le tabagisme actif et passif.
+E: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Les facteurs de risque doivent être traités conjointement.
+EXPLICATION_B: Une prescription isolée ne suffit pas à garantir son efficacité.
+EXPLICATION_C: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_D: Le tabac est un facteur de risque cardiovasculaire majeur.
+EXPLICATION_E: La fiche recommande au contraire leur consommation.
+
+---
+ID: 222-061
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 65 ans a un antécédent personnel de syndrome coronarien aigu traité. Les symptômes ont disparu mais plusieurs facteurs de risque persistent. Quel niveau de prévention s’applique maintenant à la prévention de nouveaux événements ?
+A: V | Une prévention secondaire.
+B: F | Une prévention primaire parce que l’événement est le premier.
+C: F | Une prévention primaire avant toute maladie clinique.
+D: F | Une absence de prévention après guérison des symptômes.
+E: F | Une prévention primo-secondaire limitée à une plaque sans événement.
+JUSTIFICATION: Un antécédent clinique personnel impose une prévention des récidives.
+EXPLICATION_A: Un événement cardiovasculaire clinique personnel est survenu.
+EXPLICATION_B: Le premier événement suffit à placer le suivi en prévention secondaire.
+EXPLICATION_C: L’accident personnel a déjà eu lieu.
+EXPLICATION_D: Le risque de récidive persiste même après amélioration clinique.
+EXPLICATION_E: La présence d’un accident clinique dépasse ce contexte.
+
+---
+ID: 222-062
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Sens de la prévention
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 65 ans a un antécédent personnel de syndrome coronarien aigu traité. Les symptômes ont disparu mais plusieurs facteurs de risque persistent. Quelles propositions interprètent correctement les niveaux de prévention ?
+A: F | L’absence de symptôme suffit toujours à classer le patient en prévention primaire sans lésion.
+B: F | Une plaque asymptomatique implique que le patient a déjà fait un accident clinique.
+C: V | Des lésions athéromateuses infracliniques conduisent à prévenir leur progression et leur expression clinique.
+D: F | La prévention secondaire commence uniquement après un deuxième infarctus.
+E: V | Avant toute lésion décelable, la prévention vise à réduire la survenue d’un premier événement.
+JUSTIFICATION: La présence de lésions infracliniques ou d’un événement clinique modifie le niveau de prévention.
+EXPLICATION_A: Des lésions peuvent être objectivées sans symptôme.
+EXPLICATION_B: Une lésion infraclinique peut être présente sans événement.
+EXPLICATION_C: La fiche nomme ce contexte prévention primo-secondaire.
+EXPLICATION_D: Un premier événement clinique suffit à définir ce contexte.
+EXPLICATION_E: C’est l’objectif de la prévention primaire.
+
+---
+ID: 222-063
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 65 ans a un antécédent personnel de syndrome coronarien aigu traité. Les symptômes ont disparu mais plusieurs facteurs de risque persistent. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+B: F | Un facteur de risque absent garantit un risque cardiovasculaire nul.
+C: F | Le risque global correspond uniquement à la probabilité d’avoir des palpitations.
+D: V | Il correspond à une probabilité d’événement sur une période donnée.
+E: V | Il intègre le risque d’infarctus, d’AVC ou de décès cardiovasculaire.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+EXPLICATION_B: D’autres déterminants peuvent rester présents.
+EXPLICATION_C: Les événements majeurs définis ne sont pas limités à ce symptôme.
+EXPLICATION_D: La notion inclut un horizon temporel.
+EXPLICATION_E: Ces événements majeurs sont cités dans la définition de la fiche.
+
+---
+ID: 222-064
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 65 ans a un antécédent personnel de syndrome coronarien aigu traité. Les symptômes ont disparu mais plusieurs facteurs de risque persistent. Quelles propositions concernant l’activité physique sont exactes ?
+A: F | L’activité physique ne concerne que la prévention avant tout événement.
+B: V | Une marche adaptée peut constituer une activité physique utile.
+C: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+D: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+E: F | Une activité n’est utile que si elle est pratiquée en club.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+EXPLICATION_B: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+EXPLICATION_C: Le programme doit être réaliste et réalisable.
+EXPLICATION_D: La fiche insiste sur une prescription individualisée.
+EXPLICATION_E: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+
+---
+ID: 222-065
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 65 ans a un antécédent personnel de syndrome coronarien aigu traité. Les symptômes ont disparu mais plusieurs facteurs de risque persistent. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+B: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+C: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+D: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+E: V | Lutter contre le tabagisme actif et passif.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_B: Les facteurs de risque doivent être traités conjointement.
+EXPLICATION_C: La fiche recommande au contraire leur consommation.
+EXPLICATION_D: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_E: Le tabac est un facteur de risque cardiovasculaire majeur.
+
+---
+ID: 222-066
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 62 ans ayant eu un infarctus pense que la prévention redevient primaire parce que la revascularisation a réussi. Aucun nouvel événement n’a eu lieu. Quel niveau de prévention s’applique maintenant à la prévention de nouveaux événements ?
+A: F | Une prévention primo-secondaire limitée à une plaque sans événement.
+B: F | Une prévention primaire avant toute maladie clinique.
+C: F | Une prévention primaire parce que l’événement est le premier.
+D: V | Une prévention secondaire.
+E: F | Une absence de prévention après guérison des symptômes.
+JUSTIFICATION: Un antécédent clinique personnel impose une prévention des récidives.
+EXPLICATION_A: La présence d’un accident clinique dépasse ce contexte.
+EXPLICATION_B: L’accident personnel a déjà eu lieu.
+EXPLICATION_C: Le premier événement suffit à placer le suivi en prévention secondaire.
+EXPLICATION_D: Un événement cardiovasculaire clinique personnel est survenu.
+EXPLICATION_E: Le risque de récidive persiste même après amélioration clinique.
+
+---
+ID: 222-067
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Sens de la prévention
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 62 ans ayant eu un infarctus pense que la prévention redevient primaire parce que la revascularisation a réussi. Aucun nouvel événement n’a eu lieu. Quelles propositions interprètent correctement les niveaux de prévention ?
+A: V | Avant toute lésion décelable, la prévention vise à réduire la survenue d’un premier événement.
+B: V | Après un événement cardiovasculaire clinique, la prévention vise notamment à réduire les récidives.
+C: V | Des lésions athéromateuses infracliniques conduisent à prévenir leur progression et leur expression clinique.
+D: F | Une plaque asymptomatique implique que le patient a déjà fait un accident clinique.
+E: F | L’absence de symptôme suffit toujours à classer le patient en prévention primaire sans lésion.
+JUSTIFICATION: La présence de lésions infracliniques ou d’un événement clinique modifie le niveau de prévention.
+EXPLICATION_A: C’est l’objectif de la prévention primaire.
+EXPLICATION_B: C’est la prévention secondaire.
+EXPLICATION_C: La fiche nomme ce contexte prévention primo-secondaire.
+EXPLICATION_D: Une lésion infraclinique peut être présente sans événement.
+EXPLICATION_E: Des lésions peuvent être objectivées sans symptôme.
+
+---
+ID: 222-068
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 62 ans ayant eu un infarctus pense que la prévention redevient primaire parce que la revascularisation a réussi. Aucun nouvel événement n’a eu lieu. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: V | Il intègre le risque d’infarctus, d’AVC ou de décès cardiovasculaire.
+B: V | Plusieurs facteurs de risque doivent être considérés ensemble.
+C: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+D: F | Le risque global correspond uniquement à la probabilité d’avoir des palpitations.
+E: V | Il correspond à une probabilité d’événement sur une période donnée.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: Ces événements majeurs sont cités dans la définition de la fiche.
+EXPLICATION_B: L’évaluation ne repose pas sur un seul chiffre biologique isolé.
+EXPLICATION_C: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+EXPLICATION_D: Les événements majeurs définis ne sont pas limités à ce symptôme.
+EXPLICATION_E: La notion inclut un horizon temporel.
+
+---
+ID: 222-069
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 62 ans ayant eu un infarctus pense que la prévention redevient primaire parce que la revascularisation a réussi. Aucun nouvel événement n’a eu lieu. Quelles propositions concernant l’activité physique sont exactes ?
+A: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+B: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+C: F | L’activité physique ne concerne que la prévention avant tout événement.
+D: V | Une marche adaptée peut constituer une activité physique utile.
+E: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: La fiche insiste sur une prescription individualisée.
+EXPLICATION_B: Le suivi et les conseils répétés font partie de la prescription.
+EXPLICATION_C: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+EXPLICATION_D: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+EXPLICATION_E: Le programme doit être réaliste et réalisable.
+
+---
+ID: 222-070
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 62 ans ayant eu un infarctus pense que la prévention redevient primaire parce que la revascularisation a réussi. Aucun nouvel événement n’a eu lieu. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+B: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+C: V | Lutter contre le tabagisme actif et passif.
+D: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+E: V | Associer objectifs thérapeutiques, éducation et suivi.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: La fiche recommande au contraire leur consommation.
+EXPLICATION_B: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_C: Le tabac est un facteur de risque cardiovasculaire majeur.
+EXPLICATION_D: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_E: Une prescription isolée ne suffit pas à garantir son efficacité.
+
+---
+ID: 222-071
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 74 ans a présenté un événement cérébrovasculaire ischémique clinique il y a un an. Il consulte pour revoir ses objectifs de prévention et son activité adaptée. Quel niveau de prévention s’applique maintenant à la prévention de nouveaux événements ?
+A: V | Une prévention secondaire.
+B: F | Une absence de prévention après guérison des symptômes.
+C: F | Une prévention primaire avant toute maladie clinique.
+D: F | Une prévention primaire parce que l’événement est le premier.
+E: F | Une prévention primo-secondaire limitée à une plaque sans événement.
+JUSTIFICATION: Un antécédent clinique personnel impose une prévention des récidives.
+EXPLICATION_A: Un événement cardiovasculaire clinique personnel est survenu.
+EXPLICATION_B: Le risque de récidive persiste même après amélioration clinique.
+EXPLICATION_C: L’accident personnel a déjà eu lieu.
+EXPLICATION_D: Le premier événement suffit à placer le suivi en prévention secondaire.
+EXPLICATION_E: La présence d’un accident clinique dépasse ce contexte.
+
+---
+ID: 222-072
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Sens de la prévention
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 74 ans a présenté un événement cérébrovasculaire ischémique clinique il y a un an. Il consulte pour revoir ses objectifs de prévention et son activité adaptée. Quelles propositions interprètent correctement les niveaux de prévention ?
+A: V | Avant toute lésion décelable, la prévention vise à réduire la survenue d’un premier événement.
+B: V | Après un événement cardiovasculaire clinique, la prévention vise notamment à réduire les récidives.
+C: V | Des lésions athéromateuses infracliniques conduisent à prévenir leur progression et leur expression clinique.
+D: F | L’absence de symptôme suffit toujours à classer le patient en prévention primaire sans lésion.
+E: F | La prévention secondaire commence uniquement après un deuxième infarctus.
+JUSTIFICATION: La présence de lésions infracliniques ou d’un événement clinique modifie le niveau de prévention.
+EXPLICATION_A: C’est l’objectif de la prévention primaire.
+EXPLICATION_B: C’est la prévention secondaire.
+EXPLICATION_C: La fiche nomme ce contexte prévention primo-secondaire.
+EXPLICATION_D: Des lésions peuvent être objectivées sans symptôme.
+EXPLICATION_E: Un premier événement clinique suffit à définir ce contexte.
+
+---
+ID: 222-073
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 74 ans a présenté un événement cérébrovasculaire ischémique clinique il y a un an. Il consulte pour revoir ses objectifs de prévention et son activité adaptée. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: V | Il correspond à une probabilité d’événement sur une période donnée.
+B: V | Il intègre le risque d’infarctus, d’AVC ou de décès cardiovasculaire.
+C: V | Plusieurs facteurs de risque doivent être considérés ensemble.
+D: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+E: F | Un facteur de risque absent garantit un risque cardiovasculaire nul.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: La notion inclut un horizon temporel.
+EXPLICATION_B: Ces événements majeurs sont cités dans la définition de la fiche.
+EXPLICATION_C: L’évaluation ne repose pas sur un seul chiffre biologique isolé.
+EXPLICATION_D: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+EXPLICATION_E: D’autres déterminants peuvent rester présents.
+
+---
+ID: 222-074
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 74 ans a présenté un événement cérébrovasculaire ischémique clinique il y a un an. Il consulte pour revoir ses objectifs de prévention et son activité adaptée. Quelles propositions concernant l’activité physique sont exactes ?
+A: F | Une activité n’est utile que si elle est pratiquée en club.
+B: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+C: V | Une marche adaptée peut constituer une activité physique utile.
+D: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+E: F | L’activité physique ne concerne que la prévention avant tout événement.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+EXPLICATION_B: La fiche insiste sur une prescription individualisée.
+EXPLICATION_C: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+EXPLICATION_D: Le suivi et les conseils répétés font partie de la prescription.
+EXPLICATION_E: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+
+---
+ID: 222-075
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Après un événement clinique · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 74 ans a présenté un événement cérébrovasculaire ischémique clinique il y a un an. Il consulte pour revoir ses objectifs de prévention et son activité adaptée. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+B: V | Lutter contre le tabagisme actif et passif.
+C: V | Associer objectifs thérapeutiques, éducation et suivi.
+D: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+E: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_B: Le tabac est un facteur de risque cardiovasculaire majeur.
+EXPLICATION_C: Une prescription isolée ne suffit pas à garantir son efficacité.
+EXPLICATION_D: Les facteurs de risque doivent être traités conjointement.
+EXPLICATION_E: Ces éléments appartiennent au modèle méditerranéen décrit.
+
+---
+ID: 222-076
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 52 ans a un tour de taille de 108 cm, une PA de 142/90 mmHg, un prédiabète, des triglycérides élevés et un HDL bas. Il n’a pas d’événement cardiovasculaire connu. Quel modèle regroupe le mieux ces anomalies ?
+A: F | Une obésité sans aucune anomalie métabolique associée.
+B: F | Un profil protecteur défini par un HDL bas.
+C: F | Une hypercholestérolémie isolée.
+D: V | Un syndrome métabolique lié notamment à l’insulinorésistance.
+E: F | Une preuve d’infarctus déjà constitué.
+JUSTIFICATION: L’association obésité abdominale, anomalie glycémique, pression élevée, triglycérides élevés et HDL bas évoque un syndrome métabolique.
+EXPLICATION_A: Des anomalies glycémiques, lipidiques et tensionnelles sont décrites.
+EXPLICATION_B: Un HDL bas fait partie du profil défavorable.
+EXPLICATION_C: Le profil comporte plusieurs anomalies non limitées au cholestérol.
+EXPLICATION_D: Les anomalies décrites correspondent au profil de la fiche.
+EXPLICATION_E: Ces paramètres sont des déterminants de risque, pas la preuve d’un accident myocardique.
+
+---
+ID: 222-077
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Lecture du profil métabolique
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 52 ans a un tour de taille de 108 cm, une PA de 142/90 mmHg, un prédiabète, des triglycérides élevés et un HDL bas. Il n’a pas d’événement cardiovasculaire connu. Quelles propositions sont exactes concernant ce profil ?
+A: V | Une hypertriglycéridémie associée à un HDL bas participe au profil décrit.
+B: F | Un tour de taille élevé permet à lui seul d’affirmer toutes les composantes du syndrome.
+C: V | L’insulinorésistance relie plusieurs anomalies de ce syndrome.
+D: F | Un LDL non élevé exclut ce profil métabolique.
+E: F | Un HDL bas est un argument protecteur qui annule les autres anomalies.
+JUSTIFICATION: L’obésité abdominale et l’insulinorésistance s’associent à des anomalies métaboliques et tensionnelles.
+EXPLICATION_A: Il s’agit d’un profil lipidique caractéristique.
+EXPLICATION_B: Il faut analyser les autres paramètres cliniques et biologiques.
+EXPLICATION_C: La fiche la place au centre du modèle.
+EXPLICATION_D: Le profil décrit associe notamment triglycérides élevés et HDL bas, sans imposer un LDL élevé.
+EXPLICATION_E: Une hypo-HDLémie fait au contraire partie du profil défavorable.
+
+---
+ID: 222-078
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Conséquences et objectifs
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 52 ans a un tour de taille de 108 cm, une PA de 142/90 mmHg, un prédiabète, des triglycérides élevés et un HDL bas. Il n’a pas d’événement cardiovasculaire connu. Quelles propositions expliquent les enjeux de prise en charge ?
+A: F | Le syndrome métabolique prouve que le patient a déjà présenté un infarctus.
+B: V | La réduction de l’insulinorésistance peut améliorer le contrôle glycémique.
+C: F | Le traitement d’un seul paramètre suffit à faire disparaître tous les autres facteurs.
+D: F | Une perte de poids dispense systématiquement de surveiller la pression artérielle.
+E: V | Les difficultés d’accès à l’activité peuvent entretenir un cercle vicieux de sédentarité.
+JUSTIFICATION: L’obésité abdominale favorise plusieurs facteurs de risque qui doivent être traités ensemble.
+EXPLICATION_A: C’est un modèle d’agrégation de risque, pas la preuve d’un événement passé.
+EXPLICATION_B: L’activité physique fait partie des moyens proposés.
+EXPLICATION_C: La prise en charge doit être globale.
+EXPLICATION_D: L’évolution tensionnelle doit être réévaluée.
+EXPLICATION_E: La prescription doit tenir compte des obstacles réels.
+
+---
+ID: 222-079
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 52 ans a un tour de taille de 108 cm, une PA de 142/90 mmHg, un prédiabète, des triglycérides élevés et un HDL bas. Il n’a pas d’événement cardiovasculaire connu. Quelles propositions concernant l’activité physique sont exactes ?
+A: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+B: F | L’activité physique ne concerne que la prévention avant tout événement.
+C: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+D: F | Une activité n’est utile que si elle est pratiquée en club.
+E: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Le suivi et les conseils répétés font partie de la prescription.
+EXPLICATION_B: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+EXPLICATION_C: Le programme doit être réaliste et réalisable.
+EXPLICATION_D: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+EXPLICATION_E: La fiche insiste sur une prescription individualisée.
+
+---
+ID: 222-080
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 52 ans a un tour de taille de 108 cm, une PA de 142/90 mmHg, un prédiabète, des triglycérides élevés et un HDL bas. Il n’a pas d’événement cardiovasculaire connu. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+B: V | Associer objectifs thérapeutiques, éducation et suivi.
+C: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+D: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+E: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Les facteurs de risque doivent être traités conjointement.
+EXPLICATION_B: Une prescription isolée ne suffit pas à garantir son efficacité.
+EXPLICATION_C: La fiche recommande au contraire leur consommation.
+EXPLICATION_D: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_E: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+
+---
+ID: 222-081
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 48 ans a un tour de taille de 96 cm, une PA de 138/88 mmHg, une glycémie compatible avec un prédiabète, une hypertriglycéridémie et une hypo-HDLémie. Quel modèle regroupe le mieux ces anomalies ?
+A: F | Un profil protecteur défini par un HDL bas.
+B: F | Une hypercholestérolémie isolée.
+C: F | Une obésité sans aucune anomalie métabolique associée.
+D: V | Un syndrome métabolique lié notamment à l’insulinorésistance.
+E: F | Une preuve d’infarctus déjà constitué.
+JUSTIFICATION: L’association obésité abdominale, anomalie glycémique, pression élevée, triglycérides élevés et HDL bas évoque un syndrome métabolique.
+EXPLICATION_A: Un HDL bas fait partie du profil défavorable.
+EXPLICATION_B: Le profil comporte plusieurs anomalies non limitées au cholestérol.
+EXPLICATION_C: Des anomalies glycémiques, lipidiques et tensionnelles sont décrites.
+EXPLICATION_D: Les anomalies décrites correspondent au profil de la fiche.
+EXPLICATION_E: Ces paramètres sont des déterminants de risque, pas la preuve d’un accident myocardique.
+
+---
+ID: 222-082
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Lecture du profil métabolique
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 48 ans a un tour de taille de 96 cm, une PA de 138/88 mmHg, une glycémie compatible avec un prédiabète, une hypertriglycéridémie et une hypo-HDLémie. Quelles propositions sont exactes concernant ce profil ?
+A: F | Un tour de taille élevé permet à lui seul d’affirmer toutes les composantes du syndrome.
+B: V | L’insulinorésistance relie plusieurs anomalies de ce syndrome.
+C: V | Une obésité abdominale fait partie des éléments du syndrome métabolique décrit.
+D: F | Un HDL bas est un argument protecteur qui annule les autres anomalies.
+E: F | Un LDL non élevé exclut ce profil métabolique.
+JUSTIFICATION: L’obésité abdominale et l’insulinorésistance s’associent à des anomalies métaboliques et tensionnelles.
+EXPLICATION_A: Il faut analyser les autres paramètres cliniques et biologiques.
+EXPLICATION_B: La fiche la place au centre du modèle.
+EXPLICATION_C: La fiche donne des seuils de tour de taille selon le sexe.
+EXPLICATION_D: Une hypo-HDLémie fait au contraire partie du profil défavorable.
+EXPLICATION_E: Le profil décrit associe notamment triglycérides élevés et HDL bas, sans imposer un LDL élevé.
+
+---
+ID: 222-083
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Conséquences et objectifs
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 48 ans a un tour de taille de 96 cm, une PA de 138/88 mmHg, une glycémie compatible avec un prédiabète, une hypertriglycéridémie et une hypo-HDLémie. Quelles propositions expliquent les enjeux de prise en charge ?
+A: V | L’excès pondéral peut favoriser une HTA.
+B: F | Une perte de poids dispense systématiquement de surveiller la pression artérielle.
+C: F | Le syndrome métabolique prouve que le patient a déjà présenté un infarctus.
+D: F | Le traitement d’un seul paramètre suffit à faire disparaître tous les autres facteurs.
+E: V | Les difficultés d’accès à l’activité peuvent entretenir un cercle vicieux de sédentarité.
+JUSTIFICATION: L’obésité abdominale favorise plusieurs facteurs de risque qui doivent être traités ensemble.
+EXPLICATION_A: C’est une association physiopathologique décrite dans la fiche.
+EXPLICATION_B: L’évolution tensionnelle doit être réévaluée.
+EXPLICATION_C: C’est un modèle d’agrégation de risque, pas la preuve d’un événement passé.
+EXPLICATION_D: La prise en charge doit être globale.
+EXPLICATION_E: La prescription doit tenir compte des obstacles réels.
+
+---
+ID: 222-084
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 48 ans a un tour de taille de 96 cm, une PA de 138/88 mmHg, une glycémie compatible avec un prédiabète, une hypertriglycéridémie et une hypo-HDLémie. Quelles propositions concernant l’activité physique sont exactes ?
+A: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+B: V | Une marche adaptée peut constituer une activité physique utile.
+C: F | L’activité physique ne concerne que la prévention avant tout événement.
+D: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+E: F | Une activité n’est utile que si elle est pratiquée en club.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Le suivi et les conseils répétés font partie de la prescription.
+EXPLICATION_B: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+EXPLICATION_C: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+EXPLICATION_D: Le programme doit être réaliste et réalisable.
+EXPLICATION_E: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+
+---
+ID: 222-085
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 48 ans a un tour de taille de 96 cm, une PA de 138/88 mmHg, une glycémie compatible avec un prédiabète, une hypertriglycéridémie et une hypo-HDLémie. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+B: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+C: V | Associer objectifs thérapeutiques, éducation et suivi.
+D: V | Lutter contre le tabagisme actif et passif.
+E: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: La fiche recommande au contraire leur consommation.
+EXPLICATION_B: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_C: Une prescription isolée ne suffit pas à garantir son efficacité.
+EXPLICATION_D: Le tabac est un facteur de risque cardiovasculaire majeur.
+EXPLICATION_E: Les facteurs de risque doivent être traités conjointement.
+
+---
+ID: 222-086
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 60 ans diabétique de type 2 a une obésité abdominale, une PA de 146/92 mmHg et un profil associant triglycérides élevés et HDL bas. Il peine à rester actif. Quel modèle regroupe le mieux ces anomalies ?
+A: V | Un syndrome métabolique lié notamment à l’insulinorésistance.
+B: F | Une obésité sans aucune anomalie métabolique associée.
+C: F | Un profil protecteur défini par un HDL bas.
+D: F | Une preuve d’infarctus déjà constitué.
+E: F | Une hypercholestérolémie isolée.
+JUSTIFICATION: L’association obésité abdominale, anomalie glycémique, pression élevée, triglycérides élevés et HDL bas évoque un syndrome métabolique.
+EXPLICATION_A: Les anomalies décrites correspondent au profil de la fiche.
+EXPLICATION_B: Des anomalies glycémiques, lipidiques et tensionnelles sont décrites.
+EXPLICATION_C: Un HDL bas fait partie du profil défavorable.
+EXPLICATION_D: Ces paramètres sont des déterminants de risque, pas la preuve d’un accident myocardique.
+EXPLICATION_E: Le profil comporte plusieurs anomalies non limitées au cholestérol.
+
+---
+ID: 222-087
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Lecture du profil métabolique
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 60 ans diabétique de type 2 a une obésité abdominale, une PA de 146/92 mmHg et un profil associant triglycérides élevés et HDL bas. Il peine à rester actif. Quelles propositions sont exactes concernant ce profil ?
+A: V | Une hypertriglycéridémie associée à un HDL bas participe au profil décrit.
+B: F | Un tour de taille élevé permet à lui seul d’affirmer toutes les composantes du syndrome.
+C: F | Un LDL non élevé exclut ce profil métabolique.
+D: F | Un HDL bas est un argument protecteur qui annule les autres anomalies.
+E: V | Une obésité abdominale fait partie des éléments du syndrome métabolique décrit.
+JUSTIFICATION: L’obésité abdominale et l’insulinorésistance s’associent à des anomalies métaboliques et tensionnelles.
+EXPLICATION_A: Il s’agit d’un profil lipidique caractéristique.
+EXPLICATION_B: Il faut analyser les autres paramètres cliniques et biologiques.
+EXPLICATION_C: Le profil décrit associe notamment triglycérides élevés et HDL bas, sans imposer un LDL élevé.
+EXPLICATION_D: Une hypo-HDLémie fait au contraire partie du profil défavorable.
+EXPLICATION_E: La fiche donne des seuils de tour de taille selon le sexe.
+
+---
+ID: 222-088
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Conséquences et objectifs
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 60 ans diabétique de type 2 a une obésité abdominale, une PA de 146/92 mmHg et un profil associant triglycérides élevés et HDL bas. Il peine à rester actif. Quelles propositions expliquent les enjeux de prise en charge ?
+A: V | L’excès pondéral peut favoriser une HTA.
+B: F | Une perte de poids dispense systématiquement de surveiller la pression artérielle.
+C: F | Le syndrome métabolique prouve que le patient a déjà présenté un infarctus.
+D: V | La réduction de l’insulinorésistance peut améliorer le contrôle glycémique.
+E: F | Le traitement d’un seul paramètre suffit à faire disparaître tous les autres facteurs.
+JUSTIFICATION: L’obésité abdominale favorise plusieurs facteurs de risque qui doivent être traités ensemble.
+EXPLICATION_A: C’est une association physiopathologique décrite dans la fiche.
+EXPLICATION_B: L’évolution tensionnelle doit être réévaluée.
+EXPLICATION_C: C’est un modèle d’agrégation de risque, pas la preuve d’un événement passé.
+EXPLICATION_D: L’activité physique fait partie des moyens proposés.
+EXPLICATION_E: La prise en charge doit être globale.
+
+---
+ID: 222-089
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 60 ans diabétique de type 2 a une obésité abdominale, une PA de 146/92 mmHg et un profil associant triglycérides élevés et HDL bas. Il peine à rester actif. Quelles propositions concernant l’activité physique sont exactes ?
+A: F | Une activité n’est utile que si elle est pratiquée en club.
+B: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+C: F | L’activité physique ne concerne que la prévention avant tout événement.
+D: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+E: V | Une marche adaptée peut constituer une activité physique utile.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+EXPLICATION_B: La fiche insiste sur une prescription individualisée.
+EXPLICATION_C: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+EXPLICATION_D: Le programme doit être réaliste et réalisable.
+EXPLICATION_E: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+
+---
+ID: 222-090
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 60 ans diabétique de type 2 a une obésité abdominale, une PA de 146/92 mmHg et un profil associant triglycérides élevés et HDL bas. Il peine à rester actif. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+B: V | Lutter contre le tabagisme actif et passif.
+C: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+D: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+E: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_B: Le tabac est un facteur de risque cardiovasculaire majeur.
+EXPLICATION_C: Les facteurs de risque doivent être traités conjointement.
+EXPLICATION_D: La fiche recommande au contraire leur consommation.
+EXPLICATION_E: Ces éléments appartiennent au modèle méditerranéen décrit.
+
+---
+ID: 222-091
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 56 ans a un tour de taille de 101 cm, une PA de 140/90 mmHg, une anomalie glycémique et des triglycérides élevés avec HDL bas, malgré un LDL peu élevé. Quel modèle regroupe le mieux ces anomalies ?
+A: F | Une preuve d’infarctus déjà constitué.
+B: F | Un profil protecteur défini par un HDL bas.
+C: F | Une obésité sans aucune anomalie métabolique associée.
+D: F | Une hypercholestérolémie isolée.
+E: V | Un syndrome métabolique lié notamment à l’insulinorésistance.
+JUSTIFICATION: L’association obésité abdominale, anomalie glycémique, pression élevée, triglycérides élevés et HDL bas évoque un syndrome métabolique.
+EXPLICATION_A: Ces paramètres sont des déterminants de risque, pas la preuve d’un accident myocardique.
+EXPLICATION_B: Un HDL bas fait partie du profil défavorable.
+EXPLICATION_C: Des anomalies glycémiques, lipidiques et tensionnelles sont décrites.
+EXPLICATION_D: Le profil comporte plusieurs anomalies non limitées au cholestérol.
+EXPLICATION_E: Les anomalies décrites correspondent au profil de la fiche.
+
+---
+ID: 222-092
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Lecture du profil métabolique
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 56 ans a un tour de taille de 101 cm, une PA de 140/90 mmHg, une anomalie glycémique et des triglycérides élevés avec HDL bas, malgré un LDL peu élevé. Quelles propositions sont exactes concernant ce profil ?
+A: V | L’insulinorésistance relie plusieurs anomalies de ce syndrome.
+B: F | Un tour de taille élevé permet à lui seul d’affirmer toutes les composantes du syndrome.
+C: F | Un LDL non élevé exclut ce profil métabolique.
+D: V | Une obésité abdominale fait partie des éléments du syndrome métabolique décrit.
+E: V | Une hypertriglycéridémie associée à un HDL bas participe au profil décrit.
+JUSTIFICATION: L’obésité abdominale et l’insulinorésistance s’associent à des anomalies métaboliques et tensionnelles.
+EXPLICATION_A: La fiche la place au centre du modèle.
+EXPLICATION_B: Il faut analyser les autres paramètres cliniques et biologiques.
+EXPLICATION_C: Le profil décrit associe notamment triglycérides élevés et HDL bas, sans imposer un LDL élevé.
+EXPLICATION_D: La fiche donne des seuils de tour de taille selon le sexe.
+EXPLICATION_E: Il s’agit d’un profil lipidique caractéristique.
+
+---
+ID: 222-093
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Conséquences et objectifs
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 56 ans a un tour de taille de 101 cm, une PA de 140/90 mmHg, une anomalie glycémique et des triglycérides élevés avec HDL bas, malgré un LDL peu élevé. Quelles propositions expliquent les enjeux de prise en charge ?
+A: V | Les difficultés d’accès à l’activité peuvent entretenir un cercle vicieux de sédentarité.
+B: F | Le traitement d’un seul paramètre suffit à faire disparaître tous les autres facteurs.
+C: V | L’excès pondéral peut favoriser une HTA.
+D: F | Le syndrome métabolique prouve que le patient a déjà présenté un infarctus.
+E: V | La réduction de l’insulinorésistance peut améliorer le contrôle glycémique.
+JUSTIFICATION: L’obésité abdominale favorise plusieurs facteurs de risque qui doivent être traités ensemble.
+EXPLICATION_A: La prescription doit tenir compte des obstacles réels.
+EXPLICATION_B: La prise en charge doit être globale.
+EXPLICATION_C: C’est une association physiopathologique décrite dans la fiche.
+EXPLICATION_D: C’est un modèle d’agrégation de risque, pas la preuve d’un événement passé.
+EXPLICATION_E: L’activité physique fait partie des moyens proposés.
+
+---
+ID: 222-094
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 56 ans a un tour de taille de 101 cm, une PA de 140/90 mmHg, une anomalie glycémique et des triglycérides élevés avec HDL bas, malgré un LDL peu élevé. Quelles propositions concernant l’activité physique sont exactes ?
+A: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+B: V | Une marche adaptée peut constituer une activité physique utile.
+C: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+D: F | L’activité physique ne concerne que la prévention avant tout événement.
+E: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Le suivi et les conseils répétés font partie de la prescription.
+EXPLICATION_B: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+EXPLICATION_C: La fiche insiste sur une prescription individualisée.
+EXPLICATION_D: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+EXPLICATION_E: Le programme doit être réaliste et réalisable.
+
+---
+ID: 222-095
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 56 ans a un tour de taille de 101 cm, une PA de 140/90 mmHg, une anomalie glycémique et des triglycérides élevés avec HDL bas, malgré un LDL peu élevé. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+B: V | Associer objectifs thérapeutiques, éducation et suivi.
+C: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+D: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+E: V | Lutter contre le tabagisme actif et passif.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_B: Une prescription isolée ne suffit pas à garantir son efficacité.
+EXPLICATION_C: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_D: La fiche recommande au contraire leur consommation.
+EXPLICATION_E: Le tabac est un facteur de risque cardiovasculaire majeur.
+
+---
+ID: 222-096
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 45 ans présente une obésité abdominale, une PA de 136/88 mmHg, un prédiabète et une dyslipidémie associant HDL bas et triglycérides élevés. Quel modèle regroupe le mieux ces anomalies ?
+A: F | Un profil protecteur défini par un HDL bas.
+B: V | Un syndrome métabolique lié notamment à l’insulinorésistance.
+C: F | Une obésité sans aucune anomalie métabolique associée.
+D: F | Une preuve d’infarctus déjà constitué.
+E: F | Une hypercholestérolémie isolée.
+JUSTIFICATION: L’association obésité abdominale, anomalie glycémique, pression élevée, triglycérides élevés et HDL bas évoque un syndrome métabolique.
+EXPLICATION_A: Un HDL bas fait partie du profil défavorable.
+EXPLICATION_B: Les anomalies décrites correspondent au profil de la fiche.
+EXPLICATION_C: Des anomalies glycémiques, lipidiques et tensionnelles sont décrites.
+EXPLICATION_D: Ces paramètres sont des déterminants de risque, pas la preuve d’un accident myocardique.
+EXPLICATION_E: Le profil comporte plusieurs anomalies non limitées au cholestérol.
+
+---
+ID: 222-097
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Lecture du profil métabolique
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 45 ans présente une obésité abdominale, une PA de 136/88 mmHg, un prédiabète et une dyslipidémie associant HDL bas et triglycérides élevés. Quelles propositions sont exactes concernant ce profil ?
+A: V | L’insulinorésistance relie plusieurs anomalies de ce syndrome.
+B: F | Un tour de taille élevé permet à lui seul d’affirmer toutes les composantes du syndrome.
+C: F | Un HDL bas est un argument protecteur qui annule les autres anomalies.
+D: V | Une obésité abdominale fait partie des éléments du syndrome métabolique décrit.
+E: V | Une hypertriglycéridémie associée à un HDL bas participe au profil décrit.
+JUSTIFICATION: L’obésité abdominale et l’insulinorésistance s’associent à des anomalies métaboliques et tensionnelles.
+EXPLICATION_A: La fiche la place au centre du modèle.
+EXPLICATION_B: Il faut analyser les autres paramètres cliniques et biologiques.
+EXPLICATION_C: Une hypo-HDLémie fait au contraire partie du profil défavorable.
+EXPLICATION_D: La fiche donne des seuils de tour de taille selon le sexe.
+EXPLICATION_E: Il s’agit d’un profil lipidique caractéristique.
+
+---
+ID: 222-098
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Conséquences et objectifs
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 45 ans présente une obésité abdominale, une PA de 136/88 mmHg, un prédiabète et une dyslipidémie associant HDL bas et triglycérides élevés. Quelles propositions expliquent les enjeux de prise en charge ?
+A: V | Les difficultés d’accès à l’activité peuvent entretenir un cercle vicieux de sédentarité.
+B: F | Le traitement d’un seul paramètre suffit à faire disparaître tous les autres facteurs.
+C: V | L’excès pondéral peut favoriser une HTA.
+D: V | La réduction de l’insulinorésistance peut améliorer le contrôle glycémique.
+E: F | Une perte de poids dispense systématiquement de surveiller la pression artérielle.
+JUSTIFICATION: L’obésité abdominale favorise plusieurs facteurs de risque qui doivent être traités ensemble.
+EXPLICATION_A: La prescription doit tenir compte des obstacles réels.
+EXPLICATION_B: La prise en charge doit être globale.
+EXPLICATION_C: C’est une association physiopathologique décrite dans la fiche.
+EXPLICATION_D: L’activité physique fait partie des moyens proposés.
+EXPLICATION_E: L’évolution tensionnelle doit être réévaluée.
+
+---
+ID: 222-099
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 45 ans présente une obésité abdominale, une PA de 136/88 mmHg, un prédiabète et une dyslipidémie associant HDL bas et triglycérides élevés. Quelles propositions concernant l’activité physique sont exactes ?
+A: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+B: V | Une marche adaptée peut constituer une activité physique utile.
+C: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+D: F | Une activité n’est utile que si elle est pratiquée en club.
+E: F | L’activité physique ne concerne que la prévention avant tout événement.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Le suivi et les conseils répétés font partie de la prescription.
+EXPLICATION_B: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+EXPLICATION_C: La fiche insiste sur une prescription individualisée.
+EXPLICATION_D: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+EXPLICATION_E: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+
+---
+ID: 222-100
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Agrégation métabolique · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 45 ans présente une obésité abdominale, une PA de 136/88 mmHg, un prédiabète et une dyslipidémie associant HDL bas et triglycérides élevés. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+B: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+C: V | Lutter contre le tabagisme actif et passif.
+D: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+E: V | Associer objectifs thérapeutiques, éducation et suivi.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_B: Les facteurs de risque doivent être traités conjointement.
+EXPLICATION_C: Le tabac est un facteur de risque cardiovasculaire majeur.
+EXPLICATION_D: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_E: Une prescription isolée ne suffit pas à garantir son efficacité.
+
+---
+ID: 222-101
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Causalité et association · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Une étude retrouve qu’un paramètre biologique X est associé à davantage d’événements cardiovasculaires. Aucune relation causale n’est démontrée. Un patient demande comment nommer précisément X. Quelle qualification est justifiée par ces seules informations ?
+A: F | Une relation protectrice démontrée.
+B: V | Un marqueur de risque cardiovasculaire.
+C: F | Un facteur causal cardiovasculaire démontré.
+D: F | Une preuve d’événement cardiovasculaire déjà survenu.
+E: F | Une preuve que modifier X réduit nécessairement les événements.
+JUSTIFICATION: Une association au risque sans causalité démontrée correspond à la définition d’un marqueur de risque.
+EXPLICATION_A: L’association décrite porte sur un risque accru, pas sur une protection.
+EXPLICATION_B: Il existe une association sans causalité démontrée.
+EXPLICATION_C: La causalité n’est pas établie dans les données fournies.
+EXPLICATION_D: L’association au risque ne prouve pas un accident personnel.
+EXPLICATION_E: Une association ne suffit pas à démontrer l’effet causal d’une intervention.
+
+---
+ID: 222-102
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Causalité et association · Facteurs et marqueurs
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Une étude retrouve qu’un paramètre biologique X est associé à davantage d’événements cardiovasculaires. Aucune relation causale n’est démontrée. Un patient demande comment nommer précisément X. Quelles propositions distinguent correctement les notions ?
+A: F | Un facteur non modifiable rend inutile la correction des facteurs modifiables.
+B: V | Le tabagisme est un facteur de risque modifiable.
+C: V | L’âge est un déterminant non modifiable du risque.
+D: F | Un marqueur de risque est nécessairement sans intérêt pour l’évaluation.
+E: F | Toute association statistique prouve une causalité.
+JUSTIFICATION: Un facteur de risque comporte une relation causale ; une association seule peut correspondre à un marqueur.
+EXPLICATION_A: La prévention agit sur les déterminants accessibles.
+EXPLICATION_B: La causalité et la possibilité d’action le distinguent d’un simple constat associé.
+EXPLICATION_C: Il reste à intégrer à l’évaluation malgré l’absence d’action sur l’âge lui-même.
+EXPLICATION_D: Il peut être associé à un sur-risque même sans causalité démontrée.
+EXPLICATION_E: Une association ne suffit pas à établir un mécanisme causal.
+
+---
+ID: 222-103
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Causalité et association · Hérédité et terrain
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Une étude retrouve qu’un paramètre biologique X est associé à davantage d’événements cardiovasculaires. Aucune relation causale n’est démontrée. Un patient demande comment nommer précisément X. Quelles propositions sont exactes concernant les antécédents et les facteurs de risque ?
+A: F | Une histoire familiale défavorable oblige à considérer le sevrage tabagique comme inutile.
+B: V | Le sexe et l’âge participent au risque sans être modifiables.
+C: F | L’HTA cesse d’être un facteur de risque lorsqu’elle ne donne aucun symptôme.
+D: V | Un infarctus chez la mère à 60 ans constitue un antécédent familial précoce.
+E: F | Un infarctus chez un cousin à 70 ans répond aux mêmes critères de premier degré et de précocité.
+JUSTIFICATION: L’histoire familiale doit être précisée par le degré de parenté, le type d’événement et l’âge.
+EXPLICATION_A: Le risque familial ne supprime pas le bénéfice des actions sur les facteurs modifiables.
+EXPLICATION_B: Ils doivent être intégrés à l’évaluation.
+EXPLICATION_C: Le risque n’est pas conditionné à une plainte fonctionnelle.
+EXPLICATION_D: La limite indiquée pour une apparentée du premier degré est avant 65 ans.
+EXPLICATION_E: Ni le degré de parenté ni l’âge ne correspondent aux critères indiqués.
+
+---
+ID: 222-104
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Causalité et association · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Une étude retrouve qu’un paramètre biologique X est associé à davantage d’événements cardiovasculaires. Aucune relation causale n’est démontrée. Un patient demande comment nommer précisément X. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: F | Le risque global correspond uniquement à la probabilité d’avoir des palpitations.
+B: F | Un facteur de risque absent garantit un risque cardiovasculaire nul.
+C: V | Plusieurs facteurs de risque doivent être considérés ensemble.
+D: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+E: V | Il intègre le risque d’infarctus, d’AVC ou de décès cardiovasculaire.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: Les événements majeurs définis ne sont pas limités à ce symptôme.
+EXPLICATION_B: D’autres déterminants peuvent rester présents.
+EXPLICATION_C: L’évaluation ne repose pas sur un seul chiffre biologique isolé.
+EXPLICATION_D: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+EXPLICATION_E: Ces événements majeurs sont cités dans la définition de la fiche.
+
+---
+ID: 222-105
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Causalité et association · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Une étude retrouve qu’un paramètre biologique X est associé à davantage d’événements cardiovasculaires. Aucune relation causale n’est démontrée. Un patient demande comment nommer précisément X. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: V | Associer objectifs thérapeutiques, éducation et suivi.
+B: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+C: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+D: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+E: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Une prescription isolée ne suffit pas à garantir son efficacité.
+EXPLICATION_B: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_C: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_D: La fiche recommande au contraire leur consommation.
+EXPLICATION_E: Les facteurs de risque doivent être traités conjointement.
+
+---
+ID: 222-106
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Dans une cohorte, un signe clinique X est plus fréquent chez les personnes qui développent ensuite un accident cardiovasculaire. Les données ne démontrent pas que ce signe cause l’accident. Quelle qualification est justifiée par ces seules informations ?
+A: V | Un marqueur de risque cardiovasculaire.
+B: F | Un facteur causal cardiovasculaire démontré.
+C: F | Une relation protectrice démontrée.
+D: F | Une preuve d’événement cardiovasculaire déjà survenu.
+E: F | Une preuve que modifier X réduit nécessairement les événements.
+JUSTIFICATION: Une association au risque sans causalité démontrée correspond à la définition d’un marqueur de risque.
+EXPLICATION_A: Il existe une association sans causalité démontrée.
+EXPLICATION_B: La causalité n’est pas établie dans les données fournies.
+EXPLICATION_C: L’association décrite porte sur un risque accru, pas sur une protection.
+EXPLICATION_D: L’association au risque ne prouve pas un accident personnel.
+EXPLICATION_E: Une association ne suffit pas à démontrer l’effet causal d’une intervention.
+
+---
+ID: 222-107
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · Facteurs et marqueurs
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Dans une cohorte, un signe clinique X est plus fréquent chez les personnes qui développent ensuite un accident cardiovasculaire. Les données ne démontrent pas que ce signe cause l’accident. Quelles propositions distinguent correctement les notions ?
+A: V | Un élément associé au risque sans causalité démontrée peut être un marqueur.
+B: F | Un marqueur de risque est nécessairement sans intérêt pour l’évaluation.
+C: V | L’âge est un déterminant non modifiable du risque.
+D: F | Toute association statistique prouve une causalité.
+E: F | Un facteur non modifiable rend inutile la correction des facteurs modifiables.
+JUSTIFICATION: Un facteur de risque comporte une relation causale ; une association seule peut correspondre à un marqueur.
+EXPLICATION_A: C’est la distinction donnée dans la fiche.
+EXPLICATION_B: Il peut être associé à un sur-risque même sans causalité démontrée.
+EXPLICATION_C: Il reste à intégrer à l’évaluation malgré l’absence d’action sur l’âge lui-même.
+EXPLICATION_D: Une association ne suffit pas à établir un mécanisme causal.
+EXPLICATION_E: La prévention agit sur les déterminants accessibles.
+
+---
+ID: 222-108
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · Hérédité et terrain
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Dans une cohorte, un signe clinique X est plus fréquent chez les personnes qui développent ensuite un accident cardiovasculaire. Les données ne démontrent pas que ce signe cause l’accident. Quelles propositions sont exactes concernant les antécédents et les facteurs de risque ?
+A: F | Un infarctus chez un cousin à 70 ans répond aux mêmes critères de premier degré et de précocité.
+B: F | Une histoire familiale défavorable oblige à considérer le sevrage tabagique comme inutile.
+C: F | L’HTA cesse d’être un facteur de risque lorsqu’elle ne donne aucun symptôme.
+D: V | Le sexe et l’âge participent au risque sans être modifiables.
+E: V | Un infarctus chez le père à 49 ans constitue un antécédent familial précoce.
+JUSTIFICATION: L’histoire familiale doit être précisée par le degré de parenté, le type d’événement et l’âge.
+EXPLICATION_A: Ni le degré de parenté ni l’âge ne correspondent aux critères indiqués.
+EXPLICATION_B: Le risque familial ne supprime pas le bénéfice des actions sur les facteurs modifiables.
+EXPLICATION_C: Le risque n’est pas conditionné à une plainte fonctionnelle.
+EXPLICATION_D: Ils doivent être intégrés à l’évaluation.
+EXPLICATION_E: La fiche retient un apparenté masculin du premier degré avant 55 ans.
+
+---
+ID: 222-109
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Dans une cohorte, un signe clinique X est plus fréquent chez les personnes qui développent ensuite un accident cardiovasculaire. Les données ne démontrent pas que ce signe cause l’accident. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: F | Un facteur de risque absent garantit un risque cardiovasculaire nul.
+B: V | Il correspond à une probabilité d’événement sur une période donnée.
+C: F | Le risque global correspond uniquement à la probabilité d’avoir des palpitations.
+D: V | Plusieurs facteurs de risque doivent être considérés ensemble.
+E: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: D’autres déterminants peuvent rester présents.
+EXPLICATION_B: La notion inclut un horizon temporel.
+EXPLICATION_C: Les événements majeurs définis ne sont pas limités à ce symptôme.
+EXPLICATION_D: L’évaluation ne repose pas sur un seul chiffre biologique isolé.
+EXPLICATION_E: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+
+---
+ID: 222-110
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Dans une cohorte, un signe clinique X est plus fréquent chez les personnes qui développent ensuite un accident cardiovasculaire. Les données ne démontrent pas que ce signe cause l’accident. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+B: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+C: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+D: V | Associer objectifs thérapeutiques, éducation et suivi.
+E: V | Lutter contre le tabagisme actif et passif.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Les facteurs de risque doivent être traités conjointement.
+EXPLICATION_B: La fiche recommande au contraire leur consommation.
+EXPLICATION_C: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_D: Une prescription isolée ne suffit pas à garantir son efficacité.
+EXPLICATION_E: Le tabac est un facteur de risque cardiovasculaire majeur.
+
+---
+ID: 222-111
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Un compte rendu rapporte une association statistique entre un paramètre X et le risque cardiovasculaire, sans démonstration de causalité. Le patient assimile à tort association et cause. Quelle qualification est justifiée par ces seules informations ?
+A: F | Une relation protectrice démontrée.
+B: F | Une preuve que modifier X réduit nécessairement les événements.
+C: F | Un facteur causal cardiovasculaire démontré.
+D: F | Une preuve d’événement cardiovasculaire déjà survenu.
+E: V | Un marqueur de risque cardiovasculaire.
+JUSTIFICATION: Une association au risque sans causalité démontrée correspond à la définition d’un marqueur de risque.
+EXPLICATION_A: L’association décrite porte sur un risque accru, pas sur une protection.
+EXPLICATION_B: Une association ne suffit pas à démontrer l’effet causal d’une intervention.
+EXPLICATION_C: La causalité n’est pas établie dans les données fournies.
+EXPLICATION_D: L’association au risque ne prouve pas un accident personnel.
+EXPLICATION_E: Il existe une association sans causalité démontrée.
+
+---
+ID: 222-112
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · Facteurs et marqueurs
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Un compte rendu rapporte une association statistique entre un paramètre X et le risque cardiovasculaire, sans démonstration de causalité. Le patient assimile à tort association et cause. Quelles propositions distinguent correctement les notions ?
+A: F | Toute association statistique prouve une causalité.
+B: V | Le tabagisme est un facteur de risque modifiable.
+C: F | Un facteur non modifiable rend inutile la correction des facteurs modifiables.
+D: V | Un élément associé au risque sans causalité démontrée peut être un marqueur.
+E: F | Un marqueur de risque est nécessairement sans intérêt pour l’évaluation.
+JUSTIFICATION: Un facteur de risque comporte une relation causale ; une association seule peut correspondre à un marqueur.
+EXPLICATION_A: Une association ne suffit pas à établir un mécanisme causal.
+EXPLICATION_B: La causalité et la possibilité d’action le distinguent d’un simple constat associé.
+EXPLICATION_C: La prévention agit sur les déterminants accessibles.
+EXPLICATION_D: C’est la distinction donnée dans la fiche.
+EXPLICATION_E: Il peut être associé à un sur-risque même sans causalité démontrée.
+
+---
+ID: 222-113
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · Hérédité et terrain
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Un compte rendu rapporte une association statistique entre un paramètre X et le risque cardiovasculaire, sans démonstration de causalité. Le patient assimile à tort association et cause. Quelles propositions sont exactes concernant les antécédents et les facteurs de risque ?
+A: F | Un infarctus chez un cousin à 70 ans répond aux mêmes critères de premier degré et de précocité.
+B: V | Un infarctus chez le père à 49 ans constitue un antécédent familial précoce.
+C: F | Une histoire familiale défavorable oblige à considérer le sevrage tabagique comme inutile.
+D: F | L’HTA cesse d’être un facteur de risque lorsqu’elle ne donne aucun symptôme.
+E: V | Un infarctus chez la mère à 60 ans constitue un antécédent familial précoce.
+JUSTIFICATION: L’histoire familiale doit être précisée par le degré de parenté, le type d’événement et l’âge.
+EXPLICATION_A: Ni le degré de parenté ni l’âge ne correspondent aux critères indiqués.
+EXPLICATION_B: La fiche retient un apparenté masculin du premier degré avant 55 ans.
+EXPLICATION_C: Le risque familial ne supprime pas le bénéfice des actions sur les facteurs modifiables.
+EXPLICATION_D: Le risque n’est pas conditionné à une plainte fonctionnelle.
+EXPLICATION_E: La limite indiquée pour une apparentée du premier degré est avant 65 ans.
+
+---
+ID: 222-114
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Un compte rendu rapporte une association statistique entre un paramètre X et le risque cardiovasculaire, sans démonstration de causalité. Le patient assimile à tort association et cause. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: F | Le risque global correspond uniquement à la probabilité d’avoir des palpitations.
+B: V | Il intègre le risque d’infarctus, d’AVC ou de décès cardiovasculaire.
+C: F | Un facteur de risque absent garantit un risque cardiovasculaire nul.
+D: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+E: V | Il correspond à une probabilité d’événement sur une période donnée.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: Les événements majeurs définis ne sont pas limités à ce symptôme.
+EXPLICATION_B: Ces événements majeurs sont cités dans la définition de la fiche.
+EXPLICATION_C: D’autres déterminants peuvent rester présents.
+EXPLICATION_D: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+EXPLICATION_E: La notion inclut un horizon temporel.
+
+---
+ID: 222-115
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Un compte rendu rapporte une association statistique entre un paramètre X et le risque cardiovasculaire, sans démonstration de causalité. Le patient assimile à tort association et cause. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+B: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+C: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+D: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+E: V | Lutter contre le tabagisme actif et passif.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_B: Les facteurs de risque doivent être traités conjointement.
+EXPLICATION_C: La fiche recommande au contraire leur consommation.
+EXPLICATION_D: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_E: Le tabac est un facteur de risque cardiovasculaire majeur.
+
+---
+ID: 222-116
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Un paramètre X est corrélé au risque cardiovasculaire futur, mais aucune étude disponible dans le dossier n’établit de relation causale. Le médecin doit qualifier correctement le résultat. Quelle qualification est justifiée par ces seules informations ?
+A: F | Une preuve d’événement cardiovasculaire déjà survenu.
+B: F | Une relation protectrice démontrée.
+C: F | Un facteur causal cardiovasculaire démontré.
+D: V | Un marqueur de risque cardiovasculaire.
+E: F | Une preuve que modifier X réduit nécessairement les événements.
+JUSTIFICATION: Une association au risque sans causalité démontrée correspond à la définition d’un marqueur de risque.
+EXPLICATION_A: L’association au risque ne prouve pas un accident personnel.
+EXPLICATION_B: L’association décrite porte sur un risque accru, pas sur une protection.
+EXPLICATION_C: La causalité n’est pas établie dans les données fournies.
+EXPLICATION_D: Il existe une association sans causalité démontrée.
+EXPLICATION_E: Une association ne suffit pas à démontrer l’effet causal d’une intervention.
+
+---
+ID: 222-117
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · Facteurs et marqueurs
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Un paramètre X est corrélé au risque cardiovasculaire futur, mais aucune étude disponible dans le dossier n’établit de relation causale. Le médecin doit qualifier correctement le résultat. Quelles propositions distinguent correctement les notions ?
+A: V | Le tabagisme est un facteur de risque modifiable.
+B: F | Un facteur non modifiable rend inutile la correction des facteurs modifiables.
+C: V | Un élément associé au risque sans causalité démontrée peut être un marqueur.
+D: V | L’âge est un déterminant non modifiable du risque.
+E: F | Un marqueur de risque est nécessairement sans intérêt pour l’évaluation.
+JUSTIFICATION: Un facteur de risque comporte une relation causale ; une association seule peut correspondre à un marqueur.
+EXPLICATION_A: La causalité et la possibilité d’action le distinguent d’un simple constat associé.
+EXPLICATION_B: La prévention agit sur les déterminants accessibles.
+EXPLICATION_C: C’est la distinction donnée dans la fiche.
+EXPLICATION_D: Il reste à intégrer à l’évaluation malgré l’absence d’action sur l’âge lui-même.
+EXPLICATION_E: Il peut être associé à un sur-risque même sans causalité démontrée.
+
+---
+ID: 222-118
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · Hérédité et terrain
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Un paramètre X est corrélé au risque cardiovasculaire futur, mais aucune étude disponible dans le dossier n’établit de relation causale. Le médecin doit qualifier correctement le résultat. Quelles propositions sont exactes concernant les antécédents et les facteurs de risque ?
+A: F | Une histoire familiale défavorable oblige à considérer le sevrage tabagique comme inutile.
+B: V | Le sexe et l’âge participent au risque sans être modifiables.
+C: F | L’HTA cesse d’être un facteur de risque lorsqu’elle ne donne aucun symptôme.
+D: V | Un infarctus chez la mère à 60 ans constitue un antécédent familial précoce.
+E: V | Un infarctus chez le père à 49 ans constitue un antécédent familial précoce.
+JUSTIFICATION: L’histoire familiale doit être précisée par le degré de parenté, le type d’événement et l’âge.
+EXPLICATION_A: Le risque familial ne supprime pas le bénéfice des actions sur les facteurs modifiables.
+EXPLICATION_B: Ils doivent être intégrés à l’évaluation.
+EXPLICATION_C: Le risque n’est pas conditionné à une plainte fonctionnelle.
+EXPLICATION_D: La limite indiquée pour une apparentée du premier degré est avant 65 ans.
+EXPLICATION_E: La fiche retient un apparenté masculin du premier degré avant 55 ans.
+
+---
+ID: 222-119
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Un paramètre X est corrélé au risque cardiovasculaire futur, mais aucune étude disponible dans le dossier n’établit de relation causale. Le médecin doit qualifier correctement le résultat. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: V | Il intègre le risque d’infarctus, d’AVC ou de décès cardiovasculaire.
+B: V | Il correspond à une probabilité d’événement sur une période donnée.
+C: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+D: F | Le risque global correspond uniquement à la probabilité d’avoir des palpitations.
+E: V | Plusieurs facteurs de risque doivent être considérés ensemble.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: Ces événements majeurs sont cités dans la définition de la fiche.
+EXPLICATION_B: La notion inclut un horizon temporel.
+EXPLICATION_C: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+EXPLICATION_D: Les événements majeurs définis ne sont pas limités à ce symptôme.
+EXPLICATION_E: L’évaluation ne repose pas sur un seul chiffre biologique isolé.
+
+---
+ID: 222-120
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Un paramètre X est corrélé au risque cardiovasculaire futur, mais aucune étude disponible dans le dossier n’établit de relation causale. Le médecin doit qualifier correctement le résultat. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: V | Lutter contre le tabagisme actif et passif.
+B: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+C: V | Associer objectifs thérapeutiques, éducation et suivi.
+D: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+E: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Le tabac est un facteur de risque cardiovasculaire majeur.
+EXPLICATION_B: La fiche recommande au contraire leur consommation.
+EXPLICATION_C: Une prescription isolée ne suffit pas à garantir son efficacité.
+EXPLICATION_D: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_E: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+
+---
+ID: 222-121
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Une patiente lit qu’un paramètre biologique X est associé à un sur-risque. Le document précise qu’aucune causalité n’a été démontrée et ne présente pas ce résultat comme un facteur causal. Quelle qualification est justifiée par ces seules informations ?
+A: F | Une relation protectrice démontrée.
+B: F | Un facteur causal cardiovasculaire démontré.
+C: F | Une preuve que modifier X réduit nécessairement les événements.
+D: V | Un marqueur de risque cardiovasculaire.
+E: F | Une preuve d’événement cardiovasculaire déjà survenu.
+JUSTIFICATION: Une association au risque sans causalité démontrée correspond à la définition d’un marqueur de risque.
+EXPLICATION_A: L’association décrite porte sur un risque accru, pas sur une protection.
+EXPLICATION_B: La causalité n’est pas établie dans les données fournies.
+EXPLICATION_C: Une association ne suffit pas à démontrer l’effet causal d’une intervention.
+EXPLICATION_D: Il existe une association sans causalité démontrée.
+EXPLICATION_E: L’association au risque ne prouve pas un accident personnel.
+
+---
+ID: 222-122
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · Facteurs et marqueurs
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Une patiente lit qu’un paramètre biologique X est associé à un sur-risque. Le document précise qu’aucune causalité n’a été démontrée et ne présente pas ce résultat comme un facteur causal. Quelles propositions distinguent correctement les notions ?
+A: V | L’âge est un déterminant non modifiable du risque.
+B: F | Toute association statistique prouve une causalité.
+C: F | Un facteur non modifiable rend inutile la correction des facteurs modifiables.
+D: V | Un élément associé au risque sans causalité démontrée peut être un marqueur.
+E: V | Le tabagisme est un facteur de risque modifiable.
+JUSTIFICATION: Un facteur de risque comporte une relation causale ; une association seule peut correspondre à un marqueur.
+EXPLICATION_A: Il reste à intégrer à l’évaluation malgré l’absence d’action sur l’âge lui-même.
+EXPLICATION_B: Une association ne suffit pas à établir un mécanisme causal.
+EXPLICATION_C: La prévention agit sur les déterminants accessibles.
+EXPLICATION_D: C’est la distinction donnée dans la fiche.
+EXPLICATION_E: La causalité et la possibilité d’action le distinguent d’un simple constat associé.
+
+---
+ID: 222-123
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · Hérédité et terrain
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Une patiente lit qu’un paramètre biologique X est associé à un sur-risque. Le document précise qu’aucune causalité n’a été démontrée et ne présente pas ce résultat comme un facteur causal. Quelles propositions sont exactes concernant les antécédents et les facteurs de risque ?
+A: V | Le sexe et l’âge participent au risque sans être modifiables.
+B: F | L’HTA cesse d’être un facteur de risque lorsqu’elle ne donne aucun symptôme.
+C: F | Un infarctus chez un cousin à 70 ans répond aux mêmes critères de premier degré et de précocité.
+D: V | Un infarctus chez la mère à 60 ans constitue un antécédent familial précoce.
+E: V | Un infarctus chez le père à 49 ans constitue un antécédent familial précoce.
+JUSTIFICATION: L’histoire familiale doit être précisée par le degré de parenté, le type d’événement et l’âge.
+EXPLICATION_A: Ils doivent être intégrés à l’évaluation.
+EXPLICATION_B: Le risque n’est pas conditionné à une plainte fonctionnelle.
+EXPLICATION_C: Ni le degré de parenté ni l’âge ne correspondent aux critères indiqués.
+EXPLICATION_D: La limite indiquée pour une apparentée du premier degré est avant 65 ans.
+EXPLICATION_E: La fiche retient un apparenté masculin du premier degré avant 55 ans.
+
+---
+ID: 222-124
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · Risque global
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Une patiente lit qu’un paramètre biologique X est associé à un sur-risque. Le document précise qu’aucune causalité n’a été démontrée et ne présente pas ce résultat comme un facteur causal. Quelles propositions concernant le risque cardiovasculaire global sont exactes ?
+A: V | Il intègre le risque d’infarctus, d’AVC ou de décès cardiovasculaire.
+B: F | Un facteur de risque absent garantit un risque cardiovasculaire nul.
+C: F | Une probabilité de survenue permet de prédire avec certitude la date d’un accident individuel.
+D: V | Il correspond à une probabilité d’événement sur une période donnée.
+E: V | Plusieurs facteurs de risque doivent être considérés ensemble.
+JUSTIFICATION: Le risque global porte sur la survenue d’événements majeurs sur un horizon donné.
+EXPLICATION_A: Ces événements majeurs sont cités dans la définition de la fiche.
+EXPLICATION_B: D’autres déterminants peuvent rester présents.
+EXPLICATION_C: Une estimation de risque n’est pas une prédiction certaine pour une personne.
+EXPLICATION_D: La notion inclut un horizon temporel.
+EXPLICATION_E: L’évaluation ne repose pas sur un seul chiffre biologique isolé.
+
+---
+ID: 222-125
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Causalité et association · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-2
+CONSIGNE: Une patiente lit qu’un paramètre biologique X est associé à un sur-risque. Le document précise qu’aucune causalité n’a été démontrée et ne présente pas ce résultat comme un facteur causal. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+B: V | Associer objectifs thérapeutiques, éducation et suivi.
+C: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+D: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+E: V | Lutter contre le tabagisme actif et passif.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_B: Une prescription isolée ne suffit pas à garantir son efficacité.
+EXPLICATION_C: Les facteurs de risque doivent être traités conjointement.
+EXPLICATION_D: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_E: Le tabac est un facteur de risque cardiovasculaire majeur.
+
+---
+ID: 222-126
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 54 ans boit quotidiennement de grandes quantités d’alcool. Il a une HTA et des triglycérides élevés. Il pense être protégé parce que son HDL est relativement élevé. Quelle conclusion est justifiée concernant son raisonnement sur le HDL ?
+A: V | Le HDL isolé ne permet pas de conclure à un bénéfice cardiovasculaire global de cette consommation.
+B: F | L’alcoolisation aiguë importante est sans risque si le HDL est élevé.
+C: F | Le HDL élevé supprime le risque lié à l’HTA.
+D: F | La consommation importante traite systématiquement le LDL élevé.
+E: F | Le HDL élevé supprime le risque lié au tabac s’il est présent.
+JUSTIFICATION: La consommation importante d’alcool peut aggraver la pression artérielle et le profil métabolique ; un HDL plus élevé ne suffit pas à conclure à un bénéfice global.
+EXPLICATION_A: Il faut intégrer les effets défavorables de la consommation importante et les autres facteurs.
+EXPLICATION_B: Le HDL ne garantit pas l’innocuité d’une intoxication aiguë.
+EXPLICATION_C: Un paramètre lipidique n’annule pas le risque tensionnel.
+EXPLICATION_D: La fiche ne décrit pas cet effet favorable sur le LDL.
+EXPLICATION_E: Les facteurs de risque ne sont pas neutralisés par cette seule donnée.
+
+---
+ID: 222-127
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Alcool et risque
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 54 ans boit quotidiennement de grandes quantités d’alcool. Il a une HTA et des triglycérides élevés. Il pense être protégé parce que son HDL est relativement élevé. Quelles propositions concernant une consommation importante d’alcool sont exactes ?
+A: F | Une élévation du HDL sous alcool garantit un bénéfice cardiovasculaire global.
+B: V | Elle peut être associée à une cardiomyopathie dilatée.
+C: V | Elle peut favoriser une hypertriglycéridémie.
+D: F | L’alcool traite l’ensemble des facteurs de risque en abaissant systématiquement le LDL.
+E: F | Une intoxication aiguë importante est dénuée de risque cardiovasculaire.
+JUSTIFICATION: Une consommation importante peut aggraver plusieurs déterminants du risque cardiovasculaire.
+EXPLICATION_A: Un paramètre favorable isolé n’efface pas les effets délétères de la consommation importante.
+EXPLICATION_B: La fiche cite la cardiomyopathie éthylique.
+EXPLICATION_C: L’alcool participe aux anomalies métaboliques décrites.
+EXPLICATION_D: La fiche ne décrit pas d’effet significatif favorable sur le LDL.
+EXPLICATION_E: La fiche décrit un sur-risque après binge-drinking.
+
+---
+ID: 222-128
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Contraintes et accompagnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 54 ans boit quotidiennement de grandes quantités d’alcool. Il a une HTA et des triglycérides élevés. Il pense être protégé parce que son HDL est relativement élevé. Quelles propositions concernant l’accompagnement sont exactes ?
+A: F | Des difficultés sociales prouvent qu’un suivi préventif ne peut jamais être efficace.
+B: F | La présence de stress dispense d’évaluer le tabac, la pression artérielle ou le diabète.
+C: V | Les objectifs d’activité doivent tenir compte des capacités et de l’accès pratique.
+D: V | Une dépression peut compliquer la mise en œuvre du projet préventif.
+E: F | L’absence de sport organisé signifie nécessairement l’absence totale d’activité physique.
+JUSTIFICATION: Les facteurs psychosociaux et les habitudes doivent être intégrés à une prévention réalisable.
+EXPLICATION_A: Elles doivent conduire à adapter l’accompagnement.
+EXPLICATION_B: Les facteurs majeurs doivent rester recherchés.
+EXPLICATION_C: Une prescription irréalisable limite l’adhésion.
+EXPLICATION_D: Elle fait partie des éléments psychosociaux décrits.
+EXPLICATION_E: L’activité inclut aussi les mouvements de la vie quotidienne.
+
+---
+ID: 222-129
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 54 ans boit quotidiennement de grandes quantités d’alcool. Il a une HTA et des triglycérides élevés. Il pense être protégé parce que son HDL est relativement élevé. Quelles propositions concernant l’activité physique sont exactes ?
+A: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+B: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+C: F | Une activité n’est utile que si elle est pratiquée en club.
+D: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+E: F | L’activité physique ne concerne que la prévention avant tout événement.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Le programme doit être réaliste et réalisable.
+EXPLICATION_B: Le suivi et les conseils répétés font partie de la prescription.
+EXPLICATION_C: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+EXPLICATION_D: La fiche insiste sur une prescription individualisée.
+EXPLICATION_E: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+
+---
+ID: 222-130
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 54 ans boit quotidiennement de grandes quantités d’alcool. Il a une HTA et des triglycérides élevés. Il pense être protégé parce que son HDL est relativement élevé. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: V | Associer objectifs thérapeutiques, éducation et suivi.
+B: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+C: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+D: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+E: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Une prescription isolée ne suffit pas à garantir son efficacité.
+EXPLICATION_B: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_C: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_D: La fiche recommande au contraire leur consommation.
+EXPLICATION_E: Les facteurs de risque doivent être traités conjointement.
+
+---
+ID: 222-131
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 49 ans présente une consommation chronique importante d’alcool avec prise de poids, HTA et hypertriglycéridémie. Elle attribue à une hausse du HDL un bénéfice cardiovasculaire certain. Quelle conclusion est justifiée concernant son raisonnement sur le HDL ?
+A: F | Le HDL élevé supprime le risque lié à l’HTA.
+B: F | Le HDL élevé supprime le risque lié au tabac s’il est présent.
+C: V | Le HDL isolé ne permet pas de conclure à un bénéfice cardiovasculaire global de cette consommation.
+D: F | L’alcoolisation aiguë importante est sans risque si le HDL est élevé.
+E: F | La consommation importante traite systématiquement le LDL élevé.
+JUSTIFICATION: La consommation importante d’alcool peut aggraver la pression artérielle et le profil métabolique ; un HDL plus élevé ne suffit pas à conclure à un bénéfice global.
+EXPLICATION_A: Un paramètre lipidique n’annule pas le risque tensionnel.
+EXPLICATION_B: Les facteurs de risque ne sont pas neutralisés par cette seule donnée.
+EXPLICATION_C: Il faut intégrer les effets défavorables de la consommation importante et les autres facteurs.
+EXPLICATION_D: Le HDL ne garantit pas l’innocuité d’une intoxication aiguë.
+EXPLICATION_E: La fiche ne décrit pas cet effet favorable sur le LDL.
+
+---
+ID: 222-132
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Alcool et risque
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 49 ans présente une consommation chronique importante d’alcool avec prise de poids, HTA et hypertriglycéridémie. Elle attribue à une hausse du HDL un bénéfice cardiovasculaire certain. Quelles propositions concernant une consommation importante d’alcool sont exactes ?
+A: F | L’alcool traite l’ensemble des facteurs de risque en abaissant systématiquement le LDL.
+B: V | Elle peut augmenter la pression artérielle.
+C: F | Une intoxication aiguë importante est dénuée de risque cardiovasculaire.
+D: V | Elle peut être associée à une cardiomyopathie dilatée.
+E: F | Une élévation du HDL sous alcool garantit un bénéfice cardiovasculaire global.
+JUSTIFICATION: Une consommation importante peut aggraver plusieurs déterminants du risque cardiovasculaire.
+EXPLICATION_A: La fiche ne décrit pas d’effet significatif favorable sur le LDL.
+EXPLICATION_B: Cet effet défavorable est décrit dans la fiche.
+EXPLICATION_C: La fiche décrit un sur-risque après binge-drinking.
+EXPLICATION_D: La fiche cite la cardiomyopathie éthylique.
+EXPLICATION_E: Un paramètre favorable isolé n’efface pas les effets délétères de la consommation importante.
+
+---
+ID: 222-133
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Contraintes et accompagnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 49 ans présente une consommation chronique importante d’alcool avec prise de poids, HTA et hypertriglycéridémie. Elle attribue à une hausse du HDL un bénéfice cardiovasculaire certain. Quelles propositions concernant l’accompagnement sont exactes ?
+A: V | Les objectifs d’activité doivent tenir compte des capacités et de l’accès pratique.
+B: F | L’absence de sport organisé signifie nécessairement l’absence totale d’activité physique.
+C: F | La présence de stress dispense d’évaluer le tabac, la pression artérielle ou le diabète.
+D: F | Des difficultés sociales prouvent qu’un suivi préventif ne peut jamais être efficace.
+E: V | L’isolement social peut être un déterminant à prendre en compte.
+JUSTIFICATION: Les facteurs psychosociaux et les habitudes doivent être intégrés à une prévention réalisable.
+EXPLICATION_A: Une prescription irréalisable limite l’adhésion.
+EXPLICATION_B: L’activité inclut aussi les mouvements de la vie quotidienne.
+EXPLICATION_C: Les facteurs majeurs doivent rester recherchés.
+EXPLICATION_D: Elles doivent conduire à adapter l’accompagnement.
+EXPLICATION_E: La fiche cite les facteurs psychosociaux défavorables.
+
+---
+ID: 222-134
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 49 ans présente une consommation chronique importante d’alcool avec prise de poids, HTA et hypertriglycéridémie. Elle attribue à une hausse du HDL un bénéfice cardiovasculaire certain. Quelles propositions concernant l’activité physique sont exactes ?
+A: V | Une marche adaptée peut constituer une activité physique utile.
+B: F | L’activité physique ne concerne que la prévention avant tout événement.
+C: F | Une activité n’est utile que si elle est pratiquée en club.
+D: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+E: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+EXPLICATION_B: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+EXPLICATION_C: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+EXPLICATION_D: Le programme doit être réaliste et réalisable.
+EXPLICATION_E: Le suivi et les conseils répétés font partie de la prescription.
+
+---
+ID: 222-135
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 49 ans présente une consommation chronique importante d’alcool avec prise de poids, HTA et hypertriglycéridémie. Elle attribue à une hausse du HDL un bénéfice cardiovasculaire certain. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: V | Lutter contre le tabagisme actif et passif.
+B: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+C: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+D: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+E: V | Associer objectifs thérapeutiques, éducation et suivi.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Le tabac est un facteur de risque cardiovasculaire majeur.
+EXPLICATION_B: Les facteurs de risque doivent être traités conjointement.
+EXPLICATION_C: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_D: La fiche recommande au contraire leur consommation.
+EXPLICATION_E: Une prescription isolée ne suffit pas à garantir son efficacité.
+
+---
+ID: 222-136
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 61 ans boit beaucoup chaque jour et reste sédentaire. Il cumule HTA et triglycérides élevés mais affirme que le HDL annule ces risques. Quelle conclusion est justifiée concernant son raisonnement sur le HDL ?
+A: F | Le HDL élevé supprime le risque lié à l’HTA.
+B: F | L’alcoolisation aiguë importante est sans risque si le HDL est élevé.
+C: F | Le HDL élevé supprime le risque lié au tabac s’il est présent.
+D: V | Le HDL isolé ne permet pas de conclure à un bénéfice cardiovasculaire global de cette consommation.
+E: F | La consommation importante traite systématiquement le LDL élevé.
+JUSTIFICATION: La consommation importante d’alcool peut aggraver la pression artérielle et le profil métabolique ; un HDL plus élevé ne suffit pas à conclure à un bénéfice global.
+EXPLICATION_A: Un paramètre lipidique n’annule pas le risque tensionnel.
+EXPLICATION_B: Le HDL ne garantit pas l’innocuité d’une intoxication aiguë.
+EXPLICATION_C: Les facteurs de risque ne sont pas neutralisés par cette seule donnée.
+EXPLICATION_D: Il faut intégrer les effets défavorables de la consommation importante et les autres facteurs.
+EXPLICATION_E: La fiche ne décrit pas cet effet favorable sur le LDL.
+
+---
+ID: 222-137
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Alcool et risque
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 61 ans boit beaucoup chaque jour et reste sédentaire. Il cumule HTA et triglycérides élevés mais affirme que le HDL annule ces risques. Quelles propositions concernant une consommation importante d’alcool sont exactes ?
+A: V | Elle peut favoriser une hypertriglycéridémie.
+B: F | Une élévation du HDL sous alcool garantit un bénéfice cardiovasculaire global.
+C: F | L’alcool traite l’ensemble des facteurs de risque en abaissant systématiquement le LDL.
+D: F | Une intoxication aiguë importante est dénuée de risque cardiovasculaire.
+E: V | Elle peut augmenter la pression artérielle.
+JUSTIFICATION: Une consommation importante peut aggraver plusieurs déterminants du risque cardiovasculaire.
+EXPLICATION_A: L’alcool participe aux anomalies métaboliques décrites.
+EXPLICATION_B: Un paramètre favorable isolé n’efface pas les effets délétères de la consommation importante.
+EXPLICATION_C: La fiche ne décrit pas d’effet significatif favorable sur le LDL.
+EXPLICATION_D: La fiche décrit un sur-risque après binge-drinking.
+EXPLICATION_E: Cet effet défavorable est décrit dans la fiche.
+
+---
+ID: 222-138
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Contraintes et accompagnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 61 ans boit beaucoup chaque jour et reste sédentaire. Il cumule HTA et triglycérides élevés mais affirme que le HDL annule ces risques. Quelles propositions concernant l’accompagnement sont exactes ?
+A: F | La présence de stress dispense d’évaluer le tabac, la pression artérielle ou le diabète.
+B: V | Une dépression peut compliquer la mise en œuvre du projet préventif.
+C: V | L’isolement social peut être un déterminant à prendre en compte.
+D: F | L’absence de sport organisé signifie nécessairement l’absence totale d’activité physique.
+E: F | Des difficultés sociales prouvent qu’un suivi préventif ne peut jamais être efficace.
+JUSTIFICATION: Les facteurs psychosociaux et les habitudes doivent être intégrés à une prévention réalisable.
+EXPLICATION_A: Les facteurs majeurs doivent rester recherchés.
+EXPLICATION_B: Elle fait partie des éléments psychosociaux décrits.
+EXPLICATION_C: La fiche cite les facteurs psychosociaux défavorables.
+EXPLICATION_D: L’activité inclut aussi les mouvements de la vie quotidienne.
+EXPLICATION_E: Elles doivent conduire à adapter l’accompagnement.
+
+---
+ID: 222-139
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 61 ans boit beaucoup chaque jour et reste sédentaire. Il cumule HTA et triglycérides élevés mais affirme que le HDL annule ces risques. Quelles propositions concernant l’activité physique sont exactes ?
+A: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+B: F | Une activité n’est utile que si elle est pratiquée en club.
+C: V | Une marche adaptée peut constituer une activité physique utile.
+D: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+E: F | L’activité physique ne concerne que la prévention avant tout événement.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Le programme doit être réaliste et réalisable.
+EXPLICATION_B: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+EXPLICATION_C: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+EXPLICATION_D: La fiche insiste sur une prescription individualisée.
+EXPLICATION_E: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+
+---
+ID: 222-140
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 61 ans boit beaucoup chaque jour et reste sédentaire. Il cumule HTA et triglycérides élevés mais affirme que le HDL annule ces risques. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+B: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+C: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+D: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+E: V | Lutter contre le tabagisme actif et passif.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Les facteurs de risque doivent être traités conjointement.
+EXPLICATION_B: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_C: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_D: La fiche recommande au contraire leur consommation.
+EXPLICATION_E: Le tabac est un facteur de risque cardiovasculaire majeur.
+
+---
+ID: 222-141
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 57 ans a une consommation importante d’alcool, un isolement social et une HTA. Elle souhaite évaluer son risque mais ne regarde que son HDL, légèrement augmenté. Quelle conclusion est justifiée concernant son raisonnement sur le HDL ?
+A: V | Le HDL isolé ne permet pas de conclure à un bénéfice cardiovasculaire global de cette consommation.
+B: F | Le HDL élevé supprime le risque lié à l’HTA.
+C: F | La consommation importante traite systématiquement le LDL élevé.
+D: F | Le HDL élevé supprime le risque lié au tabac s’il est présent.
+E: F | L’alcoolisation aiguë importante est sans risque si le HDL est élevé.
+JUSTIFICATION: La consommation importante d’alcool peut aggraver la pression artérielle et le profil métabolique ; un HDL plus élevé ne suffit pas à conclure à un bénéfice global.
+EXPLICATION_A: Il faut intégrer les effets défavorables de la consommation importante et les autres facteurs.
+EXPLICATION_B: Un paramètre lipidique n’annule pas le risque tensionnel.
+EXPLICATION_C: La fiche ne décrit pas cet effet favorable sur le LDL.
+EXPLICATION_D: Les facteurs de risque ne sont pas neutralisés par cette seule donnée.
+EXPLICATION_E: Le HDL ne garantit pas l’innocuité d’une intoxication aiguë.
+
+---
+ID: 222-142
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Alcool et risque
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 57 ans a une consommation importante d’alcool, un isolement social et une HTA. Elle souhaite évaluer son risque mais ne regarde que son HDL, légèrement augmenté. Quelles propositions concernant une consommation importante d’alcool sont exactes ?
+A: V | Elle peut favoriser une hypertriglycéridémie.
+B: F | L’alcool traite l’ensemble des facteurs de risque en abaissant systématiquement le LDL.
+C: F | Une intoxication aiguë importante est dénuée de risque cardiovasculaire.
+D: V | Elle peut être associée à une cardiomyopathie dilatée.
+E: V | Elle peut augmenter la pression artérielle.
+JUSTIFICATION: Une consommation importante peut aggraver plusieurs déterminants du risque cardiovasculaire.
+EXPLICATION_A: L’alcool participe aux anomalies métaboliques décrites.
+EXPLICATION_B: La fiche ne décrit pas d’effet significatif favorable sur le LDL.
+EXPLICATION_C: La fiche décrit un sur-risque après binge-drinking.
+EXPLICATION_D: La fiche cite la cardiomyopathie éthylique.
+EXPLICATION_E: Cet effet défavorable est décrit dans la fiche.
+
+---
+ID: 222-143
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Contraintes et accompagnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 57 ans a une consommation importante d’alcool, un isolement social et une HTA. Elle souhaite évaluer son risque mais ne regarde que son HDL, légèrement augmenté. Quelles propositions concernant l’accompagnement sont exactes ?
+A: F | L’absence de sport organisé signifie nécessairement l’absence totale d’activité physique.
+B: V | Les objectifs d’activité doivent tenir compte des capacités et de l’accès pratique.
+C: V | Une dépression peut compliquer la mise en œuvre du projet préventif.
+D: V | L’isolement social peut être un déterminant à prendre en compte.
+E: F | Des difficultés sociales prouvent qu’un suivi préventif ne peut jamais être efficace.
+JUSTIFICATION: Les facteurs psychosociaux et les habitudes doivent être intégrés à une prévention réalisable.
+EXPLICATION_A: L’activité inclut aussi les mouvements de la vie quotidienne.
+EXPLICATION_B: Une prescription irréalisable limite l’adhésion.
+EXPLICATION_C: Elle fait partie des éléments psychosociaux décrits.
+EXPLICATION_D: La fiche cite les facteurs psychosociaux défavorables.
+EXPLICATION_E: Elles doivent conduire à adapter l’accompagnement.
+
+---
+ID: 222-144
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 57 ans a une consommation importante d’alcool, un isolement social et une HTA. Elle souhaite évaluer son risque mais ne regarde que son HDL, légèrement augmenté. Quelles propositions concernant l’activité physique sont exactes ?
+A: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+B: F | Le même programme intense doit être prescrit indépendamment des capacités du patient.
+C: F | L’activité physique ne concerne que la prévention avant tout événement.
+D: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+E: V | Une marche adaptée peut constituer une activité physique utile.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: Le suivi et les conseils répétés font partie de la prescription.
+EXPLICATION_B: Le programme doit être réaliste et réalisable.
+EXPLICATION_C: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+EXPLICATION_D: La fiche insiste sur une prescription individualisée.
+EXPLICATION_E: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+
+---
+ID: 222-145
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Une femme de 57 ans a une consommation importante d’alcool, un isolement social et une HTA. Elle souhaite évaluer son risque mais ne regarde que son HDL, légèrement augmenté. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: F | Une alimentation favorable au cœur repose sur la suppression des fruits et légumes.
+B: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+C: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+D: V | Lutter contre le tabagisme actif et passif.
+E: V | Associer objectifs thérapeutiques, éducation et suivi.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: La fiche recommande au contraire leur consommation.
+EXPLICATION_B: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_C: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_D: Le tabac est un facteur de risque cardiovasculaire majeur.
+EXPLICATION_E: Une prescription isolée ne suffit pas à garantir son efficacité.
+
+---
+ID: 222-146
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · raisonnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 46 ans cumule épisodes d’alcoolisation aiguë importante, consommation régulière élevée et tabagisme. Son HDL élevé lui fait conclure à une protection globale. Quelle conclusion est justifiée concernant son raisonnement sur le HDL ?
+A: F | L’alcoolisation aiguë importante est sans risque si le HDL est élevé.
+B: F | Le HDL élevé supprime le risque lié au tabac s’il est présent.
+C: F | Le HDL élevé supprime le risque lié à l’HTA.
+D: V | Le HDL isolé ne permet pas de conclure à un bénéfice cardiovasculaire global de cette consommation.
+E: F | La consommation importante traite systématiquement le LDL élevé.
+JUSTIFICATION: La consommation importante d’alcool peut aggraver la pression artérielle et le profil métabolique ; un HDL plus élevé ne suffit pas à conclure à un bénéfice global.
+EXPLICATION_A: Le HDL ne garantit pas l’innocuité d’une intoxication aiguë.
+EXPLICATION_B: Les facteurs de risque ne sont pas neutralisés par cette seule donnée.
+EXPLICATION_C: Un paramètre lipidique n’annule pas le risque tensionnel.
+EXPLICATION_D: Il faut intégrer les effets défavorables de la consommation importante et les autres facteurs.
+EXPLICATION_E: La fiche ne décrit pas cet effet favorable sur le LDL.
+
+---
+ID: 222-147
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Alcool et risque
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 46 ans cumule épisodes d’alcoolisation aiguë importante, consommation régulière élevée et tabagisme. Son HDL élevé lui fait conclure à une protection globale. Quelles propositions concernant une consommation importante d’alcool sont exactes ?
+A: V | Elle peut augmenter la pression artérielle.
+B: F | Une élévation du HDL sous alcool garantit un bénéfice cardiovasculaire global.
+C: V | Elle peut favoriser une hypertriglycéridémie.
+D: V | Elle peut être associée à une cardiomyopathie dilatée.
+E: F | L’alcool traite l’ensemble des facteurs de risque en abaissant systématiquement le LDL.
+JUSTIFICATION: Une consommation importante peut aggraver plusieurs déterminants du risque cardiovasculaire.
+EXPLICATION_A: Cet effet défavorable est décrit dans la fiche.
+EXPLICATION_B: Un paramètre favorable isolé n’efface pas les effets délétères de la consommation importante.
+EXPLICATION_C: L’alcool participe aux anomalies métaboliques décrites.
+EXPLICATION_D: La fiche cite la cardiomyopathie éthylique.
+EXPLICATION_E: La fiche ne décrit pas d’effet significatif favorable sur le LDL.
+
+---
+ID: 222-148
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Contraintes et accompagnement
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 46 ans cumule épisodes d’alcoolisation aiguë importante, consommation régulière élevée et tabagisme. Son HDL élevé lui fait conclure à une protection globale. Quelles propositions concernant l’accompagnement sont exactes ?
+A: F | La présence de stress dispense d’évaluer le tabac, la pression artérielle ou le diabète.
+B: F | L’absence de sport organisé signifie nécessairement l’absence totale d’activité physique.
+C: V | Une dépression peut compliquer la mise en œuvre du projet préventif.
+D: V | L’isolement social peut être un déterminant à prendre en compte.
+E: V | Les objectifs d’activité doivent tenir compte des capacités et de l’accès pratique.
+JUSTIFICATION: Les facteurs psychosociaux et les habitudes doivent être intégrés à une prévention réalisable.
+EXPLICATION_A: Les facteurs majeurs doivent rester recherchés.
+EXPLICATION_B: L’activité inclut aussi les mouvements de la vie quotidienne.
+EXPLICATION_C: Elle fait partie des éléments psychosociaux décrits.
+EXPLICATION_D: La fiche cite les facteurs psychosociaux défavorables.
+EXPLICATION_E: Une prescription irréalisable limite l’adhésion.
+
+---
+ID: 222-149
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Prescription d’activité
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 46 ans cumule épisodes d’alcoolisation aiguë importante, consommation régulière élevée et tabagisme. Son HDL élevé lui fait conclure à une protection globale. Quelles propositions concernant l’activité physique sont exactes ?
+A: V | L’âge, l’état de santé et les capacités du patient doivent guider la prescription.
+B: V | Des évaluations régulières peuvent aider à maintenir l’observance.
+C: V | Une marche adaptée peut constituer une activité physique utile.
+D: F | L’activité physique ne concerne que la prévention avant tout événement.
+E: F | Une activité n’est utile que si elle est pratiquée en club.
+JUSTIFICATION: L’activité doit être adaptée et ne se limite pas au sport organisé.
+EXPLICATION_A: La fiche insiste sur une prescription individualisée.
+EXPLICATION_B: Le suivi et les conseils répétés font partie de la prescription.
+EXPLICATION_C: L’activité physique comprend les mouvements entraînant une dépense supérieure au repos.
+EXPLICATION_D: Elle a aussi une place dans les autres niveaux de prévention, après adaptation clinique.
+EXPLICATION_E: Les déplacements actifs et autres mouvements peuvent participer à l’activité physique.
+
+---
+ID: 222-150
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Alcool et prévention réalisable · Mesures concrètes
+SOURCE: Fiche item 222 fournie - page(s) 1-3
+CONSIGNE: Un homme de 46 ans cumule épisodes d’alcoolisation aiguë importante, consommation régulière élevée et tabagisme. Son HDL élevé lui fait conclure à une protection globale. Quelles mesures peuvent faire partie d’un projet de prévention adapté ?
+A: V | Privilégier fruits, légumes et matières grasses riches en acides gras insaturés.
+B: F | Réduire le tabac dispense de prendre en charge une HTA associée.
+C: V | Lutter contre le tabagisme actif et passif.
+D: F | Une ordonnance préventive doit être maintenue sans jamais vérifier l’adhésion.
+E: V | Associer objectifs thérapeutiques, éducation et suivi.
+JUSTIFICATION: Les mesures portent sur plusieurs déterminants du risque et s’intègrent au suivi.
+EXPLICATION_A: Ces éléments appartiennent au modèle méditerranéen décrit.
+EXPLICATION_B: Les facteurs de risque doivent être traités conjointement.
+EXPLICATION_C: Le tabac est un facteur de risque cardiovasculaire majeur.
+EXPLICATION_D: Le suivi de l’application et des objectifs fait partie de la prise en charge.
+EXPLICATION_E: Une prescription isolée ne suffit pas à garantir son efficacité.

@@ -1,0 +1,3007 @@
+# Item 110 : révision clinique fondée sur la fiche fournie.
+# 150 questions : 120 QCM et 30 QRU ; 105 rang A et 45 rang B pédagogiques.
+# Les rangs ne constituent pas une certification du référentiel EDN.
+# 30 observations, chacune explorée par cinq questions de raisonnement.
+# Les notions reviennent dans des contextes distincts ; aucune inversion automatique V/F.
+ITEM 110 | Troubles du sommeil de l’adulte et de l’enfant
+COLLEGE: Pneumologie
+
+---
+ID: 110-001
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme obèse de 56 ans a des pauses avec efforts persistants, somnolence et IAH à 48/h, sans dépendance majeure à la position. Quel diagnostic principal est le plus probable ?
+A: V | Un SAHOS sévère de l’adulte.
+B: F | Un SAHOS à prédominance positionnelle.
+C: F | Des apnées centrales du sommeil documentées.
+D: F | Une somnolence principalement liée à une dette chronique de sommeil.
+E: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+JUSTIFICATION: L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_A: L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_B: Le profil positionnel repose sur la distribution des événements. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_C: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_D: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_E: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+
+---
+ID: 110-002
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme obèse de 56 ans a des pauses avec efforts persistants, somnolence et IAH à 48/h, sans dépendance majeure à la position. Quelles propositions interprètent les événements respiratoires ?
+A: F | Une désaturation prouve à elle seule une obstruction pharyngée.
+B: F | Une apnée obstructive exige l’absence d’efforts pendant tout l’événement.
+C: V | Les micro-éveils peuvent fragmenter le sommeil.
+D: F | Le SAHOS est seulement une maladie de la respiration diurne.
+E: V | Obésité ou rétrognatie peuvent réduire le calibre des voies aériennes supérieures.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Elle ne précise pas le mécanisme.
+EXPLICATION_B: Ce profil évoquerait une apnée centrale.
+EXPLICATION_C: Ils participent au caractère non réparateur.
+EXPLICATION_D: Les événements décrits surviennent au sommeil.
+EXPLICATION_E: Le terrain anatomique contribue au mécanisme.
+
+---
+ID: 110-003
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Sévérité chez l’adulte
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme obèse de 56 ans a des pauses avec efforts persistants, somnolence et IAH à 48/h, sans dépendance majeure à la position. Quelles propositions classent correctement les IAH adultes selon la fiche ?
+A: F | Les seuils adultes doivent être appliqués automatiquement à tout enfant.
+B: V | Un IAH à 22/h se situe dans la catégorie modérée.
+C: F | Un IAH à 18/h impose un classement sévère sur ce seul chiffre.
+D: F | La somnolence et les comorbidités sont inutiles au choix thérapeutique.
+E: V | Un IAH à 9/h se situe dans la catégorie légère.
+JUSTIFICATION: Les seuils respiratoires doivent être complétés par l’évaluation clinique.
+EXPLICATION_A: Le terrain pédiatrique demande une évaluation adaptée.
+EXPLICATION_B: Il est compris entre 15 et 29/h.
+EXPLICATION_C: Le chiffre relève de la catégorie modérée.
+EXPLICATION_D: Elles modifient la prise en charge.
+EXPLICATION_E: Il est compris entre 5 et 14/h.
+
+---
+ID: 110-004
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Traitement et efficacité
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme obèse de 56 ans a des pauses avec efforts persistants, somnolence et IAH à 48/h, sans dépendance majeure à la position. Quelles propositions concernant un SAHOS documenté sont exactes ?
+A: F | La perte de poids dispense automatiquement de contrôler les événements résiduels.
+B: F | Une OAM ne nécessite jamais de contrôle dentaire ou d’efficacité.
+C: V | L’observance, la tolérance et l’efficacité doivent être suivies.
+D: V | Une OAM avance la mandibule pendant le sommeil.
+E: F | Une PPC prescrite guérit nécessairement tout symptôme même si elle n’est jamais portée.
+JUSTIFICATION: Le choix du dispositif tient compte de la sévérité, des symptômes et du terrain.
+EXPLICATION_A: Le résultat doit être évalué.
+EXPLICATION_B: Des douleurs et déplacements dentaires sont possibles.
+EXPLICATION_C: Une prescription seule ne prouve pas une utilisation efficace.
+EXPLICATION_D: Elle peut améliorer le dégagement pharyngé.
+EXPLICATION_E: L’utilisation réelle est déterminante.
+
+---
+ID: 110-005
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Vigilance et facteurs associés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme obèse de 56 ans a des pauses avec efforts persistants, somnolence et IAH à 48/h, sans dépendance majeure à la position. Quelles propositions concernant l’évaluation sont exactes ?
+A: V | Des médicaments sédatifs et l’alcool doivent être recherchés.
+B: F | L’absence de somnolence ressentie exclut tout SAHOS.
+C: F | Toute fatigue correspond nécessairement à un besoin incontrôlable de dormir.
+D: V | Des endormissements involontaires pendant la conduite constituent un signal de danger.
+E: F | Un score d’Epworth normal neutralise des pauses respiratoires constatées.
+JUSTIFICATION: La somnolence impose d’analyser le sommeil réel, les expositions et le risque quotidien.
+EXPLICATION_A: Ils peuvent altérer la vigilance ou aggraver des événements respiratoires.
+EXPLICATION_B: Une proportion des patients n’a pas de somnolence pathologique.
+EXPLICATION_C: Asthénie et somnolence doivent être distinguées.
+EXPLICATION_D: Le risque d’accident nécessite une évaluation et une sécurisation.
+EXPLICATION_E: Il ne remplace pas l’analyse respiratoire.
+
+---
+ID: 110-006
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 62 ans a un sommeil non réparateur, des événements obstructifs documentés à 36/h et une HTA, sans prédominance dorsale isolée. Quel diagnostic principal est le plus probable ?
+A: V | Un SAHOS sévère de l’adulte.
+B: F | Des apnées centrales du sommeil documentées.
+C: F | Une somnolence principalement liée à une dette chronique de sommeil.
+D: F | Un SAHOS modéré de l’adulte.
+E: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+JUSTIFICATION: L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_A: L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_B: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_C: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_D: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_E: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+
+---
+ID: 110-007
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 62 ans a un sommeil non réparateur, des événements obstructifs documentés à 36/h et une HTA, sans prédominance dorsale isolée. Quelles propositions interprètent les événements respiratoires ?
+A: V | Des efforts persistants pendant l’arrêt de débit orientent vers une obstruction.
+B: F | Une apnée obstructive exige l’absence d’efforts pendant tout l’événement.
+C: F | Une désaturation prouve à elle seule une obstruction pharyngée.
+D: V | Obésité ou rétrognatie peuvent réduire le calibre des voies aériennes supérieures.
+E: F | Le SAHOS est seulement une maladie de la respiration diurne.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Ils distinguent l’obstruction d’une absence de commande.
+EXPLICATION_B: Ce profil évoquerait une apnée centrale.
+EXPLICATION_C: Elle ne précise pas le mécanisme.
+EXPLICATION_D: Le terrain anatomique contribue au mécanisme.
+EXPLICATION_E: Les événements décrits surviennent au sommeil.
+
+---
+ID: 110-008
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Sévérité chez l’adulte
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 62 ans a un sommeil non réparateur, des événements obstructifs documentés à 36/h et une HTA, sans prédominance dorsale isolée. Quelles propositions classent correctement les IAH adultes selon la fiche ?
+A: F | Un IAH à 18/h impose un classement sévère sur ce seul chiffre.
+B: V | Un IAH à 42/h se situe dans la catégorie sévère.
+C: F | Les seuils adultes doivent être appliqués automatiquement à tout enfant.
+D: F | La somnolence et les comorbidités sont inutiles au choix thérapeutique.
+E: V | Un IAH à 9/h se situe dans la catégorie légère.
+JUSTIFICATION: Les seuils respiratoires doivent être complétés par l’évaluation clinique.
+EXPLICATION_A: Le chiffre relève de la catégorie modérée.
+EXPLICATION_B: Le seuil est de 30/h.
+EXPLICATION_C: Le terrain pédiatrique demande une évaluation adaptée.
+EXPLICATION_D: Elles modifient la prise en charge.
+EXPLICATION_E: Il est compris entre 5 et 14/h.
+
+---
+ID: 110-009
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Traitement et efficacité
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 62 ans a un sommeil non réparateur, des événements obstructifs documentés à 36/h et une HTA, sans prédominance dorsale isolée. Quelles propositions concernant un SAHOS documenté sont exactes ?
+A: F | La perte de poids dispense automatiquement de contrôler les événements résiduels.
+B: F | Une OAM ne nécessite jamais de contrôle dentaire ou d’efficacité.
+C: V | L’observance, la tolérance et l’efficacité doivent être suivies.
+D: F | Une PPC prescrite guérit nécessairement tout symptôme même si elle n’est jamais portée.
+E: V | La PPC maintient l’ouverture des voies aériennes par une pression appliquée au masque.
+JUSTIFICATION: Le choix du dispositif tient compte de la sévérité, des symptômes et du terrain.
+EXPLICATION_A: Le résultat doit être évalué.
+EXPLICATION_B: Des douleurs et déplacements dentaires sont possibles.
+EXPLICATION_C: Une prescription seule ne prouve pas une utilisation efficace.
+EXPLICATION_D: L’utilisation réelle est déterminante.
+EXPLICATION_E: Elle lutte contre le collapsus.
+
+---
+ID: 110-010
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Vigilance et facteurs associés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 62 ans a un sommeil non réparateur, des événements obstructifs documentés à 36/h et une HTA, sans prédominance dorsale isolée. Quelles propositions concernant l’évaluation sont exactes ?
+A: F | Un score d’Epworth normal neutralise des pauses respiratoires constatées.
+B: V | Une dette de sommeil peut expliquer une somnolence.
+C: V | Des endormissements involontaires pendant la conduite constituent un signal de danger.
+D: F | L’absence de somnolence ressentie exclut tout SAHOS.
+E: F | Toute fatigue correspond nécessairement à un besoin incontrôlable de dormir.
+JUSTIFICATION: La somnolence impose d’analyser le sommeil réel, les expositions et le risque quotidien.
+EXPLICATION_A: Il ne remplace pas l’analyse respiratoire.
+EXPLICATION_B: Elle fait partie des diagnostics différentiels.
+EXPLICATION_C: Le risque d’accident nécessite une évaluation et une sécurisation.
+EXPLICATION_D: Une proportion des patients n’a pas de somnolence pathologique.
+EXPLICATION_E: Asthénie et somnolence doivent être distinguées.
+
+---
+ID: 110-011
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 49 ans présente des endormissements involontaires et un IAH obstructif à 52/h, en plusieurs positions. Quel diagnostic principal est le plus probable ?
+A: F | Un SAHOS à prédominance positionnelle.
+B: F | Des apnées centrales du sommeil documentées.
+C: V | Un SAHOS sévère de l’adulte.
+D: F | Une somnolence principalement liée à une dette chronique de sommeil.
+E: F | Un SAHOS modéré de l’adulte.
+JUSTIFICATION: L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_A: Le profil positionnel repose sur la distribution des événements. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_B: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_C: L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_D: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_E: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+
+---
+ID: 110-012
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 49 ans présente des endormissements involontaires et un IAH obstructif à 52/h, en plusieurs positions. Quelles propositions interprètent les événements respiratoires ?
+A: F | Le SAHOS est seulement une maladie de la respiration diurne.
+B: F | Une désaturation prouve à elle seule une obstruction pharyngée.
+C: V | Des efforts persistants pendant l’arrêt de débit orientent vers une obstruction.
+D: F | Une apnée obstructive exige l’absence d’efforts pendant tout l’événement.
+E: V | Les micro-éveils peuvent fragmenter le sommeil.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Les événements décrits surviennent au sommeil.
+EXPLICATION_B: Elle ne précise pas le mécanisme.
+EXPLICATION_C: Ils distinguent l’obstruction d’une absence de commande.
+EXPLICATION_D: Ce profil évoquerait une apnée centrale.
+EXPLICATION_E: Ils participent au caractère non réparateur.
+
+---
+ID: 110-013
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Sévérité chez l’adulte
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 49 ans présente des endormissements involontaires et un IAH obstructif à 52/h, en plusieurs positions. Quelles propositions classent correctement les IAH adultes selon la fiche ?
+A: F | Un IAH à 18/h impose un classement sévère sur ce seul chiffre.
+B: V | Un IAH à 42/h se situe dans la catégorie sévère.
+C: F | La somnolence et les comorbidités sont inutiles au choix thérapeutique.
+D: V | Un IAH à 22/h se situe dans la catégorie modérée.
+E: F | Les seuils adultes doivent être appliqués automatiquement à tout enfant.
+JUSTIFICATION: Les seuils respiratoires doivent être complétés par l’évaluation clinique.
+EXPLICATION_A: Le chiffre relève de la catégorie modérée.
+EXPLICATION_B: Le seuil est de 30/h.
+EXPLICATION_C: Elles modifient la prise en charge.
+EXPLICATION_D: Il est compris entre 15 et 29/h.
+EXPLICATION_E: Le terrain pédiatrique demande une évaluation adaptée.
+
+---
+ID: 110-014
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Traitement et efficacité
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 49 ans présente des endormissements involontaires et un IAH obstructif à 52/h, en plusieurs positions. Quelles propositions concernant un SAHOS documenté sont exactes ?
+A: F | Une PPC prescrite guérit nécessairement tout symptôme même si elle n’est jamais portée.
+B: F | La perte de poids dispense automatiquement de contrôler les événements résiduels.
+C: V | Une OAM avance la mandibule pendant le sommeil.
+D: V | La PPC maintient l’ouverture des voies aériennes par une pression appliquée au masque.
+E: F | Une OAM ne nécessite jamais de contrôle dentaire ou d’efficacité.
+JUSTIFICATION: Le choix du dispositif tient compte de la sévérité, des symptômes et du terrain.
+EXPLICATION_A: L’utilisation réelle est déterminante.
+EXPLICATION_B: Le résultat doit être évalué.
+EXPLICATION_C: Elle peut améliorer le dégagement pharyngé.
+EXPLICATION_D: Elle lutte contre le collapsus.
+EXPLICATION_E: Des douleurs et déplacements dentaires sont possibles.
+
+---
+ID: 110-015
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Vigilance et facteurs associés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 49 ans présente des endormissements involontaires et un IAH obstructif à 52/h, en plusieurs positions. Quelles propositions concernant l’évaluation sont exactes ?
+A: F | L’absence de somnolence ressentie exclut tout SAHOS.
+B: V | Des médicaments sédatifs et l’alcool doivent être recherchés.
+C: V | Une dette de sommeil peut expliquer une somnolence.
+D: F | Un score d’Epworth normal neutralise des pauses respiratoires constatées.
+E: F | Toute fatigue correspond nécessairement à un besoin incontrôlable de dormir.
+JUSTIFICATION: La somnolence impose d’analyser le sommeil réel, les expositions et le risque quotidien.
+EXPLICATION_A: Une proportion des patients n’a pas de somnolence pathologique.
+EXPLICATION_B: Ils peuvent altérer la vigilance ou aggraver des événements respiratoires.
+EXPLICATION_C: Elle fait partie des diagnostics différentiels.
+EXPLICATION_D: Il ne remplace pas l’analyse respiratoire.
+EXPLICATION_E: Asthénie et somnolence doivent être distinguées.
+
+---
+ID: 110-016
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 68 ans a une obstruction nocturne documentée à 41/h avec fatigue et pauses constatées, sans mécanisme central dominant. Quel diagnostic principal est le plus probable ?
+A: F | Un SAHOS à prédominance positionnelle.
+B: F | Une somnolence principalement liée à une dette chronique de sommeil.
+C: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+D: F | Un SAHOS modéré de l’adulte.
+E: V | Un SAHOS sévère de l’adulte.
+JUSTIFICATION: L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_A: Le profil positionnel repose sur la distribution des événements. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_B: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_C: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_D: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_E: L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+
+---
+ID: 110-017
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 68 ans a une obstruction nocturne documentée à 41/h avec fatigue et pauses constatées, sans mécanisme central dominant. Quelles propositions interprètent les événements respiratoires ?
+A: F | Une désaturation prouve à elle seule une obstruction pharyngée.
+B: V | Des efforts persistants pendant l’arrêt de débit orientent vers une obstruction.
+C: V | Obésité ou rétrognatie peuvent réduire le calibre des voies aériennes supérieures.
+D: V | Les micro-éveils peuvent fragmenter le sommeil.
+E: F | Le SAHOS est seulement une maladie de la respiration diurne.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Elle ne précise pas le mécanisme.
+EXPLICATION_B: Ils distinguent l’obstruction d’une absence de commande.
+EXPLICATION_C: Le terrain anatomique contribue au mécanisme.
+EXPLICATION_D: Ils participent au caractère non réparateur.
+EXPLICATION_E: Les événements décrits surviennent au sommeil.
+
+---
+ID: 110-018
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Sévérité chez l’adulte
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 68 ans a une obstruction nocturne documentée à 41/h avec fatigue et pauses constatées, sans mécanisme central dominant. Quelles propositions classent correctement les IAH adultes selon la fiche ?
+A: F | Les seuils adultes doivent être appliqués automatiquement à tout enfant.
+B: V | Un IAH à 42/h se situe dans la catégorie sévère.
+C: V | Un IAH à 22/h se situe dans la catégorie modérée.
+D: V | Un IAH à 9/h se situe dans la catégorie légère.
+E: F | La somnolence et les comorbidités sont inutiles au choix thérapeutique.
+JUSTIFICATION: Les seuils respiratoires doivent être complétés par l’évaluation clinique.
+EXPLICATION_A: Le terrain pédiatrique demande une évaluation adaptée.
+EXPLICATION_B: Le seuil est de 30/h.
+EXPLICATION_C: Il est compris entre 15 et 29/h.
+EXPLICATION_D: Il est compris entre 5 et 14/h.
+EXPLICATION_E: Elles modifient la prise en charge.
+
+---
+ID: 110-019
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Traitement et efficacité
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 68 ans a une obstruction nocturne documentée à 41/h avec fatigue et pauses constatées, sans mécanisme central dominant. Quelles propositions concernant un SAHOS documenté sont exactes ?
+A: V | La PPC maintient l’ouverture des voies aériennes par une pression appliquée au masque.
+B: F | La perte de poids dispense automatiquement de contrôler les événements résiduels.
+C: V | L’observance, la tolérance et l’efficacité doivent être suivies.
+D: V | Une OAM avance la mandibule pendant le sommeil.
+E: F | Une OAM ne nécessite jamais de contrôle dentaire ou d’efficacité.
+JUSTIFICATION: Le choix du dispositif tient compte de la sévérité, des symptômes et du terrain.
+EXPLICATION_A: Elle lutte contre le collapsus.
+EXPLICATION_B: Le résultat doit être évalué.
+EXPLICATION_C: Une prescription seule ne prouve pas une utilisation efficace.
+EXPLICATION_D: Elle peut améliorer le dégagement pharyngé.
+EXPLICATION_E: Des douleurs et déplacements dentaires sont possibles.
+
+---
+ID: 110-020
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Vigilance et facteurs associés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 68 ans a une obstruction nocturne documentée à 41/h avec fatigue et pauses constatées, sans mécanisme central dominant. Quelles propositions concernant l’évaluation sont exactes ?
+A: V | Des endormissements involontaires pendant la conduite constituent un signal de danger.
+B: V | Une dette de sommeil peut expliquer une somnolence.
+C: F | Un score d’Epworth normal neutralise des pauses respiratoires constatées.
+D: V | Des médicaments sédatifs et l’alcool doivent être recherchés.
+E: F | Toute fatigue correspond nécessairement à un besoin incontrôlable de dormir.
+JUSTIFICATION: La somnolence impose d’analyser le sommeil réel, les expositions et le risque quotidien.
+EXPLICATION_A: Le risque d’accident nécessite une évaluation et une sécurisation.
+EXPLICATION_B: Elle fait partie des diagnostics différentiels.
+EXPLICATION_C: Il ne remplace pas l’analyse respiratoire.
+EXPLICATION_D: Ils peuvent altérer la vigilance ou aggraver des événements respiratoires.
+EXPLICATION_E: Asthénie et somnolence doivent être distinguées.
+
+---
+ID: 110-021
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 60 ans a un IAH obstructif à 33/h et une somnolence importante ; l’enregistrement confirme des événements dans toutes les positions. Quel diagnostic principal est le plus probable ?
+A: F | Des apnées centrales du sommeil documentées.
+B: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+C: F | Un SAHOS à prédominance positionnelle.
+D: F | Un SAHOS modéré de l’adulte.
+E: V | Un SAHOS sévère de l’adulte.
+JUSTIFICATION: L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_A: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_B: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_C: Le profil positionnel repose sur la distribution des événements. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_D: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+EXPLICATION_E: L’obstruction est documentée avec un IAH adulte au moins égal à 30/h.
+
+---
+ID: 110-022
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 60 ans a un IAH obstructif à 33/h et une somnolence importante ; l’enregistrement confirme des événements dans toutes les positions. Quelles propositions interprètent les événements respiratoires ?
+A: F | Une apnée obstructive exige l’absence d’efforts pendant tout l’événement.
+B: F | Le SAHOS est seulement une maladie de la respiration diurne.
+C: V | Des efforts persistants pendant l’arrêt de débit orientent vers une obstruction.
+D: V | Obésité ou rétrognatie peuvent réduire le calibre des voies aériennes supérieures.
+E: V | Les micro-éveils peuvent fragmenter le sommeil.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Ce profil évoquerait une apnée centrale.
+EXPLICATION_B: Les événements décrits surviennent au sommeil.
+EXPLICATION_C: Ils distinguent l’obstruction d’une absence de commande.
+EXPLICATION_D: Le terrain anatomique contribue au mécanisme.
+EXPLICATION_E: Ils participent au caractère non réparateur.
+
+---
+ID: 110-023
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Sévérité chez l’adulte
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 60 ans a un IAH obstructif à 33/h et une somnolence importante ; l’enregistrement confirme des événements dans toutes les positions. Quelles propositions classent correctement les IAH adultes selon la fiche ?
+A: V | Un IAH à 42/h se situe dans la catégorie sévère.
+B: V | Un IAH à 9/h se situe dans la catégorie légère.
+C: F | Un IAH à 18/h impose un classement sévère sur ce seul chiffre.
+D: V | Un IAH à 22/h se situe dans la catégorie modérée.
+E: F | Les seuils adultes doivent être appliqués automatiquement à tout enfant.
+JUSTIFICATION: Les seuils respiratoires doivent être complétés par l’évaluation clinique.
+EXPLICATION_A: Le seuil est de 30/h.
+EXPLICATION_B: Il est compris entre 5 et 14/h.
+EXPLICATION_C: Le chiffre relève de la catégorie modérée.
+EXPLICATION_D: Il est compris entre 15 et 29/h.
+EXPLICATION_E: Le terrain pédiatrique demande une évaluation adaptée.
+
+---
+ID: 110-024
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Traitement et efficacité
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 60 ans a un IAH obstructif à 33/h et une somnolence importante ; l’enregistrement confirme des événements dans toutes les positions. Quelles propositions concernant un SAHOS documenté sont exactes ?
+A: V | La PPC maintient l’ouverture des voies aériennes par une pression appliquée au masque.
+B: V | L’observance, la tolérance et l’efficacité doivent être suivies.
+C: V | Une OAM avance la mandibule pendant le sommeil.
+D: F | Une PPC prescrite guérit nécessairement tout symptôme même si elle n’est jamais portée.
+E: F | La perte de poids dispense automatiquement de contrôler les événements résiduels.
+JUSTIFICATION: Le choix du dispositif tient compte de la sévérité, des symptômes et du terrain.
+EXPLICATION_A: Elle lutte contre le collapsus.
+EXPLICATION_B: Une prescription seule ne prouve pas une utilisation efficace.
+EXPLICATION_C: Elle peut améliorer le dégagement pharyngé.
+EXPLICATION_D: L’utilisation réelle est déterminante.
+EXPLICATION_E: Le résultat doit être évalué.
+
+---
+ID: 110-025
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction sévère · Vigilance et facteurs associés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 60 ans a un IAH obstructif à 33/h et une somnolence importante ; l’enregistrement confirme des événements dans toutes les positions. Quelles propositions concernant l’évaluation sont exactes ?
+A: F | Un score d’Epworth normal neutralise des pauses respiratoires constatées.
+B: F | L’absence de somnolence ressentie exclut tout SAHOS.
+C: V | Des médicaments sédatifs et l’alcool doivent être recherchés.
+D: V | Une dette de sommeil peut expliquer une somnolence.
+E: V | Des endormissements involontaires pendant la conduite constituent un signal de danger.
+JUSTIFICATION: La somnolence impose d’analyser le sommeil réel, les expositions et le risque quotidien.
+EXPLICATION_A: Il ne remplace pas l’analyse respiratoire.
+EXPLICATION_B: Une proportion des patients n’a pas de somnolence pathologique.
+EXPLICATION_C: Ils peuvent altérer la vigilance ou aggraver des événements respiratoires.
+EXPLICATION_D: Elle fait partie des diagnostics différentiels.
+EXPLICATION_E: Le risque d’accident nécessite une évaluation et une sécurisation.
+
+---
+ID: 110-026
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 53 ans a ronflement, sommeil non réparateur et IAH obstructif à 22/h, sans dépendance majeure à la position. Quel diagnostic principal est le plus probable ?
+A: V | Un SAHOS modéré de l’adulte.
+B: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+C: F | Un SAHOS sévère de l’adulte.
+D: F | Une somnolence principalement liée à une dette chronique de sommeil.
+E: F | Des apnées centrales du sommeil documentées.
+JUSTIFICATION: L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_A: L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_B: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_C: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_D: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_E: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+
+---
+ID: 110-027
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 53 ans a ronflement, sommeil non réparateur et IAH obstructif à 22/h, sans dépendance majeure à la position. Quelles propositions interprètent les événements respiratoires ?
+A: F | Une désaturation prouve à elle seule une obstruction pharyngée.
+B: F | Une apnée obstructive exige l’absence d’efforts pendant tout l’événement.
+C: F | Le SAHOS est seulement une maladie de la respiration diurne.
+D: V | Obésité ou rétrognatie peuvent réduire le calibre des voies aériennes supérieures.
+E: V | Les micro-éveils peuvent fragmenter le sommeil.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Elle ne précise pas le mécanisme.
+EXPLICATION_B: Ce profil évoquerait une apnée centrale.
+EXPLICATION_C: Les événements décrits surviennent au sommeil.
+EXPLICATION_D: Le terrain anatomique contribue au mécanisme.
+EXPLICATION_E: Ils participent au caractère non réparateur.
+
+---
+ID: 110-028
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Sévérité chez l’adulte
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 53 ans a ronflement, sommeil non réparateur et IAH obstructif à 22/h, sans dépendance majeure à la position. Quelles propositions classent correctement les IAH adultes selon la fiche ?
+A: V | Un IAH à 9/h se situe dans la catégorie légère.
+B: F | Un IAH à 18/h impose un classement sévère sur ce seul chiffre.
+C: F | Les seuils adultes doivent être appliqués automatiquement à tout enfant.
+D: F | La somnolence et les comorbidités sont inutiles au choix thérapeutique.
+E: V | Un IAH à 22/h se situe dans la catégorie modérée.
+JUSTIFICATION: Les seuils respiratoires doivent être complétés par l’évaluation clinique.
+EXPLICATION_A: Il est compris entre 5 et 14/h.
+EXPLICATION_B: Le chiffre relève de la catégorie modérée.
+EXPLICATION_C: Le terrain pédiatrique demande une évaluation adaptée.
+EXPLICATION_D: Elles modifient la prise en charge.
+EXPLICATION_E: Il est compris entre 15 et 29/h.
+
+---
+ID: 110-029
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Traitement et efficacité
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 53 ans a ronflement, sommeil non réparateur et IAH obstructif à 22/h, sans dépendance majeure à la position. Quelles propositions concernant un SAHOS documenté sont exactes ?
+A: F | Une OAM ne nécessite jamais de contrôle dentaire ou d’efficacité.
+B: F | Une PPC prescrite guérit nécessairement tout symptôme même si elle n’est jamais portée.
+C: F | La perte de poids dispense automatiquement de contrôler les événements résiduels.
+D: V | Une OAM avance la mandibule pendant le sommeil.
+E: V | L’observance, la tolérance et l’efficacité doivent être suivies.
+JUSTIFICATION: Le choix du dispositif tient compte de la sévérité, des symptômes et du terrain.
+EXPLICATION_A: Des douleurs et déplacements dentaires sont possibles.
+EXPLICATION_B: L’utilisation réelle est déterminante.
+EXPLICATION_C: Le résultat doit être évalué.
+EXPLICATION_D: Elle peut améliorer le dégagement pharyngé.
+EXPLICATION_E: Une prescription seule ne prouve pas une utilisation efficace.
+
+---
+ID: 110-030
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 53 ans a ronflement, sommeil non réparateur et IAH obstructif à 22/h, sans dépendance majeure à la position. Quelles propositions concernant les examens sont exactes ?
+A: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+B: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+C: F | Un ronflement prouve à lui seul un IAH sévère.
+D: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+E: F | Le score d’Epworth suffit à confirmer un SAHOS.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: Le dénominateur de l’IAH dépend de l’examen.
+EXPLICATION_B: L’analyse des efforts est nécessaire.
+EXPLICATION_C: La sévérité respiratoire doit être mesurée.
+EXPLICATION_D: Elle identifie sommeil et micro-éveils.
+EXPLICATION_E: Il quantifie la somnolence, sans documenter l’obstruction.
+
+---
+ID: 110-031
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 45 ans a des pauses obstructives, une somnolence importante et IAH à 18/h ; il n’existe pas de mécanisme central dominant. Quel diagnostic principal est le plus probable ?
+A: V | Un SAHOS modéré de l’adulte.
+B: F | Un SAHOS à prédominance positionnelle.
+C: F | Un SAHOS sévère de l’adulte.
+D: F | Des apnées centrales du sommeil documentées.
+E: F | Une somnolence principalement liée à une dette chronique de sommeil.
+JUSTIFICATION: L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_A: L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_B: Le profil positionnel repose sur la distribution des événements. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_C: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_D: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_E: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+
+---
+ID: 110-032
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 45 ans a des pauses obstructives, une somnolence importante et IAH à 18/h ; il n’existe pas de mécanisme central dominant. Quelles propositions interprètent les événements respiratoires ?
+A: V | Obésité ou rétrognatie peuvent réduire le calibre des voies aériennes supérieures.
+B: F | Une apnée obstructive exige l’absence d’efforts pendant tout l’événement.
+C: V | Des efforts persistants pendant l’arrêt de débit orientent vers une obstruction.
+D: F | Une désaturation prouve à elle seule une obstruction pharyngée.
+E: F | Le SAHOS est seulement une maladie de la respiration diurne.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Le terrain anatomique contribue au mécanisme.
+EXPLICATION_B: Ce profil évoquerait une apnée centrale.
+EXPLICATION_C: Ils distinguent l’obstruction d’une absence de commande.
+EXPLICATION_D: Elle ne précise pas le mécanisme.
+EXPLICATION_E: Les événements décrits surviennent au sommeil.
+
+---
+ID: 110-033
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Sévérité chez l’adulte
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 45 ans a des pauses obstructives, une somnolence importante et IAH à 18/h ; il n’existe pas de mécanisme central dominant. Quelles propositions classent correctement les IAH adultes selon la fiche ?
+A: F | Un IAH à 18/h impose un classement sévère sur ce seul chiffre.
+B: F | La somnolence et les comorbidités sont inutiles au choix thérapeutique.
+C: V | Un IAH à 42/h se situe dans la catégorie sévère.
+D: F | Les seuils adultes doivent être appliqués automatiquement à tout enfant.
+E: V | Un IAH à 9/h se situe dans la catégorie légère.
+JUSTIFICATION: Les seuils respiratoires doivent être complétés par l’évaluation clinique.
+EXPLICATION_A: Le chiffre relève de la catégorie modérée.
+EXPLICATION_B: Elles modifient la prise en charge.
+EXPLICATION_C: Le seuil est de 30/h.
+EXPLICATION_D: Le terrain pédiatrique demande une évaluation adaptée.
+EXPLICATION_E: Il est compris entre 5 et 14/h.
+
+---
+ID: 110-034
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Traitement et efficacité
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 45 ans a des pauses obstructives, une somnolence importante et IAH à 18/h ; il n’existe pas de mécanisme central dominant. Quelles propositions concernant un SAHOS documenté sont exactes ?
+A: F | Une OAM ne nécessite jamais de contrôle dentaire ou d’efficacité.
+B: V | L’observance, la tolérance et l’efficacité doivent être suivies.
+C: F | Une PPC prescrite guérit nécessairement tout symptôme même si elle n’est jamais portée.
+D: V | La PPC maintient l’ouverture des voies aériennes par une pression appliquée au masque.
+E: F | La perte de poids dispense automatiquement de contrôler les événements résiduels.
+JUSTIFICATION: Le choix du dispositif tient compte de la sévérité, des symptômes et du terrain.
+EXPLICATION_A: Des douleurs et déplacements dentaires sont possibles.
+EXPLICATION_B: Une prescription seule ne prouve pas une utilisation efficace.
+EXPLICATION_C: L’utilisation réelle est déterminante.
+EXPLICATION_D: Elle lutte contre le collapsus.
+EXPLICATION_E: Le résultat doit être évalué.
+
+---
+ID: 110-035
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 45 ans a des pauses obstructives, une somnolence importante et IAH à 18/h ; il n’existe pas de mécanisme central dominant. Quelles propositions concernant les examens sont exactes ?
+A: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+B: F | Le score d’Epworth suffit à confirmer un SAHOS.
+C: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+D: V | La polygraphie enregistre flux, efforts et saturation.
+E: F | Un ronflement prouve à lui seul un IAH sévère.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: Le dénominateur de l’IAH dépend de l’examen.
+EXPLICATION_B: Il quantifie la somnolence, sans documenter l’obstruction.
+EXPLICATION_C: L’analyse des efforts est nécessaire.
+EXPLICATION_D: Elle permet une analyse respiratoire nocturne.
+EXPLICATION_E: La sévérité respiratoire doit être mesurée.
+
+---
+ID: 110-036
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 64 ans a fatigue, éveils répétés et IAH obstructif à 26/h avec comorbidité cardiaque. Quel diagnostic principal est le plus probable ?
+A: F | Un SAHOS sévère de l’adulte.
+B: F | Un SAHOS à prédominance positionnelle.
+C: V | Un SAHOS modéré de l’adulte.
+D: F | Une somnolence principalement liée à une dette chronique de sommeil.
+E: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+JUSTIFICATION: L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_A: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_B: Le profil positionnel repose sur la distribution des événements. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_C: L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_D: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_E: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+
+---
+ID: 110-037
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 64 ans a fatigue, éveils répétés et IAH obstructif à 26/h avec comorbidité cardiaque. Quelles propositions interprètent les événements respiratoires ?
+A: F | Une désaturation prouve à elle seule une obstruction pharyngée.
+B: F | Une apnée obstructive exige l’absence d’efforts pendant tout l’événement.
+C: V | Les micro-éveils peuvent fragmenter le sommeil.
+D: F | Le SAHOS est seulement une maladie de la respiration diurne.
+E: V | Des efforts persistants pendant l’arrêt de débit orientent vers une obstruction.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Elle ne précise pas le mécanisme.
+EXPLICATION_B: Ce profil évoquerait une apnée centrale.
+EXPLICATION_C: Ils participent au caractère non réparateur.
+EXPLICATION_D: Les événements décrits surviennent au sommeil.
+EXPLICATION_E: Ils distinguent l’obstruction d’une absence de commande.
+
+---
+ID: 110-038
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Sévérité chez l’adulte
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 64 ans a fatigue, éveils répétés et IAH obstructif à 26/h avec comorbidité cardiaque. Quelles propositions classent correctement les IAH adultes selon la fiche ?
+A: V | Un IAH à 42/h se situe dans la catégorie sévère.
+B: F | La somnolence et les comorbidités sont inutiles au choix thérapeutique.
+C: V | Un IAH à 22/h se situe dans la catégorie modérée.
+D: F | Les seuils adultes doivent être appliqués automatiquement à tout enfant.
+E: F | Un IAH à 18/h impose un classement sévère sur ce seul chiffre.
+JUSTIFICATION: Les seuils respiratoires doivent être complétés par l’évaluation clinique.
+EXPLICATION_A: Le seuil est de 30/h.
+EXPLICATION_B: Elles modifient la prise en charge.
+EXPLICATION_C: Il est compris entre 15 et 29/h.
+EXPLICATION_D: Le terrain pédiatrique demande une évaluation adaptée.
+EXPLICATION_E: Le chiffre relève de la catégorie modérée.
+
+---
+ID: 110-039
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Traitement et efficacité
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 64 ans a fatigue, éveils répétés et IAH obstructif à 26/h avec comorbidité cardiaque. Quelles propositions concernant un SAHOS documenté sont exactes ?
+A: F | Une OAM ne nécessite jamais de contrôle dentaire ou d’efficacité.
+B: F | La perte de poids dispense automatiquement de contrôler les événements résiduels.
+C: F | Une PPC prescrite guérit nécessairement tout symptôme même si elle n’est jamais portée.
+D: V | Une OAM avance la mandibule pendant le sommeil.
+E: V | La PPC maintient l’ouverture des voies aériennes par une pression appliquée au masque.
+JUSTIFICATION: Le choix du dispositif tient compte de la sévérité, des symptômes et du terrain.
+EXPLICATION_A: Des douleurs et déplacements dentaires sont possibles.
+EXPLICATION_B: Le résultat doit être évalué.
+EXPLICATION_C: L’utilisation réelle est déterminante.
+EXPLICATION_D: Elle peut améliorer le dégagement pharyngé.
+EXPLICATION_E: Elle lutte contre le collapsus.
+
+---
+ID: 110-040
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 64 ans a fatigue, éveils répétés et IAH obstructif à 26/h avec comorbidité cardiaque. Quelles propositions concernant les examens sont exactes ?
+A: F | Le score d’Epworth suffit à confirmer un SAHOS.
+B: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+C: V | La polygraphie enregistre flux, efforts et saturation.
+D: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+E: F | Un ronflement prouve à lui seul un IAH sévère.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: Il quantifie la somnolence, sans documenter l’obstruction.
+EXPLICATION_B: Elle identifie sommeil et micro-éveils.
+EXPLICATION_C: Elle permet une analyse respiratoire nocturne.
+EXPLICATION_D: L’analyse des efforts est nécessaire.
+EXPLICATION_E: La sévérité respiratoire doit être mesurée.
+
+---
+ID: 110-041
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 58 ans présente une obstruction à 24/h avec gêne clinique, sans somnolence sévère ni comorbidité grave documentée. Quel diagnostic principal est le plus probable ?
+A: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+B: V | Un SAHOS modéré de l’adulte.
+C: F | Des apnées centrales du sommeil documentées.
+D: F | Un SAHOS sévère de l’adulte.
+E: F | Un SAHOS à prédominance positionnelle.
+JUSTIFICATION: L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_A: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_B: L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_C: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_D: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_E: Le profil positionnel repose sur la distribution des événements. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+
+---
+ID: 110-042
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 58 ans présente une obstruction à 24/h avec gêne clinique, sans somnolence sévère ni comorbidité grave documentée. Quelles propositions interprètent les événements respiratoires ?
+A: V | Les micro-éveils peuvent fragmenter le sommeil.
+B: F | Le SAHOS est seulement une maladie de la respiration diurne.
+C: F | Une désaturation prouve à elle seule une obstruction pharyngée.
+D: V | Des efforts persistants pendant l’arrêt de débit orientent vers une obstruction.
+E: V | Obésité ou rétrognatie peuvent réduire le calibre des voies aériennes supérieures.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Ils participent au caractère non réparateur.
+EXPLICATION_B: Les événements décrits surviennent au sommeil.
+EXPLICATION_C: Elle ne précise pas le mécanisme.
+EXPLICATION_D: Ils distinguent l’obstruction d’une absence de commande.
+EXPLICATION_E: Le terrain anatomique contribue au mécanisme.
+
+---
+ID: 110-043
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Sévérité chez l’adulte
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 58 ans présente une obstruction à 24/h avec gêne clinique, sans somnolence sévère ni comorbidité grave documentée. Quelles propositions classent correctement les IAH adultes selon la fiche ?
+A: V | Un IAH à 22/h se situe dans la catégorie modérée.
+B: F | La somnolence et les comorbidités sont inutiles au choix thérapeutique.
+C: V | Un IAH à 9/h se situe dans la catégorie légère.
+D: F | Les seuils adultes doivent être appliqués automatiquement à tout enfant.
+E: V | Un IAH à 42/h se situe dans la catégorie sévère.
+JUSTIFICATION: Les seuils respiratoires doivent être complétés par l’évaluation clinique.
+EXPLICATION_A: Il est compris entre 15 et 29/h.
+EXPLICATION_B: Elles modifient la prise en charge.
+EXPLICATION_C: Il est compris entre 5 et 14/h.
+EXPLICATION_D: Le terrain pédiatrique demande une évaluation adaptée.
+EXPLICATION_E: Le seuil est de 30/h.
+
+---
+ID: 110-044
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Traitement et efficacité
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 58 ans présente une obstruction à 24/h avec gêne clinique, sans somnolence sévère ni comorbidité grave documentée. Quelles propositions concernant un SAHOS documenté sont exactes ?
+A: F | Une OAM ne nécessite jamais de contrôle dentaire ou d’efficacité.
+B: V | Une OAM avance la mandibule pendant le sommeil.
+C: V | L’observance, la tolérance et l’efficacité doivent être suivies.
+D: V | La PPC maintient l’ouverture des voies aériennes par une pression appliquée au masque.
+E: F | La perte de poids dispense automatiquement de contrôler les événements résiduels.
+JUSTIFICATION: Le choix du dispositif tient compte de la sévérité, des symptômes et du terrain.
+EXPLICATION_A: Des douleurs et déplacements dentaires sont possibles.
+EXPLICATION_B: Elle peut améliorer le dégagement pharyngé.
+EXPLICATION_C: Une prescription seule ne prouve pas une utilisation efficace.
+EXPLICATION_D: Elle lutte contre le collapsus.
+EXPLICATION_E: Le résultat doit être évalué.
+
+---
+ID: 110-045
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 58 ans présente une obstruction à 24/h avec gêne clinique, sans somnolence sévère ni comorbidité grave documentée. Quelles propositions concernant les examens sont exactes ?
+A: V | La polygraphie enregistre flux, efforts et saturation.
+B: F | Un ronflement prouve à lui seul un IAH sévère.
+C: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+D: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+E: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: Elle permet une analyse respiratoire nocturne.
+EXPLICATION_B: La sévérité respiratoire doit être mesurée.
+EXPLICATION_C: Le dénominateur de l’IAH dépend de l’examen.
+EXPLICATION_D: L’analyse des efforts est nécessaire.
+EXPLICATION_E: Elle identifie sommeil et micro-éveils.
+
+---
+ID: 110-046
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 47 ans a un SAHOS documenté à 19/h avec ronflement quotidien et sommeil non réparateur, réparti dans plusieurs positions. Quel diagnostic principal est le plus probable ?
+A: V | Un SAHOS modéré de l’adulte.
+B: F | Un SAHOS à prédominance positionnelle.
+C: F | Des apnées centrales du sommeil documentées.
+D: F | Une somnolence principalement liée à une dette chronique de sommeil.
+E: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+JUSTIFICATION: L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_A: L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_B: Le profil positionnel repose sur la distribution des événements. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_C: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_D: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+EXPLICATION_E: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : L’IAH obstructif adulte est compris entre 15 et 29/h avec symptômes concordants.
+
+---
+ID: 110-047
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 47 ans a un SAHOS documenté à 19/h avec ronflement quotidien et sommeil non réparateur, réparti dans plusieurs positions. Quelles propositions interprètent les événements respiratoires ?
+A: V | Obésité ou rétrognatie peuvent réduire le calibre des voies aériennes supérieures.
+B: F | Le SAHOS est seulement une maladie de la respiration diurne.
+C: V | Les micro-éveils peuvent fragmenter le sommeil.
+D: V | Des efforts persistants pendant l’arrêt de débit orientent vers une obstruction.
+E: F | Une apnée obstructive exige l’absence d’efforts pendant tout l’événement.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Le terrain anatomique contribue au mécanisme.
+EXPLICATION_B: Les événements décrits surviennent au sommeil.
+EXPLICATION_C: Ils participent au caractère non réparateur.
+EXPLICATION_D: Ils distinguent l’obstruction d’une absence de commande.
+EXPLICATION_E: Ce profil évoquerait une apnée centrale.
+
+---
+ID: 110-048
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Sévérité chez l’adulte
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 47 ans a un SAHOS documenté à 19/h avec ronflement quotidien et sommeil non réparateur, réparti dans plusieurs positions. Quelles propositions classent correctement les IAH adultes selon la fiche ?
+A: F | Les seuils adultes doivent être appliqués automatiquement à tout enfant.
+B: V | Un IAH à 22/h se situe dans la catégorie modérée.
+C: V | Un IAH à 42/h se situe dans la catégorie sévère.
+D: F | Un IAH à 18/h impose un classement sévère sur ce seul chiffre.
+E: V | Un IAH à 9/h se situe dans la catégorie légère.
+JUSTIFICATION: Les seuils respiratoires doivent être complétés par l’évaluation clinique.
+EXPLICATION_A: Le terrain pédiatrique demande une évaluation adaptée.
+EXPLICATION_B: Il est compris entre 15 et 29/h.
+EXPLICATION_C: Le seuil est de 30/h.
+EXPLICATION_D: Le chiffre relève de la catégorie modérée.
+EXPLICATION_E: Il est compris entre 5 et 14/h.
+
+---
+ID: 110-049
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Traitement et efficacité
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 47 ans a un SAHOS documenté à 19/h avec ronflement quotidien et sommeil non réparateur, réparti dans plusieurs positions. Quelles propositions concernant un SAHOS documenté sont exactes ?
+A: F | Une PPC prescrite guérit nécessairement tout symptôme même si elle n’est jamais portée.
+B: V | L’observance, la tolérance et l’efficacité doivent être suivies.
+C: V | Une OAM avance la mandibule pendant le sommeil.
+D: V | La PPC maintient l’ouverture des voies aériennes par une pression appliquée au masque.
+E: F | La perte de poids dispense automatiquement de contrôler les événements résiduels.
+JUSTIFICATION: Le choix du dispositif tient compte de la sévérité, des symptômes et du terrain.
+EXPLICATION_A: L’utilisation réelle est déterminante.
+EXPLICATION_B: Une prescription seule ne prouve pas une utilisation efficace.
+EXPLICATION_C: Elle peut améliorer le dégagement pharyngé.
+EXPLICATION_D: Elle lutte contre le collapsus.
+EXPLICATION_E: Le résultat doit être évalué.
+
+---
+ID: 110-050
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstruction modérée · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 47 ans a un SAHOS documenté à 19/h avec ronflement quotidien et sommeil non réparateur, réparti dans plusieurs positions. Quelles propositions concernant les examens sont exactes ?
+A: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+B: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+C: F | Un ronflement prouve à lui seul un IAH sévère.
+D: F | Le score d’Epworth suffit à confirmer un SAHOS.
+E: V | La polygraphie enregistre flux, efforts et saturation.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: Elle identifie sommeil et micro-éveils.
+EXPLICATION_B: Le dénominateur de l’IAH dépend de l’examen.
+EXPLICATION_C: La sévérité respiratoire doit être mesurée.
+EXPLICATION_D: Il quantifie la somnolence, sans documenter l’obstruction.
+EXPLICATION_E: Elle permet une analyse respiratoire nocturne.
+
+---
+ID: 110-051
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 51 ans a un IAH global à 12/h, avec événements obstructifs presque exclusivement dorsaux et sommeil gêné ; le profil positionnel est confirmé. Quel diagnostic principal est le plus probable ?
+A: V | Un SAHOS à prédominance positionnelle.
+B: F | Une somnolence principalement liée à une dette chronique de sommeil.
+C: F | Un SAHOS sévère de l’adulte.
+D: F | Un SAHOS modéré de l’adulte.
+E: F | Des apnées centrales du sommeil documentées.
+JUSTIFICATION: Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_A: Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_B: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_C: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_D: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_E: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+
+---
+ID: 110-052
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 51 ans a un IAH global à 12/h, avec événements obstructifs presque exclusivement dorsaux et sommeil gêné ; le profil positionnel est confirmé. Quelles propositions interprètent les événements respiratoires ?
+A: V | Obésité ou rétrognatie peuvent réduire le calibre des voies aériennes supérieures.
+B: F | Une désaturation prouve à elle seule une obstruction pharyngée.
+C: F | Une apnée obstructive exige l’absence d’efforts pendant tout l’événement.
+D: V | Les micro-éveils peuvent fragmenter le sommeil.
+E: F | Le SAHOS est seulement une maladie de la respiration diurne.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Le terrain anatomique contribue au mécanisme.
+EXPLICATION_B: Elle ne précise pas le mécanisme.
+EXPLICATION_C: Ce profil évoquerait une apnée centrale.
+EXPLICATION_D: Ils participent au caractère non réparateur.
+EXPLICATION_E: Les événements décrits surviennent au sommeil.
+
+---
+ID: 110-053
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Distribution selon la position
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 51 ans a un IAH global à 12/h, avec événements obstructifs presque exclusivement dorsaux et sommeil gêné ; le profil positionnel est confirmé. Quelles propositions concernant un SAHOS positionnel sont exactes ?
+A: F | Le traitement positionnel consiste à imposer le décubitus dorsal.
+B: F | Une seule nuit passée sur le côté prouve une guérison définitive.
+C: V | Un dispositif peut limiter le décubitus dorsal.
+D: F | Le caractère positionnel exclut la possibilité d’autres traitements.
+E: V | Un contrôle doit vérifier l’efficacité réelle.
+JUSTIFICATION: La dépendance au décubitus doit être documentée et le résultat du traitement contrôlé.
+EXPLICATION_A: Il vise au contraire à l’éviter.
+EXPLICATION_B: Le résultat doit être documenté dans le suivi.
+EXPLICATION_C: Il vise à réduire les événements dans cette position.
+EXPLICATION_D: La stratégie reste individualisée.
+EXPLICATION_E: Le changement de position ne garantit pas la disparition de tous les événements.
+
+---
+ID: 110-054
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Traitement et efficacité
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 51 ans a un IAH global à 12/h, avec événements obstructifs presque exclusivement dorsaux et sommeil gêné ; le profil positionnel est confirmé. Quelles propositions concernant un SAHOS documenté sont exactes ?
+A: F | Une PPC prescrite guérit nécessairement tout symptôme même si elle n’est jamais portée.
+B: F | La perte de poids dispense automatiquement de contrôler les événements résiduels.
+C: V | L’observance, la tolérance et l’efficacité doivent être suivies.
+D: F | Une OAM ne nécessite jamais de contrôle dentaire ou d’efficacité.
+E: V | Une OAM avance la mandibule pendant le sommeil.
+JUSTIFICATION: Le choix du dispositif tient compte de la sévérité, des symptômes et du terrain.
+EXPLICATION_A: L’utilisation réelle est déterminante.
+EXPLICATION_B: Le résultat doit être évalué.
+EXPLICATION_C: Une prescription seule ne prouve pas une utilisation efficace.
+EXPLICATION_D: Des douleurs et déplacements dentaires sont possibles.
+EXPLICATION_E: Elle peut améliorer le dégagement pharyngé.
+
+---
+ID: 110-055
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 51 ans a un IAH global à 12/h, avec événements obstructifs presque exclusivement dorsaux et sommeil gêné ; le profil positionnel est confirmé. Quelles propositions concernant les examens sont exactes ?
+A: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+B: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+C: F | Un ronflement prouve à lui seul un IAH sévère.
+D: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+E: F | Le score d’Epworth suffit à confirmer un SAHOS.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: L’analyse des efforts est nécessaire.
+EXPLICATION_B: Le dénominateur de l’IAH dépend de l’examen.
+EXPLICATION_C: La sévérité respiratoire doit être mesurée.
+EXPLICATION_D: Elle identifie sommeil et micro-éveils.
+EXPLICATION_E: Il quantifie la somnolence, sans documenter l’obstruction.
+
+---
+ID: 110-056
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 43 ans a des pauses obstructives nettement majorées sur le dos, rares sur le côté, avec ronflement et fatigue. Quel diagnostic principal est le plus probable ?
+A: V | Un SAHOS à prédominance positionnelle.
+B: F | Un SAHOS sévère de l’adulte.
+C: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+D: F | Un SAHOS modéré de l’adulte.
+E: F | Une somnolence principalement liée à une dette chronique de sommeil.
+JUSTIFICATION: Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_A: Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_B: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_C: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_D: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_E: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+
+---
+ID: 110-057
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 43 ans a des pauses obstructives nettement majorées sur le dos, rares sur le côté, avec ronflement et fatigue. Quelles propositions interprètent les événements respiratoires ?
+A: F | Une désaturation prouve à elle seule une obstruction pharyngée.
+B: V | Obésité ou rétrognatie peuvent réduire le calibre des voies aériennes supérieures.
+C: V | Des efforts persistants pendant l’arrêt de débit orientent vers une obstruction.
+D: F | Le SAHOS est seulement une maladie de la respiration diurne.
+E: F | Une apnée obstructive exige l’absence d’efforts pendant tout l’événement.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Elle ne précise pas le mécanisme.
+EXPLICATION_B: Le terrain anatomique contribue au mécanisme.
+EXPLICATION_C: Ils distinguent l’obstruction d’une absence de commande.
+EXPLICATION_D: Les événements décrits surviennent au sommeil.
+EXPLICATION_E: Ce profil évoquerait une apnée centrale.
+
+---
+ID: 110-058
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Distribution selon la position
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 43 ans a des pauses obstructives nettement majorées sur le dos, rares sur le côté, avec ronflement et fatigue. Quelles propositions concernant un SAHOS positionnel sont exactes ?
+A: F | Le caractère positionnel exclut la possibilité d’autres traitements.
+B: V | Une prédominance dorsale peut orienter vers un traitement positionnel.
+C: F | Le traitement positionnel consiste à imposer le décubitus dorsal.
+D: V | Un contrôle doit vérifier l’efficacité réelle.
+E: F | Une seule nuit passée sur le côté prouve une guérison définitive.
+JUSTIFICATION: La dépendance au décubitus doit être documentée et le résultat du traitement contrôlé.
+EXPLICATION_A: La stratégie reste individualisée.
+EXPLICATION_B: La fiche décrit cette indication.
+EXPLICATION_C: Il vise au contraire à l’éviter.
+EXPLICATION_D: Le changement de position ne garantit pas la disparition de tous les événements.
+EXPLICATION_E: Le résultat doit être documenté dans le suivi.
+
+---
+ID: 110-059
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Traitement et efficacité
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 43 ans a des pauses obstructives nettement majorées sur le dos, rares sur le côté, avec ronflement et fatigue. Quelles propositions concernant un SAHOS documenté sont exactes ?
+A: V | L’observance, la tolérance et l’efficacité doivent être suivies.
+B: F | Une OAM ne nécessite jamais de contrôle dentaire ou d’efficacité.
+C: F | La perte de poids dispense automatiquement de contrôler les événements résiduels.
+D: F | Une PPC prescrite guérit nécessairement tout symptôme même si elle n’est jamais portée.
+E: V | La PPC maintient l’ouverture des voies aériennes par une pression appliquée au masque.
+JUSTIFICATION: Le choix du dispositif tient compte de la sévérité, des symptômes et du terrain.
+EXPLICATION_A: Une prescription seule ne prouve pas une utilisation efficace.
+EXPLICATION_B: Des douleurs et déplacements dentaires sont possibles.
+EXPLICATION_C: Le résultat doit être évalué.
+EXPLICATION_D: L’utilisation réelle est déterminante.
+EXPLICATION_E: Elle lutte contre le collapsus.
+
+---
+ID: 110-060
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 43 ans a des pauses obstructives nettement majorées sur le dos, rares sur le côté, avec ronflement et fatigue. Quelles propositions concernant les examens sont exactes ?
+A: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+B: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+C: V | La polygraphie enregistre flux, efforts et saturation.
+D: F | Un ronflement prouve à lui seul un IAH sévère.
+E: F | Le score d’Epworth suffit à confirmer un SAHOS.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: Le dénominateur de l’IAH dépend de l’examen.
+EXPLICATION_B: L’analyse des efforts est nécessaire.
+EXPLICATION_C: Elle permet une analyse respiratoire nocturne.
+EXPLICATION_D: La sévérité respiratoire doit être mesurée.
+EXPLICATION_E: Il quantifie la somnolence, sans documenter l’obstruction.
+
+---
+ID: 110-061
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 59 ans a un SAHOS dont l’enregistrement confirme la forte dépendance dorsale, sans événements centraux dominants. Quel diagnostic principal est le plus probable ?
+A: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+B: F | Un SAHOS modéré de l’adulte.
+C: F | Un SAHOS sévère de l’adulte.
+D: F | Des apnées centrales du sommeil documentées.
+E: V | Un SAHOS à prédominance positionnelle.
+JUSTIFICATION: Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_A: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_B: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_C: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_D: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_E: Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+
+---
+ID: 110-062
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 59 ans a un SAHOS dont l’enregistrement confirme la forte dépendance dorsale, sans événements centraux dominants. Quelles propositions interprètent les événements respiratoires ?
+A: F | Une désaturation prouve à elle seule une obstruction pharyngée.
+B: V | Les micro-éveils peuvent fragmenter le sommeil.
+C: V | Des efforts persistants pendant l’arrêt de débit orientent vers une obstruction.
+D: F | Une apnée obstructive exige l’absence d’efforts pendant tout l’événement.
+E: F | Le SAHOS est seulement une maladie de la respiration diurne.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Elle ne précise pas le mécanisme.
+EXPLICATION_B: Ils participent au caractère non réparateur.
+EXPLICATION_C: Ils distinguent l’obstruction d’une absence de commande.
+EXPLICATION_D: Ce profil évoquerait une apnée centrale.
+EXPLICATION_E: Les événements décrits surviennent au sommeil.
+
+---
+ID: 110-063
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Distribution selon la position
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 59 ans a un SAHOS dont l’enregistrement confirme la forte dépendance dorsale, sans événements centraux dominants. Quelles propositions concernant un SAHOS positionnel sont exactes ?
+A: F | Le caractère positionnel exclut la possibilité d’autres traitements.
+B: V | Un dispositif peut limiter le décubitus dorsal.
+C: V | Une prédominance dorsale peut orienter vers un traitement positionnel.
+D: F | Le traitement positionnel consiste à imposer le décubitus dorsal.
+E: F | Une seule nuit passée sur le côté prouve une guérison définitive.
+JUSTIFICATION: La dépendance au décubitus doit être documentée et le résultat du traitement contrôlé.
+EXPLICATION_A: La stratégie reste individualisée.
+EXPLICATION_B: Il vise à réduire les événements dans cette position.
+EXPLICATION_C: La fiche décrit cette indication.
+EXPLICATION_D: Il vise au contraire à l’éviter.
+EXPLICATION_E: Le résultat doit être documenté dans le suivi.
+
+---
+ID: 110-064
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Traitement et efficacité
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 59 ans a un SAHOS dont l’enregistrement confirme la forte dépendance dorsale, sans événements centraux dominants. Quelles propositions concernant un SAHOS documenté sont exactes ?
+A: V | Une OAM avance la mandibule pendant le sommeil.
+B: F | Une PPC prescrite guérit nécessairement tout symptôme même si elle n’est jamais portée.
+C: F | La perte de poids dispense automatiquement de contrôler les événements résiduels.
+D: V | La PPC maintient l’ouverture des voies aériennes par une pression appliquée au masque.
+E: F | Une OAM ne nécessite jamais de contrôle dentaire ou d’efficacité.
+JUSTIFICATION: Le choix du dispositif tient compte de la sévérité, des symptômes et du terrain.
+EXPLICATION_A: Elle peut améliorer le dégagement pharyngé.
+EXPLICATION_B: L’utilisation réelle est déterminante.
+EXPLICATION_C: Le résultat doit être évalué.
+EXPLICATION_D: Elle lutte contre le collapsus.
+EXPLICATION_E: Des douleurs et déplacements dentaires sont possibles.
+
+---
+ID: 110-065
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 59 ans a un SAHOS dont l’enregistrement confirme la forte dépendance dorsale, sans événements centraux dominants. Quelles propositions concernant les examens sont exactes ?
+A: V | La polygraphie enregistre flux, efforts et saturation.
+B: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+C: F | Le score d’Epworth suffit à confirmer un SAHOS.
+D: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+E: F | Un ronflement prouve à lui seul un IAH sévère.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: Elle permet une analyse respiratoire nocturne.
+EXPLICATION_B: Elle identifie sommeil et micro-éveils.
+EXPLICATION_C: Il quantifie la somnolence, sans documenter l’obstruction.
+EXPLICATION_D: L’analyse des efforts est nécessaire.
+EXPLICATION_E: La sévérité respiratoire doit être mesurée.
+
+---
+ID: 110-066
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 55 ans présente une obstruction nocturne symptomatique surtout en décubitus dorsal ; les autres positions réduisent nettement les événements. Quel diagnostic principal est le plus probable ?
+A: F | Des apnées centrales du sommeil documentées.
+B: V | Un SAHOS à prédominance positionnelle.
+C: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+D: F | Une somnolence principalement liée à une dette chronique de sommeil.
+E: F | Un SAHOS modéré de l’adulte.
+JUSTIFICATION: Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_A: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_B: Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_C: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_D: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_E: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+
+---
+ID: 110-067
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 55 ans présente une obstruction nocturne symptomatique surtout en décubitus dorsal ; les autres positions réduisent nettement les événements. Quelles propositions interprètent les événements respiratoires ?
+A: V | Les micro-éveils peuvent fragmenter le sommeil.
+B: F | Une désaturation prouve à elle seule une obstruction pharyngée.
+C: V | Obésité ou rétrognatie peuvent réduire le calibre des voies aériennes supérieures.
+D: F | Le SAHOS est seulement une maladie de la respiration diurne.
+E: V | Des efforts persistants pendant l’arrêt de débit orientent vers une obstruction.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Ils participent au caractère non réparateur.
+EXPLICATION_B: Elle ne précise pas le mécanisme.
+EXPLICATION_C: Le terrain anatomique contribue au mécanisme.
+EXPLICATION_D: Les événements décrits surviennent au sommeil.
+EXPLICATION_E: Ils distinguent l’obstruction d’une absence de commande.
+
+---
+ID: 110-068
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Distribution selon la position
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 55 ans présente une obstruction nocturne symptomatique surtout en décubitus dorsal ; les autres positions réduisent nettement les événements. Quelles propositions concernant un SAHOS positionnel sont exactes ?
+A: V | Une prédominance dorsale peut orienter vers un traitement positionnel.
+B: F | Le caractère positionnel exclut la possibilité d’autres traitements.
+C: V | Un dispositif peut limiter le décubitus dorsal.
+D: V | Un contrôle doit vérifier l’efficacité réelle.
+E: F | Le traitement positionnel consiste à imposer le décubitus dorsal.
+JUSTIFICATION: La dépendance au décubitus doit être documentée et le résultat du traitement contrôlé.
+EXPLICATION_A: La fiche décrit cette indication.
+EXPLICATION_B: La stratégie reste individualisée.
+EXPLICATION_C: Il vise à réduire les événements dans cette position.
+EXPLICATION_D: Le changement de position ne garantit pas la disparition de tous les événements.
+EXPLICATION_E: Il vise au contraire à l’éviter.
+
+---
+ID: 110-069
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Traitement et efficacité
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 55 ans présente une obstruction nocturne symptomatique surtout en décubitus dorsal ; les autres positions réduisent nettement les événements. Quelles propositions concernant un SAHOS documenté sont exactes ?
+A: V | Une OAM avance la mandibule pendant le sommeil.
+B: F | Une OAM ne nécessite jamais de contrôle dentaire ou d’efficacité.
+C: V | La PPC maintient l’ouverture des voies aériennes par une pression appliquée au masque.
+D: V | L’observance, la tolérance et l’efficacité doivent être suivies.
+E: F | La perte de poids dispense automatiquement de contrôler les événements résiduels.
+JUSTIFICATION: Le choix du dispositif tient compte de la sévérité, des symptômes et du terrain.
+EXPLICATION_A: Elle peut améliorer le dégagement pharyngé.
+EXPLICATION_B: Des douleurs et déplacements dentaires sont possibles.
+EXPLICATION_C: Elle lutte contre le collapsus.
+EXPLICATION_D: Une prescription seule ne prouve pas une utilisation efficace.
+EXPLICATION_E: Le résultat doit être évalué.
+
+---
+ID: 110-070
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 55 ans présente une obstruction nocturne symptomatique surtout en décubitus dorsal ; les autres positions réduisent nettement les événements. Quelles propositions concernant les examens sont exactes ?
+A: V | La polygraphie enregistre flux, efforts et saturation.
+B: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+C: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+D: F | Un ronflement prouve à lui seul un IAH sévère.
+E: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: Elle permet une analyse respiratoire nocturne.
+EXPLICATION_B: L’analyse des efforts est nécessaire.
+EXPLICATION_C: Le dénominateur de l’IAH dépend de l’examen.
+EXPLICATION_D: La sévérité respiratoire doit être mesurée.
+EXPLICATION_E: Elle identifie sommeil et micro-éveils.
+
+---
+ID: 110-071
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 46 ans a un profil obstructif positionnel documenté et une gêne nocturne ; l’équipe discute une stratégie évitant le décubitus dorsal. Quel diagnostic principal est le plus probable ?
+A: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+B: F | Une somnolence principalement liée à une dette chronique de sommeil.
+C: F | Des apnées centrales du sommeil documentées.
+D: F | Un SAHOS sévère de l’adulte.
+E: V | Un SAHOS à prédominance positionnelle.
+JUSTIFICATION: Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_A: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_B: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_C: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_D: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+EXPLICATION_E: Les événements obstructifs surviennent surtout en décubitus dorsal, avec nette diminution hors de cette position.
+
+---
+ID: 110-072
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 46 ans a un profil obstructif positionnel documenté et une gêne nocturne ; l’équipe discute une stratégie évitant le décubitus dorsal. Quelles propositions interprètent les événements respiratoires ?
+A: F | Le SAHOS est seulement une maladie de la respiration diurne.
+B: V | Des efforts persistants pendant l’arrêt de débit orientent vers une obstruction.
+C: V | Les micro-éveils peuvent fragmenter le sommeil.
+D: F | Une apnée obstructive exige l’absence d’efforts pendant tout l’événement.
+E: V | Obésité ou rétrognatie peuvent réduire le calibre des voies aériennes supérieures.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Les événements décrits surviennent au sommeil.
+EXPLICATION_B: Ils distinguent l’obstruction d’une absence de commande.
+EXPLICATION_C: Ils participent au caractère non réparateur.
+EXPLICATION_D: Ce profil évoquerait une apnée centrale.
+EXPLICATION_E: Le terrain anatomique contribue au mécanisme.
+
+---
+ID: 110-073
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Distribution selon la position
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 46 ans a un profil obstructif positionnel documenté et une gêne nocturne ; l’équipe discute une stratégie évitant le décubitus dorsal. Quelles propositions concernant un SAHOS positionnel sont exactes ?
+A: V | Une prédominance dorsale peut orienter vers un traitement positionnel.
+B: F | Le caractère positionnel exclut la possibilité d’autres traitements.
+C: F | Une seule nuit passée sur le côté prouve une guérison définitive.
+D: V | Un dispositif peut limiter le décubitus dorsal.
+E: V | Un contrôle doit vérifier l’efficacité réelle.
+JUSTIFICATION: La dépendance au décubitus doit être documentée et le résultat du traitement contrôlé.
+EXPLICATION_A: La fiche décrit cette indication.
+EXPLICATION_B: La stratégie reste individualisée.
+EXPLICATION_C: Le résultat doit être documenté dans le suivi.
+EXPLICATION_D: Il vise à réduire les événements dans cette position.
+EXPLICATION_E: Le changement de position ne garantit pas la disparition de tous les événements.
+
+---
+ID: 110-074
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Traitement et efficacité
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 46 ans a un profil obstructif positionnel documenté et une gêne nocturne ; l’équipe discute une stratégie évitant le décubitus dorsal. Quelles propositions concernant un SAHOS documenté sont exactes ?
+A: V | L’observance, la tolérance et l’efficacité doivent être suivies.
+B: F | Une PPC prescrite guérit nécessairement tout symptôme même si elle n’est jamais portée.
+C: V | Une OAM avance la mandibule pendant le sommeil.
+D: V | La PPC maintient l’ouverture des voies aériennes par une pression appliquée au masque.
+E: F | La perte de poids dispense automatiquement de contrôler les événements résiduels.
+JUSTIFICATION: Le choix du dispositif tient compte de la sévérité, des symptômes et du terrain.
+EXPLICATION_A: Une prescription seule ne prouve pas une utilisation efficace.
+EXPLICATION_B: L’utilisation réelle est déterminante.
+EXPLICATION_C: Elle peut améliorer le dégagement pharyngé.
+EXPLICATION_D: Elle lutte contre le collapsus.
+EXPLICATION_E: Le résultat doit être évalué.
+
+---
+ID: 110-075
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Dépendance dorsale · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 46 ans a un profil obstructif positionnel documenté et une gêne nocturne ; l’équipe discute une stratégie évitant le décubitus dorsal. Quelles propositions concernant les examens sont exactes ?
+A: F | Le score d’Epworth suffit à confirmer un SAHOS.
+B: V | La polygraphie enregistre flux, efforts et saturation.
+C: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+D: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+E: F | Un ronflement prouve à lui seul un IAH sévère.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: Il quantifie la somnolence, sans documenter l’obstruction.
+EXPLICATION_B: Elle permet une analyse respiratoire nocturne.
+EXPLICATION_C: Elle identifie sommeil et micro-éveils.
+EXPLICATION_D: Le dénominateur de l’IAH dépend de l’examen.
+EXPLICATION_E: La sévérité respiratoire doit être mesurée.
+
+---
+ID: 110-076
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un enfant de sept ans ronfle, présente des pauses avec efforts et une hypertrophie amygdalienne majeure. L’évaluation spécialisée confirme un SAHOS sans appliquer automatiquement les seuils adultes. Quel diagnostic principal est le plus probable ?
+A: F | Un SAHOS à prédominance positionnelle.
+B: F | Une somnolence principalement liée à une dette chronique de sommeil.
+C: F | Un SAHOS sévère de l’adulte.
+D: F | Un SAHOS modéré de l’adulte.
+E: V | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+JUSTIFICATION: Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_A: Le profil positionnel repose sur la distribution des événements. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_B: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_C: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_D: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_E: Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+
+---
+ID: 110-077
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Obstacle chez l’enfant
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un enfant de sept ans ronfle, présente des pauses avec efforts et une hypertrophie amygdalienne majeure. L’évaluation spécialisée confirme un SAHOS sans appliquer automatiquement les seuils adultes. Quelles propositions concernant le terrain pédiatrique sont exactes ?
+A: V | La persistance d’efforts oriente vers un mécanisme obstructif.
+B: V | Une évaluation ORL aide à rechercher un obstacle.
+C: F | Un ronflement suffit à prouver une hypertrophie responsable sans examen.
+D: F | Une chirurgie est à imposer sans caractériser l’obstacle ni les symptômes.
+E: F | L’obésité est indispensable à tout SAHOS de l’enfant.
+JUSTIFICATION: Une hypertrophie des voies aériennes peut contribuer à un SAHOS pédiatrique.
+EXPLICATION_A: Le principe de distinction avec une apnée centrale demeure.
+EXPLICATION_B: Le traitement dépend du terrain anatomique.
+EXPLICATION_C: La plainte doit être documentée et examinée.
+EXPLICATION_D: L’indication doit être évaluée.
+EXPLICATION_E: Un obstacle anatomique peut suffire.
+
+---
+ID: 110-078
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un enfant de sept ans ronfle, présente des pauses avec efforts et une hypertrophie amygdalienne majeure. L’évaluation spécialisée confirme un SAHOS sans appliquer automatiquement les seuils adultes. Quelles propositions interprètent les événements respiratoires ?
+A: V | Les micro-éveils peuvent fragmenter le sommeil.
+B: V | Obésité ou rétrognatie peuvent réduire le calibre des voies aériennes supérieures.
+C: F | Une désaturation prouve à elle seule une obstruction pharyngée.
+D: F | Une apnée obstructive exige l’absence d’efforts pendant tout l’événement.
+E: F | Le SAHOS est seulement une maladie de la respiration diurne.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Ils participent au caractère non réparateur.
+EXPLICATION_B: Le terrain anatomique contribue au mécanisme.
+EXPLICATION_C: Elle ne précise pas le mécanisme.
+EXPLICATION_D: Ce profil évoquerait une apnée centrale.
+EXPLICATION_E: Les événements décrits surviennent au sommeil.
+
+---
+ID: 110-079
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un enfant de sept ans ronfle, présente des pauses avec efforts et une hypertrophie amygdalienne majeure. L’évaluation spécialisée confirme un SAHOS sans appliquer automatiquement les seuils adultes. Quelles propositions concernant les examens sont exactes ?
+A: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+B: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+C: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+D: F | Le score d’Epworth suffit à confirmer un SAHOS.
+E: F | Un ronflement prouve à lui seul un IAH sévère.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: Le dénominateur de l’IAH dépend de l’examen.
+EXPLICATION_B: L’analyse des efforts est nécessaire.
+EXPLICATION_C: Elle identifie sommeil et micro-éveils.
+EXPLICATION_D: Il quantifie la somnolence, sans documenter l’obstruction.
+EXPLICATION_E: La sévérité respiratoire doit être mesurée.
+
+---
+ID: 110-080
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Limites des symptômes isolés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un enfant de sept ans ronfle, présente des pauses avec efforts et une hypertrophie amygdalienne majeure. L’évaluation spécialisée confirme un SAHOS sans appliquer automatiquement les seuils adultes. Quelles propositions concernant l’interprétation du bilan sont exactes ?
+A: V | Une désaturation peut accompagner plusieurs types d’événements.
+B: F | La fatigue et la somnolence désignent toujours exactement le même symptôme.
+C: F | Un événement mixte reste sans effort pendant toute sa durée par définition.
+D: F | L’absence de ronflement suffit à exclure toute apnée centrale.
+E: V | L’évaluation clinique et l’enregistrement apportent des informations complémentaires.
+JUSTIFICATION: Symptômes, flux, efforts et sommeil doivent être confrontés sans conclure sur un seul signe.
+EXPLICATION_A: Elle n’est pas spécifique d’une obstruction.
+EXPLICATION_B: Une baisse d’énergie ne signifie pas nécessairement un besoin de dormir.
+EXPLICATION_C: Il débute centralement puis comporte des efforts.
+EXPLICATION_D: Le mécanisme central ne repose pas sur le ronflement.
+EXPLICATION_E: La plainte seule ne quantifie pas les événements.
+
+---
+ID: 110-081
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une enfant de neuf ans non obèse a une obstruction nocturne documentée et des amygdales volumineuses ; un avis ORL est organisé. Quel diagnostic principal est le plus probable ?
+A: V | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+B: F | Des apnées centrales du sommeil documentées.
+C: F | Un SAHOS à prédominance positionnelle.
+D: F | Un SAHOS sévère de l’adulte.
+E: F | Un SAHOS modéré de l’adulte.
+JUSTIFICATION: Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_A: Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_B: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_C: Le profil positionnel repose sur la distribution des événements. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_D: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_E: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+
+---
+ID: 110-082
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Obstacle chez l’enfant
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une enfant de neuf ans non obèse a une obstruction nocturne documentée et des amygdales volumineuses ; un avis ORL est organisé. Quelles propositions concernant le terrain pédiatrique sont exactes ?
+A: F | Un ronflement suffit à prouver une hypertrophie responsable sans examen.
+B: F | Une chirurgie est à imposer sans caractériser l’obstacle ni les symptômes.
+C: V | Une évaluation ORL aide à rechercher un obstacle.
+D: V | Une hypertrophie amygdalienne peut participer à l’obstruction.
+E: F | L’obésité est indispensable à tout SAHOS de l’enfant.
+JUSTIFICATION: Une hypertrophie des voies aériennes peut contribuer à un SAHOS pédiatrique.
+EXPLICATION_A: La plainte doit être documentée et examinée.
+EXPLICATION_B: L’indication doit être évaluée.
+EXPLICATION_C: Le traitement dépend du terrain anatomique.
+EXPLICATION_D: La fiche souligne cette cause chez l’enfant.
+EXPLICATION_E: Un obstacle anatomique peut suffire.
+
+---
+ID: 110-083
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une enfant de neuf ans non obèse a une obstruction nocturne documentée et des amygdales volumineuses ; un avis ORL est organisé. Quelles propositions interprètent les événements respiratoires ?
+A: F | Une désaturation prouve à elle seule une obstruction pharyngée.
+B: F | Une apnée obstructive exige l’absence d’efforts pendant tout l’événement.
+C: V | Obésité ou rétrognatie peuvent réduire le calibre des voies aériennes supérieures.
+D: V | Des efforts persistants pendant l’arrêt de débit orientent vers une obstruction.
+E: F | Le SAHOS est seulement une maladie de la respiration diurne.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Elle ne précise pas le mécanisme.
+EXPLICATION_B: Ce profil évoquerait une apnée centrale.
+EXPLICATION_C: Le terrain anatomique contribue au mécanisme.
+EXPLICATION_D: Ils distinguent l’obstruction d’une absence de commande.
+EXPLICATION_E: Les événements décrits surviennent au sommeil.
+
+---
+ID: 110-084
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une enfant de neuf ans non obèse a une obstruction nocturne documentée et des amygdales volumineuses ; un avis ORL est organisé. Quelles propositions concernant les examens sont exactes ?
+A: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+B: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+C: V | La polygraphie enregistre flux, efforts et saturation.
+D: F | Un ronflement prouve à lui seul un IAH sévère.
+E: F | Le score d’Epworth suffit à confirmer un SAHOS.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: Le dénominateur de l’IAH dépend de l’examen.
+EXPLICATION_B: L’analyse des efforts est nécessaire.
+EXPLICATION_C: Elle permet une analyse respiratoire nocturne.
+EXPLICATION_D: La sévérité respiratoire doit être mesurée.
+EXPLICATION_E: Il quantifie la somnolence, sans documenter l’obstruction.
+
+---
+ID: 110-085
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Limites des symptômes isolés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une enfant de neuf ans non obèse a une obstruction nocturne documentée et des amygdales volumineuses ; un avis ORL est organisé. Quelles propositions concernant l’interprétation du bilan sont exactes ?
+A: F | L’absence de ronflement suffit à exclure toute apnée centrale.
+B: F | Un événement mixte reste sans effort pendant toute sa durée par définition.
+C: V | L’évaluation clinique et l’enregistrement apportent des informations complémentaires.
+D: F | La fatigue et la somnolence désignent toujours exactement le même symptôme.
+E: V | L’enregistrement des efforts est nécessaire pour classer le mécanisme d’une apnée.
+JUSTIFICATION: Symptômes, flux, efforts et sommeil doivent être confrontés sans conclure sur un seul signe.
+EXPLICATION_A: Le mécanisme central ne repose pas sur le ronflement.
+EXPLICATION_B: Il débute centralement puis comporte des efforts.
+EXPLICATION_C: La plainte seule ne quantifie pas les événements.
+EXPLICATION_D: Une baisse d’énergie ne signifie pas nécessairement un besoin de dormir.
+EXPLICATION_E: Le flux seul n’en précise pas la cause.
+
+---
+ID: 110-086
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un enfant de six ans a un sommeil fragmenté avec ronflements et pauses obstructives ; le bilan retrouve un obstacle amygdalien. Quel diagnostic principal est le plus probable ?
+A: F | Un SAHOS à prédominance positionnelle.
+B: F | Un SAHOS modéré de l’adulte.
+C: V | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+D: F | Une somnolence principalement liée à une dette chronique de sommeil.
+E: F | Des apnées centrales du sommeil documentées.
+JUSTIFICATION: Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_A: Le profil positionnel repose sur la distribution des événements. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_B: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_C: Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_D: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_E: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+
+---
+ID: 110-087
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Obstacle chez l’enfant
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un enfant de six ans a un sommeil fragmenté avec ronflements et pauses obstructives ; le bilan retrouve un obstacle amygdalien. Quelles propositions concernant le terrain pédiatrique sont exactes ?
+A: F | Une chirurgie est à imposer sans caractériser l’obstacle ni les symptômes.
+B: V | Une hypertrophie amygdalienne peut participer à l’obstruction.
+C: F | L’obésité est indispensable à tout SAHOS de l’enfant.
+D: V | La persistance d’efforts oriente vers un mécanisme obstructif.
+E: F | Un ronflement suffit à prouver une hypertrophie responsable sans examen.
+JUSTIFICATION: Une hypertrophie des voies aériennes peut contribuer à un SAHOS pédiatrique.
+EXPLICATION_A: L’indication doit être évaluée.
+EXPLICATION_B: La fiche souligne cette cause chez l’enfant.
+EXPLICATION_C: Un obstacle anatomique peut suffire.
+EXPLICATION_D: Le principe de distinction avec une apnée centrale demeure.
+EXPLICATION_E: La plainte doit être documentée et examinée.
+
+---
+ID: 110-088
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un enfant de six ans a un sommeil fragmenté avec ronflements et pauses obstructives ; le bilan retrouve un obstacle amygdalien. Quelles propositions interprètent les événements respiratoires ?
+A: F | Une désaturation prouve à elle seule une obstruction pharyngée.
+B: F | Une apnée obstructive exige l’absence d’efforts pendant tout l’événement.
+C: F | Le SAHOS est seulement une maladie de la respiration diurne.
+D: V | Les micro-éveils peuvent fragmenter le sommeil.
+E: V | Des efforts persistants pendant l’arrêt de débit orientent vers une obstruction.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Elle ne précise pas le mécanisme.
+EXPLICATION_B: Ce profil évoquerait une apnée centrale.
+EXPLICATION_C: Les événements décrits surviennent au sommeil.
+EXPLICATION_D: Ils participent au caractère non réparateur.
+EXPLICATION_E: Ils distinguent l’obstruction d’une absence de commande.
+
+---
+ID: 110-089
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un enfant de six ans a un sommeil fragmenté avec ronflements et pauses obstructives ; le bilan retrouve un obstacle amygdalien. Quelles propositions concernant les examens sont exactes ?
+A: F | Un ronflement prouve à lui seul un IAH sévère.
+B: F | Le score d’Epworth suffit à confirmer un SAHOS.
+C: V | La polygraphie enregistre flux, efforts et saturation.
+D: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+E: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: La sévérité respiratoire doit être mesurée.
+EXPLICATION_B: Il quantifie la somnolence, sans documenter l’obstruction.
+EXPLICATION_C: Elle permet une analyse respiratoire nocturne.
+EXPLICATION_D: L’analyse des efforts est nécessaire.
+EXPLICATION_E: Elle identifie sommeil et micro-éveils.
+
+---
+ID: 110-090
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Limites des symptômes isolés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un enfant de six ans a un sommeil fragmenté avec ronflements et pauses obstructives ; le bilan retrouve un obstacle amygdalien. Quelles propositions concernant l’interprétation du bilan sont exactes ?
+A: F | La fatigue et la somnolence désignent toujours exactement le même symptôme.
+B: F | Un événement mixte reste sans effort pendant toute sa durée par définition.
+C: F | L’absence de ronflement suffit à exclure toute apnée centrale.
+D: V | L’enregistrement des efforts est nécessaire pour classer le mécanisme d’une apnée.
+E: V | Une désaturation peut accompagner plusieurs types d’événements.
+JUSTIFICATION: Symptômes, flux, efforts et sommeil doivent être confrontés sans conclure sur un seul signe.
+EXPLICATION_A: Une baisse d’énergie ne signifie pas nécessairement un besoin de dormir.
+EXPLICATION_B: Il débute centralement puis comporte des efforts.
+EXPLICATION_C: Le mécanisme central ne repose pas sur le ronflement.
+EXPLICATION_D: Le flux seul n’en précise pas la cause.
+EXPLICATION_E: Elle n’est pas spécifique d’une obstruction.
+
+---
+ID: 110-091
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une enfant de dix ans a un SAHOS confirmé avec hypertrophie amygdalienne, sans mécanisme central dominant. Quel diagnostic principal est le plus probable ?
+A: V | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+B: F | Un SAHOS à prédominance positionnelle.
+C: F | Un SAHOS sévère de l’adulte.
+D: F | Une somnolence principalement liée à une dette chronique de sommeil.
+E: F | Des apnées centrales du sommeil documentées.
+JUSTIFICATION: Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_A: Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_B: Le profil positionnel repose sur la distribution des événements. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_C: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_D: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_E: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+
+---
+ID: 110-092
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Obstacle chez l’enfant
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une enfant de dix ans a un SAHOS confirmé avec hypertrophie amygdalienne, sans mécanisme central dominant. Quelles propositions concernant le terrain pédiatrique sont exactes ?
+A: V | Une évaluation ORL aide à rechercher un obstacle.
+B: F | Une chirurgie est à imposer sans caractériser l’obstacle ni les symptômes.
+C: F | Un ronflement suffit à prouver une hypertrophie responsable sans examen.
+D: V | La persistance d’efforts oriente vers un mécanisme obstructif.
+E: V | Une hypertrophie amygdalienne peut participer à l’obstruction.
+JUSTIFICATION: Une hypertrophie des voies aériennes peut contribuer à un SAHOS pédiatrique.
+EXPLICATION_A: Le traitement dépend du terrain anatomique.
+EXPLICATION_B: L’indication doit être évaluée.
+EXPLICATION_C: La plainte doit être documentée et examinée.
+EXPLICATION_D: Le principe de distinction avec une apnée centrale demeure.
+EXPLICATION_E: La fiche souligne cette cause chez l’enfant.
+
+---
+ID: 110-093
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une enfant de dix ans a un SAHOS confirmé avec hypertrophie amygdalienne, sans mécanisme central dominant. Quelles propositions interprètent les événements respiratoires ?
+A: F | Une désaturation prouve à elle seule une obstruction pharyngée.
+B: V | Des efforts persistants pendant l’arrêt de débit orientent vers une obstruction.
+C: V | Les micro-éveils peuvent fragmenter le sommeil.
+D: F | Le SAHOS est seulement une maladie de la respiration diurne.
+E: V | Obésité ou rétrognatie peuvent réduire le calibre des voies aériennes supérieures.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Elle ne précise pas le mécanisme.
+EXPLICATION_B: Ils distinguent l’obstruction d’une absence de commande.
+EXPLICATION_C: Ils participent au caractère non réparateur.
+EXPLICATION_D: Les événements décrits surviennent au sommeil.
+EXPLICATION_E: Le terrain anatomique contribue au mécanisme.
+
+---
+ID: 110-094
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une enfant de dix ans a un SAHOS confirmé avec hypertrophie amygdalienne, sans mécanisme central dominant. Quelles propositions concernant les examens sont exactes ?
+A: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+B: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+C: F | Un ronflement prouve à lui seul un IAH sévère.
+D: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+E: V | La polygraphie enregistre flux, efforts et saturation.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: L’analyse des efforts est nécessaire.
+EXPLICATION_B: Le dénominateur de l’IAH dépend de l’examen.
+EXPLICATION_C: La sévérité respiratoire doit être mesurée.
+EXPLICATION_D: Elle identifie sommeil et micro-éveils.
+EXPLICATION_E: Elle permet une analyse respiratoire nocturne.
+
+---
+ID: 110-095
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Limites des symptômes isolés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une enfant de dix ans a un SAHOS confirmé avec hypertrophie amygdalienne, sans mécanisme central dominant. Quelles propositions concernant l’interprétation du bilan sont exactes ?
+A: V | L’enregistrement des efforts est nécessaire pour classer le mécanisme d’une apnée.
+B: F | Un événement mixte reste sans effort pendant toute sa durée par définition.
+C: V | L’évaluation clinique et l’enregistrement apportent des informations complémentaires.
+D: V | Une désaturation peut accompagner plusieurs types d’événements.
+E: F | L’absence de ronflement suffit à exclure toute apnée centrale.
+JUSTIFICATION: Symptômes, flux, efforts et sommeil doivent être confrontés sans conclure sur un seul signe.
+EXPLICATION_A: Le flux seul n’en précise pas la cause.
+EXPLICATION_B: Il débute centralement puis comporte des efforts.
+EXPLICATION_C: La plainte seule ne quantifie pas les événements.
+EXPLICATION_D: Elle n’est pas spécifique d’une obstruction.
+EXPLICATION_E: Le mécanisme central ne repose pas sur le ronflement.
+
+---
+ID: 110-096
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un enfant de huit ans présente ronflement quotidien et événements obstructifs confirmés, associés à une hypertrophie vélo-amygdalienne. Quel diagnostic principal est le plus probable ?
+A: F | Une somnolence principalement liée à une dette chronique de sommeil.
+B: F | Un SAHOS sévère de l’adulte.
+C: F | Un SAHOS modéré de l’adulte.
+D: V | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+E: F | Des apnées centrales du sommeil documentées.
+JUSTIFICATION: Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_A: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_B: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_C: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_D: Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+EXPLICATION_E: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : Le mécanisme obstructif est documenté chez un enfant avec obstacle amygdalien concordant.
+
+---
+ID: 110-097
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Obstacle chez l’enfant
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un enfant de huit ans présente ronflement quotidien et événements obstructifs confirmés, associés à une hypertrophie vélo-amygdalienne. Quelles propositions concernant le terrain pédiatrique sont exactes ?
+A: F | Un ronflement suffit à prouver une hypertrophie responsable sans examen.
+B: V | Une hypertrophie amygdalienne peut participer à l’obstruction.
+C: F | L’obésité est indispensable à tout SAHOS de l’enfant.
+D: V | La persistance d’efforts oriente vers un mécanisme obstructif.
+E: V | Une évaluation ORL aide à rechercher un obstacle.
+JUSTIFICATION: Une hypertrophie des voies aériennes peut contribuer à un SAHOS pédiatrique.
+EXPLICATION_A: La plainte doit être documentée et examinée.
+EXPLICATION_B: La fiche souligne cette cause chez l’enfant.
+EXPLICATION_C: Un obstacle anatomique peut suffire.
+EXPLICATION_D: Le principe de distinction avec une apnée centrale demeure.
+EXPLICATION_E: Le traitement dépend du terrain anatomique.
+
+---
+ID: 110-098
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Mécanisme obstructif
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un enfant de huit ans présente ronflement quotidien et événements obstructifs confirmés, associés à une hypertrophie vélo-amygdalienne. Quelles propositions interprètent les événements respiratoires ?
+A: V | Des efforts persistants pendant l’arrêt de débit orientent vers une obstruction.
+B: V | Les micro-éveils peuvent fragmenter le sommeil.
+C: V | Obésité ou rétrognatie peuvent réduire le calibre des voies aériennes supérieures.
+D: F | Une apnée obstructive exige l’absence d’efforts pendant tout l’événement.
+E: F | Le SAHOS est seulement une maladie de la respiration diurne.
+JUSTIFICATION: Le collapsus pharyngé interrompt le flux malgré la persistance des efforts.
+EXPLICATION_A: Ils distinguent l’obstruction d’une absence de commande.
+EXPLICATION_B: Ils participent au caractère non réparateur.
+EXPLICATION_C: Le terrain anatomique contribue au mécanisme.
+EXPLICATION_D: Ce profil évoquerait une apnée centrale.
+EXPLICATION_E: Les événements décrits surviennent au sommeil.
+
+---
+ID: 110-099
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un enfant de huit ans présente ronflement quotidien et événements obstructifs confirmés, associés à une hypertrophie vélo-amygdalienne. Quelles propositions concernant les examens sont exactes ?
+A: F | Un ronflement prouve à lui seul un IAH sévère.
+B: V | La polygraphie enregistre flux, efforts et saturation.
+C: F | Le score d’Epworth suffit à confirmer un SAHOS.
+D: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+E: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: La sévérité respiratoire doit être mesurée.
+EXPLICATION_B: Elle permet une analyse respiratoire nocturne.
+EXPLICATION_C: Il quantifie la somnolence, sans documenter l’obstruction.
+EXPLICATION_D: Le dénominateur de l’IAH dépend de l’examen.
+EXPLICATION_E: Elle identifie sommeil et micro-éveils.
+
+---
+ID: 110-100
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Obstacle pédiatrique · Limites des symptômes isolés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un enfant de huit ans présente ronflement quotidien et événements obstructifs confirmés, associés à une hypertrophie vélo-amygdalienne. Quelles propositions concernant l’interprétation du bilan sont exactes ?
+A: V | L’enregistrement des efforts est nécessaire pour classer le mécanisme d’une apnée.
+B: V | Une désaturation peut accompagner plusieurs types d’événements.
+C: F | La fatigue et la somnolence désignent toujours exactement le même symptôme.
+D: V | L’évaluation clinique et l’enregistrement apportent des informations complémentaires.
+E: F | Un événement mixte reste sans effort pendant toute sa durée par définition.
+JUSTIFICATION: Symptômes, flux, efforts et sommeil doivent être confrontés sans conclure sur un seul signe.
+EXPLICATION_A: Le flux seul n’en précise pas la cause.
+EXPLICATION_B: Elle n’est pas spécifique d’une obstruction.
+EXPLICATION_C: Une baisse d’énergie ne signifie pas nécessairement un besoin de dormir.
+EXPLICATION_D: La plainte seule ne quantifie pas les événements.
+EXPLICATION_E: Il débute centralement puis comporte des efforts.
+
+---
+ID: 110-101
+TYPE: QRU
+RANG: A
+FORMAT: CAS
+THEME: Commande ventilatoire · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 70 ans a des arrêts de débit nocturnes de plus de dix secondes sans effort thoracoabdominal ; le bilan retient des événements centraux dominants. Quel diagnostic principal est le plus probable ?
+A: F | Un SAHOS modéré de l’adulte.
+B: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+C: V | Des apnées centrales du sommeil documentées.
+D: F | Un SAHOS sévère de l’adulte.
+E: F | Un SAHOS à prédominance positionnelle.
+JUSTIFICATION: L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_A: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_B: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_C: L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_D: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_E: Le profil positionnel repose sur la distribution des événements. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+
+---
+ID: 110-102
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Commande ventilatoire · Absence de commande
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 70 ans a des arrêts de débit nocturnes de plus de dix secondes sans effort thoracoabdominal ; le bilan retient des événements centraux dominants. Quelles propositions interprètent une apnée sans effort ?
+A: V | L’analyse des sangles aide à distinguer central et obstructif.
+B: F | L’absence d’effort prouve une fermeture pharyngée isolée avec commande conservée.
+C: F | Toute apnée avec désaturation est nécessairement obstructive.
+D: V | Un événement initialement central puis avec efforts est qualifié de mixte.
+E: F | Une chirurgie amygdalienne constitue la réponse automatique à toute apnée centrale.
+JUSTIFICATION: L’absence d’efforts pendant l’arrêt de débit oriente vers un mécanisme central.
+EXPLICATION_A: Le flux seul ne suffit pas.
+EXPLICATION_B: Elle évoque au contraire une absence de commande.
+EXPLICATION_C: Les événements centraux peuvent aussi désaturer.
+EXPLICATION_D: La fiche décrit cette succession.
+EXPLICATION_E: Le mécanisme doit guider la prise en charge.
+
+---
+ID: 110-103
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Commande ventilatoire · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 70 ans a des arrêts de débit nocturnes de plus de dix secondes sans effort thoracoabdominal ; le bilan retient des événements centraux dominants. Quelles propositions concernant les examens sont exactes ?
+A: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+B: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+C: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+D: F | Un ronflement prouve à lui seul un IAH sévère.
+E: F | Le score d’Epworth suffit à confirmer un SAHOS.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: L’analyse des efforts est nécessaire.
+EXPLICATION_B: Elle identifie sommeil et micro-éveils.
+EXPLICATION_C: Le dénominateur de l’IAH dépend de l’examen.
+EXPLICATION_D: La sévérité respiratoire doit être mesurée.
+EXPLICATION_E: Il quantifie la somnolence, sans documenter l’obstruction.
+
+---
+ID: 110-104
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Commande ventilatoire · Vigilance et facteurs associés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 70 ans a des arrêts de débit nocturnes de plus de dix secondes sans effort thoracoabdominal ; le bilan retient des événements centraux dominants. Quelles propositions concernant l’évaluation sont exactes ?
+A: V | Des médicaments sédatifs et l’alcool doivent être recherchés.
+B: F | L’absence de somnolence ressentie exclut tout SAHOS.
+C: V | Des endormissements involontaires pendant la conduite constituent un signal de danger.
+D: F | Un score d’Epworth normal neutralise des pauses respiratoires constatées.
+E: F | Toute fatigue correspond nécessairement à un besoin incontrôlable de dormir.
+JUSTIFICATION: La somnolence impose d’analyser le sommeil réel, les expositions et le risque quotidien.
+EXPLICATION_A: Ils peuvent altérer la vigilance ou aggraver des événements respiratoires.
+EXPLICATION_B: Une proportion des patients n’a pas de somnolence pathologique.
+EXPLICATION_C: Le risque d’accident nécessite une évaluation et une sécurisation.
+EXPLICATION_D: Il ne remplace pas l’analyse respiratoire.
+EXPLICATION_E: Asthénie et somnolence doivent être distinguées.
+
+---
+ID: 110-105
+TYPE: QCM
+RANG: A
+FORMAT: CAS
+THEME: Commande ventilatoire · Limites des symptômes isolés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 70 ans a des arrêts de débit nocturnes de plus de dix secondes sans effort thoracoabdominal ; le bilan retient des événements centraux dominants. Quelles propositions concernant l’interprétation du bilan sont exactes ?
+A: V | L’évaluation clinique et l’enregistrement apportent des informations complémentaires.
+B: F | Un événement mixte reste sans effort pendant toute sa durée par définition.
+C: V | Une désaturation peut accompagner plusieurs types d’événements.
+D: F | La fatigue et la somnolence désignent toujours exactement le même symptôme.
+E: F | L’absence de ronflement suffit à exclure toute apnée centrale.
+JUSTIFICATION: Symptômes, flux, efforts et sommeil doivent être confrontés sans conclure sur un seul signe.
+EXPLICATION_A: La plainte seule ne quantifie pas les événements.
+EXPLICATION_B: Il débute centralement puis comporte des efforts.
+EXPLICATION_C: Elle n’est pas spécifique d’une obstruction.
+EXPLICATION_D: Une baisse d’énergie ne signifie pas nécessairement un besoin de dormir.
+EXPLICATION_E: Le mécanisme central ne repose pas sur le ronflement.
+
+---
+ID: 110-106
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 65 ans présente des apnées documentées sans mouvements respiratoires pendant l’arrêt de débit, sans obstruction dominante. Quel diagnostic principal est le plus probable ?
+A: F | Un SAHOS à prédominance positionnelle.
+B: F | Un SAHOS modéré de l’adulte.
+C: F | Une somnolence principalement liée à une dette chronique de sommeil.
+D: V | Des apnées centrales du sommeil documentées.
+E: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+JUSTIFICATION: L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_A: Le profil positionnel repose sur la distribution des événements. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_B: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_C: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_D: L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_E: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+
+---
+ID: 110-107
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · Absence de commande
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 65 ans présente des apnées documentées sans mouvements respiratoires pendant l’arrêt de débit, sans obstruction dominante. Quelles propositions interprètent une apnée sans effort ?
+A: F | Une chirurgie amygdalienne constitue la réponse automatique à toute apnée centrale.
+B: F | L’absence d’effort prouve une fermeture pharyngée isolée avec commande conservée.
+C: F | Toute apnée avec désaturation est nécessairement obstructive.
+D: V | L’arrêt de débit sans effort est le profil central décrit.
+E: V | Un événement initialement central puis avec efforts est qualifié de mixte.
+JUSTIFICATION: L’absence d’efforts pendant l’arrêt de débit oriente vers un mécanisme central.
+EXPLICATION_A: Le mécanisme doit guider la prise en charge.
+EXPLICATION_B: Elle évoque au contraire une absence de commande.
+EXPLICATION_C: Les événements centraux peuvent aussi désaturer.
+EXPLICATION_D: La commande ventilatoire est diminuée ou abolie.
+EXPLICATION_E: La fiche décrit cette succession.
+
+---
+ID: 110-108
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 65 ans présente des apnées documentées sans mouvements respiratoires pendant l’arrêt de débit, sans obstruction dominante. Quelles propositions concernant les examens sont exactes ?
+A: F | Un ronflement prouve à lui seul un IAH sévère.
+B: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+C: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+D: F | Le score d’Epworth suffit à confirmer un SAHOS.
+E: V | La polygraphie enregistre flux, efforts et saturation.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: La sévérité respiratoire doit être mesurée.
+EXPLICATION_B: L’analyse des efforts est nécessaire.
+EXPLICATION_C: Le dénominateur de l’IAH dépend de l’examen.
+EXPLICATION_D: Il quantifie la somnolence, sans documenter l’obstruction.
+EXPLICATION_E: Elle permet une analyse respiratoire nocturne.
+
+---
+ID: 110-109
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · Vigilance et facteurs associés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 65 ans présente des apnées documentées sans mouvements respiratoires pendant l’arrêt de débit, sans obstruction dominante. Quelles propositions concernant l’évaluation sont exactes ?
+A: F | Toute fatigue correspond nécessairement à un besoin incontrôlable de dormir.
+B: F | Un score d’Epworth normal neutralise des pauses respiratoires constatées.
+C: V | Une dette de sommeil peut expliquer une somnolence.
+D: F | L’absence de somnolence ressentie exclut tout SAHOS.
+E: V | Des endormissements involontaires pendant la conduite constituent un signal de danger.
+JUSTIFICATION: La somnolence impose d’analyser le sommeil réel, les expositions et le risque quotidien.
+EXPLICATION_A: Asthénie et somnolence doivent être distinguées.
+EXPLICATION_B: Il ne remplace pas l’analyse respiratoire.
+EXPLICATION_C: Elle fait partie des diagnostics différentiels.
+EXPLICATION_D: Une proportion des patients n’a pas de somnolence pathologique.
+EXPLICATION_E: Le risque d’accident nécessite une évaluation et une sécurisation.
+
+---
+ID: 110-110
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · Limites des symptômes isolés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 65 ans présente des apnées documentées sans mouvements respiratoires pendant l’arrêt de débit, sans obstruction dominante. Quelles propositions concernant l’interprétation du bilan sont exactes ?
+A: F | La fatigue et la somnolence désignent toujours exactement le même symptôme.
+B: V | L’évaluation clinique et l’enregistrement apportent des informations complémentaires.
+C: F | Un événement mixte reste sans effort pendant toute sa durée par définition.
+D: F | L’absence de ronflement suffit à exclure toute apnée centrale.
+E: V | L’enregistrement des efforts est nécessaire pour classer le mécanisme d’une apnée.
+JUSTIFICATION: Symptômes, flux, efforts et sommeil doivent être confrontés sans conclure sur un seul signe.
+EXPLICATION_A: Une baisse d’énergie ne signifie pas nécessairement un besoin de dormir.
+EXPLICATION_B: La plainte seule ne quantifie pas les événements.
+EXPLICATION_C: Il débute centralement puis comporte des efforts.
+EXPLICATION_D: Le mécanisme central ne repose pas sur le ronflement.
+EXPLICATION_E: Le flux seul n’en précise pas la cause.
+
+---
+ID: 110-111
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 61 ans a un enregistrement montrant des arrêts de commande ventilatoire au sommeil ; les sangles restent immobiles durant les événements. Quel diagnostic principal est le plus probable ?
+A: F | Un SAHOS sévère de l’adulte.
+B: F | Un SAHOS à prédominance positionnelle.
+C: F | Une somnolence principalement liée à une dette chronique de sommeil.
+D: V | Des apnées centrales du sommeil documentées.
+E: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+JUSTIFICATION: L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_A: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_B: Le profil positionnel repose sur la distribution des événements. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_C: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_D: L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_E: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+
+---
+ID: 110-112
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · Absence de commande
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 61 ans a un enregistrement montrant des arrêts de commande ventilatoire au sommeil ; les sangles restent immobiles durant les événements. Quelles propositions interprètent une apnée sans effort ?
+A: V | L’analyse des sangles aide à distinguer central et obstructif.
+B: F | Une chirurgie amygdalienne constitue la réponse automatique à toute apnée centrale.
+C: F | Toute apnée avec désaturation est nécessairement obstructive.
+D: F | L’absence d’effort prouve une fermeture pharyngée isolée avec commande conservée.
+E: V | L’arrêt de débit sans effort est le profil central décrit.
+JUSTIFICATION: L’absence d’efforts pendant l’arrêt de débit oriente vers un mécanisme central.
+EXPLICATION_A: Le flux seul ne suffit pas.
+EXPLICATION_B: Le mécanisme doit guider la prise en charge.
+EXPLICATION_C: Les événements centraux peuvent aussi désaturer.
+EXPLICATION_D: Elle évoque au contraire une absence de commande.
+EXPLICATION_E: La commande ventilatoire est diminuée ou abolie.
+
+---
+ID: 110-113
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 61 ans a un enregistrement montrant des arrêts de commande ventilatoire au sommeil ; les sangles restent immobiles durant les événements. Quelles propositions concernant les examens sont exactes ?
+A: F | Le score d’Epworth suffit à confirmer un SAHOS.
+B: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+C: V | La polygraphie enregistre flux, efforts et saturation.
+D: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+E: F | Un ronflement prouve à lui seul un IAH sévère.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: Il quantifie la somnolence, sans documenter l’obstruction.
+EXPLICATION_B: Elle identifie sommeil et micro-éveils.
+EXPLICATION_C: Elle permet une analyse respiratoire nocturne.
+EXPLICATION_D: L’analyse des efforts est nécessaire.
+EXPLICATION_E: La sévérité respiratoire doit être mesurée.
+
+---
+ID: 110-114
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · Vigilance et facteurs associés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 61 ans a un enregistrement montrant des arrêts de commande ventilatoire au sommeil ; les sangles restent immobiles durant les événements. Quelles propositions concernant l’évaluation sont exactes ?
+A: V | Des médicaments sédatifs et l’alcool doivent être recherchés.
+B: F | L’absence de somnolence ressentie exclut tout SAHOS.
+C: F | Un score d’Epworth normal neutralise des pauses respiratoires constatées.
+D: V | Une dette de sommeil peut expliquer une somnolence.
+E: F | Toute fatigue correspond nécessairement à un besoin incontrôlable de dormir.
+JUSTIFICATION: La somnolence impose d’analyser le sommeil réel, les expositions et le risque quotidien.
+EXPLICATION_A: Ils peuvent altérer la vigilance ou aggraver des événements respiratoires.
+EXPLICATION_B: Une proportion des patients n’a pas de somnolence pathologique.
+EXPLICATION_C: Il ne remplace pas l’analyse respiratoire.
+EXPLICATION_D: Elle fait partie des diagnostics différentiels.
+EXPLICATION_E: Asthénie et somnolence doivent être distinguées.
+
+---
+ID: 110-115
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · Limites des symptômes isolés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 61 ans a un enregistrement montrant des arrêts de commande ventilatoire au sommeil ; les sangles restent immobiles durant les événements. Quelles propositions concernant l’interprétation du bilan sont exactes ?
+A: V | L’enregistrement des efforts est nécessaire pour classer le mécanisme d’une apnée.
+B: F | L’absence de ronflement suffit à exclure toute apnée centrale.
+C: F | La fatigue et la somnolence désignent toujours exactement le même symptôme.
+D: F | Un événement mixte reste sans effort pendant toute sa durée par définition.
+E: V | Une désaturation peut accompagner plusieurs types d’événements.
+JUSTIFICATION: Symptômes, flux, efforts et sommeil doivent être confrontés sans conclure sur un seul signe.
+EXPLICATION_A: Le flux seul n’en précise pas la cause.
+EXPLICATION_B: Le mécanisme central ne repose pas sur le ronflement.
+EXPLICATION_C: Une baisse d’énergie ne signifie pas nécessairement un besoin de dormir.
+EXPLICATION_D: Il débute centralement puis comporte des efforts.
+EXPLICATION_E: Elle n’est pas spécifique d’une obstruction.
+
+---
+ID: 110-116
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 72 ans présente des apnées sans effort, confirmées par analyse conjointe du flux et des sangles ; la cause doit être recherchée. Quel diagnostic principal est le plus probable ?
+A: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+B: F | Un SAHOS modéré de l’adulte.
+C: F | Une somnolence principalement liée à une dette chronique de sommeil.
+D: F | Un SAHOS sévère de l’adulte.
+E: V | Des apnées centrales du sommeil documentées.
+JUSTIFICATION: L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_A: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_B: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_C: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_D: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_E: L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+
+---
+ID: 110-117
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · Absence de commande
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 72 ans présente des apnées sans effort, confirmées par analyse conjointe du flux et des sangles ; la cause doit être recherchée. Quelles propositions interprètent une apnée sans effort ?
+A: V | Un événement initialement central puis avec efforts est qualifié de mixte.
+B: F | Une chirurgie amygdalienne constitue la réponse automatique à toute apnée centrale.
+C: F | L’absence d’effort prouve une fermeture pharyngée isolée avec commande conservée.
+D: V | L’arrêt de débit sans effort est le profil central décrit.
+E: V | L’analyse des sangles aide à distinguer central et obstructif.
+JUSTIFICATION: L’absence d’efforts pendant l’arrêt de débit oriente vers un mécanisme central.
+EXPLICATION_A: La fiche décrit cette succession.
+EXPLICATION_B: Le mécanisme doit guider la prise en charge.
+EXPLICATION_C: Elle évoque au contraire une absence de commande.
+EXPLICATION_D: La commande ventilatoire est diminuée ou abolie.
+EXPLICATION_E: Le flux seul ne suffit pas.
+
+---
+ID: 110-118
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 72 ans présente des apnées sans effort, confirmées par analyse conjointe du flux et des sangles ; la cause doit être recherchée. Quelles propositions concernant les examens sont exactes ?
+A: V | La polygraphie enregistre flux, efforts et saturation.
+B: F | Un ronflement prouve à lui seul un IAH sévère.
+C: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+D: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+E: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: Elle permet une analyse respiratoire nocturne.
+EXPLICATION_B: La sévérité respiratoire doit être mesurée.
+EXPLICATION_C: L’analyse des efforts est nécessaire.
+EXPLICATION_D: Elle identifie sommeil et micro-éveils.
+EXPLICATION_E: Le dénominateur de l’IAH dépend de l’examen.
+
+---
+ID: 110-119
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · Vigilance et facteurs associés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 72 ans présente des apnées sans effort, confirmées par analyse conjointe du flux et des sangles ; la cause doit être recherchée. Quelles propositions concernant l’évaluation sont exactes ?
+A: V | Des médicaments sédatifs et l’alcool doivent être recherchés.
+B: V | Des endormissements involontaires pendant la conduite constituent un signal de danger.
+C: V | Une dette de sommeil peut expliquer une somnolence.
+D: F | Un score d’Epworth normal neutralise des pauses respiratoires constatées.
+E: F | Toute fatigue correspond nécessairement à un besoin incontrôlable de dormir.
+JUSTIFICATION: La somnolence impose d’analyser le sommeil réel, les expositions et le risque quotidien.
+EXPLICATION_A: Ils peuvent altérer la vigilance ou aggraver des événements respiratoires.
+EXPLICATION_B: Le risque d’accident nécessite une évaluation et une sécurisation.
+EXPLICATION_C: Elle fait partie des diagnostics différentiels.
+EXPLICATION_D: Il ne remplace pas l’analyse respiratoire.
+EXPLICATION_E: Asthénie et somnolence doivent être distinguées.
+
+---
+ID: 110-120
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · Limites des symptômes isolés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Une femme de 72 ans présente des apnées sans effort, confirmées par analyse conjointe du flux et des sangles ; la cause doit être recherchée. Quelles propositions concernant l’interprétation du bilan sont exactes ?
+A: V | L’évaluation clinique et l’enregistrement apportent des informations complémentaires.
+B: V | Une désaturation peut accompagner plusieurs types d’événements.
+C: V | L’enregistrement des efforts est nécessaire pour classer le mécanisme d’une apnée.
+D: F | Un événement mixte reste sans effort pendant toute sa durée par définition.
+E: F | L’absence de ronflement suffit à exclure toute apnée centrale.
+JUSTIFICATION: Symptômes, flux, efforts et sommeil doivent être confrontés sans conclure sur un seul signe.
+EXPLICATION_A: La plainte seule ne quantifie pas les événements.
+EXPLICATION_B: Elle n’est pas spécifique d’une obstruction.
+EXPLICATION_C: Le flux seul n’en précise pas la cause.
+EXPLICATION_D: Il débute centralement puis comporte des efforts.
+EXPLICATION_E: Le mécanisme central ne repose pas sur le ronflement.
+
+---
+ID: 110-121
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 57 ans a des événements nocturnes classés centraux après enregistrement, sans efforts pendant les interruptions de débit. Quel diagnostic principal est le plus probable ?
+A: F | Un SAHOS sévère de l’adulte.
+B: V | Des apnées centrales du sommeil documentées.
+C: F | Un SAHOS à prédominance positionnelle.
+D: F | Un SAHOS modéré de l’adulte.
+E: F | Une somnolence principalement liée à une dette chronique de sommeil.
+JUSTIFICATION: L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_A: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_B: L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_C: Le profil positionnel repose sur la distribution des événements. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_D: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+EXPLICATION_E: Une dette de sommeil est un diagnostic différentiel du SAHOS. Ici : L’arrêt du débit s’accompagne d’une absence d’efforts pendant les événements.
+
+---
+ID: 110-122
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · Absence de commande
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 57 ans a des événements nocturnes classés centraux après enregistrement, sans efforts pendant les interruptions de débit. Quelles propositions interprètent une apnée sans effort ?
+A: F | Une chirurgie amygdalienne constitue la réponse automatique à toute apnée centrale.
+B: F | Toute apnée avec désaturation est nécessairement obstructive.
+C: V | Un événement initialement central puis avec efforts est qualifié de mixte.
+D: V | L’analyse des sangles aide à distinguer central et obstructif.
+E: V | L’arrêt de débit sans effort est le profil central décrit.
+JUSTIFICATION: L’absence d’efforts pendant l’arrêt de débit oriente vers un mécanisme central.
+EXPLICATION_A: Le mécanisme doit guider la prise en charge.
+EXPLICATION_B: Les événements centraux peuvent aussi désaturer.
+EXPLICATION_C: La fiche décrit cette succession.
+EXPLICATION_D: Le flux seul ne suffit pas.
+EXPLICATION_E: La commande ventilatoire est diminuée ou abolie.
+
+---
+ID: 110-123
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 57 ans a des événements nocturnes classés centraux après enregistrement, sans efforts pendant les interruptions de débit. Quelles propositions concernant les examens sont exactes ?
+A: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+B: F | Le score d’Epworth suffit à confirmer un SAHOS.
+C: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+D: V | La polygraphie enregistre flux, efforts et saturation.
+E: F | Un ronflement prouve à lui seul un IAH sévère.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: Le dénominateur de l’IAH dépend de l’examen.
+EXPLICATION_B: Il quantifie la somnolence, sans documenter l’obstruction.
+EXPLICATION_C: Elle identifie sommeil et micro-éveils.
+EXPLICATION_D: Elle permet une analyse respiratoire nocturne.
+EXPLICATION_E: La sévérité respiratoire doit être mesurée.
+
+---
+ID: 110-124
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · Vigilance et facteurs associés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 57 ans a des événements nocturnes classés centraux après enregistrement, sans efforts pendant les interruptions de débit. Quelles propositions concernant l’évaluation sont exactes ?
+A: V | Une dette de sommeil peut expliquer une somnolence.
+B: V | Des endormissements involontaires pendant la conduite constituent un signal de danger.
+C: V | Des médicaments sédatifs et l’alcool doivent être recherchés.
+D: F | Un score d’Epworth normal neutralise des pauses respiratoires constatées.
+E: F | L’absence de somnolence ressentie exclut tout SAHOS.
+JUSTIFICATION: La somnolence impose d’analyser le sommeil réel, les expositions et le risque quotidien.
+EXPLICATION_A: Elle fait partie des diagnostics différentiels.
+EXPLICATION_B: Le risque d’accident nécessite une évaluation et une sécurisation.
+EXPLICATION_C: Ils peuvent altérer la vigilance ou aggraver des événements respiratoires.
+EXPLICATION_D: Il ne remplace pas l’analyse respiratoire.
+EXPLICATION_E: Une proportion des patients n’a pas de somnolence pathologique.
+
+---
+ID: 110-125
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Commande ventilatoire · Limites des symptômes isolés
+SOURCE: Fiche item 110 fournie - page(s) 1-5
+CONSIGNE: Un homme de 57 ans a des événements nocturnes classés centraux après enregistrement, sans efforts pendant les interruptions de débit. Quelles propositions concernant l’interprétation du bilan sont exactes ?
+A: F | La fatigue et la somnolence désignent toujours exactement le même symptôme.
+B: V | L’enregistrement des efforts est nécessaire pour classer le mécanisme d’une apnée.
+C: F | Un événement mixte reste sans effort pendant toute sa durée par définition.
+D: V | Une désaturation peut accompagner plusieurs types d’événements.
+E: V | L’évaluation clinique et l’enregistrement apportent des informations complémentaires.
+JUSTIFICATION: Symptômes, flux, efforts et sommeil doivent être confrontés sans conclure sur un seul signe.
+EXPLICATION_A: Une baisse d’énergie ne signifie pas nécessairement un besoin de dormir.
+EXPLICATION_B: Le flux seul n’en précise pas la cause.
+EXPLICATION_C: Il débute centralement puis comporte des efforts.
+EXPLICATION_D: Elle n’est pas spécifique d’une obstruction.
+EXPLICATION_E: La plainte seule ne quantifie pas les événements.
+
+---
+ID: 110-126
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Un homme de 34 ans dort quatre à cinq heures par nuit pour des raisons d’horaires. Sa somnolence diminue nettement pendant les congés ; le bilan respiratoire ne retrouve pas de SAHOS. Quel diagnostic principal est le plus probable ?
+A: V | Une somnolence principalement liée à une dette chronique de sommeil.
+B: F | Un SAHOS modéré de l’adulte.
+C: F | Des apnées centrales du sommeil documentées.
+D: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+E: F | Un SAHOS à prédominance positionnelle.
+JUSTIFICATION: La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_A: La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_B: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_C: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_D: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_E: Le profil positionnel repose sur la distribution des événements. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+
+---
+ID: 110-127
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Temps de sommeil disponible
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Un homme de 34 ans dort quatre à cinq heures par nuit pour des raisons d’horaires. Sa somnolence diminue nettement pendant les congés ; le bilan respiratoire ne retrouve pas de SAHOS. Quelles propositions sont justifiées par une restriction chronique de sommeil ?
+A: F | Un score de somnolence élevé suffit à imposer une PPC malgré un bilan respiratoire normal.
+B: V | Les horaires réels doivent être précisés.
+C: F | Des stimulants remplacent systématiquement la restauration d’un temps de sommeil suffisant.
+D: V | Une amélioration après récupération soutient le rôle de la restriction.
+E: F | Une restriction volontaire de sommeil est la preuve d’une narcolepsie.
+JUSTIFICATION: Il faut distinguer manque d’opportunité de sommeil et trouble respiratoire documenté.
+EXPLICATION_A: Le score n’établit pas un SAHOS.
+EXPLICATION_B: Le temps au lit et le sommeil obtenu comptent.
+EXPLICATION_C: La cause doit être prise en charge.
+EXPLICATION_D: Elle doit être intégrée au reste du bilan.
+EXPLICATION_E: Ce diagnostic ne découle pas du seul manque de sommeil.
+
+---
+ID: 110-128
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Vigilance et facteurs associés
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Un homme de 34 ans dort quatre à cinq heures par nuit pour des raisons d’horaires. Sa somnolence diminue nettement pendant les congés ; le bilan respiratoire ne retrouve pas de SAHOS. Quelles propositions concernant l’évaluation sont exactes ?
+A: V | Des médicaments sédatifs et l’alcool doivent être recherchés.
+B: F | L’absence de somnolence ressentie exclut tout SAHOS.
+C: V | Des endormissements involontaires pendant la conduite constituent un signal de danger.
+D: F | Toute fatigue correspond nécessairement à un besoin incontrôlable de dormir.
+E: F | Un score d’Epworth normal neutralise des pauses respiratoires constatées.
+JUSTIFICATION: La somnolence impose d’analyser le sommeil réel, les expositions et le risque quotidien.
+EXPLICATION_A: Ils peuvent altérer la vigilance ou aggraver des événements respiratoires.
+EXPLICATION_B: Une proportion des patients n’a pas de somnolence pathologique.
+EXPLICATION_C: Le risque d’accident nécessite une évaluation et une sécurisation.
+EXPLICATION_D: Asthénie et somnolence doivent être distinguées.
+EXPLICATION_E: Il ne remplace pas l’analyse respiratoire.
+
+---
+ID: 110-129
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Un homme de 34 ans dort quatre à cinq heures par nuit pour des raisons d’horaires. Sa somnolence diminue nettement pendant les congés ; le bilan respiratoire ne retrouve pas de SAHOS. Quelles propositions concernant les examens sont exactes ?
+A: F | Le score d’Epworth suffit à confirmer un SAHOS.
+B: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+C: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+D: F | Un ronflement prouve à lui seul un IAH sévère.
+E: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: Il quantifie la somnolence, sans documenter l’obstruction.
+EXPLICATION_B: Le dénominateur de l’IAH dépend de l’examen.
+EXPLICATION_C: L’analyse des efforts est nécessaire.
+EXPLICATION_D: La sévérité respiratoire doit être mesurée.
+EXPLICATION_E: Elle identifie sommeil et micro-éveils.
+
+---
+ID: 110-130
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Réévaluation après récupération
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Un homme de 34 ans dort quatre à cinq heures par nuit pour des raisons d’horaires. Sa somnolence diminue nettement pendant les congés ; le bilan respiratoire ne retrouve pas de SAHOS. Quelles conclusions sont justifiées après restauration du sommeil ?
+A: V | Une plainte persistante malgré récupération doit conduire à réexaminer les autres causes.
+B: F | Une amélioration pendant les congés impose un diagnostic d’apnée centrale.
+C: F | Le score d’Epworth mesure directement le nombre d’heures dormies.
+D: F | Une somnolence subjective suffit à prescrire un traitement de l’obstruction malgré un bilan normal.
+E: V | L’évaluation des médicaments sédatifs reste pertinente.
+JUSTIFICATION: L’amélioration soutient le rôle de la restriction sans remplacer une réévaluation si la plainte persiste.
+EXPLICATION_A: La dette de sommeil ne doit pas devenir une explication figée.
+EXPLICATION_B: Elle soutient ici le rôle des horaires restreints.
+EXPLICATION_C: Il évalue la somnolence ressentie.
+EXPLICATION_D: Une obstruction doit être documentée.
+EXPLICATION_E: Plusieurs facteurs de somnolence peuvent s’associer.
+
+---
+ID: 110-131
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Une femme de 29 ans réduit volontairement son sommeil à cinq heures et somnole en journée. L’allongement du sommeil améliore la plainte ; aucune apnée n’est documentée. Quel diagnostic principal est le plus probable ?
+A: F | Un SAHOS sévère de l’adulte.
+B: F | Des apnées centrales du sommeil documentées.
+C: V | Une somnolence principalement liée à une dette chronique de sommeil.
+D: F | Un SAHOS à prédominance positionnelle.
+E: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+JUSTIFICATION: La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_A: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_B: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_C: La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_D: Le profil positionnel repose sur la distribution des événements. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_E: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+
+---
+ID: 110-132
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Temps de sommeil disponible
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Une femme de 29 ans réduit volontairement son sommeil à cinq heures et somnole en journée. L’allongement du sommeil améliore la plainte ; aucune apnée n’est documentée. Quelles propositions sont justifiées par une restriction chronique de sommeil ?
+A: V | Un temps de coucher insuffisant peut provoquer une somnolence diurne.
+B: F | Une restriction volontaire de sommeil est la preuve d’une narcolepsie.
+C: F | Des stimulants remplacent systématiquement la restauration d’un temps de sommeil suffisant.
+D: F | Un score de somnolence élevé suffit à imposer une PPC malgré un bilan respiratoire normal.
+E: V | Une amélioration après récupération soutient le rôle de la restriction.
+JUSTIFICATION: Il faut distinguer manque d’opportunité de sommeil et trouble respiratoire documenté.
+EXPLICATION_A: La dette chronique est un diagnostic différentiel de la fiche.
+EXPLICATION_B: Ce diagnostic ne découle pas du seul manque de sommeil.
+EXPLICATION_C: La cause doit être prise en charge.
+EXPLICATION_D: Le score n’établit pas un SAHOS.
+EXPLICATION_E: Elle doit être intégrée au reste du bilan.
+
+---
+ID: 110-133
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Vigilance et facteurs associés
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Une femme de 29 ans réduit volontairement son sommeil à cinq heures et somnole en journée. L’allongement du sommeil améliore la plainte ; aucune apnée n’est documentée. Quelles propositions concernant l’évaluation sont exactes ?
+A: V | Une dette de sommeil peut expliquer une somnolence.
+B: F | Un score d’Epworth normal neutralise des pauses respiratoires constatées.
+C: V | Des endormissements involontaires pendant la conduite constituent un signal de danger.
+D: F | L’absence de somnolence ressentie exclut tout SAHOS.
+E: F | Toute fatigue correspond nécessairement à un besoin incontrôlable de dormir.
+JUSTIFICATION: La somnolence impose d’analyser le sommeil réel, les expositions et le risque quotidien.
+EXPLICATION_A: Elle fait partie des diagnostics différentiels.
+EXPLICATION_B: Il ne remplace pas l’analyse respiratoire.
+EXPLICATION_C: Le risque d’accident nécessite une évaluation et une sécurisation.
+EXPLICATION_D: Une proportion des patients n’a pas de somnolence pathologique.
+EXPLICATION_E: Asthénie et somnolence doivent être distinguées.
+
+---
+ID: 110-134
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Une femme de 29 ans réduit volontairement son sommeil à cinq heures et somnole en journée. L’allongement du sommeil améliore la plainte ; aucune apnée n’est documentée. Quelles propositions concernant les examens sont exactes ?
+A: V | La polygraphie enregistre flux, efforts et saturation.
+B: F | Un ronflement prouve à lui seul un IAH sévère.
+C: F | Le score d’Epworth suffit à confirmer un SAHOS.
+D: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+E: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: Elle permet une analyse respiratoire nocturne.
+EXPLICATION_B: La sévérité respiratoire doit être mesurée.
+EXPLICATION_C: Il quantifie la somnolence, sans documenter l’obstruction.
+EXPLICATION_D: L’analyse des efforts est nécessaire.
+EXPLICATION_E: Le dénominateur de l’IAH dépend de l’examen.
+
+---
+ID: 110-135
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Réévaluation après récupération
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Une femme de 29 ans réduit volontairement son sommeil à cinq heures et somnole en journée. L’allongement du sommeil améliore la plainte ; aucune apnée n’est documentée. Quelles conclusions sont justifiées après restauration du sommeil ?
+A: F | Le score d’Epworth mesure directement le nombre d’heures dormies.
+B: F | Une amélioration pendant les congés impose un diagnostic d’apnée centrale.
+C: F | Une somnolence subjective suffit à prescrire un traitement de l’obstruction malgré un bilan normal.
+D: V | Le temps de sommeil réellement obtenu doit être vérifié.
+E: V | L’évaluation des médicaments sédatifs reste pertinente.
+JUSTIFICATION: L’amélioration soutient le rôle de la restriction sans remplacer une réévaluation si la plainte persiste.
+EXPLICATION_A: Il évalue la somnolence ressentie.
+EXPLICATION_B: Elle soutient ici le rôle des horaires restreints.
+EXPLICATION_C: Une obstruction doit être documentée.
+EXPLICATION_D: Un temps disponible ne garantit pas tout le sommeil nécessaire.
+EXPLICATION_E: Plusieurs facteurs de somnolence peuvent s’associer.
+
+---
+ID: 110-136
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Un homme de 42 ans cumule coucher tardif et lever précoce, avec somnolence corrigée après récupération. L’évaluation ne retient pas de trouble respiratoire. Quel diagnostic principal est le plus probable ?
+A: F | Un SAHOS modéré de l’adulte.
+B: F | Des apnées centrales du sommeil documentées.
+C: V | Une somnolence principalement liée à une dette chronique de sommeil.
+D: F | Un SAHOS sévère de l’adulte.
+E: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+JUSTIFICATION: La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_A: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_B: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_C: La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_D: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_E: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+
+---
+ID: 110-137
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Temps de sommeil disponible
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Un homme de 42 ans cumule coucher tardif et lever précoce, avec somnolence corrigée après récupération. L’évaluation ne retient pas de trouble respiratoire. Quelles propositions sont justifiées par une restriction chronique de sommeil ?
+A: F | Un score de somnolence élevé suffit à imposer une PPC malgré un bilan respiratoire normal.
+B: F | Des stimulants remplacent systématiquement la restauration d’un temps de sommeil suffisant.
+C: V | Un temps de coucher insuffisant peut provoquer une somnolence diurne.
+D: F | Une restriction volontaire de sommeil est la preuve d’une narcolepsie.
+E: V | Les horaires réels doivent être précisés.
+JUSTIFICATION: Il faut distinguer manque d’opportunité de sommeil et trouble respiratoire documenté.
+EXPLICATION_A: Le score n’établit pas un SAHOS.
+EXPLICATION_B: La cause doit être prise en charge.
+EXPLICATION_C: La dette chronique est un diagnostic différentiel de la fiche.
+EXPLICATION_D: Ce diagnostic ne découle pas du seul manque de sommeil.
+EXPLICATION_E: Le temps au lit et le sommeil obtenu comptent.
+
+---
+ID: 110-138
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Vigilance et facteurs associés
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Un homme de 42 ans cumule coucher tardif et lever précoce, avec somnolence corrigée après récupération. L’évaluation ne retient pas de trouble respiratoire. Quelles propositions concernant l’évaluation sont exactes ?
+A: F | L’absence de somnolence ressentie exclut tout SAHOS.
+B: F | Un score d’Epworth normal neutralise des pauses respiratoires constatées.
+C: V | Une dette de sommeil peut expliquer une somnolence.
+D: F | Toute fatigue correspond nécessairement à un besoin incontrôlable de dormir.
+E: V | Des médicaments sédatifs et l’alcool doivent être recherchés.
+JUSTIFICATION: La somnolence impose d’analyser le sommeil réel, les expositions et le risque quotidien.
+EXPLICATION_A: Une proportion des patients n’a pas de somnolence pathologique.
+EXPLICATION_B: Il ne remplace pas l’analyse respiratoire.
+EXPLICATION_C: Elle fait partie des diagnostics différentiels.
+EXPLICATION_D: Asthénie et somnolence doivent être distinguées.
+EXPLICATION_E: Ils peuvent altérer la vigilance ou aggraver des événements respiratoires.
+
+---
+ID: 110-139
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Un homme de 42 ans cumule coucher tardif et lever précoce, avec somnolence corrigée après récupération. L’évaluation ne retient pas de trouble respiratoire. Quelles propositions concernant les examens sont exactes ?
+A: F | Un ronflement prouve à lui seul un IAH sévère.
+B: V | La polygraphie enregistre flux, efforts et saturation.
+C: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+D: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+E: F | Le score d’Epworth suffit à confirmer un SAHOS.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: La sévérité respiratoire doit être mesurée.
+EXPLICATION_B: Elle permet une analyse respiratoire nocturne.
+EXPLICATION_C: L’analyse des efforts est nécessaire.
+EXPLICATION_D: Elle identifie sommeil et micro-éveils.
+EXPLICATION_E: Il quantifie la somnolence, sans documenter l’obstruction.
+
+---
+ID: 110-140
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Réévaluation après récupération
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Un homme de 42 ans cumule coucher tardif et lever précoce, avec somnolence corrigée après récupération. L’évaluation ne retient pas de trouble respiratoire. Quelles conclusions sont justifiées après restauration du sommeil ?
+A: F | Une somnolence subjective suffit à prescrire un traitement de l’obstruction malgré un bilan normal.
+B: F | Le score d’Epworth mesure directement le nombre d’heures dormies.
+C: V | Une plainte persistante malgré récupération doit conduire à réexaminer les autres causes.
+D: F | Une amélioration pendant les congés impose un diagnostic d’apnée centrale.
+E: V | Le temps de sommeil réellement obtenu doit être vérifié.
+JUSTIFICATION: L’amélioration soutient le rôle de la restriction sans remplacer une réévaluation si la plainte persiste.
+EXPLICATION_A: Une obstruction doit être documentée.
+EXPLICATION_B: Il évalue la somnolence ressentie.
+EXPLICATION_C: La dette de sommeil ne doit pas devenir une explication figée.
+EXPLICATION_D: Elle soutient ici le rôle des horaires restreints.
+EXPLICATION_E: Un temps disponible ne garantit pas tout le sommeil nécessaire.
+
+---
+ID: 110-141
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Une femme de 38 ans dispose régulièrement de trop peu d’heures de sommeil ; les symptômes régressent quand ce temps augmente. Le bilan ne retrouve pas de SAHOS. Quel diagnostic principal est le plus probable ?
+A: V | Une somnolence principalement liée à une dette chronique de sommeil.
+B: F | Un SAHOS modéré de l’adulte.
+C: F | Un SAHOS à prédominance positionnelle.
+D: F | Des apnées centrales du sommeil documentées.
+E: F | Un SAHOS sévère de l’adulte.
+JUSTIFICATION: La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_A: La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_B: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_C: Le profil positionnel repose sur la distribution des événements. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_D: Les apnées centrales se distinguent par l’absence d’effort ventilatoire. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_E: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+
+---
+ID: 110-142
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Temps de sommeil disponible
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Une femme de 38 ans dispose régulièrement de trop peu d’heures de sommeil ; les symptômes régressent quand ce temps augmente. Le bilan ne retrouve pas de SAHOS. Quelles propositions sont justifiées par une restriction chronique de sommeil ?
+A: V | Une amélioration après récupération soutient le rôle de la restriction.
+B: V | Les horaires réels doivent être précisés.
+C: F | Une restriction volontaire de sommeil est la preuve d’une narcolepsie.
+D: V | Un temps de coucher insuffisant peut provoquer une somnolence diurne.
+E: F | Des stimulants remplacent systématiquement la restauration d’un temps de sommeil suffisant.
+JUSTIFICATION: Il faut distinguer manque d’opportunité de sommeil et trouble respiratoire documenté.
+EXPLICATION_A: Elle doit être intégrée au reste du bilan.
+EXPLICATION_B: Le temps au lit et le sommeil obtenu comptent.
+EXPLICATION_C: Ce diagnostic ne découle pas du seul manque de sommeil.
+EXPLICATION_D: La dette chronique est un diagnostic différentiel de la fiche.
+EXPLICATION_E: La cause doit être prise en charge.
+
+---
+ID: 110-143
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Vigilance et facteurs associés
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Une femme de 38 ans dispose régulièrement de trop peu d’heures de sommeil ; les symptômes régressent quand ce temps augmente. Le bilan ne retrouve pas de SAHOS. Quelles propositions concernant l’évaluation sont exactes ?
+A: V | Des médicaments sédatifs et l’alcool doivent être recherchés.
+B: V | Des endormissements involontaires pendant la conduite constituent un signal de danger.
+C: F | Un score d’Epworth normal neutralise des pauses respiratoires constatées.
+D: F | Toute fatigue correspond nécessairement à un besoin incontrôlable de dormir.
+E: V | Une dette de sommeil peut expliquer une somnolence.
+JUSTIFICATION: La somnolence impose d’analyser le sommeil réel, les expositions et le risque quotidien.
+EXPLICATION_A: Ils peuvent altérer la vigilance ou aggraver des événements respiratoires.
+EXPLICATION_B: Le risque d’accident nécessite une évaluation et une sécurisation.
+EXPLICATION_C: Il ne remplace pas l’analyse respiratoire.
+EXPLICATION_D: Asthénie et somnolence doivent être distinguées.
+EXPLICATION_E: Elle fait partie des diagnostics différentiels.
+
+---
+ID: 110-144
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Une femme de 38 ans dispose régulièrement de trop peu d’heures de sommeil ; les symptômes régressent quand ce temps augmente. Le bilan ne retrouve pas de SAHOS. Quelles propositions concernant les examens sont exactes ?
+A: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+B: V | La polygraphie enregistre flux, efforts et saturation.
+C: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+D: F | Un ronflement prouve à lui seul un IAH sévère.
+E: F | Une oxymétrie seule permet de distinguer sûrement apnée centrale et obstructive.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: Elle identifie sommeil et micro-éveils.
+EXPLICATION_B: Elle permet une analyse respiratoire nocturne.
+EXPLICATION_C: Le dénominateur de l’IAH dépend de l’examen.
+EXPLICATION_D: La sévérité respiratoire doit être mesurée.
+EXPLICATION_E: L’analyse des efforts est nécessaire.
+
+---
+ID: 110-145
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Réévaluation après récupération
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Une femme de 38 ans dispose régulièrement de trop peu d’heures de sommeil ; les symptômes régressent quand ce temps augmente. Le bilan ne retrouve pas de SAHOS. Quelles conclusions sont justifiées après restauration du sommeil ?
+A: F | Une somnolence subjective suffit à prescrire un traitement de l’obstruction malgré un bilan normal.
+B: F | Le score d’Epworth mesure directement le nombre d’heures dormies.
+C: V | L’évaluation des médicaments sédatifs reste pertinente.
+D: V | Une plainte persistante malgré récupération doit conduire à réexaminer les autres causes.
+E: V | Le temps de sommeil réellement obtenu doit être vérifié.
+JUSTIFICATION: L’amélioration soutient le rôle de la restriction sans remplacer une réévaluation si la plainte persiste.
+EXPLICATION_A: Une obstruction doit être documentée.
+EXPLICATION_B: Il évalue la somnolence ressentie.
+EXPLICATION_C: Plusieurs facteurs de somnolence peuvent s’associer.
+EXPLICATION_D: La dette de sommeil ne doit pas devenir une explication figée.
+EXPLICATION_E: Un temps disponible ne garantit pas tout le sommeil nécessaire.
+
+---
+ID: 110-146
+TYPE: QRU
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · raisonnement
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Un homme de 48 ans a une restriction chronique de sommeil confirmée par ses horaires et une amélioration pendant une période de repos ; le bilan respiratoire est rassurant. Quel diagnostic principal est le plus probable ?
+A: F | Un SAHOS sévère de l’adulte.
+B: F | Un SAHOS à prédominance positionnelle.
+C: V | Une somnolence principalement liée à une dette chronique de sommeil.
+D: F | Un SAHOS modéré de l’adulte.
+E: F | Un SAHOS pédiatrique avec hypertrophie amygdalienne.
+JUSTIFICATION: La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_A: La catégorie sévère repose ici sur l’IAH adulte documenté. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_B: Le profil positionnel repose sur la distribution des événements. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_C: La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_D: La catégorie modérée ne dispense pas d’évaluer symptômes et comorbidités. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+EXPLICATION_E: Le terrain pédiatrique anatomique doit être évalué spécifiquement. Ici : La restriction documentée et l’amélioration après récupération, sans trouble respiratoire retrouvé, orientent vers une dette de sommeil.
+
+---
+ID: 110-147
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Temps de sommeil disponible
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Un homme de 48 ans a une restriction chronique de sommeil confirmée par ses horaires et une amélioration pendant une période de repos ; le bilan respiratoire est rassurant. Quelles propositions sont justifiées par une restriction chronique de sommeil ?
+A: V | Une amélioration après récupération soutient le rôle de la restriction.
+B: F | Un score de somnolence élevé suffit à imposer une PPC malgré un bilan respiratoire normal.
+C: F | Des stimulants remplacent systématiquement la restauration d’un temps de sommeil suffisant.
+D: V | Un temps de coucher insuffisant peut provoquer une somnolence diurne.
+E: V | Les horaires réels doivent être précisés.
+JUSTIFICATION: Il faut distinguer manque d’opportunité de sommeil et trouble respiratoire documenté.
+EXPLICATION_A: Elle doit être intégrée au reste du bilan.
+EXPLICATION_B: Le score n’établit pas un SAHOS.
+EXPLICATION_C: La cause doit être prise en charge.
+EXPLICATION_D: La dette chronique est un diagnostic différentiel de la fiche.
+EXPLICATION_E: Le temps au lit et le sommeil obtenu comptent.
+
+---
+ID: 110-148
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Vigilance et facteurs associés
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Un homme de 48 ans a une restriction chronique de sommeil confirmée par ses horaires et une amélioration pendant une période de repos ; le bilan respiratoire est rassurant. Quelles propositions concernant l’évaluation sont exactes ?
+A: V | Des endormissements involontaires pendant la conduite constituent un signal de danger.
+B: F | L’absence de somnolence ressentie exclut tout SAHOS.
+C: V | Des médicaments sédatifs et l’alcool doivent être recherchés.
+D: F | Un score d’Epworth normal neutralise des pauses respiratoires constatées.
+E: V | Une dette de sommeil peut expliquer une somnolence.
+JUSTIFICATION: La somnolence impose d’analyser le sommeil réel, les expositions et le risque quotidien.
+EXPLICATION_A: Le risque d’accident nécessite une évaluation et une sécurisation.
+EXPLICATION_B: Une proportion des patients n’a pas de somnolence pathologique.
+EXPLICATION_C: Ils peuvent altérer la vigilance ou aggraver des événements respiratoires.
+EXPLICATION_D: Il ne remplace pas l’analyse respiratoire.
+EXPLICATION_E: Elle fait partie des diagnostics différentiels.
+
+---
+ID: 110-149
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Choix de l’enregistrement
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Un homme de 48 ans a une restriction chronique de sommeil confirmée par ses horaires et une amélioration pendant une période de repos ; le bilan respiratoire est rassurant. Quelles propositions concernant les examens sont exactes ?
+A: V | La polysomnographie ajoute notamment EEG, EOG et EMG.
+B: F | Le score d’Epworth suffit à confirmer un SAHOS.
+C: V | La polygraphie enregistre flux, efforts et saturation.
+D: F | Un ronflement prouve à lui seul un IAH sévère.
+E: V | Le temps de sommeil et le temps d’enregistrement ne sont pas interchangeables.
+JUSTIFICATION: Les flux, les efforts et l’analyse du sommeil ne renseignent pas sur les mêmes mécanismes.
+EXPLICATION_A: Elle identifie sommeil et micro-éveils.
+EXPLICATION_B: Il quantifie la somnolence, sans documenter l’obstruction.
+EXPLICATION_C: Elle permet une analyse respiratoire nocturne.
+EXPLICATION_D: La sévérité respiratoire doit être mesurée.
+EXPLICATION_E: Le dénominateur de l’IAH dépend de l’examen.
+
+---
+ID: 110-150
+TYPE: QCM
+RANG: B
+FORMAT: CAS
+THEME: Restriction de sommeil · Réévaluation après récupération
+SOURCE: Fiche item 110 fournie - page(s) 3-5
+CONSIGNE: Un homme de 48 ans a une restriction chronique de sommeil confirmée par ses horaires et une amélioration pendant une période de repos ; le bilan respiratoire est rassurant. Quelles conclusions sont justifiées après restauration du sommeil ?
+A: V | Une plainte persistante malgré récupération doit conduire à réexaminer les autres causes.
+B: F | Le score d’Epworth mesure directement le nombre d’heures dormies.
+C: V | L’évaluation des médicaments sédatifs reste pertinente.
+D: F | Une amélioration pendant les congés impose un diagnostic d’apnée centrale.
+E: V | Le temps de sommeil réellement obtenu doit être vérifié.
+JUSTIFICATION: L’amélioration soutient le rôle de la restriction sans remplacer une réévaluation si la plainte persiste.
+EXPLICATION_A: La dette de sommeil ne doit pas devenir une explication figée.
+EXPLICATION_B: Il évalue la somnolence ressentie.
+EXPLICATION_C: Plusieurs facteurs de somnolence peuvent s’associer.
+EXPLICATION_D: Elle soutient ici le rôle des horaires restreints.
+EXPLICATION_E: Un temps disponible ne garantit pas tout le sommeil nécessaire.

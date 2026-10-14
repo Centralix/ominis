@@ -1,0 +1,6 @@
+Options -Indexes
+RewriteEngine On
+RewriteRule ^(?:app|config|storage|qcm|tests|tmp|output|\.git|\.agents|\.codex)(?:/|$) - [F,L,NC]
+<FilesMatch "^(README\.md|\.gitignore|router\.php|demarrer\.ps1)$">
+Require all denied
+</FilesMatch>
