@@ -908,23 +908,23 @@ EXPLICATION_E: L’exploration dépend de la question diagnostique.
 
 ---
 ID: 285-046
-TYPE: QRU
+TYPE: QCM
 RANG: A
 FORMAT: CAS
 THEME: Maldigestion pancréatique · raisonnement
 SOURCE: Fiche item 285 fournie - page(s) 1-5
-CONSIGNE: Un homme de 59 ans présente une diarrhée chronique graisseuse et une insuffisance pancréatique exocrine documentée, sans entéropathie cœliaque retenue. Quel diagnostic principal est le plus probable ?
-A: F | Une fausse diarrhée sur rétention fécale.
-B: V | Une insuffisance pancréatique exocrine.
-C: F | Une colite microscopique.
-D: F | Une diarrhée à prédominance osmotique.
-E: F | Une diarrhée à prédominance motrice.
-JUSTIFICATION: La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
-EXPLICATION_A: La rétention peut produire une présentation trompeuse. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
-EXPLICATION_B: La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
-EXPLICATION_C: La colite microscopique est définie histologiquement. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
-EXPLICATION_D: La diarrhée osmotique dépend d’une substance mal absorbée. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
-EXPLICATION_E: Une diarrhée motrice peut être fonctionnelle ou organique. Ici : La stéatorrhée dans un contexte pancréatique avec élastase effondrée soutient une insuffisance exocrine.
+CONSIGNE: Un homme de 59 ans présente une diarrhée chronique graisseuse, accumulation d'aliments non digérés, ballonnements et gaz, sans entéropathie cœliaque retenue. Quel/quels est/sont les affirmations vraie(s) ?
+A: V | Une carence en vitamines liposolubles peut accompagner une maldigestion des graisses.
+B: V | Une insuffisance pancréatique exocrine fait partie des hypothèses à rechercher.
+C: F | L’absence d’entéropathie cœliaque suffit à confirmer une insuffisance pancréatique exocrine.
+D: F | La présence d’aliments non digérés dans les selles suffit à affirmer une diarrhée motrice.
+E: F | Les ballonnements et les gaz permettent, à eux seuls, de distinguer une insuffisance pancréatique exocrine d’une diarrhée osmotique.
+JUSTIFICATION: Des selles graisseuses orientent vers un trouble de l’assimilation des lipides. Une insuffisance pancréatique exocrine est possible, mais elle n’est pas confirmée par les seuls symptômes décrits. Le bilan doit préciser le mécanisme et rechercher des carences.
+EXPLICATION_A: Une mauvaise assimilation des graisses peut s’accompagner de carences en vitamines liposolubles A, D, E et K.
+EXPLICATION_B: Un déficit en enzymes pancréatiques peut provoquer une maldigestion avec stéatorrhée. Le contexte pancréatique et des examens adaptés, notamment l’élastase fécale, contribuent à l’évaluation.
+EXPLICATION_C: Écarter une maladie cœliaque ne démontre pas une origine pancréatique. D’autres causes de diarrhée chronique et de mauvaise assimilation restent possibles.
+EXPLICATION_D: Des débris alimentaires peuvent accompagner un transit accéléré, mais ce signe isolé ne suffit pas à établir un mécanisme moteur.
+EXPLICATION_E: Ballonnements et gaz sont peu spécifiques. Leur présence ne permet pas, isolément, de déterminer le mécanisme de la diarrhée.
 
 ---
 ID: 285-047

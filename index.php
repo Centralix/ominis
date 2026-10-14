@@ -119,20 +119,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 if (!$reportQ) throw new RuntimeException('Choisissez une question à signaler.');
                 $length=preg_match_all('/./us',$message);
                 if ($length < 15 || $length > 4000) throw new RuntimeException('Votre explication doit contenir entre 15 et 4 000 caractères.');
-                // Reserve a rate-limit slot while holding a file lock, including across browser sessions.
-                $reservation=bin2hex(random_bytes(8));
-                update_profile($profileId,function($p) use ($reservation) {
-                    $p['reports']=array_filter($p['reports'] ?? [],fn($t)=>$t>time()-86400);
-                    if (count($p['reports'])>=5 || ($p['reports'] && max($p['reports'])>time()-60)) throw new RuntimeException('Merci de patienter une minute entre deux signalements (cinq par jour maximum).');
-                    $p['reports'][$reservation]=time(); return $p;
-                });
                 try {
                     $body="Signalement Ominis\nQuestion : " . $reportQ['id'] . "\nItem : " . $reportQ['item'] . "\nRang : " . $reportQ['rank'] . "\nVersion : " . $reportQ['hash'] . "\nConsigne : " . $reportQ['prompt'] . "\n\n";
                     foreach ($reportQ['choices'] as $letter=>$choice) $body.=$letter . '. ' . $choice['text'] . ' [' . ($choice['correct'] ? 'Vrai':'Faux') . "]\n";
                     $body.="\nJustification : " . $reportQ['explanation'] . "\nSource : " . $reportQ['source'] . "\n\nArgument de l’étudiant :\n" . $message;
                     smtp_send(require __DIR__.'/config/mail.php', 'Ominis · Signalement ' . $reportQ['id'], $body);
                 } catch (Throwable $ex) {
-                    update_profile($profileId, function($p) use ($reservation) { unset($p['reports'][$reservation]); return $p; });
                     error_log('Ominis SMTP: delivery failed (code ' . (int)$ex->getCode() . ')');
                     $_SESSION['report_draft']=['question'=>$qid,'message'=>$message];
                     if ($ex->getCode() === 535) throw new RuntimeException('Le service de signalement est momentanément indisponible : la configuration de messagerie doit être corrigée. Votre texte est conservé.');

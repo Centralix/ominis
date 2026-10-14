@@ -43,7 +43,7 @@ JUSTIFICATION: Les seuils diagnostiques diffèrent entre consultation, automesur
 EXPLICATION_A: Les conditions de repos et la répétition des mesures doivent être respectées.
 EXPLICATION_B: Il ne doit pas être confondu avec le seuil diurne.
 EXPLICATION_C: L'élévation de l'un des deux chiffres suffit.
-EXPLICATION_D: La fiche donne 120/70 mmHg pour la moyenne nocturne.
+EXPLICATION_D: La moyenne de tension artérielle la nuit donne 120/70 mmHg.
 EXPLICATION_E: Il est inférieur au seuil de consultation.
 
 ---
@@ -1037,7 +1037,7 @@ CONSIGNE: Un homme de 48 ans a des PA au cabinet à 128/78 mmHg lors de consulta
 A: V | Une élévation diastolique ambulatoire peut suffire à franchir le seuil.
 B: V | Les seuils ambulatoires doivent être adaptés à la période et à la méthode.
 C: F | La discordance décrite définit une HTA blouse blanche.
-D: F | Une moyenne nocturne à 128/76 mmHg est sous le seuil nocturne de la fiche.
+D: F | Une moyenne nocturne à 128/76 mmHg est sous le seuil nocturne d'hypertension artérielle.
 E: F | Une PA au cabinet inférieure à 140/90 mmHg exclut toute HTA.
 JUSTIFICATION: Une mesure clinique normale n'exclut pas une élévation ambulatoire.
 EXPLICATION_A: Les deux chiffres n'ont pas à être simultanément élevés.
@@ -3004,4 +3004,4 @@ EXPLICATION_A: La résistance dépend du traitement optimal et ne démontre pas 
 EXPLICATION_B: Une cause curable ou toxique peut contribuer.
 EXPLICATION_C: La tolérance de la correction et l'évolution des organes doivent être suivies.
 EXPLICATION_D: La souffrance d'organe doit être réévaluée séparément.
-EXPLICATION_E: La fiche distingue la crise hypertensive sans souffrance viscérale.
+EXPLICATION_E: Il faut distinguer la crise hypertensive sans souffrance viscérale et celle avec souffrance par un examen clinique et paraclinique complet.
